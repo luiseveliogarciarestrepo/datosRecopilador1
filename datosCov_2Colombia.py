@@ -1,4 +1,5 @@
 import csv
+import pyinputplus as pyip
 
 direccion_url = 'https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD&bom=true&format=true' # Dirección web del archivo
 direccion_local= '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv' # Dirección local del archivo
@@ -6,7 +7,7 @@ direccion_local= '/home/luise/Documents/programas/datosRecopilador/CovidColombia
 
 # Parámetros formato de impresión
 
-l=25
+l=20
 m=10
 s=6
 j = '.'
@@ -41,7 +42,7 @@ def archivo(): # Importa el archivo local y crea el objeto para hacerle el DictR
 
 def formatoEimpresion(): #Establece los valores de las Keys que serán impresas y les da el formato para impresión más amigable.
     print(str(archivo().line_num).ljust(s,j),row['Ciudad de ubicación'].  #OJO CAMBIE exampleDictReader por llamada a archivo()
-          ljust(l,j), row['atención'].ljust(l,j), row['Edad'].ljust(s,j),
+          ljust(l,j), row['Departamento o Distrito '].ljust(l,j), row['atención'].ljust(l,j), row['Edad'].ljust(s,j),
           row['Sexo'].ljust(s,j), row['Tipo'].ljust(l,j),
           row['Estado'].ljust(l,j),  row['País de procedencia'].ljust(l,j),
           'Notificado: ', fechas[0].ljust(m,j), 'Diagnosticado: ',
@@ -73,39 +74,41 @@ def formatoEimpresion(): #Establece los valores de las Keys que serán impresas 
 ##        return variable4
 
 
-print('''Variables que puede ingresar para hacer un filtro:   Ciudad, Departamento, país de procedencia, Casa, Asintomático,
-      Leve, Recuperado, Fallecido, Importado, F (femenino), M (Masculino)\n\n''')
 
-variable = input("Ingrese variable por la que requiere filtrar la información o escriba 'Todas' si quiere todo el consolidado:  ")
 
 # TODO
-#variable = invitacion()    
-##
-if variable == 'Todas':
- 
-    for row in archivo():
-            fechas = list(ajusteFechas(row))
-            formatoEimpresion()                            
-##        
-##        paraTodas()
-##    
-##
-else:
-    for row in archivo():
-##         
-        if row['Ciudad de ubicación'] == variable or row['Departamento o Distrito '] == variable \
-           or row['País de procedencia'] == variable or row['atención'] == variable \
-           or row['Estado'] == variable or row['Tipo']== variable or row['Sexo']== variable:
-                fechas = list(ajusteFechas(row))
-                formatoEimpresion()
-##
-        else:
-            pass
-##
-##
 
+def variableIngresada():
+    variable1 = pyip.inputMenu(['Ciudad de ubicación','Departamento o Distrito','País de procedencia','Casa','Asintomático','Leve',\
+                                'Recuperado', 'Fallecido','Importado','F','M', 'Todas'], lettered= True)
 
-'''
+    if variable1 == 'Casa' or variable1=='Asintomático' or variable1=='Leve' or variable1=='Recuperado' or variable1=='Fallecido' \
+       or variable1=='Importado' or variable1=='F'or variable1=='M' or variable1=='Todas':
+        return variable1
+        
+
+    elif variable1 == 'Ciudad de ubicación':
+        variable2 = pyip.inputMenu(ciudades, blank=True, numbered=True)
+        return variable2
+        
+
+    elif variable1 == 'Departamento o Distrito':
+        variable3 = pyip.inputMenu(departamento, blank=True, numbered=True)
+        return variable3
+        
+
+    else:
+
+        variable4 = pyip.inputMenu(paises, blank=True, numbered=True)
+        return variable4
+
+    
+# Para filtrar por valor específico:
+
+##print('''Variables que puede ingresar para hacer un filtro:   Ciudad, Departamento, país de procedencia, Casa, Asintomático,
+##      Leve, Recuperado, Fallecido, Importado, F (femenino), M (Masculino)\n\n''')
+
+#variable = input("Ingrese variable por la que requiere filtrar la información o escriba 'Todas' si quiere todo el consolidado:  ")
 # Ciudades
 ciudades = []
 for row in archivo():
@@ -135,4 +138,28 @@ for row in archivo():
         paises.append(row['País de procedencia'])
 paises.sort()
 #print(paises)
-'''
+
+
+
+variable = variableIngresada()
+print(variable)
+
+if variable == 'Todas':
+ 
+    for row in archivo():
+            fechas = list(ajusteFechas(row))
+            formatoEimpresion()                            
+else:
+    for row in archivo():
+         
+        if row['Ciudad de ubicación'] == variable or row['Departamento o Distrito '] == variable \
+           or row['País de procedencia'] == variable or row['atención'] == variable \
+           or row['Estado'] == variable or row['Tipo']== variable or row['Sexo']== variable:
+                fechas = list(ajusteFechas(row))
+                formatoEimpresion()
+        else:
+            pass
+
+
+
+

@@ -29,9 +29,13 @@ j = '.'
 ##
 ##
 ##playFile.close()
+#Para buscar por columnas específicas.  Método de diccionario
 
+direccion_url = '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'
+csv_file =  open(direccion_url)
+exampleDictReader = csv.DictReader(csv_file)
 
-#csv_file =  open('/Users/Dr.LuisEvelioRestrepoGarcia/pythonExercises/BoringStuff/CovidColombia.csv')
+#csv_file =  open(')
 #example_reader = csv.reader(csv_file)
 ##for row in example_reader:
 ##    j = 0
@@ -40,11 +44,7 @@ j = '.'
 ##        j+=1
 ##    break
 
-#Para buscar por columnas específicas.  Método de diccionario
 
-direccion_url = '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'
-csv_file =  open(direccion_url)
-exampleDictReader = csv.DictReader(csv_file)
 
 ## Lista de países de procedencia, departamentos y ciudades
 
