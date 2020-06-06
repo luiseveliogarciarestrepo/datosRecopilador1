@@ -42,7 +42,8 @@ j = '.'
 
 #Para buscar por columnas específicas.  Método de diccionario
 
-csv_file =  open('/Users/Dr.LuisEvelioRestrepoGarcia/pythonExercises/BoringStuff/CovidColombia.csv')
+direccion_url = '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'
+csv_file =  open(direccion_url)
 exampleDictReader = csv.DictReader(csv_file)
 
 ## Lista de países de procedencia, departamentos y ciudades
@@ -93,19 +94,12 @@ exampleDictReader = csv.DictReader(csv_file)
 # Funciones
 
 def porVariable(variable):
-    
-    print((str(exampleDictReader.line_num)).ljust(s,j),row['Ciudad de ubicación'].ljust(l,j), row['atención'].ljust(l,j), row['Edad'].ljust(s,j), row['Sexo'].ljust(s,j), row['Tipo'].ljust(l,j), row['Estado'].ljust(l,j),               \
-        row['País de procedencia'].ljust(l,j), 'Notificado: ', fn[0].ljust(m,j), 'Diagnosticado: ', fd[0].ljust(m,j), 'Recuperado: ', fr[0].ljust(m,j), 'Defunción: ', fm[0].ljust(m,j))
-    
-
-def paraTodas():
-    print((str(exampleDictReader.line_num)).ljust(s,j),row['Ciudad de ubicación'].ljust(l,j), row['atención'].ljust(l,j), row['Edad'].ljust(s,j), row['Sexo'].ljust(s,j), row['Tipo'].ljust(l,j), row['Estado'].ljust(l,j),               \
-        row['País de procedencia'].ljust(l,j), 'Notificado: ', fn[0].ljust(m,j), 'Diagnosticado: ', fd[0].ljust(m,j), 'Recuperado: ', fr[0].ljust(m,j), 'Defunción: ', fm[0].ljust(m,j))
+    print((str(exampleDictReader.line_num).ljust(s,j),row['Ciudad de ubicación'].ljust(l,j), row['atención'].ljust(l,j), row['Edad'].ljust(s,j), row['Sexo'].ljust(s,j), row['Tipo'].ljust(l,j), row['Estado'].ljust(l,j),               \
+    row['País de procedencia'].ljust(l,j), 'Notificado: ', fn[0].ljust(m,j), 'Diagnosticado: ', fd[0].ljust(m,j), 'Recuperado: ', fr[0].ljust(m,j), 'Defunción: ', fm[0].ljust(m,j))
 
 
 def invitacion():
     variable1 = pyip.inputMenu(['Ciudad','Departamento','País de procedencia','Casa','Asintomático','Leve','Recuperado', 'Fallecido','Importado','F','M', 'Todas'], lettered= True)
-
     if variable1 == 'Casa' or variable1=='Asintomático' or variable1=='Leve' or variable1=='Recuperado' or variable1=='Fallecido' or variable1=='Importado' or variable1=='F'or variable1=='M' or variable1=='Todas':
         return variable1
         
