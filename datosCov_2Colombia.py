@@ -148,6 +148,23 @@ tipos.sort()
 
 # Programa principal
 
+print('''Información actualizada desde la base de datos del Instituto Nacional de Salud Colombiano.
+
+Elaborado por LUIS EVELIO GARCÍA RESTREPO, MD., MAS., EF.     
+
+Variables agrupadas:
+
+        Estados:  Asintomático, leve, moderado, grave o fallecido.
+        Tipos:    En estudio, importado o relacionado.
+        Atención: Casa, hospital, hospital UCI, recuperado o fallecido.
+
+Género:
+
+        'F': Femenino     'M': Masculino
+
+
+Por favor seleccione la opción...escribiendo la letra o el número que la antecede, según el caso:\n\n''')
+
 variable = variableIngresada()
 print(variable)
 print()
