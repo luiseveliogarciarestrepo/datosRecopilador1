@@ -166,6 +166,7 @@ Género:
 Por favor seleccione la opción...escribiendo la letra o el número que la antecede, según el caso:\n\n''')
 
 variable = variableIngresada()
+cuenta = 0
 print(variable)
 print()
 
@@ -173,18 +174,23 @@ if variable == 'Todas':
  
     for row in archivo():
             fechas = list(ajusteFechas(row))
-            formatoEimpresion()                            
+            
+            formatoEimpresion()
+            
 else:
     for row in archivo():
          
         if row['Ciudad de ubicación'] == variable or row['Departamento o Distrito '] == variable \
            or row['País de procedencia'] == variable or row['atención'] == variable \
            or row['Estado'] == variable or row['Tipo']== variable or row['Sexo']== variable:
+                cuenta+= 1   
                 fechas = list(ajusteFechas(row))
                 formatoEimpresion()
         else:
-            pass
+                pass
 
+print('\n')
+print('Número de casos con la variable ' +'\"' +variable+ '\"' + ' es de ' + str(cuenta) +'.')    
 
 
 
