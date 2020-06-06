@@ -44,9 +44,7 @@ def archivo(): # Importa el archivo y crea el objeto para hacerle el DictReader 
     exampleDictReader = csv.DictReader(exampleFile)
     return exampleDictReader
 
-exampleDictReader = archivo()
-for row in exampleDictReader:
-    fechas = list(ajusteFechas(row))
+def formatoEimpresion():
     print(str(exampleDictReader.line_num).ljust(s,j),row['Ciudad de ubicación'].
           ljust(l,j), row['atención'].ljust(l,j), row['Edad'].ljust(s,j),
           row['Sexo'].ljust(s,j), row['Tipo'].ljust(l,j),
@@ -54,3 +52,10 @@ for row in exampleDictReader:
           'Notificado: ', fechas[0].ljust(m,j), 'Diagnosticado: ',
           fechas[1].ljust(m,j),'Recuperado: ', fechas[2].ljust(m,j), 'Defunción: ', fechas[3].ljust(m,j))
    
+
+#  Programa principal
+
+exampleDictReader = archivo()
+for row in exampleDictReader:
+    fechas = list(ajusteFechas(row))
+    formatoEimpresion()
