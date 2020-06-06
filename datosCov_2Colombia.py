@@ -7,8 +7,8 @@ direccion_local= '/home/luise/Documents/programas/datosRecopilador/CovidColombia
 
 # Parámetros formato de impresión
 
-l=20
-m=10
+l=25
+m=15
 s=6
 j = '.'
 
