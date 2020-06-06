@@ -1,6 +1,8 @@
 import csv
 
+direccion_url = 'https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD&bom=true&format=true' # Dirección web del archivo
 direccion_local= '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv' # Dirección local del archivo
+
 
 # Parámetros formato de impresión
 
@@ -12,21 +14,15 @@ j = '.'
 #  Quitar comentario para obtener la base de datos requerida y guardarla en disco local
 
 ##import requests
-##direccion_url = 'https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD&bom=true&format=true'
 ##datos_req = requests.get(direccion_url)
-##
 ##try:
 ##    datos_req.raise_for_status()
 ##except Exception as exc:
 ##    print('Problema en la descarga: %s' % (exc))
-##
 ##print(datos_req.status_code == requests.codes.ok)
-##
 ##playFile = open('CovidColombia.csv', 'wb')
-##
 ##for chunk in datos_req.iter_content(100000):
 ##    playFile.write(chunk)
-##
 ##playFile.close()
   
 # Funciones
@@ -51,20 +47,74 @@ def formatoEimpresion():
           'Notificado: ', fechas[0].ljust(m,j), 'Diagnosticado: ',
           fechas[1].ljust(m,j),'Recuperado: ', fechas[2].ljust(m,j), 'Defunción: ', fechas[3].ljust(m,j))
 
+#TODO
+##def invitacion():
+##    variable1 = pyip.inputMenu(['Ciudad de ubicación','Departamento o Distrito ','País de procedencia','Casa','Asintomático','Leve',\
+##                                'Recuperado', 'Fallecido','Importado','F','M', 'Todas'], lettered= True)
+##
+##    if variable1 == 'Casa' or variable1=='Asintomático' or variable1=='Leve' or variable1=='Recuperado' or variable1=='Fallecido' \
+##       or variable1=='Importado' or variable1=='F'or variable1=='M' or variable1=='Todas':
+##        return variable1
+##        
+##
+##    elif variable1 == 'Ciudad de ubicación':
+##        variable2 = pyip.inputMenu(ciudades, blank=True, numbered=True)
+##        return variable2
+##        
+##
+##    elif variable1 == 'Departamento o Distrito ':
+##        variable3 = pyip.inputMenu(departamento, blank=True, numbered=True)
+##        return variable3
+##        
+##
+##    else:
+##
+##        variable4 = pyip.inputMenu(paises, blank=True, numbered=True)
+##        return variable4
 
 
-   
-'''
+
+
+
 #  Programa principal
 
 exampleDictReader = archivo()
 for row in exampleDictReader:
     fechas = list(ajusteFechas(row))
     formatoEimpresion()
+
+# TODO
+##variable = invitacion()    
+##
+##if variable == 'Todas':
+##
+##    for row in exampleDictReader:
+##        fn = row['Fecha de notificación'].partition('T')   # Fecha de notificación
+##        fd = row['Fecha diagnostico'].partition('T')       # Fecha de diagnóstico
+##        fr = row['Fecha recuperado'].partition('T')        # Fecha recuperado
+##        fm = row['Fecha de muerte'].partition('T')         # Fecha de muerte
+##        paraTodas()
+##    
+##
+##else:
+##    for row in exampleDictReader:
+##        fn = row['Fecha de notificación'].partition('T')   # Fecha de notificación
+##        fd = row['Fecha diagnostico'].partition('T')       # Fecha de diagnóstico
+##        fr = row['Fecha recuperado'].partition('T')        # Fecha recuperado
+##        fm = row['Fecha de muerte'].partition('T')         # Fecha de muerte
+## 
+##        if row['Ciudad de ubicación'] == variable or row['Departamento o Distrito '] == variable or row['País de procedencia'] == variable or row['atención'] == variable or row['Estado'] == variable or row['Tipo']== variable or row['Sexo']== variable:
+##            porVariable(variable)
+##
+##        else:
+##            pass
+##
+##
+
+
+
+
 '''
-
-
-
 # Ciudades
 ciudades = []
 for row in archivo():
@@ -94,3 +144,4 @@ for row in archivo():
         paises.append(row['País de procedencia'])
 paises.sort()
 #print(paises)
+'''
