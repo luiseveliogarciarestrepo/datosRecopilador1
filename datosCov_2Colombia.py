@@ -12,7 +12,7 @@ m=10
 s=6
 j = '.'
 
-#  Quitar ## 'Uncomment regio' para obtener la base de datos actualizada y guardarla en disco local.
+#  Quitar ## 'Uncomment region' para obtener la base de datos actualizada y guardarla en disco local.
 #  Para trabajar con el archivo en disco local, volver a ## 'Comment out region'
 
 ##import requests
@@ -42,7 +42,7 @@ def archivo(): # Importa el archivo local y crea el objeto para hacerle el DictR
     return exampleDictReader
 
 def formatoEimpresion(): #Establece los valores de las Keys que serán impresas y les da el formato para impresión más amigable.
-    print(str(archivo().line_num).ljust(s,j),row['Ciudad de ubicación'].  #OJO CAMBIE exampleDictReader por llamada a archivo()
+    print(str(archivo().line_num).ljust(s,j),row['Ciudad de ubicación'].  
           ljust(l,j), row['Departamento o Distrito '].ljust(l,j), row['atención'].ljust(l,j), row['Edad'].ljust(s,j),
           row['Sexo'].ljust(s,j), row['Tipo'].ljust(l,j),
           row['Estado'].ljust(l,j),  row['País de procedencia'].ljust(l,j),
@@ -50,11 +50,12 @@ def formatoEimpresion(): #Establece los valores de las Keys que serán impresas 
           fechas[1].ljust(m,j),'Recuperado: ', fechas[2].ljust(m,j), 'Defunción: ', fechas[3].ljust(m,j))
 
 def variableIngresada(): # Para permitir que el usuario seleccione correctamente la ciudad, departamento, país al desplegarse listado.  Demás variables tal cual.
-    variable1 = pyip.inputMenu(['Ciudad de ubicación','Departamento o Distrito','País de procedencia','Casa','Asintomático','Leve',\
-                                'Recuperado', 'Fallecido','Importado','F','M', 'Todas'], lettered= True)
+    variable1 = pyip.inputMenu(['Ciudad de ubicación','Departamento o Distrito','País de procedencia','Asintomático','Leve',\
+                                'Moderado','Grave','Casa','Hospital','Hospital UCI','Recuperado','Fallecido','En estudio','Importado','Relacionado','F','M', 'Todas'], lettered= True)
 
     if variable1 == 'Casa' or variable1=='Asintomático' or variable1=='Leve' or variable1=='Recuperado' or variable1=='Fallecido' \
-       or variable1=='Importado' or variable1=='F'or variable1=='M' or variable1=='Todas':
+       or variable1=='Importado' or variable1=='F'or variable1=='M' or variable1=='Moderado' or variable1=='Grave'or variable1=='En estudio'\
+       or variable1=='Relacionado' or variable1=='Hospital' or variable1=='Hospital UCI'or variable1=='Todas' :
         return variable1
         
 
@@ -74,7 +75,7 @@ def variableIngresada(): # Para permitir que el usuario seleccione correctamente
         return variable4
 
     
-# Construye listado de Ciudades en están en la base de datos.  Los que empiezan por letra tildada, quedan al final.
+# Construye listado de variables que están en la base de datos.  Los que empiezan por letra tildada, quedan al final.
 ciudades = []
 for row in archivo():
     if row['Ciudad de ubicación'] in ciudades:
@@ -103,6 +104,16 @@ for row in archivo():
         paises.append(row['País de procedencia'])
 paises.sort()
 #print(paises)
+##
+### Construye listado de los Estados que están en la base datos
+##estados= []
+##for row in archivo():
+##    if row['Estado'] in estados:
+##        pass
+##    else:
+##        estados.append(row['País de procedencia'])
+##estados.sort()
+###print(estados)
 
 
 
