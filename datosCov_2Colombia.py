@@ -34,13 +34,13 @@ def ajusteFechas(row):  # Toma formato de fechas del archivo, hace la partición
         fm = row['Fecha de muerte'].partition('T')         # Fecha de muerte
         return fn[0], fd[0], fr[0], fm[0]
 
-def archivo(): # Importa el archivo localy crea el objeto para hacerle el DictReader y crear el csv como diccionario (keys = nombre columna, Values= fila/columna)
+def archivo(): # Importa el archivo local y crea el objeto para hacerle el DictReader y crear el csv como diccionario (keys = nombre columna, Values= fila/columna)
     exampleFile = open(direccion_local)
     exampleDictReader = csv.DictReader(exampleFile)
     return exampleDictReader
 
-def formatoEimpresion():
-    print(str(exampleDictReader.line_num).ljust(s,j),row['Ciudad de ubicación'].
+def formatoEimpresion(): #Establece los valores de las Keys que serán impresas y les da el formato para impresión más amigable.
+    print(str(archivo().line_num).ljust(s,j),row['Ciudad de ubicación'].  #OJO CAMBIE exampleDictReader por llamada a archivo()
           ljust(l,j), row['atención'].ljust(l,j), row['Edad'].ljust(s,j),
           row['Sexo'].ljust(s,j), row['Tipo'].ljust(l,j),
           row['Estado'].ljust(l,j),  row['País de procedencia'].ljust(l,j),
@@ -73,45 +73,36 @@ def formatoEimpresion():
 ##        return variable4
 
 
+print('''Variables que puede ingresar para hacer un filtro:   Ciudad, Departamento, país de procedencia, Casa, Asintomático,
+      Leve, Recuperado, Fallecido, Importado, F (femenino), M (Masculino)\n\n''')
 
-
-
-#  Programa principal
-
-exampleDictReader = archivo()
-for row in exampleDictReader:
-    fechas = list(ajusteFechas(row))
-    formatoEimpresion()
+variable = input("Ingrese variable por la que requiere filtrar la información o escriba 'Todas' si quiere todo el consolidado:  ")
 
 # TODO
-##variable = invitacion()    
+#variable = invitacion()    
 ##
-##if variable == 'Todas':
-##
-##    for row in exampleDictReader:
-##        fn = row['Fecha de notificación'].partition('T')   # Fecha de notificación
-##        fd = row['Fecha diagnostico'].partition('T')       # Fecha de diagnóstico
-##        fr = row['Fecha recuperado'].partition('T')        # Fecha recuperado
-##        fm = row['Fecha de muerte'].partition('T')         # Fecha de muerte
+if variable == 'Todas':
+ 
+    for row in archivo():
+            fechas = list(ajusteFechas(row))
+            formatoEimpresion()                            
+##        
 ##        paraTodas()
 ##    
 ##
-##else:
-##    for row in exampleDictReader:
-##        fn = row['Fecha de notificación'].partition('T')   # Fecha de notificación
-##        fd = row['Fecha diagnostico'].partition('T')       # Fecha de diagnóstico
-##        fr = row['Fecha recuperado'].partition('T')        # Fecha recuperado
-##        fm = row['Fecha de muerte'].partition('T')         # Fecha de muerte
-## 
-##        if row['Ciudad de ubicación'] == variable or row['Departamento o Distrito '] == variable or row['País de procedencia'] == variable or row['atención'] == variable or row['Estado'] == variable or row['Tipo']== variable or row['Sexo']== variable:
-##            porVariable(variable)
+else:
+    for row in archivo():
+##         
+        if row['Ciudad de ubicación'] == variable or row['Departamento o Distrito '] == variable \
+           or row['País de procedencia'] == variable or row['atención'] == variable \
+           or row['Estado'] == variable or row['Tipo']== variable or row['Sexo']== variable:
+                fechas = list(ajusteFechas(row))
+                formatoEimpresion()
 ##
-##        else:
-##            pass
+        else:
+            pass
 ##
 ##
-
-
 
 
 '''
