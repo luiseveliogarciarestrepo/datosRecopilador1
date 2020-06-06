@@ -12,7 +12,8 @@ m=10
 s=6
 j = '.'
 
-#  Quitar comentario para obtener la base de datos requerida y guardarla en disco local
+#  Quitar ## 'Uncomment regio' para obtener la base de datos actualizada y guardarla en disco local.
+#  Para trabajar con el archivo en disco local, volver a ## 'Comment out region'
 
 ##import requests
 ##datos_req = requests.get(direccion_url)
@@ -48,37 +49,7 @@ def formatoEimpresion(): #Establece los valores de las Keys que serán impresas 
           'Notificado: ', fechas[0].ljust(m,j), 'Diagnosticado: ',
           fechas[1].ljust(m,j),'Recuperado: ', fechas[2].ljust(m,j), 'Defunción: ', fechas[3].ljust(m,j))
 
-#TODO
-##def invitacion():
-##    variable1 = pyip.inputMenu(['Ciudad de ubicación','Departamento o Distrito ','País de procedencia','Casa','Asintomático','Leve',\
-##                                'Recuperado', 'Fallecido','Importado','F','M', 'Todas'], lettered= True)
-##
-##    if variable1 == 'Casa' or variable1=='Asintomático' or variable1=='Leve' or variable1=='Recuperado' or variable1=='Fallecido' \
-##       or variable1=='Importado' or variable1=='F'or variable1=='M' or variable1=='Todas':
-##        return variable1
-##        
-##
-##    elif variable1 == 'Ciudad de ubicación':
-##        variable2 = pyip.inputMenu(ciudades, blank=True, numbered=True)
-##        return variable2
-##        
-##
-##    elif variable1 == 'Departamento o Distrito ':
-##        variable3 = pyip.inputMenu(departamento, blank=True, numbered=True)
-##        return variable3
-##        
-##
-##    else:
-##
-##        variable4 = pyip.inputMenu(paises, blank=True, numbered=True)
-##        return variable4
-
-
-
-
-# TODO
-
-def variableIngresada():
+def variableIngresada(): # Para permitir que el usuario seleccione correctamente la ciudad, departamento, país al desplegarse listado.  Demás variables tal cual.
     variable1 = pyip.inputMenu(['Ciudad de ubicación','Departamento o Distrito','País de procedencia','Casa','Asintomático','Leve',\
                                 'Recuperado', 'Fallecido','Importado','F','M', 'Todas'], lettered= True)
 
@@ -103,13 +74,7 @@ def variableIngresada():
         return variable4
 
     
-# Para filtrar por valor específico:
-
-##print('''Variables que puede ingresar para hacer un filtro:   Ciudad, Departamento, país de procedencia, Casa, Asintomático,
-##      Leve, Recuperado, Fallecido, Importado, F (femenino), M (Masculino)\n\n''')
-
-#variable = input("Ingrese variable por la que requiere filtrar la información o escriba 'Todas' si quiere todo el consolidado:  ")
-# Ciudades
+# Construye listado de Ciudades en están en la base de datos.  Los que empiezan por letra tildada, quedan al final.
 ciudades = []
 for row in archivo():
     if row['Ciudad de ubicación'] in ciudades:
@@ -119,7 +84,7 @@ for row in archivo():
 ciudades.sort()
 #print(ciudades)
 
-# Departamento
+# Construye listado de Departamentos que están en la base de datos
 departamento= []
 for row in archivo():
     if row['Departamento o Distrito '] in departamento:
@@ -129,7 +94,7 @@ for row in archivo():
 departamento.sort()
 #print(departamento)
 
-# Paises de procedencia
+# Construye listado de Países de procedencia que están en la base datos
 paises= []
 for row in archivo():
     if row['País de procedencia'] in paises:
@@ -141,8 +106,11 @@ paises.sort()
 
 
 
+# Programa principal
+
 variable = variableIngresada()
 print(variable)
+print()
 
 if variable == 'Todas':
  
