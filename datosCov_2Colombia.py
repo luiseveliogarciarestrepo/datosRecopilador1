@@ -1,9 +1,22 @@
+import os
 import csv
 import pyinputplus as pyip
 
+# Dirección URL donde se encuentran los datos
 direccion_url = 'https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD&bom=true&format=true' # Dirección web del archivo
-direccion_local= '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv' # Dirección local del archivo
 
+#TODO
+# Quitar ## 'Uncomment regions' para establecer archivo 'VariablesCoV_2Colombia' en su directorio actual de trabajo.
+##os.makedirs(os.getcwd() + '/VariablesCoV_2Colombia')
+##os.chdir(os.getcwd()+ '/VariablesCoV_2Colombia')
+##direccion_local = os.getcwd()
+##print(direccion_local)
+
+
+
+# 'Uncomment regions para trabajar si ya tiene definido el 'Path'. 
+direccion_local= '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'     # En mi Compaq
+##direccion_local= '.....datosRecopilador/CovidColombia.csv' # Dirección local del archivo: # En mi Apple
 
 # Parámetros formato de impresión
 
@@ -12,9 +25,9 @@ m=15
 s=6
 j = '.'
 
-#  Quitar ## 'Uncomment region' para obtener la base de datos actualizada y guardarla en disco local.
-#  Para trabajar con el archivo en disco local, volver a ## 'Comment out region'
-
+###  Quitar ## 'Uncomment region' para obtener la base de datos actualizada y guardarla en disco local.
+###  Para trabajar con el archivo en disco local, volver a ## 'Comment out region'
+##
 ##import requests
 ##datos_req = requests.get(direccion_url)
 ##try:
@@ -26,7 +39,7 @@ j = '.'
 ##for chunk in datos_req.iter_content(100000):
 ##    playFile.write(chunk)
 ##playFile.close()
-  
+ 
 # Funciones
 
 def ajusteFechas(row):  # Toma formato de fechas del archivo, hace la partición en 'T' y devuelve el primer índice => 2020-06-05T00:00:00:00 => 2020-06-05
@@ -40,6 +53,23 @@ def archivo(): # Importa el archivo local y crea el objeto para hacerle el DictR
     exampleFile = open(direccion_local)
     exampleDictReader = csv.DictReader(exampleFile)
     return exampleDictReader
+
+        
+def escribirArchivos(row,file, count):
+        if count == 0:
+                primeraLinea = ['Ciudad de ubicación','Departamento o Distrito ','atención','Edad','Sexo','Tipo','Estado','País de procedencia',
+                                'Fecha de notificación','Fecha diagnostico','Fecha recuperado','Fecha de muerte']
+                file.writerow(primeraLinea)
+                linea = [row['Ciudad de ubicación'], row['Departamento o Distrito '], row['atención'], row['Edad'],
+                         row['Sexo'], row['Tipo'], row['Estado'],  row['País de procedencia'], fechas[0], fechas[1], fechas[2],fechas[3]]
+                file.writerow(linea)
+                
+        else:
+                linea = [row['Ciudad de ubicación'], row['Departamento o Distrito '], row['atención'], row['Edad'],
+                         row['Sexo'], row['Tipo'], row['Estado'],  row['País de procedencia'], fechas[0], fechas[1], fechas[2],fechas[3]]
+                file.writerow(linea)
+                
+        print('Archivo guardado')
 
 def formatoEimpresion(): #Establece los valores de las Keys que serán impresas y les da el formato para impresión más amigable.
     print(str(archivo().line_num).ljust(s,j),row['Ciudad de ubicación'].  
@@ -150,7 +180,8 @@ tipos.sort()
 
 print('''Información actualizada desde la base de datos del Instituto Nacional de Salud Colombiano.
 
-Elaborado por LUIS EVELIO GARCÍA RESTREPO, MD., MAS., EF.     
+Elaborado por LUIS EVELIO GARCÍA RESTREPO, MD., MAS., EF.
+              DANIEL GARCÍA VÁSQUEZ  Ingenieurwesen Studierende 
 
 Variables agrupadas:
 
@@ -169,13 +200,15 @@ variable = variableIngresada()
 cuenta = 0
 print(variable)
 print()
-
+archivoCsv =  open(variable + '.csv','w',newline='') 
+nuevoCsv = csv.writer(archivoCsv)
 if variable == 'Todas':
  
     for row in archivo():
             fechas = list(ajusteFechas(row))
-            
+            escribirArchivos(row,nuevoCsv, cuenta)
             formatoEimpresion()
+            cuenta+= 1
             
 else:
     for row in archivo():
@@ -183,14 +216,17 @@ else:
         if row['Ciudad de ubicación'] == variable or row['Departamento o Distrito '] == variable \
            or row['País de procedencia'] == variable or row['atención'] == variable \
            or row['Estado'] == variable or row['Tipo']== variable or row['Sexo']== variable:
-                cuenta+= 1   
                 fechas = list(ajusteFechas(row))
+                escribirArchivos(row,nuevoCsv, cuenta)                                
                 formatoEimpresion()
+                cuenta+= 1 
+
+                
         else:
                 pass
 
 print('\n')
-print('Número de casos con la variable ' +'\"' +variable+ '\"' + ' es de ' + str(cuenta) +'.')    
-
+print('Número de casos con la variable ' +'\"' +variable+ '\"' + ' es de ' + str(cuenta) +'.')
+archivoCsv.close()
 
 
