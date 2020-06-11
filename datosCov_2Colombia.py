@@ -3,7 +3,7 @@ import csv
 import pyinputplus as pyip
 
 # Dirección URL donde se encuentran los datos
-direccion_url = 'https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD&bom=true&format=true' # Dirección web del archivo
+##direccion_url = 'https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD&bom=true&format=true' # Dirección web del archivo
 
 #TODO
 # Quitar ## 'Uncomment regions' para establecer archivo 'VariablesCoV_2Colombia' en su directorio actual de trabajo.
@@ -15,8 +15,8 @@ direccion_url = 'https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessTyp
 
 
 # 'Uncomment regions para trabajar si ya tiene definido el 'Path'. 
-direccion_local= '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'     # En mi Compaq
-##direccion_local= '.....datosRecopilador/CovidColombia.csv' # Dirección local del archivo: # En mi Apple
+##direccion_local= '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'     # En mi Compaq
+direccion_local= '/Users/Dr.LuisEvelioRestrepoGarcia/datosRecopilador/CovidColombia.csv' # Dirección local del archivo: # En mi Apple
 
 # Parámetros formato de impresión
 
@@ -202,6 +202,7 @@ print(variable)
 print()
 archivoCsv =  open(variable + '.csv','w',newline='') 
 nuevoCsv = csv.writer(archivoCsv)
+
 if variable == 'Todas':
  
     for row in archivo():
@@ -227,6 +228,7 @@ else:
 
 print('\n')
 print('Número de casos con la variable ' +'\"' +variable+ '\"' + ' es de ' + str(cuenta) +'.')
+
 archivoCsv.close()
 
 

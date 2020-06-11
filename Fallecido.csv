@@ -1,0 +1,1434 @@
+Ciudad de ubicación,Departamento o Distrito ,atención,Edad,Sexo,Tipo,Estado,País de procedencia,Fecha de notificación,Fecha diagnostico,Fecha recuperado,Fecha de muerte
+Bogotá D.C.,Bogotá D.C.,Fallecido,65,M,Importado,Fallecido,Estados Unidos de América,2020-03-18,2020-03-20,,2020-04-05
+Bogotá D.C.,Bogotá D.C.,Fallecido,53,F,Relacionado,Fallecido,Colombia,2020-03-18,2020-03-20,,2020-04-06
+Santa Marta,Santa Marta D.T. y C.,Fallecido,88,M,Relacionado,Fallecido,Colombia,2020-03-20,2020-03-20,,2020-03-23
+Cali,Valle del Cauca,Fallecido,70,F,Relacionado,Fallecido,Colombia,2020-03-17,2020-03-21,,2020-03-22
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,58,M,Relacionado,Fallecido,Colombia,2020-03-13,2020-03-16,,2020-03-16
+Bogotá D.C.,Bogotá D.C.,Fallecido,59,F,Relacionado,Fallecido,Colombia,2020-03-20,2020-03-22,,2020-03-26
+Bogotá D.C.,Bogotá D.C.,Fallecido,76,M,En estudio,Fallecido,Colombia,2020-03-23,2020-03-23,,2020-03-25
+Bogotá D.C.,Bogotá D.C.,Fallecido,61,M,Relacionado,Fallecido,Colombia,2020-03-23,2020-03-23,,2020-04-04
+Cali,Valle del Cauca,Fallecido,40,M,Importado,Fallecido,Estados Unidos de América,2020-03-20,2020-03-23,,2020-04-15
+Neiva,Huila,Fallecido,83,F,Relacionado,Fallecido,Colombia,2020-03-21,2020-03-23,,2020-04-06
+Ipiales,Nariño,Fallecido,62,M,Importado,Fallecido,Ecuador,2020-03-20,2020-03-24,,2020-04-09
+Pereira,Risaralda,Fallecido,61,M,Relacionado,Fallecido,Colombia,2020-03-21,2020-03-24,,2020-03-30
+Bogotá D.C.,Bogotá D.C.,Fallecido,73,M,Relacionado,Fallecido,Colombia,2020-03-23,2020-03-24,,2020-03-28
+Cali,Valle del Cauca,Fallecido,80,F,Relacionado,Fallecido,Colombia,2020-03-21,2020-03-25,,2020-04-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,84,M,Relacionado,Fallecido,Colombia,2020-03-25,2020-03-26,,2020-03-26
+Bogotá D.C.,Bogotá D.C.,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-03-23,2020-03-27,,2020-04-02
+Bogotá D.C.,Bogotá D.C.,Fallecido,71,M,Relacionado,Fallecido,Colombia,2020-03-22,2020-03-27,,2020-04-08
+Barranquilla,Barranquilla D.E.,Fallecido,25,M,Importado,Fallecido,España,2020-03-24,2020-03-27,,2020-04-02
+Soledad,Atlántico,Fallecido,50,M,Relacionado,Fallecido,Colombia,2020-03-24,2020-03-27,,2020-03-27
+Cali,Valle del Cauca,Fallecido,51,M,Relacionado,Fallecido,Colombia,2020-03-26,2020-03-28,,2020-03-30
+Bogotá D.C.,Bogotá D.C.,Fallecido,49,M,Relacionado,Fallecido,Colombia,2020-03-23,2020-03-28,,2020-04-12
+Bogotá D.C.,Bogotá D.C.,Fallecido,48,F,En estudio,Fallecido,Colombia,2020-03-24,2020-03-28,,2020-04-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,57,F,En estudio,Fallecido,Colombia,2020-03-24,2020-03-28,,2020-03-28
+Villapinzón,Cundinamarca,Fallecido,67,F,En estudio,Fallecido,Colombia,2020-03-22,2020-03-28,,2020-04-03
+Cali,Valle del Cauca,Fallecido,36,M,Relacionado,Fallecido,Colombia,2020-03-28,2020-03-29,,2020-03-25
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,33,F,Relacionado,Fallecido,Colombia,2020-03-28,2020-03-29,,2020-03-27
+San Francisco,Antioquia,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-03-28,2020-03-29,,2020-04-24
+Villapinzón,Cundinamarca,Fallecido,65,M,Relacionado,Fallecido,Colombia,2020-03-25,2020-03-30,,2020-04-03
+Neiva,Huila,Fallecido,64,F,Relacionado,Fallecido,Colombia,2020-03-25,2020-03-30,,2020-03-25
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,44,F,Relacionado,Fallecido,Colombia,2020-03-25,2020-03-30,,2020-03-30
+Cali,Valle del Cauca,Fallecido,68,M,Relacionado,Fallecido,Colombia,2020-03-24,2020-03-30,,2020-03-25
+Bogotá D.C.,Bogotá D.C.,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-03-25,2020-03-30,,2020-04-21
+Bogotá D.C.,Bogotá D.C.,Fallecido,72,F,Importado,Fallecido,Egipto,2020-03-24,2020-03-30,,2020-04-07
+Bogotá D.C.,Bogotá D.C.,Fallecido,50,M,En estudio,Fallecido,Colombia,2020-03-26,2020-03-30,,2020-04-08
+Cali,Valle del Cauca,Fallecido,66,M,Relacionado,Fallecido,Colombia,2020-03-22,2020-03-30,,2020-04-14
+Palmira,Valle del Cauca,Fallecido,55,F,Importado,Fallecido,España,2020-03-27,2020-03-30,,2020-04-15
+Barranquilla,Barranquilla D.E.,Fallecido,77,M,Importado,Fallecido,Turquía,2020-03-25,2020-03-31,,2020-04-03
+Zipaquirá,Cundinamarca,Fallecido,81,F,En estudio,Fallecido,Colombia,2020-03-26,2020-03-31,,2020-04-01
+Tunja,Boyacá,Fallecido,84,M,Relacionado,Fallecido,Colombia,2020-03-26,2020-03-31,,2020-04-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,66,F,Relacionado,Fallecido,Colombia,2020-03-27,2020-03-31,,2020-04-15
+Bogotá D.C.,Bogotá D.C.,Fallecido,65,F,Relacionado,Fallecido,Colombia,2020-03-27,2020-03-31,,2020-04-19
+Bogotá D.C.,Bogotá D.C.,Fallecido,49,M,En estudio,Fallecido,Colombia,2020-03-20,2020-03-31,,2020-04-02
+Santander de Quilichao,Cauca,Fallecido,19,F,En estudio,Fallecido,Colombia,2020-03-26,2020-04-01,,2020-03-31
+Valledupar,Cesar,Fallecido,70,M,Relacionado,Fallecido,Colombia,2020-03-26,2020-04-01,,2020-04-21
+Bogotá D.C.,Bogotá D.C.,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-03-27,2020-04-01,,2020-04-06
+Bogotá D.C.,Bogotá D.C.,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-03-27,2020-04-01,,2020-04-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,50,M,En estudio,Fallecido,Colombia,2020-03-27,2020-04-01,,2020-04-09
+Bogotá D.C.,Bogotá D.C.,Fallecido,71,F,En estudio,Fallecido,Colombia,2020-03-26,2020-04-01,,2020-04-10
+Bogotá D.C.,Bogotá D.C.,Fallecido,70,M,Importado,Fallecido,Estados Unidos de América,2020-03-25,2020-04-01,,2020-04-18
+Bogotá D.C.,Bogotá D.C.,Fallecido,74,F,Relacionado,Fallecido,Colombia,2020-03-27,2020-04-01,,2020-04-09
+Bogotá D.C.,Bogotá D.C.,Fallecido,79,F,Relacionado,Fallecido,Colombia,2020-03-28,2020-04-01,,2020-04-19
+Bogotá D.C.,Bogotá D.C.,Fallecido,39,F,Relacionado,Fallecido,Colombia,2020-03-27,2020-04-01,,2020-04-05
+Bogotá D.C.,Bogotá D.C.,Fallecido,60,F,En estudio,Fallecido,Colombia,2020-03-27,2020-04-01,,2020-04-21
+Bogotá D.C.,Bogotá D.C.,Fallecido,33,M,En estudio,Fallecido,Colombia,2020-03-29,2020-04-01,,2020-04-11
+Bogotá D.C.,Bogotá D.C.,Fallecido,33,M,En estudio,Fallecido,Colombia,2020-03-29,2020-04-02,,2020-03-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,59,M,Relacionado,Fallecido,Colombia,2020-03-28,2020-04-02,,2020-04-11
+Bogotá D.C.,Bogotá D.C.,Fallecido,67,F,En estudio,Fallecido,Colombia,2020-03-27,2020-04-02,,2020-04-02
+Bogotá D.C.,Bogotá D.C.,Fallecido,50,M,En estudio,Fallecido,Colombia,2020-03-29,2020-04-02,,2020-04-28
+Cali,Valle del Cauca,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-04-03,2020-04-03,,2020-04-15
+Cali,Valle del Cauca,Fallecido,85,F,En estudio,Fallecido,Colombia,2020-03-31,2020-04-03,,2020-04-06
+Tuluá,Valle del Cauca,Fallecido,72,M,Relacionado,Fallecido,Colombia,2020-03-30,2020-04-03,,2020-05-04
+Villavicencio,Meta,Fallecido,94,F,Relacionado,Fallecido,Colombia,2020-03-28,2020-04-03,,2020-04-06
+Cúcuta,Norte de Santander,Fallecido,74,F,Importado,Fallecido,Venezuela,2020-03-27,2020-04-03,,2020-03-27
+Bogotá D.C.,Bogotá D.C.,Fallecido,71,F,En estudio,Fallecido,Colombia,2020-03-22,2020-04-03,,2020-03-31
+Bogotá D.C.,Bogotá D.C.,Fallecido,36,M,Relacionado,Fallecido,Colombia,2020-03-30,2020-04-03,,2020-04-05
+Bogotá D.C.,Bogotá D.C.,Fallecido,82,M,En estudio,Fallecido,Colombia,2020-03-29,2020-04-03,,2020-04-01
+Bogotá D.C.,Bogotá D.C.,Fallecido,26,M,En estudio,Fallecido,Colombia,2020-03-29,2020-04-03,,2020-03-30
+Cali,Valle del Cauca,Fallecido,81,M,Importado,Fallecido,Panamá,2020-03-27,2020-04-04,,2020-04-17
+Cali,Valle del Cauca,Fallecido,62,M,Relacionado,Fallecido,Colombia,2020-03-31,2020-04-04,,2020-04-16
+Montería,Córdoba,Fallecido,64,M,Relacionado,Fallecido,Colombia,2020-03-28,2020-04-04,,2020-04-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,93,F,En estudio,Fallecido,Colombia,2020-03-30,2020-04-04,,2020-03-31
+Bogotá D.C.,Bogotá D.C.,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-03-30,2020-04-04,,2020-04-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,92,M,En estudio,Fallecido,Colombia,2020-03-30,2020-04-04,,2020-04-15
+Bogotá D.C.,Bogotá D.C.,Fallecido,85,M,En estudio,Fallecido,Colombia,2020-03-23,2020-04-04,,2020-04-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-03-30,2020-04-04,,2020-04-13
+Bogotá D.C.,Bogotá D.C.,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-03-30,2020-04-04,,2020-04-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,63,F,Relacionado,Fallecido,Colombia,2020-03-30,2020-04-04,,2020-04-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,90,M,En estudio,Fallecido,Colombia,2020-03-29,2020-04-04,,2020-04-04
+Soledad,Atlántico,Fallecido,43,M,En estudio,Fallecido,Colombia,2020-04-03,2020-04-05,,2020-04-03
+Tenjo,Cundinamarca,Fallecido,52,M,En estudio,Fallecido,Colombia,2020-04-01,2020-04-05,,2020-04-16
+Bogotá D.C.,Bogotá D.C.,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-03-29,2020-04-05,,2020-03-28
+Bogotá D.C.,Bogotá D.C.,Fallecido,62,M,En estudio,Fallecido,Colombia,2020-03-28,2020-04-05,,2020-04-13
+Bogotá D.C.,Bogotá D.C.,Fallecido,38,M,En estudio,Fallecido,Colombia,2020-03-31,2020-04-05,,2020-04-17
+Bogotá D.C.,Bogotá D.C.,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-03-31,2020-04-05,,2020-04-28
+Bogotá D.C.,Bogotá D.C.,Fallecido,97,F,En estudio,Fallecido,Colombia,2020-04-03,2020-04-05,,2020-04-14
+Barrancabermeja,Santander,Fallecido,49,M,En estudio,Fallecido,Colombia,2020-04-04,2020-04-06,,2020-04-07
+Floridablanca,Santander,Fallecido,65,M,Relacionado,Fallecido,Colombia,2020-03-30,2020-04-06,,2020-04-25
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,87,F,En estudio,Fallecido,Colombia,2020-04-02,2020-04-06,,2020-04-24
+El Dovio,Valle del Cauca,Fallecido,88,F,Relacionado,Fallecido,Colombia,2020-03-31,2020-04-06,,2020-04-12
+Cali,Valle del Cauca,Fallecido,59,M,Relacionado,Fallecido,Colombia,2020-04-01,2020-04-06,,2020-04-12
+Medellín,Antioquia,Fallecido,91,F,Relacionado,Fallecido,Colombia,2020-04-03,2020-04-06,,2020-04-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,76,M,En estudio,Fallecido,Colombia,2020-03-30,2020-04-06,,2020-04-14
+Bogotá D.C.,Bogotá D.C.,Fallecido,86,M,En estudio,Fallecido,Colombia,2020-03-31,2020-04-06,,2020-04-07
+Bogotá D.C.,Bogotá D.C.,Fallecido,66,F,En estudio,Fallecido,Colombia,2020-03-31,2020-04-06,,2020-04-11
+Popayán,Cauca,Fallecido,3,F,Relacionado,Fallecido,Colombia,2020-03-25,2020-04-06,,2020-03-24
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,76,F,En estudio,Fallecido,Colombia,2020-04-03,2020-04-07,,2020-04-12
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-04-02,2020-04-07,,2020-04-06
+Cali,Valle del Cauca,Fallecido,68,F,En estudio,Fallecido,Colombia,2020-04-06,2020-04-07,,2020-04-12
+Bogotá D.C.,Bogotá D.C.,Fallecido,73,F,En estudio,Fallecido,Colombia,2020-04-01,2020-04-07,,2020-04-05
+Bogotá D.C.,Bogotá D.C.,Fallecido,79,F,En estudio,Fallecido,Colombia,2020-04-02,2020-04-07,,2020-04-13
+Bogotá D.C.,Bogotá D.C.,Fallecido,61,M,En estudio,Fallecido,Colombia,2020-04-02,2020-04-07,,2020-04-06
+Bogotá D.C.,Bogotá D.C.,Fallecido,74,M,En estudio,Fallecido,Colombia,2020-04-01,2020-04-07,,2020-05-01
+Cali,Valle del Cauca,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-04-03,2020-04-07,,2020-05-04
+Cali,Valle del Cauca,Fallecido,64,M,Relacionado,Fallecido,Colombia,2020-04-04,2020-04-07,,2020-05-31
+Ciénaga de Oro,Córdoba,Fallecido,74,F,En estudio,Fallecido,Colombia,2020-04-01,2020-04-08,,2020-04-02
+Pasto,Nariño,Fallecido,69,M,Importado,Fallecido,España,2020-03-30,2020-04-08,,2020-04-14
+Pereira,Risaralda,Fallecido,67,F,Importado,Fallecido,España,2020-03-21,2020-04-08,,2020-04-29
+Cali,Valle del Cauca,Fallecido,59,F,En estudio,Fallecido,Colombia,2020-03-28,2020-04-08,,2020-04-04
+Cali,Valle del Cauca,Fallecido,68,M,Relacionado,Fallecido,Colombia,2020-04-02,2020-04-08,,2020-05-11
+Cali,Valle del Cauca,Fallecido,65,F,En estudio,Fallecido,Colombia,2020-04-02,2020-04-08,,2020-04-12
+Santa Marta,Santa Marta D.T. y C.,Fallecido,96,F,En estudio,Fallecido,Colombia,2020-04-04,2020-04-08,,2020-04-08
+La Dorada,Caldas,Fallecido,91,F,En estudio,Fallecido,Colombia,2020-04-02,2020-04-08,,2020-04-11
+Pereira,Risaralda,Fallecido,77,M,Relacionado,Fallecido,Colombia,2020-03-26,2020-04-08,,2020-04-16
+Bogotá D.C.,Bogotá D.C.,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-03-31,2020-04-08,,2020-04-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-04-03,2020-04-08,,2020-04-14
+Bogotá D.C.,Bogotá D.C.,Fallecido,82,M,En estudio,Fallecido,Colombia,2020-04-03,2020-04-08,,2020-04-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,67,F,En estudio,Fallecido,Colombia,2020-04-02,2020-04-08,,2020-05-11
+Bogotá D.C.,Bogotá D.C.,Fallecido,64,M,Relacionado,Fallecido,Colombia,2020-04-03,2020-04-08,,2020-04-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,37,F,En estudio,Fallecido,Colombia,2020-04-02,2020-04-08,,2020-04-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,48,M,En estudio,Fallecido,Colombia,2020-04-01,2020-04-08,,2020-04-06
+Bogotá D.C.,Bogotá D.C.,Fallecido,74,F,En estudio,Fallecido,Colombia,2020-04-01,2020-04-08,,2020-04-07
+Cali,Valle del Cauca,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-03-27,2020-04-08,,2020-04-09
+Cali,Valle del Cauca,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-04-03,2020-04-08,,2020-04-18
+Santa Marta,Santa Marta D.T. y C.,Fallecido,65,M,Relacionado,Fallecido,Colombia,2020-03-26,2020-04-08,,2020-04-07
+Montenegro,Quindío,Fallecido,79,F,En estudio,Fallecido,Colombia,2020-03-29,2020-04-08,,2020-04-03
+Ginebra,Valle del Cauca,Fallecido,58,M,En estudio,Fallecido,Colombia,2020-03-30,2020-04-08,,2020-04-12
+Pasto,Nariño,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-04-07,2020-04-09,,2020-04-07
+Santa Marta,Santa Marta D.T. y C.,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-04-03,2020-04-09,,2020-04-05
+Santa Marta,Santa Marta D.T. y C.,Fallecido,47,M,Relacionado,Fallecido,Colombia,2020-04-05,2020-04-09,,2020-05-04
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-04-07,2020-04-09,,2020-04-10
+Bogotá D.C.,Bogotá D.C.,Fallecido,83,F,En estudio,Fallecido,Colombia,2020-04-04,2020-04-09,,2020-04-07
+Bogotá D.C.,Bogotá D.C.,Fallecido,65,M,Relacionado,Fallecido,Colombia,2020-04-03,2020-04-09,,2020-04-27
+Bogotá D.C.,Bogotá D.C.,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-04-04,2020-04-09,,2020-04-06
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,58,M,En estudio,Fallecido,Colombia,2020-03-29,2020-04-09,,2020-03-30
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,74,F,Relacionado,Fallecido,Colombia,2020-03-30,2020-04-09,,2020-04-18
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,66,M,Relacionado,Fallecido,Colombia,2020-03-30,2020-04-09,,2020-03-31
+Turbaco,Bolívar,Fallecido,71,M,Relacionado,Fallecido,Colombia,2020-03-31,2020-04-09,,2020-04-05
+Cúcuta,Norte de Santander,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-03-28,2020-04-09,,2020-04-06
+Cúcuta,Norte de Santander,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-03-29,2020-04-09,,2020-04-29
+Ocaña,Norte de Santander,Fallecido,98,M,En estudio,Fallecido,Colombia,2020-03-28,2020-04-09,,2020-03-28
+Cali,Valle del Cauca,Fallecido,60,M,Relacionado,Fallecido,Colombia,2020-03-31,2020-04-09,,2020-04-15
+Cali,Valle del Cauca,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-03-31,2020-04-09,,2020-03-31
+Cali,Valle del Cauca,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-04-07,2020-04-09,,2020-04-20
+Cali,Valle del Cauca,Fallecido,81,M,Relacionado,Fallecido,Colombia,2020-04-07,2020-04-09,,2020-04-13
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,44,F,En estudio,Fallecido,Colombia,2020-04-08,2020-04-10,,2020-04-13
+Bogotá D.C.,Bogotá D.C.,Fallecido,63,F,En estudio,Fallecido,Colombia,2020-04-05,2020-04-10,,2020-04-26
+Bogotá D.C.,Bogotá D.C.,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-04-04,2020-04-10,,2020-04-04
+Tenjo,Cundinamarca,Fallecido,60,F,En estudio,Fallecido,Colombia,2020-04-03,2020-04-10,,2020-04-03
+Cali,Valle del Cauca,Fallecido,76,M,En estudio,Fallecido,Colombia,2020-04-09,2020-04-10,,2020-04-18
+Ipiales,Nariño,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-04-04,2020-04-10,,2020-04-11
+Espinal,Tolima,Fallecido,57,M,Relacionado,Fallecido,Colombia,2020-04-07,2020-04-10,,2020-04-11
+Santa Marta,Santa Marta D.T. y C.,Fallecido,73,M,Relacionado,Fallecido,Colombia,2020-03-31,2020-04-10,,2020-04-12
+Santa Marta,Santa Marta D.T. y C.,Fallecido,40,F,Relacionado,Fallecido,Colombia,2020-04-03,2020-04-10,,2020-04-22
+Villavicencio,Meta,Fallecido,62,M,Relacionado,Fallecido,Colombia,2020-04-04,2020-04-10,,2020-04-05
+Pereira,Risaralda,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-04-01,2020-04-10,,2020-04-01
+Cali,Valle del Cauca,Fallecido,65,F,En estudio,Fallecido,Colombia,2020-03-31,2020-04-10,,2020-04-22
+Cali,Valle del Cauca,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-04-03,2020-04-10,,2020-04-12
+Soacha,Cundinamarca,Fallecido,72,M,Relacionado,Fallecido,Colombia,2020-04-02,2020-04-10,,2020-04-17
+Cali,Valle del Cauca,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-04-03,2020-04-10,,2020-04-03
+Palmira,Valle del Cauca,Fallecido,69,F,En estudio,Fallecido,Colombia,2020-04-03,2020-04-10,,2020-04-09
+Cali,Valle del Cauca,Fallecido,55,M,En estudio,Fallecido,Colombia,2020-04-11,2020-04-11,,2020-04-16
+Santa Marta,Santa Marta D.T. y C.,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-04-06,2020-04-11,,2020-04-12
+Santa Marta,Santa Marta D.T. y C.,Fallecido,73,F,Relacionado,Fallecido,Colombia,2020-04-07,2020-04-11,,2020-04-18
+Santa Marta,Santa Marta D.T. y C.,Fallecido,72,F,Relacionado,Fallecido,Colombia,2020-04-09,2020-04-11,,2020-04-09
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,55,M,En estudio,Fallecido,Colombia,2020-04-08,2020-04-11,,2020-04-09
+Cali,Valle del Cauca,Fallecido,89,F,Relacionado,Fallecido,Colombia,2020-04-03,2020-04-11,,2020-04-04
+Cali,Valle del Cauca,Fallecido,74,F,Relacionado,Fallecido,Colombia,2020-04-03,2020-04-11,,2020-04-15
+Cali,Valle del Cauca,Fallecido,66,M,Relacionado,Fallecido,Colombia,2020-04-03,2020-04-11,,2020-04-19
+Bogotá D.C.,Bogotá D.C.,Fallecido,89,F,En estudio,Fallecido,Colombia,2020-04-04,2020-04-11,,2020-04-16
+Bogotá D.C.,Bogotá D.C.,Fallecido,50,F,En estudio,Fallecido,Colombia,2020-03-27,2020-04-11,,2020-04-10
+Bogotá D.C.,Bogotá D.C.,Fallecido,90,F,Relacionado,Fallecido,Colombia,2020-04-04,2020-04-11,,2020-05-11
+Bogotá D.C.,Bogotá D.C.,Fallecido,62,M,En estudio,Fallecido,Colombia,2020-04-03,2020-04-11,,2020-04-14
+Cali,Valle del Cauca,Fallecido,59,M,En estudio,Fallecido,Colombia,2020-04-08,2020-04-11,,2020-04-14
+Cali,Valle del Cauca,Fallecido,33,M,Relacionado,Fallecido,Colombia,2020-04-09,2020-04-11,,2020-04-20
+Cali,Valle del Cauca,Fallecido,49,M,Relacionado,Fallecido,Colombia,2020-04-10,2020-04-11,,2020-04-22
+Cali,Valle del Cauca,Fallecido,60,M,Relacionado,Fallecido,Colombia,2020-04-07,2020-04-11,,2020-04-21
+La Dorada,Caldas,Fallecido,54,M,En estudio,Fallecido,Colombia,2020-03-31,2020-04-11,,2020-04-01
+Suesca,Cundinamarca,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-04-03,2020-04-11,,2020-04-09
+Neiva,Huila,Fallecido,60,M,Relacionado,Fallecido,Colombia,2020-04-05,2020-04-11,,2020-04-26
+Neiva,Huila,Fallecido,79,M,Importado,Fallecido,Alemania,2020-03-29,2020-04-11,,2020-04-09
+Villavicencio,Meta,Fallecido,77,M,Relacionado,Fallecido,Colombia,2020-04-04,2020-04-11,,2020-04-07
+Villavicencio,Meta,Fallecido,67,M,Relacionado,Fallecido,Colombia,2020-04-05,2020-04-11,,2020-04-16
+Cúcuta,Norte de Santander,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-03-26,2020-04-11,,2020-04-08
+Armenia,Quindío,Fallecido,77,M,En estudio,Fallecido,Colombia,2020-04-04,2020-04-11,,2020-04-04
+Ibagué,Tolima,Fallecido,66,F,Relacionado,Fallecido,Colombia,2020-04-02,2020-04-11,,2020-04-12
+Miranda,Cauca,Fallecido,68,F,En estudio,Fallecido,Colombia,2020-04-08,2020-04-11,,2020-04-10
+Cali,Valle del Cauca,Fallecido,65,F,En estudio,Fallecido,Colombia,2020-04-10,2020-04-11,,2020-04-19
+Florida,Valle del Cauca,Fallecido,90,M,En estudio,Fallecido,Colombia,2020-04-08,2020-04-12,,2020-05-01
+Zona Bananera,Magdalena,Fallecido,76,M,Relacionado,Fallecido,Colombia,2020-03-27,2020-04-12,,2020-04-05
+Barranquilla,Barranquilla D.E.,Fallecido,20,M,En estudio,Fallecido,Colombia,2020-04-08,2020-04-12,,2020-04-09
+Bogotá D.C.,Bogotá D.C.,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-04-04,2020-04-12,,2020-04-20
+Bogotá D.C.,Bogotá D.C.,Fallecido,58,M,En estudio,Fallecido,Colombia,2020-04-04,2020-04-12,,2020-05-07
+Bogotá D.C.,Bogotá D.C.,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-04-07,2020-04-12,,2020-04-09
+Bogotá D.C.,Bogotá D.C.,Fallecido,80,F,En estudio,Fallecido,Colombia,2020-04-10,2020-04-13,,2020-04-10
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-04-11,2020-04-14,,2020-04-11
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,70,F,En estudio,Fallecido,Colombia,2020-04-11,2020-04-14,,2020-04-25
+Cali,Valle del Cauca,Fallecido,66,F,En estudio,Fallecido,Colombia,2020-04-09,2020-04-14,,2020-04-19
+Bogotá D.C.,Bogotá D.C.,Fallecido,51,M,En estudio,Fallecido,Colombia,2020-04-05,2020-04-14,,2020-04-19
+Bogotá D.C.,Bogotá D.C.,Fallecido,70,F,En estudio,Fallecido,Colombia,2020-04-01,2020-04-14,,2020-04-25
+Bogotá D.C.,Bogotá D.C.,Fallecido,86,F,En estudio,Fallecido,Colombia,2020-04-07,2020-04-14,,2020-04-26
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,60,M,En estudio,Fallecido,Colombia,2020-04-13,2020-04-15,,2020-04-16
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,94,M,Relacionado,Fallecido,Colombia,2020-04-12,2020-04-15,,2020-04-20
+Cali,Valle del Cauca,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-04-08,2020-04-15,,2020-04-16
+Palmira,Valle del Cauca,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-04-07,2020-04-15,,2020-04-19
+Bogotá D.C.,Bogotá D.C.,Fallecido,97,F,Relacionado,Fallecido,Colombia,2020-04-05,2020-04-15,,2020-04-13
+Bogotá D.C.,Bogotá D.C.,Fallecido,89,F,En estudio,Fallecido,Colombia,2020-04-09,2020-04-15,,2020-04-16
+Bogotá D.C.,Bogotá D.C.,Fallecido,62,F,Relacionado,Fallecido,Colombia,2020-04-12,2020-04-15,,2020-04-23
+Bogotá D.C.,Bogotá D.C.,Fallecido,79,F,En estudio,Fallecido,Colombia,2020-04-12,2020-04-15,,2020-04-21
+Bogotá D.C.,Bogotá D.C.,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-04-13,2020-04-15,,2020-04-14
+Bogotá D.C.,Bogotá D.C.,Fallecido,74,F,Relacionado,Fallecido,Colombia,2020-04-13,2020-04-15,,2020-04-11
+Bogotá D.C.,Bogotá D.C.,Fallecido,77,M,En estudio,Fallecido,Colombia,2020-04-13,2020-04-15,,2020-05-09
+Soacha,Cundinamarca,Fallecido,32,M,Relacionado,Fallecido,Colombia,2020-04-14,2020-04-15,,2020-04-26
+San Martín,Cesar,Fallecido,39,F,En estudio,Fallecido,Colombia,2020-04-10,2020-04-16,,2020-04-27
+Buenaventura,Buenaventura D.E.,Fallecido,61,M,En estudio,Fallecido,Colombia,2020-04-11,2020-04-16,,2020-04-12
+San Andrés de Tumaco,Nariño,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-04-09,2020-04-16,,2020-04-15
+Cali,Valle del Cauca,Fallecido,47,F,Relacionado,Fallecido,Colombia,2020-04-14,2020-04-16,,2020-04-27
+Jamundí,Valle del Cauca,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-04-10,2020-04-16,,2020-04-09
+El Cerrito,Valle del Cauca,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-04-10,2020-04-16,,2020-04-16
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,54,M,Relacionado,Fallecido,Colombia,2020-04-04,2020-04-16,,2020-04-16
+Medellín,Antioquia,Fallecido,67,M,Relacionado,Fallecido,Colombia,2020-04-09,2020-04-16,,2020-04-18
+Bogotá D.C.,Bogotá D.C.,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-04-15,2020-04-16,,2020-04-14
+Santa Marta,Santa Marta D.T. y C.,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-04-14,2020-04-16,,2020-04-18
+Pereira,Risaralda,Fallecido,60,M,Relacionado,Fallecido,Colombia,2020-04-14,2020-04-17,,2020-04-18
+Pereira,Risaralda,Fallecido,58,F,Relacionado,Fallecido,Colombia,2020-04-14,2020-04-17,,2020-04-24
+Granada,Antioquia,Fallecido,87,F,En estudio,Fallecido,Colombia,2020-04-16,2020-04-17,,2020-05-02
+Palmira,Valle del Cauca,Fallecido,46,M,Importado,Fallecido,Estados Unidos de América,2020-03-25,2020-04-17,,2020-04-15
+Túquerres,Nariño,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-04-12,2020-04-17,,2020-04-28
+Cali,Valle del Cauca,Fallecido,85,F,En estudio,Fallecido,Colombia,2020-04-13,2020-04-17,,2020-04-30
+El Banco,Magdalena,Fallecido,90,M,Relacionado,Fallecido,Colombia,2020-04-10,2020-04-17,,2020-04-14
+Barranco de Loba,Bolívar,Fallecido,46,F,Relacionado,Fallecido,Colombia,2020-04-14,2020-04-17,,2020-04-16
+Soacha,Cundinamarca,Fallecido,67,M,Relacionado,Fallecido,Colombia,2020-04-03,2020-04-17,,2020-04-21
+Dosquebradas,Risaralda,Fallecido,71,F,Relacionado,Fallecido,Colombia,2020-04-15,2020-04-18,,2020-04-15
+Bogotá D.C.,Bogotá D.C.,Fallecido,59,M,Relacionado,Fallecido,Colombia,2020-04-15,2020-04-18,,2020-05-06
+Bogotá D.C.,Bogotá D.C.,Fallecido,79,F,En estudio,Fallecido,Colombia,2020-03-31,2020-04-18,,2020-04-16
+Riohacha,La Guajira,Fallecido,46,F,En estudio,Fallecido,Colombia,2020-04-15,2020-04-18,,2020-04-20
+Cúcuta,Norte de Santander,Fallecido,78,F,Relacionado,Fallecido,Colombia,2020-04-11,2020-04-18,,2020-04-26
+Cali,Valle del Cauca,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-04-14,2020-04-18,,2020-04-18
+Florencia,Caquetá,Fallecido,79,M,Relacionado,Fallecido,Colombia,2020-04-13,2020-04-18,,2020-04-15
+Timaná,Huila,Fallecido,76,F,En estudio,Fallecido,Colombia,2020-04-06,2020-04-18,,2020-04-14
+Isnos,Huila,Fallecido,69,M,En estudio,Fallecido,Colombia,2020-04-13,2020-04-18,,2020-04-13
+Cali,Valle del Cauca,Fallecido,79,M,Relacionado,Fallecido,Colombia,2020-04-18,2020-04-18,,2020-05-04
+Buenaventura,Buenaventura D.E.,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-04-12,2020-04-18,,2020-05-04
+Medellín,Antioquia,Fallecido,74,M,Relacionado,Fallecido,Colombia,2020-04-16,2020-04-19,,2020-04-27
+Bello,Antioquia,Fallecido,88,F,Relacionado,Fallecido,Colombia,2020-04-15,2020-04-19,,2020-04-18
+Bogotá D.C.,Bogotá D.C.,Fallecido,85,F,En estudio,Fallecido,Colombia,2020-04-11,2020-04-19,,2020-06-03
+Zipaquirá,Cundinamarca,Fallecido,54,M,Relacionado,Fallecido,Colombia,2020-04-14,2020-04-19,,2020-04-24
+Santa Marta,Santa Marta D.T. y C.,Fallecido,64,M,Relacionado,Fallecido,Colombia,2020-04-14,2020-04-20,,2020-04-26
+Cali,Valle del Cauca,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-04-08,2020-04-20,,2020-04-16
+Cali,Valle del Cauca,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-04-11,2020-04-20,,2020-04-27
+Valledupar,Cesar,Fallecido,46,M,En estudio,Fallecido,Colombia,2020-04-15,2020-04-20,,2020-04-22
+Ipiales,Nariño,Fallecido,29,M,Relacionado,Fallecido,Colombia,2020-04-14,2020-04-20,,2020-04-18
+Tuluá,Valle del Cauca,Fallecido,62,M,En estudio,Fallecido,Colombia,2020-04-15,2020-04-20,,2020-04-26
+Bogotá D.C.,Bogotá D.C.,Fallecido,88,M,En estudio,Fallecido,Colombia,2020-04-16,2020-04-20,,2020-04-20
+Bogotá D.C.,Bogotá D.C.,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-04-15,2020-04-20,,2020-05-04
+El Colegio,Cundinamarca,Fallecido,0,M,Relacionado,Fallecido,Colombia,2020-04-12,2020-04-20,,2020-04-21
+Cali,Valle del Cauca,Fallecido,95,F,En estudio,Fallecido,Colombia,2020-04-14,2020-04-21,,2020-04-23
+Barranquilla,Barranquilla D.E.,Fallecido,67,F,En estudio,Fallecido,Colombia,2020-04-16,2020-04-21,,2020-04-22
+Calamar,Bolívar,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-04-15,2020-04-21,,2020-04-23
+Barranquilla,Barranquilla D.E.,Fallecido,86,M,En estudio,Fallecido,Colombia,2020-04-16,2020-04-21,,2020-04-20
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,74,F,En estudio,Fallecido,Colombia,2020-04-20,2020-04-21,,2020-04-27
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,42,M,En estudio,Fallecido,Colombia,2020-04-19,2020-04-21,,2020-04-23
+Unión Panamericana,Chocó,Fallecido,46,F,En estudio,Fallecido,Colombia,2020-04-17,2020-04-21,,2020-04-25
+Bogotá D.C.,Bogotá D.C.,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-04-14,2020-04-21,,2020-05-06
+Bucaramanga,Santander,Fallecido,60,M,En estudio,Fallecido,Colombia,2020-04-19,2020-04-22,,2020-04-17
+Cali,Valle del Cauca,Fallecido,59,M,En estudio,Fallecido,Colombia,2020-04-18,2020-04-22,,2020-05-23
+Miranda,Cauca,Fallecido,74,M,En estudio,Fallecido,Colombia,2020-04-20,2020-04-22,,2020-06-05
+Lorica,Córdoba,Fallecido,87,M,En estudio,Fallecido,Colombia,2020-04-18,2020-04-22,,2020-04-23
+Santa Marta,Santa Marta D.T. y C.,Fallecido,89,M,Relacionado,Fallecido,Colombia,2020-04-17,2020-04-22,,2020-04-26
+Barranquilla,Barranquilla D.E.,Fallecido,71,F,En estudio,Fallecido,Colombia,2020-04-06,2020-04-23,,2020-04-25
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,58,M,En estudio,Fallecido,Colombia,2020-04-21,2020-04-23,,2020-04-30
+Cali,Valle del Cauca,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-04-07,2020-04-23,,2020-05-06
+Cali,Valle del Cauca,Fallecido,41,M,En estudio,Fallecido,Colombia,2020-04-21,2020-04-23,,2020-05-02
+Cali,Valle del Cauca,Fallecido,64,F,En estudio,Fallecido,Colombia,2020-04-19,2020-04-23,,2020-04-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,45,F,En estudio,Fallecido,Colombia,2020-04-05,2020-04-23,,2020-04-06
+Bogotá D.C.,Bogotá D.C.,Fallecido,69,F,En estudio,Fallecido,Colombia,2020-04-16,2020-04-23,,2020-04-16
+Bogotá D.C.,Bogotá D.C.,Fallecido,46,M,En estudio,Fallecido,Colombia,2020-04-15,2020-04-23,,2020-04-24
+Santa Marta,Santa Marta D.T. y C.,Fallecido,87,M,Relacionado,Fallecido,Colombia,2020-04-18,2020-04-23,,2020-05-05
+Santa Marta,Santa Marta D.T. y C.,Fallecido,85,F,Relacionado,Fallecido,Colombia,2020-04-18,2020-04-23,,2020-05-04
+Santa Marta,Santa Marta D.T. y C.,Fallecido,75,F,Relacionado,Fallecido,Colombia,2020-04-18,2020-04-23,,2020-04-23
+Villavicencio,Meta,Fallecido,24,F,Relacionado,Fallecido,Colombia,2020-04-16,2020-04-23,,2020-05-01
+Melgar,Tolima,Fallecido,44,F,En estudio,Fallecido,Colombia,2020-04-20,2020-04-23,,2020-04-29
+Leticia,Amazonas,Fallecido,56,M,Relacionado,Fallecido,Colombia,2020-04-19,2020-04-23,,2020-04-19
+Bogotá D.C.,Bogotá D.C.,Fallecido,58,M,Relacionado,Fallecido,Colombia,2020-04-13,2020-04-23,,2020-04-21
+Bogotá D.C.,Bogotá D.C.,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-04-19,2020-04-23,,2020-04-28
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-04-16,2020-04-24,,2020-04-22
+Cali,Valle del Cauca,Fallecido,29,M,En estudio,Fallecido,Colombia,2020-04-23,2020-04-24,,2020-04-29
+San Andrés de Tumaco,Nariño,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-04-16,2020-04-24,,2020-04-26
+Valledupar,Cesar,Fallecido,69,F,Relacionado,Fallecido,Colombia,2020-04-17,2020-04-24,,2020-05-05
+Malambo,Atlántico,Fallecido,76,F,En estudio,Fallecido,Colombia,2020-04-23,2020-04-24,,2020-05-18
+Malambo,Atlántico,Fallecido,85,F,En estudio,Fallecido,Colombia,2020-04-21,2020-04-24,,2020-05-06
+Bogotá D.C.,Bogotá D.C.,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-04-16,2020-04-24,,2020-05-02
+Bogotá D.C.,Bogotá D.C.,Fallecido,69,M,En estudio,Fallecido,Colombia,2020-04-16,2020-04-24,,2020-04-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,91,F,En estudio,Fallecido,Colombia,2020-04-12,2020-04-24,,2020-04-19
+Bogotá D.C.,Bogotá D.C.,Fallecido,61,M,Relacionado,Fallecido,Colombia,2020-04-12,2020-04-24,,2020-05-07
+San Martín,Cesar,Fallecido,79,M,En estudio,Fallecido,Colombia,2020-04-15,2020-04-24,,2020-05-03
+Santa Marta,Santa Marta D.T. y C.,Fallecido,41,M,Relacionado,Fallecido,Colombia,2020-03-24,2020-04-24,,2020-03-28
+Cali,Valle del Cauca,Fallecido,44,M,En estudio,Fallecido,Colombia,2020-04-18,2020-04-24,,2020-04-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,91,F,Relacionado,Fallecido,Colombia,2020-04-16,2020-04-24,,2020-04-15
+Villa rica,Cauca,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-04-20,2020-04-25,,2020-04-24
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-04-23,2020-04-25,,2020-04-29
+Río de Oro,Cesar,Fallecido,83,F,En estudio,Fallecido,Colombia,2020-04-17,2020-04-25,,2020-04-16
+Puebloviejo,Magdalena,Fallecido,76,F,En estudio,Fallecido,Colombia,2020-04-19,2020-04-25,,2020-04-28
+Leticia,Amazonas,Fallecido,79,M,En estudio,Fallecido,Colombia,2020-04-22,2020-04-25,,2020-04-23
+Leticia,Amazonas,Fallecido,58,M,Relacionado,Fallecido,Colombia,2020-04-22,2020-04-25,,2020-05-06
+Río de Oro,Cesar,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-04-18,2020-04-25,,2020-04-24
+Valledupar,Cesar,Fallecido,85,M,En estudio,Fallecido,Colombia,2020-04-18,2020-04-25,,2020-04-24
+Aguachica,Cesar,Fallecido,79,F,En estudio,Fallecido,Colombia,2020-04-10,2020-04-25,,2020-05-07
+Bogotá D.C.,Bogotá D.C.,Fallecido,78,M,Relacionado,Fallecido,Colombia,2020-04-21,2020-04-25,,2020-04-24
+Bogotá D.C.,Bogotá D.C.,Fallecido,74,M,En estudio,Fallecido,Colombia,2020-04-21,2020-04-25,,2020-04-24
+Bogotá D.C.,Bogotá D.C.,Fallecido,61,M,En estudio,Fallecido,Colombia,2020-04-22,2020-04-25,,2020-05-04
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,29,M,En estudio,Fallecido,Colombia,2020-04-23,2020-04-26,,2020-04-27
+Soledad,Atlántico,Fallecido,48,F,Relacionado,Fallecido,Colombia,2020-04-21,2020-04-26,,2020-04-27
+Soledad,Atlántico,Fallecido,73,F,En estudio,Fallecido,Colombia,2020-04-23,2020-04-26,,2020-04-30
+Bogotá D.C.,Bogotá D.C.,Fallecido,86,M,Relacionado,Fallecido,Colombia,2020-04-17,2020-04-26,,2020-05-08
+Bogotá D.C.,Bogotá D.C.,Fallecido,95,M,En estudio,Fallecido,Colombia,2020-04-03,2020-04-26,,2020-04-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,87,F,En estudio,Fallecido,Colombia,2020-04-17,2020-04-26,,2020-04-21
+Alcalá,Valle del Cauca,Fallecido,74,M,En estudio,Fallecido,Colombia,2020-04-22,2020-04-27,,2020-04-22
+Bogotá D.C.,Bogotá D.C.,Fallecido,74,M,En estudio,Fallecido,Colombia,2020-04-18,2020-04-27,,2020-04-28
+Bogotá D.C.,Bogotá D.C.,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-04-17,2020-04-27,,2020-04-26
+Guamo,Tolima,Fallecido,65,F,Relacionado,Fallecido,Colombia,2020-04-23,2020-04-27,,2020-05-17
+Barranquilla,Barranquilla D.E.,Fallecido,83,F,Relacionado,Fallecido,Colombia,2020-04-27,2020-04-28,,2020-05-05
+Cali,Valle del Cauca,Fallecido,66,F,En estudio,Fallecido,Colombia,2020-04-21,2020-04-28,,2020-04-28
+Cali,Valle del Cauca,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-04-24,2020-04-28,,2020-05-06
+Cali,Valle del Cauca,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-04-27,2020-04-28,,2020-05-06
+Cali,Valle del Cauca,Fallecido,82,M,En estudio,Fallecido,Colombia,2020-04-07,2020-04-28,,2020-04-23
+Cali,Valle del Cauca,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-04-26,2020-04-28,,2020-05-29
+Cali,Valle del Cauca,Fallecido,91,F,En estudio,Fallecido,Colombia,2020-04-26,2020-04-28,,2020-05-22
+Puebloviejo,Magdalena,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-04-26,2020-04-28,,2020-04-25
+Malambo,Atlántico,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-04-26,2020-04-28,,2020-05-21
+Soledad,Atlántico,Fallecido,76,M,En estudio,Fallecido,Colombia,2020-04-26,2020-04-28,,2020-04-26
+Malambo,Atlántico,Fallecido,46,M,Relacionado,Fallecido,Colombia,2020-04-27,2020-04-28,,2020-05-02
+Cali,Valle del Cauca,Fallecido,89,F,En estudio,Fallecido,Colombia,2020-04-24,2020-04-28,,2020-05-13
+Bogotá D.C.,Bogotá D.C.,Fallecido,37,M,En estudio,Fallecido,Colombia,2020-04-21,2020-04-28,,2020-04-23
+Bogotá D.C.,Bogotá D.C.,Fallecido,26,F,En estudio,Fallecido,Colombia,2020-04-22,2020-04-28,,2020-05-02
+Bogotá D.C.,Bogotá D.C.,Fallecido,76,F,En estudio,Fallecido,Colombia,2020-04-22,2020-04-28,,2020-04-30
+Potosí,Nariño,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-04-19,2020-04-28,,2020-05-23
+Leticia,Amazonas,Fallecido,56,M,Relacionado,Fallecido,Colombia,2020-04-23,2020-04-28,,2020-04-28
+Leticia,Amazonas,Fallecido,70,M,Importado,Fallecido,Brasil,2020-04-23,2020-04-28,,2020-06-05
+Leticia,Amazonas,Fallecido,58,F,Relacionado,Fallecido,Colombia,2020-04-23,2020-04-28,,2020-04-30
+Leticia,Amazonas,Fallecido,77,M,Relacionado,Fallecido,Colombia,2020-04-23,2020-04-28,,2020-05-02
+Leticia,Amazonas,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-04-23,2020-04-28,,2020-04-30
+Leticia,Amazonas,Fallecido,60,M,En estudio,Fallecido,Colombia,2020-04-24,2020-04-28,,2020-05-27
+Villavicencio,Meta,Fallecido,67,M,En estudio,Fallecido,Colombia,2020-04-28,2020-04-29,,2020-04-30
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-04-25,2020-04-29,,2020-05-02
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,62,F,En estudio,Fallecido,Colombia,2020-04-26,2020-04-29,,2020-05-03
+Dagua,Valle del Cauca,Fallecido,89,M,En estudio,Fallecido,Colombia,2020-04-04,2020-04-29,,2020-05-09
+Barranquilla,Barranquilla D.E.,Fallecido,73,M,Relacionado,Fallecido,Colombia,2020-04-26,2020-04-29,,2020-05-02
+Leticia,Amazonas,Fallecido,75,M,Importado,Fallecido,Brasil,2020-04-24,2020-04-29,,2020-04-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,85,F,En estudio,Fallecido,Colombia,2020-04-18,2020-04-29,,2020-04-20
+Bogotá D.C.,Bogotá D.C.,Fallecido,64,F,En estudio,Fallecido,Colombia,2020-04-22,2020-04-29,,2020-05-10
+Bogotá D.C.,Bogotá D.C.,Fallecido,64,F,En estudio,Fallecido,Colombia,2020-04-18,2020-04-29,,2020-04-18
+Bogotá D.C.,Bogotá D.C.,Fallecido,62,M,Relacionado,Fallecido,Colombia,2020-04-17,2020-04-29,,2020-04-24
+Bogotá D.C.,Bogotá D.C.,Fallecido,54,M,En estudio,Fallecido,Colombia,2020-04-25,2020-04-29,,2020-05-09
+Bogotá D.C.,Bogotá D.C.,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-04-24,2020-04-29,,2020-04-26
+San Juan del Cesar,La Guajira,Fallecido,81,F,En estudio,Fallecido,Colombia,2020-04-25,2020-04-29,,2020-05-03
+Neiva,Huila,Fallecido,61,F,En estudio,Fallecido,Colombia,2020-04-17,2020-04-30,,2020-04-25
+Santa Marta,Santa Marta D.T. y C.,Fallecido,69,M,Relacionado,Fallecido,Colombia,2020-04-25,2020-04-30,,2020-05-07
+Tuluá,Valle del Cauca,Fallecido,64,F,En estudio,Fallecido,Colombia,2020-04-28,2020-04-30,,2020-05-02
+Buenaventura,Buenaventura D.E.,Fallecido,82,M,En estudio,Fallecido,Colombia,2020-04-26,2020-04-30,,2020-04-28
+Cali,Valle del Cauca,Fallecido,70,F,En estudio,Fallecido,Colombia,2020-04-28,2020-04-30,,2020-05-10
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,90,F,En estudio,Fallecido,Colombia,2020-04-27,2020-04-30,,2020-05-03
+Malambo,Atlántico,Fallecido,59,M,En estudio,Fallecido,Colombia,2020-04-27,2020-04-30,,2020-05-06
+Malambo,Atlántico,Fallecido,48,M,Relacionado,Fallecido,Colombia,2020-04-27,2020-04-30,,2020-04-29
+Soledad,Atlántico,Fallecido,60,M,En estudio,Fallecido,Colombia,2020-04-28,2020-04-30,,2020-05-02
+Cali,Valle del Cauca,Fallecido,79,M,Relacionado,Fallecido,Colombia,2020-04-07,2020-04-30,,2020-04-26
+Ciénaga,Magdalena,Fallecido,72,M,Relacionado,Fallecido,Colombia,2020-04-25,2020-04-30,,2020-04-26
+Barranquilla,Barranquilla D.E.,Fallecido,58,F,En estudio,Fallecido,Colombia,2020-03-25,2020-04-30,,2020-04-25
+Soledad,Atlántico,Fallecido,67,M,En estudio,Fallecido,Colombia,2020-04-21,2020-04-30,,2020-04-24
+Ciénaga,Magdalena,Fallecido,72,M,Relacionado,Fallecido,Colombia,2020-04-26,2020-04-30,,2020-05-08
+Puerto Colombia,Atlántico,Fallecido,64,F,En estudio,Fallecido,Colombia,2020-04-25,2020-04-30,,2020-05-02
+Bogotá D.C.,Bogotá D.C.,Fallecido,24,M,En estudio,Fallecido,Colombia,2020-04-14,2020-04-30,,2020-04-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-04-23,2020-04-30,,2020-04-26
+Bogotá D.C.,Bogotá D.C.,Fallecido,46,M,En estudio,Fallecido,Colombia,2020-04-24,2020-04-30,,2020-04-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,69,F,En estudio,Fallecido,Colombia,2020-04-21,2020-04-30,,2020-04-30
+Garagoa,Boyacá,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-04-25,2020-05-01,,2020-04-29
+Cali,Valle del Cauca,Fallecido,81,F,En estudio,Fallecido,Colombia,2020-04-05,2020-05-01,,2020-04-06
+Samacá,Boyacá,Fallecido,0,F,En estudio,Fallecido,Colombia,2020-04-23,2020-05-01,,2020-04-29
+Pasto,Nariño,Fallecido,47,M,En estudio,Fallecido,Colombia,2020-04-24,2020-05-01,,2020-05-04
+San Andrés de Tumaco,Nariño,Fallecido,65,F,En estudio,Fallecido,Colombia,2020-04-24,2020-05-01,,2020-05-08
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,88,M,En estudio,Fallecido,Colombia,2020-04-30,2020-05-01,,2020-05-04
+Ciénaga,Magdalena,Fallecido,41,M,En estudio,Fallecido,Colombia,2020-04-25,2020-05-01,,2020-05-23
+Malambo,Atlántico,Fallecido,75,M,Relacionado,Fallecido,Colombia,2020-04-30,2020-05-01,,2020-05-13
+Roldanillo,Valle del Cauca,Fallecido,76,M,En estudio,Fallecido,Colombia,2020-04-27,2020-05-01,,2020-04-27
+Leticia,Amazonas,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-04-26,2020-05-01,,2020-04-30
+Bogotá D.C.,Bogotá D.C.,Fallecido,62,F,En estudio,Fallecido,Colombia,2020-04-02,2020-05-01,,2020-04-02
+Bogotá D.C.,Bogotá D.C.,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-04-19,2020-05-01,,2020-05-18
+Bogotá D.C.,Bogotá D.C.,Fallecido,59,M,En estudio,Fallecido,Colombia,2020-04-23,2020-05-01,,2020-05-13
+Bogotá D.C.,Bogotá D.C.,Fallecido,60,F,En estudio,Fallecido,Colombia,2020-04-24,2020-05-01,,2020-05-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,95,F,En estudio,Fallecido,Colombia,2020-04-11,2020-05-01,,2020-04-26
+Bogotá D.C.,Bogotá D.C.,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-04-28,2020-05-01,,2020-04-27
+Bogotá D.C.,Bogotá D.C.,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-04-27,2020-05-01,,2020-04-28
+Bogotá D.C.,Bogotá D.C.,Fallecido,59,M,Relacionado,Fallecido,Colombia,2020-04-28,2020-05-01,,2020-05-10
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-04-28,2020-05-02,,2020-05-07
+Leticia,Amazonas,Fallecido,51,M,En estudio,Fallecido,Colombia,2020-04-26,2020-05-02,,2020-05-07
+Leticia,Amazonas,Fallecido,79,F,En estudio,Fallecido,Colombia,2020-04-29,2020-05-02,,2020-04-28
+Leticia,Amazonas,Fallecido,58,M,Importado,Fallecido,Brasil,2020-04-27,2020-05-02,,2020-05-12
+Leticia,Amazonas,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-04-26,2020-05-02,,2020-04-29
+Leticia,Amazonas,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-04-26,2020-05-02,,2020-05-06
+Leticia,Amazonas,Fallecido,64,F,Relacionado,Fallecido,Colombia,2020-04-26,2020-05-02,,2020-04-30
+Ocaña,Norte de Santander,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-04-25,2020-05-02,,2020-04-26
+Cúcuta,Norte de Santander,Fallecido,79,M,Relacionado,Fallecido,Colombia,2020-04-25,2020-05-02,,2020-04-24
+Ábrego,Norte de Santander,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-04-26,2020-05-02,,2020-05-21
+Cúcuta,Norte de Santander,Fallecido,80,F,Relacionado,Fallecido,Colombia,2020-04-28,2020-05-02,,2020-05-03
+Manizales,Caldas,Fallecido,72,F,En estudio,Fallecido,Colombia,2020-04-28,2020-05-02,,2020-05-03
+Barranquilla,Barranquilla D.E.,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-04-27,2020-05-02,,2020-04-25
+Pereira,Risaralda,Fallecido,76,M,Relacionado,Fallecido,Colombia,2020-04-30,2020-05-02,,2020-05-02
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,92,M,En estudio,Fallecido,Colombia,2020-04-29,2020-05-02,,2020-05-10
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,22,M,En estudio,Fallecido,Colombia,2020-04-29,2020-05-02,,2020-06-02
+Bogotá D.C.,Bogotá D.C.,Fallecido,77,M,En estudio,Fallecido,Colombia,2020-04-28,2020-05-02,,2020-05-01
+Bogotá D.C.,Bogotá D.C.,Fallecido,86,M,En estudio,Fallecido,Colombia,2020-04-28,2020-05-02,,2020-05-28
+San Andrés de Tumaco,Nariño,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-04-26,2020-05-03,,2020-05-04
+Leticia,Amazonas,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-04-26,2020-05-03,,2020-05-05
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-04-30,2020-05-03,,2020-04-30
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,77,F,En estudio,Fallecido,Colombia,2020-05-01,2020-05-03,,2020-05-01
+Valledupar,Cesar,Fallecido,56,M,En estudio,Fallecido,Colombia,2020-04-22,2020-05-03,,2020-04-22
+Valledupar,Cesar,Fallecido,80,F,En estudio,Fallecido,Colombia,2020-04-23,2020-05-03,,2020-05-03
+Barranquilla,Barranquilla D.E.,Fallecido,84,F,En estudio,Fallecido,Colombia,2020-04-29,2020-05-03,,2020-04-30
+Barranquilla,Barranquilla D.E.,Fallecido,83,F,En estudio,Fallecido,Colombia,2020-04-29,2020-05-03,,2020-05-02
+Barranquilla,Barranquilla D.E.,Fallecido,33,M,En estudio,Fallecido,Colombia,2020-04-24,2020-05-03,,2020-05-05
+Malambo,Atlántico,Fallecido,44,M,Relacionado,Fallecido,Colombia,2020-05-01,2020-05-03,,2020-06-01
+Bogotá D.C.,Bogotá D.C.,Fallecido,54,F,Relacionado,Fallecido,Colombia,2020-04-28,2020-05-03,,2020-05-02
+Bogotá D.C.,Bogotá D.C.,Fallecido,62,F,En estudio,Fallecido,Colombia,2020-04-28,2020-05-03,,2020-05-15
+Bogotá D.C.,Bogotá D.C.,Fallecido,56,M,En estudio,Fallecido,Colombia,2020-04-29,2020-05-03,,2020-04-30
+Leticia,Amazonas,Fallecido,79,M,En estudio,Fallecido,Colombia,2020-04-28,2020-05-04,,2020-04-30
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,41,F,En estudio,Fallecido,Colombia,2020-03-28,2020-05-04,,2020-05-01
+Unión Panamericana,Chocó,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-05-01,2020-05-04,,2020-04-30
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-04-28,2020-05-04,,2020-04-30
+Zona Bananera,Magdalena,Fallecido,71,F,Relacionado,Fallecido,Colombia,2020-04-29,2020-05-04,,2020-05-10
+Bogotá D.C.,Bogotá D.C.,Fallecido,93,F,En estudio,Fallecido,Colombia,2020-04-29,2020-05-04,,2020-04-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,86,M,Relacionado,Fallecido,Colombia,2020-04-29,2020-05-04,,2020-05-15
+Bogotá D.C.,Bogotá D.C.,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-05-02,2020-05-04,,2020-05-23
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,79,M,En estudio,Fallecido,Colombia,2020-04-30,2020-05-05,,2020-05-05
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,81,F,En estudio,Fallecido,Colombia,2020-04-30,2020-05-05,,2020-05-05
+Cali,Valle del Cauca,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-05-04,2020-05-05,,2020-05-18
+Cali,Valle del Cauca,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-05-04,2020-05-05,,2020-05-17
+San Andrés de Tumaco,Nariño,Fallecido,43,M,En estudio,Fallecido,Colombia,2020-04-27,2020-05-05,,2020-04-29
+San Andrés de Tumaco,Nariño,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-04-27,2020-05-05,,2020-05-07
+Pasto,Nariño,Fallecido,69,M,En estudio,Fallecido,Colombia,2020-04-28,2020-05-05,,2020-05-08
+San Andrés de Tumaco,Nariño,Fallecido,74,M,En estudio,Fallecido,Colombia,2020-04-27,2020-05-05,,2020-05-09
+Cali,Valle del Cauca,Fallecido,47,M,En estudio,Fallecido,Colombia,2020-05-03,2020-05-05,,2020-05-12
+Cali,Valle del Cauca,Fallecido,53,M,Relacionado,Fallecido,Colombia,2020-05-03,2020-05-05,,2020-05-27
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,56,F,En estudio,Fallecido,Colombia,2020-05-02,2020-05-05,,2020-05-04
+Puebloviejo,Magdalena,Fallecido,79,F,Relacionado,Fallecido,Colombia,2020-04-30,2020-05-05,,2020-05-03
+Soledad,Atlántico,Fallecido,51,F,En estudio,Fallecido,Colombia,2020-04-30,2020-05-05,,2020-05-20
+Santo Tomás,Atlántico,Fallecido,90,M,En estudio,Fallecido,Colombia,2020-04-30,2020-05-05,,2020-05-02
+Barranquilla,Barranquilla D.E.,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-05-01,2020-05-05,,2020-05-08
+Barranquilla,Barranquilla D.E.,Fallecido,69,F,En estudio,Fallecido,Colombia,2020-04-30,2020-05-05,,2020-05-05
+Soledad,Atlántico,Fallecido,49,F,En estudio,Fallecido,Colombia,2020-05-01,2020-05-05,,2020-05-09
+Barranquilla,Barranquilla D.E.,Fallecido,44,F,En estudio,Fallecido,Colombia,2020-05-01,2020-05-05,,2020-05-06
+Barranquilla,Barranquilla D.E.,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-05-02,2020-05-05,,2020-05-01
+Barranquilla,Barranquilla D.E.,Fallecido,100,F,En estudio,Fallecido,Colombia,2020-05-02,2020-05-05,,2020-05-01
+Barranquilla,Barranquilla D.E.,Fallecido,47,M,En estudio,Fallecido,Colombia,2020-05-01,2020-05-05,,2020-04-30
+Barranquilla,Barranquilla D.E.,Fallecido,86,F,En estudio,Fallecido,Colombia,2020-04-30,2020-05-05,,2020-04-30
+Barranquilla,Barranquilla D.E.,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-04-30,2020-05-05,,2020-05-01
+Santa Marta,Santa Marta D.T. y C.,Fallecido,43,M,En estudio,Fallecido,Colombia,2020-04-30,2020-05-05,,2020-05-23
+Barranquilla,Barranquilla D.E.,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-04-20,2020-05-05,,2020-04-30
+Leticia,Amazonas,Fallecido,65,F,En estudio,Fallecido,Colombia,2020-04-24,2020-05-05,,2020-04-24
+Bogotá D.C.,Bogotá D.C.,Fallecido,44,M,En estudio,Fallecido,Colombia,2020-04-29,2020-05-05,,2020-05-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,67,M,En estudio,Fallecido,Colombia,2020-05-01,2020-05-05,,2020-06-06
+Bogotá D.C.,Bogotá D.C.,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-04-29,2020-05-05,,2020-05-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-04-30,2020-05-05,,2020-05-01
+Bogotá D.C.,Bogotá D.C.,Fallecido,65,F,En estudio,Fallecido,Colombia,2020-04-30,2020-05-05,,2020-06-02
+Bogotá D.C.,Bogotá D.C.,Fallecido,67,M,En estudio,Fallecido,Colombia,2020-04-30,2020-05-05,,2020-05-09
+Bogotá D.C.,Bogotá D.C.,Fallecido,58,F,En estudio,Fallecido,Colombia,2020-04-30,2020-05-05,,2020-04-30
+Bogotá D.C.,Bogotá D.C.,Fallecido,76,M,En estudio,Fallecido,Colombia,2020-04-29,2020-05-05,,2020-05-10
+Bogotá D.C.,Bogotá D.C.,Fallecido,83,F,En estudio,Fallecido,Colombia,2020-05-01,2020-05-05,,2020-05-15
+Bogotá D.C.,Bogotá D.C.,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-04-25,2020-05-05,,2020-04-30
+Bogotá D.C.,Bogotá D.C.,Fallecido,58,F,Relacionado,Fallecido,Colombia,2020-05-01,2020-05-05,,2020-05-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,65,F,En estudio,Fallecido,Colombia,2020-05-01,2020-05-05,,2020-05-09
+Bogotá D.C.,Bogotá D.C.,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-04-30,2020-05-05,,2020-06-05
+Norcasia,Caldas,Fallecido,81,F,En estudio,Fallecido,Colombia,2020-05-01,2020-05-05,,2020-05-08
+Unión Panamericana,Chocó,Fallecido,66,M,Relacionado,Fallecido,Colombia,2020-05-02,2020-05-05,,2020-05-02
+Cali,Valle del Cauca,Fallecido,67,M,Relacionado,Fallecido,Colombia,2020-05-04,2020-05-06,,2020-05-10
+Cali,Valle del Cauca,Fallecido,65,M,Relacionado,Fallecido,Colombia,2020-05-02,2020-05-06,,2020-05-13
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-05-03,2020-05-06,,2020-05-07
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,58,F,En estudio,Fallecido,Colombia,2020-05-02,2020-05-06,,2020-05-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,73,M,Relacionado,Fallecido,Colombia,2020-04-30,2020-05-06,,2020-05-20
+Bogotá D.C.,Bogotá D.C.,Fallecido,51,M,En estudio,Fallecido,Colombia,2020-04-30,2020-05-06,,2020-05-05
+Bogotá D.C.,Bogotá D.C.,Fallecido,53,F,En estudio,Fallecido,Colombia,2020-05-03,2020-05-06,,2020-05-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,67,M,En estudio,Fallecido,Colombia,2020-05-02,2020-05-06,,2020-05-10
+Buenaventura,Buenaventura D.E.,Fallecido,91,M,En estudio,Fallecido,Colombia,2020-05-04,2020-05-07,,2020-05-03
+Leticia,Amazonas,Fallecido,55,M,En estudio,Fallecido,Colombia,2020-05-01,2020-05-07,,2020-05-07
+Leticia,Amazonas,Fallecido,61,M,En estudio,Fallecido,Colombia,2020-04-29,2020-05-07,,2020-05-26
+Leticia,Amazonas,Fallecido,43,F,En estudio,Fallecido,Colombia,2020-04-30,2020-05-07,,2020-05-14
+Leticia,Amazonas,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-04-29,2020-05-07,,2020-05-19
+Leticia,Amazonas,Fallecido,79,M,En estudio,Fallecido,Colombia,2020-04-30,2020-05-07,,2020-05-05
+Cali,Valle del Cauca,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-05-04,2020-05-07,,2020-05-04
+Soledad,Atlántico,Fallecido,88,F,En estudio,Fallecido,Colombia,2020-04-30,2020-05-07,,2020-04-29
+Cali,Valle del Cauca,Fallecido,76,F,En estudio,Fallecido,Colombia,2020-05-04,2020-05-07,,2020-05-30
+Bogotá D.C.,Bogotá D.C.,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-04-27,2020-05-07,,2020-05-11
+Bogotá D.C.,Bogotá D.C.,Fallecido,87,F,En estudio,Fallecido,Colombia,2020-04-27,2020-05-07,,2020-05-06
+Bogotá D.C.,Bogotá D.C.,Fallecido,82,M,En estudio,Fallecido,Colombia,2020-05-04,2020-05-07,,2020-05-06
+Soledad,Atlántico,Fallecido,0,M,En estudio,Fallecido,Colombia,2020-05-02,2020-05-08,,2020-05-02
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,84,M,En estudio,Fallecido,Colombia,2020-04-25,2020-05-08,,2020-05-03
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,50,F,En estudio,Fallecido,Colombia,2020-04-23,2020-05-08,,2020-05-03
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-05-03,2020-05-08,,2020-05-12
+Maicao,La Guajira,Fallecido,41,M,Importado,Fallecido,Venezuela,2020-05-03,2020-05-08,,2020-05-06
+Soledad,Atlántico,Fallecido,50,F,En estudio,Fallecido,Colombia,2020-05-02,2020-05-08,,2020-05-03
+Soledad,Atlántico,Fallecido,87,F,En estudio,Fallecido,Colombia,2020-05-03,2020-05-08,,2020-05-07
+Barranquilla,Barranquilla D.E.,Fallecido,67,M,En estudio,Fallecido,Colombia,2020-05-02,2020-05-08,,2020-05-03
+Santa Lucía,Atlántico,Fallecido,72,F,En estudio,Fallecido,Colombia,2020-05-05,2020-05-08,,2020-05-05
+Cali,Valle del Cauca,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-05-05,2020-05-08,,2020-05-07
+Cali,Valle del Cauca,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-05-04,2020-05-08,,2020-05-30
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-05-02,2020-05-08,,2020-05-06
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,52,F,En estudio,Fallecido,Colombia,2020-05-05,2020-05-08,,2020-05-09
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,72,F,En estudio,Fallecido,Colombia,2020-05-07,2020-05-08,,2020-05-06
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,59,M,En estudio,Fallecido,Colombia,2020-05-04,2020-05-08,,2020-05-24
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,56,M,En estudio,Fallecido,Colombia,2020-05-05,2020-05-08,,2020-05-16
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-05-05,2020-05-08,,2020-05-07
+Soledad,Atlántico,Fallecido,80,F,En estudio,Fallecido,Colombia,2020-05-07,2020-05-08,,2020-05-15
+Bogotá D.C.,Bogotá D.C.,Fallecido,56,M,Relacionado,Fallecido,Colombia,2020-04-26,2020-05-08,,2020-04-27
+Bogotá D.C.,Bogotá D.C.,Fallecido,41,M,Relacionado,Fallecido,Colombia,2020-05-02,2020-05-08,,2020-05-06
+Bogotá D.C.,Bogotá D.C.,Fallecido,31,F,En estudio,Fallecido,Colombia,2020-05-02,2020-05-08,,2020-05-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,93,F,En estudio,Fallecido,Colombia,2020-05-02,2020-05-08,,2020-05-06
+Bogotá D.C.,Bogotá D.C.,Fallecido,85,M,En estudio,Fallecido,Colombia,2020-05-02,2020-05-08,,2020-06-01
+Bogotá D.C.,Bogotá D.C.,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-05-05,2020-05-08,,2020-05-18
+Bogotá D.C.,Bogotá D.C.,Fallecido,78,F,En estudio,Fallecido,Colombia,2020-05-03,2020-05-08,,2020-05-08
+Bogotá D.C.,Bogotá D.C.,Fallecido,80,F,En estudio,Fallecido,Colombia,2020-05-05,2020-05-08,,2020-05-09
+Bogotá D.C.,Bogotá D.C.,Fallecido,48,M,En estudio,Fallecido,Colombia,2020-05-02,2020-05-08,,2020-05-22
+Bogotá D.C.,Bogotá D.C.,Fallecido,90,M,En estudio,Fallecido,Colombia,2020-05-06,2020-05-08,,2020-05-18
+Cúcuta,Norte de Santander,Fallecido,70,F,En estudio,Fallecido,Colombia,2020-05-02,2020-05-08,,2020-05-07
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,85,M,En estudio,Fallecido,Colombia,2020-05-03,2020-05-08,,2020-05-06
+Cali,Valle del Cauca,Fallecido,75,F,Relacionado,Fallecido,Colombia,2020-05-07,2020-05-09,,2020-05-08
+Cali,Valle del Cauca,Fallecido,69,M,En estudio,Fallecido,Colombia,2020-05-07,2020-05-09,,2020-05-29
+Cali,Valle del Cauca,Fallecido,77,F,En estudio,Fallecido,Colombia,2020-05-07,2020-05-09,,2020-05-07
+Barranquilla,Barranquilla D.E.,Fallecido,79,F,En estudio,Fallecido,Colombia,2020-04-30,2020-05-09,,2020-05-03
+Buenaventura,Buenaventura D.E.,Fallecido,78,F,En estudio,Fallecido,Colombia,2020-05-04,2020-05-09,,2020-05-20
+Cali,Valle del Cauca,Fallecido,77,F,En estudio,Fallecido,Colombia,2020-05-06,2020-05-09,,2020-05-24
+Bogotá D.C.,Bogotá D.C.,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-05-05,2020-05-09,,2020-05-13
+Bogotá D.C.,Bogotá D.C.,Fallecido,60,F,En estudio,Fallecido,Colombia,2020-05-02,2020-05-09,,2020-06-09
+Bogotá D.C.,Bogotá D.C.,Fallecido,58,M,En estudio,Fallecido,Colombia,2020-05-04,2020-05-09,,2020-05-20
+Bogotá D.C.,Bogotá D.C.,Fallecido,61,F,En estudio,Fallecido,Colombia,2020-05-03,2020-05-09,,2020-05-14
+Bogotá D.C.,Bogotá D.C.,Fallecido,53,M,En estudio,Fallecido,Colombia,2020-05-03,2020-05-09,,2020-05-11
+Bogotá D.C.,Bogotá D.C.,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-05-04,2020-05-09,,2020-05-16
+Bogotá D.C.,Bogotá D.C.,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-05-04,2020-05-09,,2020-05-06
+Bogotá D.C.,Bogotá D.C.,Fallecido,89,F,En estudio,Fallecido,Colombia,2020-05-04,2020-05-09,,2020-05-08
+Bogotá D.C.,Bogotá D.C.,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-05-05,2020-05-09,,2020-05-11
+Leticia,Amazonas,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-04-26,2020-05-09,,2020-05-07
+Leticia,Amazonas,Fallecido,79,M,Relacionado,Fallecido,Colombia,2020-04-28,2020-05-09,,2020-04-29
+Melgar,Tolima,Fallecido,39,F,En estudio,Fallecido,Colombia,2020-05-01,2020-05-10,,2020-05-01
+Ibagué,Tolima,Fallecido,25,M,En estudio,Fallecido,Colombia,2020-04-20,2020-05-10,,2020-05-02
+Tierralta,Córdoba,Fallecido,60,F,En estudio,Fallecido,Colombia,2020-05-08,2020-05-10,,2020-05-15
+Leticia,Amazonas,Fallecido,65,F,En estudio,Fallecido,Colombia,2020-05-08,2020-05-10,,2020-05-11
+Ibagué,Tolima,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-05-04,2020-05-10,,2020-06-07
+Ibagué,Tolima,Fallecido,27,M,En estudio,Fallecido,Colombia,2020-05-04,2020-05-10,,2020-05-05
+Leticia,Amazonas,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-05-02,2020-05-10,,2020-05-07
+Leticia,Amazonas,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-05-04,2020-05-10,,2020-05-24
+Puerto Nariño,Amazonas,Fallecido,82,M,En estudio,Fallecido,Colombia,2020-05-01,2020-05-10,,2020-05-06
+Leticia,Amazonas,Fallecido,53,M,En estudio,Fallecido,Colombia,2020-05-03,2020-05-10,,2020-05-13
+Leticia,Amazonas,Fallecido,45,M,En estudio,Fallecido,Colombia,2020-05-03,2020-05-10,,2020-05-07
+Leticia,Amazonas,Fallecido,74,F,En estudio,Fallecido,Colombia,2020-05-01,2020-05-10,,2020-05-18
+Magüí,Nariño,Fallecido,3,F,En estudio,Fallecido,Colombia,2020-05-01,2020-05-10,,2020-05-02
+Isnos,Huila,Fallecido,94,M,En estudio,Fallecido,Colombia,2020-05-01,2020-05-10,,2020-05-04
+Fonseca,La Guajira,Fallecido,27,F,En estudio,Fallecido,Colombia,2020-05-05,2020-05-10,,2020-05-04
+Barranquilla,Barranquilla D.E.,Fallecido,84,F,En estudio,Fallecido,Colombia,2020-05-04,2020-05-10,,2020-05-05
+Barranquilla,Barranquilla D.E.,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-05-06,2020-05-10,,2020-05-12
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,54,M,En estudio,Fallecido,Colombia,2020-05-06,2020-05-10,,2020-05-10
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,47,M,En estudio,Fallecido,Colombia,2020-05-06,2020-05-10,,2020-05-30
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-05-06,2020-05-10,,2020-05-10
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,73,F,En estudio,Fallecido,Colombia,2020-05-06,2020-05-10,,2020-05-08
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,67,M,En estudio,Fallecido,Colombia,2020-05-06,2020-05-10,,2020-05-14
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,83,F,En estudio,Fallecido,Colombia,2020-05-06,2020-05-10,,2020-05-11
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,83,F,En estudio,Fallecido,Colombia,2020-05-07,2020-05-10,,2020-05-12
+Bogotá D.C.,Bogotá D.C.,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-05-02,2020-05-10,,2020-05-10
+Leticia,Amazonas,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-04-24,2020-05-10,,2020-04-26
+Cali,Valle del Cauca,Fallecido,48,F,En estudio,Fallecido,Colombia,2020-04-30,2020-05-10,,2020-05-11
+Fusagasugá,Cundinamarca,Fallecido,84,F,Relacionado,Fallecido,Colombia,2020-05-08,2020-05-10,,2020-05-18
+Cali,Valle del Cauca,Fallecido,91,M,En estudio,Fallecido,Colombia,2020-05-10,2020-05-11,,2020-05-09
+Leticia,Amazonas,Fallecido,58,M,Relacionado,Fallecido,Colombia,2020-05-04,2020-05-11,,2020-05-13
+Leticia,Amazonas,Fallecido,82,M,Relacionado,Fallecido,Colombia,2020-05-07,2020-05-11,,2020-05-08
+Leticia,Amazonas,Fallecido,84,F,En estudio,Fallecido,Colombia,2020-05-05,2020-05-11,,2020-05-06
+Leticia,Amazonas,Fallecido,67,M,En estudio,Fallecido,Colombia,2020-05-05,2020-05-11,,2020-05-18
+Leticia,Amazonas,Fallecido,77,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-11,,2020-05-11
+Leticia,Amazonas,Fallecido,58,F,En estudio,Fallecido,Colombia,2020-05-04,2020-05-11,,2020-05-07
+Leticia,Amazonas,Fallecido,88,M,En estudio,Fallecido,Colombia,2020-05-06,2020-05-11,,2020-05-06
+San Andrés de Tumaco,Nariño,Fallecido,74,F,En estudio,Fallecido,Colombia,2020-04-30,2020-05-11,,2020-05-11
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,67,F,En estudio,Fallecido,Colombia,2020-05-07,2020-05-11,,2020-05-25
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,67,F,En estudio,Fallecido,Colombia,2020-05-07,2020-05-11,,2020-05-18
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,69,M,En estudio,Fallecido,Colombia,2020-05-07,2020-05-11,,2020-05-15
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,87,M,En estudio,Fallecido,Colombia,2020-05-07,2020-05-11,,2020-05-16
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-05-06,2020-05-11,,2020-05-08
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-05-05,2020-05-11,,2020-05-07
+Turbaná,Bolívar,Fallecido,56,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-11,,2020-05-28
+Buenaventura,Buenaventura D.E.,Fallecido,74,M,En estudio,Fallecido,Colombia,2020-05-04,2020-05-11,,2020-05-11
+Cali,Valle del Cauca,Fallecido,57,F,En estudio,Fallecido,Colombia,2020-05-05,2020-05-11,,2020-05-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,74,F,En estudio,Fallecido,Colombia,2020-05-07,2020-05-11,,2020-05-10
+Bogotá D.C.,Bogotá D.C.,Fallecido,61,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-11,,2020-05-19
+Barranquilla,Barranquilla D.E.,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-05-03,2020-05-12,,2020-05-14
+Leticia,Amazonas,Fallecido,73,M,Relacionado,Fallecido,Colombia,2020-05-05,2020-05-12,,2020-05-08
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,66,F,En estudio,Fallecido,Colombia,2020-05-07,2020-05-12,,2020-05-14
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,87,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-12,,2020-06-01
+Sahagún,Córdoba,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-05-09,2020-05-12,,2020-05-20
+Puebloviejo,Magdalena,Fallecido,70,F,Relacionado,Fallecido,Colombia,2020-05-06,2020-05-12,,2020-05-17
+San Andrés de Tumaco,Nariño,Fallecido,67,F,En estudio,Fallecido,Colombia,2020-05-04,2020-05-12,,2020-05-07
+Mosquera,Nariño,Fallecido,42,M,En estudio,Fallecido,Colombia,2020-05-04,2020-05-12,,2020-05-27
+Pradera,Valle del Cauca,Fallecido,80,F,En estudio,Fallecido,Colombia,2020-05-08,2020-05-12,,2020-05-15
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,27,F,En estudio,Fallecido,Colombia,2020-05-06,2020-05-12,,2020-05-07
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-05-09,2020-05-12,,2020-05-09
+Buenaventura,Buenaventura D.E.,Fallecido,52,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-12,,2020-05-11
+Buenaventura,Buenaventura D.E.,Fallecido,59,F,En estudio,Fallecido,Colombia,2020-05-10,2020-05-12,,2020-05-27
+Bogotá D.C.,Bogotá D.C.,Fallecido,59,M,En estudio,Fallecido,Colombia,2020-05-05,2020-05-12,,2020-05-21
+Bogotá D.C.,Bogotá D.C.,Fallecido,80,F,En estudio,Fallecido,Colombia,2020-05-08,2020-05-12,,2020-05-21
+Bogotá D.C.,Bogotá D.C.,Fallecido,52,F,En estudio,Fallecido,Colombia,2020-05-10,2020-05-12,,2020-05-21
+Bogotá D.C.,Bogotá D.C.,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-12,,2020-05-08
+Bogotá D.C.,Bogotá D.C.,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-05-09,2020-05-12,,2020-05-25
+Bogotá D.C.,Bogotá D.C.,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-12,,2020-05-18
+Bogotá D.C.,Bogotá D.C.,Fallecido,70,M,Relacionado,Fallecido,Colombia,2020-05-04,2020-05-12,,2020-05-22
+Puerto López,Meta,Fallecido,92,F,En estudio,Fallecido,Colombia,2020-05-07,2020-05-12,,2020-05-11
+Villavicencio,Meta,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-05-09,2020-05-12,,2020-05-11
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,59,F,En estudio,Fallecido,Colombia,2020-05-06,2020-05-12,,2020-05-09
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-05-06,2020-05-13,,2020-05-22
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-13,,2020-05-08
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,57,F,En estudio,Fallecido,Colombia,2020-05-11,2020-05-13,,2020-05-13
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,59,F,En estudio,Fallecido,Colombia,2020-05-11,2020-05-13,,2020-05-11
+Quibdó,Chocó,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-05-05,2020-05-13,,2020-05-29
+Paipa,Boyacá,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-13,,2020-05-16
+Cucaita,Boyacá,Fallecido,84,F,En estudio,Fallecido,Colombia,2020-05-09,2020-05-13,,2020-05-16
+Barranquilla,Barranquilla D.E.,Fallecido,79,M,En estudio,Fallecido,Colombia,2020-05-04,2020-05-13,,2020-05-26
+Leticia,Amazonas,Fallecido,84,F,En estudio,Fallecido,Colombia,2020-05-06,2020-05-13,,2020-05-07
+Montenegro,Quindío,Fallecido,39,F,En estudio,Fallecido,Colombia,2020-05-08,2020-05-13,,2020-05-28
+Cali,Valle del Cauca,Fallecido,48,M,Relacionado,Fallecido,Colombia,2020-05-11,2020-05-13,,2020-05-11
+Cali,Valle del Cauca,Fallecido,69,M,En estudio,Fallecido,Colombia,2020-05-11,2020-05-13,,2020-05-14
+Cali,Valle del Cauca,Fallecido,62,M,En estudio,Fallecido,Colombia,2020-05-11,2020-05-13,,2020-05-22
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-05-10,2020-05-13,,2020-05-22
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,73,F,En estudio,Fallecido,Colombia,2020-05-11,2020-05-13,,2020-05-28
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-05-10,2020-05-13,,2020-05-11
+Santa Rosa,Bolívar,Fallecido,78,F,En estudio,Fallecido,Colombia,2020-05-11,2020-05-13,,2020-05-11
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,84,M,En estudio,Fallecido,Colombia,2020-05-11,2020-05-13,,2020-05-11
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,68,F,En estudio,Fallecido,Colombia,2020-05-10,2020-05-13,,2020-05-27
+Cali,Valle del Cauca,Fallecido,72,F,En estudio,Fallecido,Colombia,2020-05-09,2020-05-13,,2020-05-20
+Buenaventura,Buenaventura D.E.,Fallecido,56,F,Importado,Fallecido,Estados Unidos de América,2020-05-06,2020-05-13,,2020-05-10
+Bogotá D.C.,Bogotá D.C.,Fallecido,64,F,En estudio,Fallecido,Colombia,2020-05-10,2020-05-13,,2020-06-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,59,M,En estudio,Fallecido,Colombia,2020-05-09,2020-05-13,,2020-05-20
+Bogotá D.C.,Bogotá D.C.,Fallecido,50,M,En estudio,Fallecido,Colombia,2020-05-11,2020-05-13,,2020-05-29
+San Andrés de Tumaco,Nariño,Fallecido,84,M,En estudio,Fallecido,Colombia,2020-05-04,2020-05-14,,2020-05-14
+Mosquera,Nariño,Fallecido,85,M,En estudio,Fallecido,Colombia,2020-05-05,2020-05-14,,2020-05-05
+San Andrés de Tumaco,Nariño,Fallecido,69,M,En estudio,Fallecido,Colombia,2020-05-05,2020-05-14,,2020-05-07
+Puebloviejo,Magdalena,Fallecido,77,F,Relacionado,Fallecido,Colombia,2020-05-02,2020-05-14,,2020-05-30
+Montería,Córdoba,Fallecido,74,F,En estudio,Fallecido,Colombia,2020-05-12,2020-05-14,,2020-05-24
+Leticia,Amazonas,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-05-05,2020-05-14,,2020-05-17
+Barranquilla,Barranquilla D.E.,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-14,,2020-05-23
+Barranquilla,Barranquilla D.E.,Fallecido,62,F,En estudio,Fallecido,Colombia,2020-05-04,2020-05-14,,2020-06-05
+Manizales,Caldas,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-05-09,2020-05-14,,2020-05-09
+Puerto López,Meta,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-05-09,2020-05-14,,2020-05-28
+Santa Marta,Santa Marta D.T. y C.,Fallecido,86,M,En estudio,Fallecido,Colombia,2020-05-09,2020-05-14,,2020-05-29
+Puebloviejo,Magdalena,Fallecido,63,M,Relacionado,Fallecido,Colombia,2020-05-08,2020-05-14,,2020-05-08
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-05-12,2020-05-14,,2020-05-12
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,86,M,En estudio,Fallecido,Colombia,2020-05-12,2020-05-14,,2020-05-20
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,38,M,En estudio,Fallecido,Colombia,2020-05-12,2020-05-14,,2020-05-23
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-05-11,2020-05-14,,2020-05-14
+Puebloviejo,Magdalena,Fallecido,75,M,Relacionado,Fallecido,Colombia,2020-05-04,2020-05-14,,2020-05-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,68,F,En estudio,Fallecido,Colombia,2020-05-10,2020-05-14,,2020-05-26
+Bogotá D.C.,Bogotá D.C.,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-05-10,2020-05-14,,2020-05-15
+Bogotá D.C.,Bogotá D.C.,Fallecido,50,F,Relacionado,Fallecido,Colombia,2020-05-09,2020-05-14,,2020-05-10
+Mosquera,Cundinamarca,Fallecido,46,M,En estudio,Fallecido,Colombia,2020-05-12,2020-05-14,,2020-05-19
+Buenaventura,Buenaventura D.E.,Fallecido,61,F,En estudio,Fallecido,Colombia,2020-05-11,2020-05-14,,2020-05-22
+Soledad,Atlántico,Fallecido,54,M,Relacionado,Fallecido,Colombia,2020-05-09,2020-05-14,,2020-06-03
+Cali,Valle del Cauca,Fallecido,76,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-14,,2020-05-14
+Barranquilla,Barranquilla D.E.,Fallecido,52,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-14,,2020-05-22
+Sabanagrande,Atlántico,Fallecido,53,M,En estudio,Fallecido,Colombia,2020-05-11,2020-05-14,,2020-05-21
+Cali,Valle del Cauca,Fallecido,71,F,En estudio,Fallecido,Colombia,2020-05-12,2020-05-14,,2020-05-21
+Ciénaga,Magdalena,Fallecido,89,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-14,,2020-05-12
+Barranquilla,Barranquilla D.E.,Fallecido,87,F,En estudio,Fallecido,Colombia,2020-04-27,2020-05-15,,2020-05-04
+Girardot,Cundinamarca,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-05-11,2020-05-15,,2020-05-19
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-05-09,2020-05-15,,2020-05-20
+Barranquilla,Barranquilla D.E.,Fallecido,98,F,En estudio,Fallecido,Colombia,2020-05-08,2020-05-15,,2020-05-11
+Barranquilla,Barranquilla D.E.,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-05-07,2020-05-15,,2020-05-22
+Soledad,Atlántico,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-05-07,2020-05-15,,2020-05-22
+Mosquera,Nariño,Fallecido,48,M,En estudio,Fallecido,Colombia,2020-04-27,2020-05-15,,2020-05-07
+San Andrés de Tumaco,Nariño,Fallecido,49,M,En estudio,Fallecido,Colombia,2020-05-06,2020-05-15,,2020-05-09
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,87,F,En estudio,Fallecido,Colombia,2020-05-12,2020-05-15,,2020-05-12
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,53,M,En estudio,Fallecido,Colombia,2020-05-13,2020-05-15,,2020-05-16
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,30,F,En estudio,Fallecido,Colombia,2020-05-12,2020-05-15,,2020-05-25
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,59,M,En estudio,Fallecido,Colombia,2020-05-13,2020-05-15,,2020-05-17
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-05-10,2020-05-15,,2020-05-21
+Bogotá D.C.,Bogotá D.C.,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-05-10,2020-05-15,,2020-05-17
+Bogotá D.C.,Bogotá D.C.,Fallecido,57,F,En estudio,Fallecido,Colombia,2020-05-11,2020-05-15,,2020-05-16
+Bogotá D.C.,Bogotá D.C.,Fallecido,61,F,En estudio,Fallecido,Colombia,2020-05-10,2020-05-15,,2020-05-11
+San Andrés de Tumaco,Nariño,Fallecido,65,F,Relacionado,Fallecido,Colombia,2020-05-05,2020-05-15,,2020-05-15
+Medellín,Antioquia,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-05-12,2020-05-15,,2020-06-05
+Manzanares,Caldas,Fallecido,48,M,Relacionado,Fallecido,Colombia,2020-05-06,2020-05-16,,2020-05-24
+Madrid,Cundinamarca,Fallecido,65,F,En estudio,Fallecido,Colombia,2020-05-13,2020-05-16,,2020-06-03
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-05-11,2020-05-16,,2020-05-14
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-05-14,2020-05-16,,2020-05-26
+Cali,Valle del Cauca,Fallecido,94,M,En estudio,Fallecido,Colombia,2020-05-11,2020-05-16,,2020-05-11
+Cali,Valle del Cauca,Fallecido,60,M,En estudio,Fallecido,Colombia,2020-05-12,2020-05-16,,2020-05-14
+Buenaventura,Buenaventura D.E.,Fallecido,51,F,En estudio,Fallecido,Colombia,2020-05-11,2020-05-16,,2020-05-22
+Cali,Valle del Cauca,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-05-14,2020-05-16,,2020-05-28
+Cali,Valle del Cauca,Fallecido,60,M,En estudio,Fallecido,Colombia,2020-05-14,2020-05-16,,2020-05-22
+Cali,Valle del Cauca,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-05-13,2020-05-16,,2020-05-20
+Puebloviejo,Magdalena,Fallecido,50,M,Relacionado,Fallecido,Colombia,2020-05-11,2020-05-16,,2020-05-11
+Buenaventura,Buenaventura D.E.,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-05-11,2020-05-16,,2020-06-04
+Soledad,Atlántico,Fallecido,69,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-16,,2020-05-26
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,93,F,En estudio,Fallecido,Colombia,2020-05-14,2020-05-16,,2020-05-20
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,59,F,En estudio,Fallecido,Colombia,2020-05-14,2020-05-16,,2020-05-14
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,52,M,En estudio,Fallecido,Colombia,2020-05-14,2020-05-16,,2020-05-19
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,84,F,En estudio,Fallecido,Colombia,2020-05-12,2020-05-16,,2020-05-18
+Cúcuta,Norte de Santander,Fallecido,37,F,En estudio,Fallecido,Colombia,2020-04-17,2020-05-16,,2020-05-29
+Cúcuta,Norte de Santander,Fallecido,56,M,En estudio,Fallecido,Colombia,2020-05-12,2020-05-16,,2020-05-15
+San Andrés de Tumaco,Nariño,Fallecido,37,M,En estudio,Fallecido,Colombia,2020-05-07,2020-05-16,,2020-05-09
+San Andrés de Tumaco,Nariño,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-05-06,2020-05-16,,2020-05-09
+Bogotá D.C.,Bogotá D.C.,Fallecido,68,F,En estudio,Fallecido,Colombia,2020-05-11,2020-05-16,,2020-05-27
+Bogotá D.C.,Bogotá D.C.,Fallecido,80,F,En estudio,Fallecido,Colombia,2020-05-10,2020-05-16,,2020-05-13
+Bogotá D.C.,Bogotá D.C.,Fallecido,79,M,En estudio,Fallecido,Colombia,2020-05-13,2020-05-16,,2020-05-14
+Bogotá D.C.,Bogotá D.C.,Fallecido,71,F,En estudio,Fallecido,Colombia,2020-05-13,2020-05-16,,2020-05-15
+Bogotá D.C.,Bogotá D.C.,Fallecido,74,F,En estudio,Fallecido,Colombia,2020-05-13,2020-05-16,,2020-05-24
+Bogotá D.C.,Bogotá D.C.,Fallecido,70,F,En estudio,Fallecido,Colombia,2020-05-13,2020-05-16,,2020-05-23
+Montería,Córdoba,Fallecido,72,F,En estudio,Fallecido,Colombia,2020-05-15,2020-05-17,,2020-06-02
+Pasto,Nariño,Fallecido,77,M,En estudio,Fallecido,Colombia,2020-05-09,2020-05-17,,2020-05-18
+Cali,Valle del Cauca,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-05-07,2020-05-17,,2020-05-17
+Cali,Valle del Cauca,Fallecido,59,M,En estudio,Fallecido,Colombia,2020-05-13,2020-05-17,,2020-05-29
+Cali,Valle del Cauca,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-05-12,2020-05-17,,2020-06-01
+Soledad,Atlántico,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-17,,2020-05-23
+Malambo,Atlántico,Fallecido,28,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-17,,2020-05-15
+Pivijay,Magdalena,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-17,,2020-05-31
+Barranquilla,Barranquilla D.E.,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-17,,2020-05-11
+Barranquilla,Barranquilla D.E.,Fallecido,37,F,En estudio,Fallecido,Colombia,2020-05-11,2020-05-17,,2020-05-12
+Barranquilla,Barranquilla D.E.,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-05-12,2020-05-17,,2020-05-14
+Barranquilla,Barranquilla D.E.,Fallecido,29,M,En estudio,Fallecido,Colombia,2020-05-12,2020-05-17,,2020-06-07
+Soledad,Atlántico,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-05-12,2020-05-17,,2020-05-18
+Cali,Valle del Cauca,Fallecido,84,M,En estudio,Fallecido,Colombia,2020-05-14,2020-05-17,,2020-05-19
+Cali,Valle del Cauca,Fallecido,77,M,En estudio,Fallecido,Colombia,2020-05-14,2020-05-17,,2020-05-27
+Leticia,Amazonas,Fallecido,60,M,Importado,Fallecido,Brasil,2020-04-11,2020-05-17,,2020-04-20
+Leticia,Amazonas,Fallecido,78,M,Relacionado,Fallecido,Colombia,2020-05-01,2020-05-17,,2020-05-05
+Bogotá D.C.,Bogotá D.C.,Fallecido,42,F,En estudio,Fallecido,Colombia,2020-05-14,2020-05-17,,2020-05-27
+Buenaventura,Buenaventura D.E.,Fallecido,45,M,En estudio,Fallecido,Colombia,2020-05-13,2020-05-18,,2020-05-22
+Cali,Valle del Cauca,Fallecido,72,F,En estudio,Fallecido,Colombia,2020-05-13,2020-05-18,,2020-05-20
+Buenaventura,Buenaventura D.E.,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-18,,2020-05-17
+Buenaventura,Buenaventura D.E.,Fallecido,41,F,En estudio,Fallecido,Colombia,2020-05-14,2020-05-18,,2020-05-14
+Cali,Valle del Cauca,Fallecido,77,M,En estudio,Fallecido,Colombia,2020-05-16,2020-05-18,,2020-05-25
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-05-13,2020-05-18,,2020-05-20
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,73,F,En estudio,Fallecido,Colombia,2020-05-14,2020-05-18,,2020-05-14
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-18,,2020-05-16
+Leticia,Amazonas,Fallecido,60,M,En estudio,Fallecido,Colombia,2020-05-12,2020-05-18,,2020-05-27
+Leticia,Amazonas,Fallecido,63,M,Relacionado,Fallecido,Colombia,2020-05-13,2020-05-18,,2020-05-18
+Leticia,Amazonas,Fallecido,65,F,En estudio,Fallecido,Colombia,2020-05-11,2020-05-18,,2020-05-13
+Soledad,Atlántico,Fallecido,29,M,En estudio,Fallecido,Colombia,2020-05-12,2020-05-18,,2020-06-04
+Cali,Valle del Cauca,Fallecido,74,M,En estudio,Fallecido,Colombia,2020-05-13,2020-05-18,,2020-05-25
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,34,F,En estudio,Fallecido,Colombia,2020-05-13,2020-05-18,,2020-05-20
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,92,M,En estudio,Fallecido,Colombia,2020-05-13,2020-05-18,,2020-05-13
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,69,M,En estudio,Fallecido,Colombia,2020-05-13,2020-05-18,,2020-06-01
+Cali,Valle del Cauca,Fallecido,85,M,En estudio,Fallecido,Colombia,2020-05-12,2020-05-18,,2020-05-14
+Puebloviejo,Magdalena,Fallecido,52,F,Relacionado,Fallecido,Colombia,2020-05-11,2020-05-18,,2020-05-13
+Bogotá D.C.,Bogotá D.C.,Fallecido,62,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-18,,2020-05-23
+Bogotá D.C.,Bogotá D.C.,Fallecido,47,M,En estudio,Fallecido,Colombia,2020-05-14,2020-05-18,,2020-05-21
+Barranquilla,Barranquilla D.E.,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-05-06,2020-05-19,,2020-05-10
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,77,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-19,,2020-05-29
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,35,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-19,,2020-05-15
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,45,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-19,,2020-05-18
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-19,,2020-05-22
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,67,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-19,,2020-05-17
+Bogotá D.C.,Bogotá D.C.,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-19,,2020-05-21
+Cali,Valle del Cauca,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-19,,2020-06-06
+Leticia,Amazonas,Fallecido,66,F,En estudio,Fallecido,Colombia,2020-05-12,2020-05-19,,2020-05-13
+Arjona,Bolívar,Fallecido,69,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-19,,2020-05-23
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-19,,2020-05-24
+Pasto,Nariño,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-05-11,2020-05-19,,2020-05-23
+Túquerres,Nariño,Fallecido,84,F,En estudio,Fallecido,Colombia,2020-05-10,2020-05-19,,2020-06-01
+Cali,Valle del Cauca,Fallecido,80,F,Relacionado,Fallecido,Colombia,2020-05-15,2020-05-19,,2020-05-20
+Cali,Valle del Cauca,Fallecido,92,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-19,,2020-05-13
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-19,,2020-05-18
+Bogotá D.C.,Bogotá D.C.,Fallecido,91,F,En estudio,Fallecido,Colombia,2020-05-13,2020-05-19,,2020-05-24
+Bogotá D.C.,Bogotá D.C.,Fallecido,47,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-19,,2020-05-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,61,F,En estudio,Fallecido,Colombia,2020-05-16,2020-05-19,,2020-06-01
+Bogotá D.C.,Bogotá D.C.,Fallecido,59,M,En estudio,Fallecido,Colombia,2020-05-01,2020-05-19,,2020-05-25
+Bogotá D.C.,Bogotá D.C.,Fallecido,67,F,En estudio,Fallecido,Colombia,2020-05-16,2020-05-19,,2020-05-19
+Bogotá D.C.,Bogotá D.C.,Fallecido,59,M,Relacionado,Fallecido,Colombia,2020-05-16,2020-05-19,,2020-05-25
+Bogotá D.C.,Bogotá D.C.,Fallecido,53,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-19,,2020-05-15
+Quibdó,Chocó,Fallecido,56,F,En estudio,Fallecido,Colombia,2020-05-01,2020-05-19,,2020-05-16
+Leticia,Amazonas,Fallecido,64,M,Relacionado,Fallecido,Colombia,2020-05-19,2020-05-19,,2020-05-07
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,62,M,En estudio,Fallecido,Colombia,2020-05-16,2020-05-20,,2020-05-17
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-05-16,2020-05-20,,2020-06-09
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,90,F,En estudio,Fallecido,Colombia,2020-05-17,2020-05-20,,2020-05-25
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,86,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-20,,2020-05-22
+Soledad,Atlántico,Fallecido,60,M,En estudio,Fallecido,Colombia,2020-05-19,2020-05-20,,2020-05-30
+Leticia,Amazonas,Fallecido,53,M,En estudio,Fallecido,Colombia,2020-05-14,2020-05-20,,2020-05-22
+Leticia,Amazonas,Fallecido,57,F,En estudio,Fallecido,Colombia,2020-05-13,2020-05-20,,2020-05-15
+Leticia,Amazonas,Fallecido,58,M,En estudio,Fallecido,Colombia,2020-05-13,2020-05-20,,2020-05-27
+Cali,Valle del Cauca,Fallecido,95,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-20,,2020-05-19
+Buenaventura,Buenaventura D.E.,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-05-16,2020-05-20,,2020-05-21
+Buenaventura,Buenaventura D.E.,Fallecido,55,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-20,,2020-05-25
+Leticia,Amazonas,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-05-13,2020-05-20,,2020-05-18
+Turbaco,Bolívar,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-05-16,2020-05-20,,2020-05-17
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,95,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-20,,2020-05-21
+Villamaría,Caldas,Fallecido,77,M,En estudio,Fallecido,Colombia,2020-05-14,2020-05-20,,2020-06-03
+Buenaventura,Buenaventura D.E.,Fallecido,35,F,En estudio,Fallecido,Colombia,2020-05-16,2020-05-20,,2020-05-16
+Buenaventura,Buenaventura D.E.,Fallecido,41,M,En estudio,Fallecido,Colombia,2020-05-16,2020-05-20,,2020-05-16
+Barranquilla,Barranquilla D.E.,Fallecido,88,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-20,,2020-05-08
+Cali,Valle del Cauca,Fallecido,74,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-20,,2020-06-01
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,54,F,En estudio,Fallecido,Colombia,2020-05-14,2020-05-20,,2020-05-15
+Bogotá D.C.,Bogotá D.C.,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-05-16,2020-05-20,,2020-05-16
+Bogotá D.C.,Bogotá D.C.,Fallecido,62,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-20,,2020-05-20
+Bogotá D.C.,Bogotá D.C.,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-05-16,2020-05-20,,2020-05-17
+Bogotá D.C.,Bogotá D.C.,Fallecido,83,F,En estudio,Fallecido,Colombia,2020-05-17,2020-05-20,,2020-05-16
+Soledad,Atlántico,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-05-10,2020-05-20,,2020-05-10
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-21,,2020-05-15
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-05-16,2020-05-21,,2020-05-23
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,79,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-21,,2020-05-18
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,89,F,En estudio,Fallecido,Colombia,2020-05-08,2020-05-21,,2020-05-12
+Paicol,Huila,Fallecido,55,M,En estudio,Fallecido,Colombia,2020-05-16,2020-05-21,,2020-05-16
+San Andrés de Tumaco,Nariño,Fallecido,79,F,En estudio,Fallecido,Colombia,2020-05-12,2020-05-21,,2020-05-27
+San Andrés de Tumaco,Nariño,Fallecido,89,M,En estudio,Fallecido,Colombia,2020-05-13,2020-05-21,,2020-05-15
+Puebloviejo,Magdalena,Fallecido,66,F,En estudio,Fallecido,Colombia,2020-05-14,2020-05-21,,2020-06-01
+Cali,Valle del Cauca,Fallecido,58,F,En estudio,Fallecido,Colombia,2020-05-18,2020-05-21,,2020-05-26
+Barranquilla,Barranquilla D.E.,Fallecido,84,F,En estudio,Fallecido,Colombia,2020-05-16,2020-05-21,,2020-05-16
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-05-19,2020-05-21,,2020-05-19
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,55,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-21,,2020-05-19
+Cali,Valle del Cauca,Fallecido,48,M,En estudio,Fallecido,Colombia,2020-05-14,2020-05-21,,2020-05-18
+Galapa,Atlántico,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-21,,2020-05-22
+Bogotá D.C.,Bogotá D.C.,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-21,,2020-06-01
+Bogotá D.C.,Bogotá D.C.,Fallecido,59,M,En estudio,Fallecido,Colombia,2020-05-16,2020-05-21,,2020-05-26
+Bogotá D.C.,Bogotá D.C.,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-21,,2020-05-31
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,58,M,Relacionado,Fallecido,Colombia,2020-05-06,2020-05-21,,2020-05-06
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,77,F,En estudio,Fallecido,Colombia,2020-05-18,2020-05-22,,2020-05-28
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,76,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-22,,2020-05-31
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-22,,2020-05-30
+Soledad,Atlántico,Fallecido,45,F,En estudio,Fallecido,Colombia,2020-05-09,2020-05-22,,2020-05-28
+Cuaspúd,Nariño,Fallecido,48,F,En estudio,Fallecido,Colombia,2020-05-18,2020-05-22,,2020-05-30
+Buenaventura,Buenaventura D.E.,Fallecido,84,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-22,,2020-05-17
+Cali,Valle del Cauca,Fallecido,46,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-22,,2020-05-20
+Cali,Valle del Cauca,Fallecido,49,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-22,,2020-05-30
+Barranquilla,Barranquilla D.E.,Fallecido,53,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-22,,2020-06-05
+Ciénaga,Magdalena,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-05-16,2020-05-22,,2020-05-20
+Buenaventura,Buenaventura D.E.,Fallecido,84,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-22,,2020-05-20
+Buenaventura,Buenaventura D.E.,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-22,,2020-05-23
+Cali,Valle del Cauca,Fallecido,77,F,En estudio,Fallecido,Colombia,2020-05-16,2020-05-22,,2020-05-26
+Cali,Valle del Cauca,Fallecido,81,F,En estudio,Fallecido,Colombia,2020-05-17,2020-05-22,,2020-05-18
+Barranquilla,Barranquilla D.E.,Fallecido,86,F,En estudio,Fallecido,Colombia,2020-05-19,2020-05-22,,2020-05-19
+Cali,Valle del Cauca,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-05-19,2020-05-22,,2020-05-24
+Cali,Valle del Cauca,Fallecido,96,M,En estudio,Fallecido,Colombia,2020-05-19,2020-05-22,,2020-05-25
+Buenaventura,Buenaventura D.E.,Fallecido,71,F,En estudio,Fallecido,Colombia,2020-05-19,2020-05-22,,2020-05-23
+Leticia,Amazonas,Fallecido,86,M,En estudio,Fallecido,Colombia,2020-05-14,2020-05-22,,2020-05-22
+Bogotá D.C.,Bogotá D.C.,Fallecido,36,M,Relacionado,Fallecido,Colombia,2020-05-18,2020-05-22,,2020-05-22
+Bogotá D.C.,Bogotá D.C.,Fallecido,51,M,En estudio,Fallecido,Colombia,2020-05-16,2020-05-22,,2020-05-20
+Bogotá D.C.,Bogotá D.C.,Fallecido,53,F,En estudio,Fallecido,Colombia,2020-05-18,2020-05-22,,2020-05-20
+Bogotá D.C.,Bogotá D.C.,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-05-18,2020-05-22,,2020-06-05
+Bogotá D.C.,Bogotá D.C.,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-22,,2020-06-09
+Bogotá D.C.,Bogotá D.C.,Fallecido,72,F,En estudio,Fallecido,Colombia,2020-05-18,2020-05-22,,2020-05-22
+San Andrés de Tumaco,Nariño,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-05-10,2020-05-22,,2020-05-11
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,78,F,En estudio,Fallecido,Colombia,2020-05-22,2020-05-23,,2020-05-27
+Cali,Valle del Cauca,Fallecido,44,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-23,,2020-06-07
+Barranquilla,Barranquilla D.E.,Fallecido,77,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-23,,2020-05-15
+Malambo,Atlántico,Fallecido,86,F,En estudio,Fallecido,Colombia,2020-05-15,2020-05-23,,2020-05-23
+Barranquilla,Barranquilla D.E.,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-23,,2020-05-27
+Malambo,Atlántico,Fallecido,74,M,En estudio,Fallecido,Colombia,2020-05-14,2020-05-23,,2020-05-30
+Barranquilla,Barranquilla D.E.,Fallecido,85,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-23,,2020-05-30
+Barranquilla,Barranquilla D.E.,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-05-14,2020-05-23,,2020-06-03
+Barranquilla,Barranquilla D.E.,Fallecido,69,F,En estudio,Fallecido,Colombia,2020-05-16,2020-05-23,,2020-06-01
+Barranquilla,Barranquilla D.E.,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-05-16,2020-05-23,,2020-05-29
+Malambo,Atlántico,Fallecido,74,M,En estudio,Fallecido,Colombia,2020-05-13,2020-05-23,,2020-05-28
+Barranquilla,Barranquilla D.E.,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-23,,2020-06-07
+Soledad,Atlántico,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-05-11,2020-05-23,,2020-05-19
+Puerto Colombia,Atlántico,Fallecido,79,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-23,,2020-06-03
+Barranquilla,Barranquilla D.E.,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-05-20,2020-05-23,,2020-06-04
+Galapa,Atlántico,Fallecido,68,F,En estudio,Fallecido,Colombia,2020-05-19,2020-05-23,,2020-05-19
+Barranquilla,Barranquilla D.E.,Fallecido,42,F,En estudio,Fallecido,Colombia,2020-05-18,2020-05-23,,2020-05-28
+Magangué,Bolívar,Fallecido,90,F,En estudio,Fallecido,Colombia,2020-05-18,2020-05-23,,2020-05-19
+Magangué,Bolívar,Fallecido,82,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-23,,2020-05-20
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,69,F,En estudio,Fallecido,Colombia,2020-05-19,2020-05-23,,2020-05-23
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,77,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-23,,2020-05-24
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,49,F,En estudio,Fallecido,Colombia,2020-05-19,2020-05-23,,2020-06-07
+Cali,Valle del Cauca,Fallecido,78,F,En estudio,Fallecido,Colombia,2020-05-21,2020-05-23,,2020-05-30
+Barranquilla,Barranquilla D.E.,Fallecido,76,F,En estudio,Fallecido,Colombia,2020-05-11,2020-05-23,,2020-05-19
+Unión Panamericana,Chocó,Fallecido,68,F,En estudio,Fallecido,Colombia,2020-05-17,2020-05-23,,2020-05-29
+Cali,Valle del Cauca,Fallecido,67,F,En estudio,Fallecido,Colombia,2020-05-21,2020-05-23,,2020-05-23
+Villeta,Cundinamarca,Fallecido,88,M,En estudio,Fallecido,Colombia,2020-05-16,2020-05-23,,2020-06-02
+San Andrés de Tumaco,Nariño,Fallecido,85,F,En estudio,Fallecido,Colombia,2020-05-12,2020-05-23,,2020-05-14
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-20,,2020-05-17
+Bogotá D.C.,Bogotá D.C.,Fallecido,43,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-23,,2020-05-22
+Bogotá D.C.,Bogotá D.C.,Fallecido,62,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-23,,2020-05-31
+Bogotá D.C.,Bogotá D.C.,Fallecido,60,F,En estudio,Fallecido,Colombia,2020-05-19,2020-05-23,,2020-05-26
+Bogotá D.C.,Bogotá D.C.,Fallecido,86,M,En estudio,Fallecido,Colombia,2020-05-19,2020-05-23,,2020-05-27
+Bogotá D.C.,Bogotá D.C.,Fallecido,40,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-23,,2020-05-18
+Bogotá D.C.,Bogotá D.C.,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-23,,2020-05-23
+Bogotá D.C.,Bogotá D.C.,Fallecido,41,F,En estudio,Fallecido,Colombia,2020-05-19,2020-05-23,,2020-05-24
+Bogotá D.C.,Bogotá D.C.,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-23,,2020-05-23
+Bogotá D.C.,Bogotá D.C.,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-05-19,2020-05-23,,2020-05-19
+Barranquilla,Barranquilla D.E.,Fallecido,66,F,En estudio,Fallecido,Colombia,2020-05-16,2020-05-24,,2020-06-07
+San Andrés de Tumaco,Nariño,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-05-10,2020-05-24,,2020-05-10
+San Andrés de Tumaco,Nariño,Fallecido,79,M,En estudio,Fallecido,Colombia,2020-05-12,2020-05-24,,2020-05-26
+Buenaventura,Buenaventura D.E.,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-24,,2020-05-29
+Cali,Valle del Cauca,Fallecido,82,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-24,,2020-06-03
+Pradera,Valle del Cauca,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-05-23,2020-05-24,,2020-05-22
+Yumbo,Valle del Cauca,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-24,,2020-05-24
+Buenaventura,Buenaventura D.E.,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-05-20,2020-05-24,,2020-06-10
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,56,M,Relacionado,Fallecido,Colombia,2020-05-23,2020-05-24,,2020-05-17
+Buenaventura,Buenaventura D.E.,Fallecido,54,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-24,,2020-05-17
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,61,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-24,,2020-05-18
+Cali,Valle del Cauca,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-05-22,2020-05-24,,2020-05-31
+Soledad,Atlántico,Fallecido,70,F,En estudio,Fallecido,Colombia,2020-05-22,2020-05-24,,2020-05-31
+Barranquilla,Barranquilla D.E.,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-05-22,2020-05-24,,2020-05-26
+Santa Rosa,Bolívar,Fallecido,50,M,En estudio,Fallecido,Colombia,2020-05-19,2020-05-24,,2020-05-19
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,44,M,En estudio,Fallecido,Colombia,2020-05-22,2020-05-24,,2020-06-03
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,46,F,En estudio,Fallecido,Colombia,2020-05-21,2020-05-24,,2020-05-23
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,88,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-24,,2020-05-24
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,71,F,En estudio,Fallecido,Colombia,2020-05-20,2020-05-24,,2020-05-26
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,78,F,En estudio,Fallecido,Colombia,2020-05-20,2020-05-24,,2020-05-23
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-24,,2020-05-20
+Leticia,Amazonas,Fallecido,56,M,Relacionado,Fallecido,Colombia,2020-05-19,2020-05-24,,2020-05-19
+Leticia,Amazonas,Fallecido,77,M,Relacionado,Fallecido,Colombia,2020-05-17,2020-05-24,,2020-06-03
+Leticia,Amazonas,Fallecido,47,M,Relacionado,Fallecido,Colombia,2020-05-20,2020-05-24,,2020-05-29
+Villanueva,Bolívar,Fallecido,90,F,Relacionado,Fallecido,Colombia,2020-05-18,2020-05-24,,2020-05-20
+Puebloviejo,Magdalena,Fallecido,60,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-24,,2020-05-19
+Sogamoso,Boyacá,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-24,,2020-05-29
+Tunja,Boyacá,Fallecido,92,F,En estudio,Fallecido,Colombia,2020-05-07,2020-05-24,,2020-05-31
+San Antonio del Tequendama,Cundinamarca,Fallecido,61,M,En estudio,Fallecido,Colombia,2020-05-22,2020-05-24,,2020-06-06
+Fusagasugá,Cundinamarca,Fallecido,60,F,En estudio,Fallecido,Colombia,2020-05-18,2020-05-24,,2020-05-31
+Bogotá D.C.,Bogotá D.C.,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-24,,2020-06-05
+Bogotá D.C.,Bogotá D.C.,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-24,,2020-06-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,89,M,En estudio,Fallecido,Colombia,2020-05-22,2020-05-24,,2020-05-26
+Bogotá D.C.,Bogotá D.C.,Fallecido,63,F,En estudio,Fallecido,Colombia,2020-05-17,2020-05-24,,2020-05-31
+Bogotá D.C.,Bogotá D.C.,Fallecido,90,F,En estudio,Fallecido,Colombia,2020-05-20,2020-05-24,,2020-06-02
+Bogotá D.C.,Bogotá D.C.,Fallecido,67,F,En estudio,Fallecido,Colombia,2020-05-20,2020-05-24,,2020-06-07
+Leticia,Amazonas,Fallecido,93,F,En estudio,Fallecido,Colombia,2020-05-15,2020-05-25,,2020-05-21
+Leticia,Amazonas,Fallecido,57,F,En estudio,Fallecido,Colombia,2020-05-15,2020-05-25,,2020-06-02
+Leticia,Amazonas,Fallecido,77,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-25,,2020-05-16
+Leticia,Amazonas,Fallecido,58,M,En estudio,Fallecido,Colombia,2020-05-16,2020-05-25,,2020-06-02
+Buenaventura,Buenaventura D.E.,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-05-23,2020-05-25,,2020-05-23
+Buenaventura,Buenaventura D.E.,Fallecido,60,F,En estudio,Fallecido,Colombia,2020-05-21,2020-05-25,,2020-05-21
+San Andrés de Tumaco,Nariño,Fallecido,46,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-25,,2020-05-30
+San Andrés de Tumaco,Nariño,Fallecido,58,F,En estudio,Fallecido,Colombia,2020-05-16,2020-05-25,,2020-05-16
+San Andrés de Tumaco,Nariño,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-25,,2020-05-18
+Cáqueza,Cundinamarca,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-05-19,2020-05-25,,2020-05-29
+San Andrés de Tumaco,Nariño,Fallecido,62,F,En estudio,Fallecido,Colombia,2020-05-14,2020-05-25,,2020-06-05
+San Andrés de Tumaco,Nariño,Fallecido,64,F,En estudio,Fallecido,Colombia,2020-05-16,2020-05-25,,2020-05-17
+Bogotá D.C.,Bogotá D.C.,Fallecido,34,F,En estudio,Fallecido,Colombia,2020-05-19,2020-05-25,,2020-05-21
+Bogotá D.C.,Bogotá D.C.,Fallecido,37,M,En estudio,Fallecido,Colombia,2020-05-22,2020-05-25,,2020-06-01
+Bogotá D.C.,Bogotá D.C.,Fallecido,77,M,En estudio,Fallecido,Colombia,2020-05-19,2020-05-25,,2020-05-21
+Bogotá D.C.,Bogotá D.C.,Fallecido,89,M,En estudio,Fallecido,Colombia,2020-05-23,2020-05-25,,2020-05-26
+Bogotá D.C.,Bogotá D.C.,Fallecido,59,M,En estudio,Fallecido,Colombia,2020-05-22,2020-05-25,,2020-05-24
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,52,M,En estudio,Fallecido,Colombia,2020-05-16,2020-05-26,,2020-05-16
+Barranquilla,Barranquilla D.E.,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-05-22,2020-05-26,,2020-05-22
+Buenaventura,Buenaventura D.E.,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-05-22,2020-05-26,,2020-05-29
+Barranquilla,Barranquilla D.E.,Fallecido,62,M,En estudio,Fallecido,Colombia,2020-05-19,2020-05-26,,2020-05-19
+Guateque,Boyacá,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-05-22,2020-05-26,,2020-05-21
+Puebloviejo,Magdalena,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-05-19,2020-05-26,,2020-05-19
+Cali,Valle del Cauca,Fallecido,50,F,En estudio,Fallecido,Colombia,2020-05-21,2020-05-26,,2020-05-24
+Cali,Valle del Cauca,Fallecido,77,M,En estudio,Fallecido,Colombia,2020-05-21,2020-05-26,,2020-06-02
+El Cerrito,Valle del Cauca,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-26,,2020-06-04
+Buenaventura,Buenaventura D.E.,Fallecido,74,M,En estudio,Fallecido,Colombia,2020-05-21,2020-05-26,,2020-05-21
+Buenaventura,Buenaventura D.E.,Fallecido,56,M,En estudio,Fallecido,Colombia,2020-05-21,2020-05-26,,2020-05-26
+Lorica,Córdoba,Fallecido,59,M,En estudio,Fallecido,Colombia,2020-05-23,2020-05-26,,2020-06-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,88,M,En estudio,Fallecido,Colombia,2020-05-19,2020-05-26,,2020-05-22
+Bogotá D.C.,Bogotá D.C.,Fallecido,59,F,En estudio,Fallecido,Colombia,2020-05-21,2020-05-26,,2020-05-21
+Bogotá D.C.,Bogotá D.C.,Fallecido,30,M,En estudio,Fallecido,Colombia,2020-05-23,2020-05-26,,2020-06-08
+Bogotá D.C.,Bogotá D.C.,Fallecido,82,M,Relacionado,Fallecido,Colombia,2020-05-19,2020-05-26,,2020-05-25
+Bogotá D.C.,Bogotá D.C.,Fallecido,61,F,En estudio,Fallecido,Colombia,2020-05-21,2020-05-26,,2020-05-19
+Soledad,Atlántico,Fallecido,37,M,En estudio,Fallecido,Colombia,2020-05-23,2020-05-27,,2020-05-30
+Santa Marta,Santa Marta D.T. y C.,Fallecido,53,F,En estudio,Fallecido,Colombia,2020-05-17,2020-05-27,,2020-06-02
+Ciénaga,Magdalena,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-27,,2020-05-29
+Galapa,Atlántico,Fallecido,71,M,Relacionado,Fallecido,Colombia,2020-05-24,2020-05-27,,2020-06-02
+Cali,Valle del Cauca,Fallecido,70,F,En estudio,Fallecido,Colombia,2020-05-23,2020-05-27,,2020-05-28
+Cali,Valle del Cauca,Fallecido,54,F,En estudio,Fallecido,Colombia,2020-05-25,2020-05-27,,2020-06-04
+San Andrés de Tumaco,Nariño,Fallecido,51,M,En estudio,Fallecido,Colombia,2020-05-08,2020-05-27,,2020-05-18
+Tasco,Boyacá,Fallecido,89,M,En estudio,Fallecido,Colombia,2020-05-22,2020-05-27,,2020-05-22
+Leticia,Amazonas,Fallecido,45,M,En estudio,Fallecido,Colombia,2020-05-21,2020-05-27,,2020-05-24
+Fusagasugá,Cundinamarca,Fallecido,86,F,En estudio,Fallecido,Colombia,2020-05-21,2020-05-27,,2020-05-27
+Facatativá,Cundinamarca,Fallecido,43,M,En estudio,Fallecido,Colombia,2020-05-22,2020-05-27,,2020-06-03
+La Mesa,Cundinamarca,Fallecido,64,F,En estudio,Fallecido,Colombia,2020-05-22,2020-05-27,,2020-06-04
+Barranquilla,Barranquilla D.E.,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-05-26,2020-05-27,,2020-05-30
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,80,F,En estudio,Fallecido,Colombia,2020-05-19,2020-05-27,,2020-05-25
+Arjona,Bolívar,Fallecido,17,F,En estudio,Fallecido,Colombia,2020-05-27,2020-05-27,,2020-06-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,92,M,En estudio,Fallecido,Colombia,2020-05-21,2020-05-27,,2020-06-06
+Bogotá D.C.,Bogotá D.C.,Fallecido,48,M,En estudio,Fallecido,Colombia,2020-05-25,2020-05-27,,2020-06-07
+Bogotá D.C.,Bogotá D.C.,Fallecido,44,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-27,,2020-06-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,51,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-27,,2020-06-08
+Bogotá D.C.,Bogotá D.C.,Fallecido,73,F,Relacionado,Fallecido,Colombia,2020-05-11,2020-05-27,,2020-05-28
+Bogotá D.C.,Bogotá D.C.,Fallecido,54,M,En estudio,Fallecido,Colombia,2020-05-24,2020-05-27,,2020-05-28
+Bogotá D.C.,Bogotá D.C.,Fallecido,61,F,En estudio,Fallecido,Colombia,2020-05-20,2020-05-27,,2020-05-31
+Bogotá D.C.,Bogotá D.C.,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-27,,2020-05-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,86,M,En estudio,Fallecido,Colombia,2020-05-23,2020-05-27,,2020-05-22
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-27,,2020-05-25
+Candelaria,Valle del Cauca,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-05-24,2020-05-28,,2020-05-24
+Puerto Salgar,Cundinamarca,Fallecido,60,M,En estudio,Fallecido,Colombia,2020-05-23,2020-05-28,,2020-05-30
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-05-14,2020-05-28,,2020-05-23
+Galapa,Atlántico,Fallecido,91,F,Relacionado,Fallecido,Colombia,2020-05-24,2020-05-28,,2020-06-07
+Galapa,Atlántico,Fallecido,82,M,Relacionado,Fallecido,Colombia,2020-05-24,2020-05-28,,2020-06-06
+Barranquilla,Barranquilla D.E.,Fallecido,55,F,En estudio,Fallecido,Colombia,2020-05-20,2020-05-28,,2020-06-07
+Barranquilla,Barranquilla D.E.,Fallecido,81,F,En estudio,Fallecido,Colombia,2020-05-26,2020-05-28,,2020-05-22
+Barranquilla,Barranquilla D.E.,Fallecido,77,F,En estudio,Fallecido,Colombia,2020-05-22,2020-05-28,,2020-05-30
+Leticia,Amazonas,Fallecido,81,F,En estudio,Fallecido,Colombia,2020-05-21,2020-05-28,,2020-05-30
+Quibdó,Chocó,Fallecido,60,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-28,,2020-06-06
+Quibdó,Chocó,Fallecido,40,F,En estudio,Fallecido,Colombia,2020-05-22,2020-05-28,,2020-05-29
+San Sebastián de Mariquita,Tolima,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-05-23,2020-05-28,,2020-06-05
+Cali,Valle del Cauca,Fallecido,23,F,En estudio,Fallecido,Colombia,2020-05-25,2020-05-28,,2020-05-25
+Buenaventura,Buenaventura D.E.,Fallecido,86,F,En estudio,Fallecido,Colombia,2020-05-23,2020-05-28,,2020-05-22
+Cali,Valle del Cauca,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-05-23,2020-05-28,,2020-06-07
+Candelaria,Valle del Cauca,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-05-22,2020-05-28,,2020-05-31
+Florida,Valle del Cauca,Fallecido,94,M,En estudio,Fallecido,Colombia,2020-05-24,2020-05-28,,2020-05-28
+Montería,Córdoba,Fallecido,82,M,En estudio,Fallecido,Colombia,2020-05-25,2020-05-28,,2020-05-25
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,58,M,En estudio,Fallecido,Colombia,2020-04-13,2020-05-28,,2020-05-21
+Turbaco,Bolívar,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-05-28,2020-05-28,,2020-05-31
+Barranquilla,Barranquilla D.E.,Fallecido,83,F,En estudio,Fallecido,Colombia,2020-05-26,2020-05-28,,2020-06-06
+Soledad,Atlántico,Fallecido,60,M,En estudio,Fallecido,Colombia,2020-05-14,2020-05-28,,2020-05-25
+Cali,Valle del Cauca,Fallecido,86,F,En estudio,Fallecido,Colombia,2020-05-20,2020-05-28,,2020-05-20
+Bogotá D.C.,Bogotá D.C.,Fallecido,66,F,En estudio,Fallecido,Colombia,2020-04-06,SIN DA,,2020-05-29
+Montelíbano,Córdoba,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-05-13,2020-05-28,,2020-05-23
+Bogotá D.C.,Bogotá D.C.,Fallecido,69,M,En estudio,Fallecido,Colombia,2020-05-21,2020-05-28,,2020-05-23
+Bogotá D.C.,Bogotá D.C.,Fallecido,63,F,En estudio,Asintomático,Colombia,2020-05-25,2020-05-28,,2020-06-06
+Bogotá D.C.,Bogotá D.C.,Fallecido,88,F,En estudio,Fallecido,Colombia,2020-05-22,2020-05-28,,2020-06-05
+Bogotá D.C.,Bogotá D.C.,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-05-27,2020-05-28,,2020-05-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,67,M,En estudio,Fallecido,Colombia,2020-05-09,2020-05-28,,2020-05-23
+Bogotá D.C.,Bogotá D.C.,Fallecido,61,M,En estudio,Fallecido,Colombia,2020-05-23,2020-05-28,,2020-05-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-05-26,2020-05-28,,2020-06-04
+Barranquilla,Barranquilla D.E.,Fallecido,78,F,En estudio,Fallecido,Colombia,2020-05-10,2020-05-28,,2020-05-29
+Villa de San Diego de Ubaté,Cundinamarca,Fallecido,83,F,En estudio,Fallecido,Colombia,2020-05-25,2020-05-28,,2020-05-28
+Chipaque,Cundinamarca,Fallecido,43,M,En estudio,Fallecido,Colombia,2020-05-25,2020-05-28,,2020-06-04
+El Colegio,Cundinamarca,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-05-23,2020-05-28,,2020-06-01
+Chipaque,Cundinamarca,Fallecido,87,F,En estudio,Fallecido,Colombia,2020-05-24,2020-05-28,,2020-05-26
+Quibdó,Chocó,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-05-21,2020-05-28,,2020-05-29
+Buenaventura,Buenaventura D.E.,Fallecido,48,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-28,,2020-05-24
+San Miguel,Putumayo,Fallecido,42,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-29,,2020-05-24
+Puerto Nariño,Amazonas,Fallecido,27,F,En estudio,Fallecido,Colombia,2020-05-12,2020-05-29,,2020-05-26
+Mosquera,Cundinamarca,Fallecido,48,M,En estudio,Fallecido,Colombia,2020-05-24,2020-05-29,,2020-06-01
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,67,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-29,,2020-05-29
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-05-24,2020-05-29,,2020-05-24
+Barranquilla,Barranquilla D.E.,Fallecido,76,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-29,,2020-05-25
+San Andrés de Tumaco,Nariño,Fallecido,51,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-29,,2020-05-17
+San Andrés de Tumaco,Nariño,Fallecido,76,F,En estudio,Fallecido,Colombia,2020-05-17,2020-05-29,,2020-05-19
+Cali,Valle del Cauca,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-05-26,2020-05-29,,2020-05-24
+Cali,Valle del Cauca,Fallecido,54,M,En estudio,Fallecido,Colombia,2020-05-26,2020-05-29,,2020-05-24
+Dosquebradas,Risaralda,Fallecido,61,M,En estudio,Fallecido,Colombia,2020-05-26,2020-05-29,,2020-05-30
+Cali,Valle del Cauca,Fallecido,80,F,En estudio,Fallecido,Colombia,2020-05-19,2020-05-29,,2020-05-31
+Cali,Valle del Cauca,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-05-26,2020-05-29,,2020-06-01
+Cali,Valle del Cauca,Fallecido,85,F,En estudio,Fallecido,Colombia,2020-05-23,2020-05-29,,2020-05-24
+Villavicencio,Meta,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-05-25,2020-05-29,,2020-05-31
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,30,M,En estudio,Fallecido,Colombia,2020-05-25,2020-05-29,,2020-05-24
+Galapa,Atlántico,Fallecido,86,M,Relacionado,Fallecido,Colombia,2020-05-25,2020-05-29,,2020-06-08
+Cali,Valle del Cauca,Fallecido,91,M,En estudio,Fallecido,Colombia,2020-05-22,2020-05-29,,2020-05-27
+Barbacoas,Nariño,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-05-23,2020-05-29,,2020-05-24
+Mallama,Nariño,Fallecido,82,M,En estudio,Fallecido,Colombia,2020-05-26,2020-05-29,,2020-05-26
+Barranquilla,Barranquilla D.E.,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-05-10,2020-05-29,,2020-05-19
+Bogotá D.C.,Bogotá D.C.,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-05-26,2020-05-29,,2020-06-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,51,F,En estudio,Fallecido,Colombia,2020-05-22,2020-05-29,,2020-05-31
+Bogotá D.C.,Bogotá D.C.,Fallecido,63,F,En estudio,Fallecido,Colombia,2020-05-23,2020-05-29,,2020-05-23
+Bogotá D.C.,Bogotá D.C.,Fallecido,93,F,En estudio,Fallecido,Colombia,2020-05-11,2020-05-29,,2020-05-22
+Bogotá D.C.,Bogotá D.C.,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-29,,2020-06-05
+Bogotá D.C.,Bogotá D.C.,Fallecido,87,M,En estudio,Asintomático,Colombia,2020-05-27,2020-05-29,,2020-06-05
+Bogotá D.C.,Bogotá D.C.,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-05-23,2020-05-29,,2020-05-26
+Bogotá D.C.,Bogotá D.C.,Fallecido,74,F,En estudio,Fallecido,Colombia,2020-05-23,2020-05-29,,2020-05-27
+Bogotá D.C.,Bogotá D.C.,Fallecido,100,F,En estudio,Fallecido,Colombia,2020-05-26,2020-05-29,,2020-05-30
+Bogotá D.C.,Bogotá D.C.,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-05-23,2020-05-29,,2020-05-26
+San Andrés de Tumaco,Nariño,Fallecido,70,F,En estudio,Fallecido,Colombia,2020-05-19,2020-05-29,,2020-05-19
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-30,,2020-05-28
+Barranquilla,Barranquilla D.E.,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-05-28,2020-05-30,,2020-06-06
+Bogotá D.C.,Bogotá D.C.,Fallecido,47,M,En estudio,Fallecido,Colombia,2020-05-26,2020-05-30,,2020-06-08
+Bogotá D.C.,Bogotá D.C.,Fallecido,84,F,En estudio,Fallecido,Colombia,2020-05-27,2020-05-30,,2020-06-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,69,M,En estudio,Fallecido,Colombia,2020-05-24,2020-05-30,,2020-05-23
+Bogotá D.C.,Bogotá D.C.,Fallecido,67,M,En estudio,Fallecido,Colombia,2020-05-23,2020-05-30,,2020-06-05
+Bogotá D.C.,Bogotá D.C.,Fallecido,44,M,En estudio,Fallecido,Colombia,2020-05-25,2020-05-30,,2020-05-28
+Bogotá D.C.,Bogotá D.C.,Fallecido,52,M,En estudio,Fallecido,Colombia,2020-05-26,2020-05-30,,2020-05-30
+Bogotá D.C.,Bogotá D.C.,Fallecido,74,F,En estudio,Fallecido,Colombia,2020-05-28,2020-05-30,,2020-06-08
+Leticia,Amazonas,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-05-14,2020-05-30,,2020-06-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,85,F,En estudio,Fallecido,Colombia,2020-05-25,2020-05-30,,2020-06-08
+Bogotá D.C.,Bogotá D.C.,Fallecido,36,M,En estudio,Fallecido,Colombia,2020-05-24,2020-05-30,,2020-06-08
+Bogotá D.C.,Bogotá D.C.,Fallecido,85,M,En estudio,Fallecido,Colombia,2020-05-27,2020-05-30,,2020-05-30
+Bogotá D.C.,Bogotá D.C.,Fallecido,86,F,En estudio,Fallecido,Colombia,2020-05-26,2020-05-30,,2020-05-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-05-27,2020-05-30,,2020-06-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-05-18,2020-05-30,,2020-06-04
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-30,,2020-05-28
+Barranquilla,Barranquilla D.E.,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-05-19,2020-05-30,,2020-05-25
+Barranquilla,Barranquilla D.E.,Fallecido,54,F,En estudio,Fallecido,Colombia,2020-05-26,2020-05-30,,2020-05-30
+Barranquilla,Barranquilla D.E.,Fallecido,92,M,En estudio,Fallecido,Colombia,2020-05-19,2020-05-30,,2020-05-21
+Barranquilla,Barranquilla D.E.,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-30,,2020-05-22
+Barranquilla,Barranquilla D.E.,Fallecido,69,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-30,,2020-06-05
+Barranquilla,Barranquilla D.E.,Fallecido,74,F,En estudio,Fallecido,Colombia,2020-05-22,2020-05-30,,2020-05-22
+Barranquilla,Barranquilla D.E.,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-30,,2020-06-02
+Barranquilla,Barranquilla D.E.,Fallecido,67,F,En estudio,Fallecido,Colombia,2020-05-19,2020-05-30,,2020-06-01
+Malambo,Atlántico,Fallecido,95,F,En estudio,Fallecido,Colombia,2020-05-16,2020-05-30,,2020-05-17
+Barranquilla,Barranquilla D.E.,Fallecido,74,M,En estudio,Fallecido,Colombia,2020-05-18,2020-05-30,,2020-05-30
+Cerro de San Antonio,Magdalena,Fallecido,60,F,En estudio,Fallecido,Colombia,2020-05-19,2020-05-30,,2020-05-22
+Barranquilla,Barranquilla D.E.,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-05-13,2020-05-30,,2020-05-18
+Barranquilla,Barranquilla D.E.,Fallecido,56,M,En estudio,Fallecido,Colombia,2020-05-22,2020-05-30,,2020-05-31
+Polonuevo,Atlántico,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-05-21,2020-05-30,,2020-05-23
+Barranquilla,Barranquilla D.E.,Fallecido,83,F,En estudio,Fallecido,Colombia,2020-05-22,2020-05-30,,2020-05-26
+Barranquilla,Barranquilla D.E.,Fallecido,68,F,En estudio,Fallecido,Colombia,2020-05-20,2020-05-30,,2020-05-24
+Tubará,Atlántico,Fallecido,86,F,En estudio,Fallecido,Colombia,2020-05-21,2020-05-30,,2020-06-03
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-05-19,2020-05-30,,2020-05-24
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,44,M,En estudio,Fallecido,Colombia,2020-05-28,2020-05-30,,2020-05-30
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,76,M,En estudio,Fallecido,Colombia,2020-05-24,2020-05-30,,2020-05-26
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,38,M,En estudio,Fallecido,Colombia,2020-05-24,2020-05-30,,2020-06-05
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,44,F,En estudio,Fallecido,Colombia,2020-05-25,2020-05-30,,2020-06-03
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,69,M,En estudio,Fallecido,Colombia,2020-05-25,2020-05-30,,2020-05-25
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,79,F,En estudio,Fallecido,Colombia,2020-05-25,2020-05-30,,2020-05-25
+Quibdó,Chocó,Fallecido,69,F,En estudio,Fallecido,Colombia,2020-05-24,2020-05-30,,2020-05-25
+Sincelejo,Sucre,Fallecido,82,M,En estudio,Fallecido,Colombia,2020-05-27,2020-05-30,,2020-05-26
+Puerto Tejada,Cauca,Fallecido,66,F,En estudio,Fallecido,Colombia,2020-05-28,2020-05-30,,2020-06-03
+Leticia,Amazonas,Fallecido,76,M,En estudio,Fallecido,Colombia,2020-05-27,2020-05-30,,2020-06-07
+Buenaventura,Buenaventura D.E.,Fallecido,68,F,En estudio,Fallecido,Colombia,2020-05-24,2020-05-30,,2020-05-24
+Obando,Valle del Cauca,Fallecido,69,F,En estudio,Fallecido,Colombia,2020-05-27,2020-05-30,,2020-05-30
+La Unión,Valle del Cauca,Fallecido,74,M,En estudio,Fallecido,Colombia,2020-05-26,2020-05-30,,2020-05-26
+Cali,Valle del Cauca,Fallecido,35,F,En estudio,Fallecido,Colombia,2020-05-27,2020-05-30,,2020-05-27
+Barranquilla,Barranquilla D.E.,Fallecido,79,M,En estudio,Fallecido,Colombia,2020-03-31,2020-05-30,,2020-05-24
+Buenaventura,Buenaventura D.E.,Fallecido,51,F,En estudio,Fallecido,Colombia,2020-05-25,2020-05-30,,2020-06-02
+Barranquilla,Barranquilla D.E.,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-05-13,2020-05-30,,2020-05-17
+Malambo,Atlántico,Fallecido,71,F,En estudio,Fallecido,Colombia,2020-05-17,2020-05-30,,2020-05-19
+Malambo,Atlántico,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-05-15,2020-05-30,,2020-05-27
+Barranquilla,Barranquilla D.E.,Fallecido,24,M,En estudio,Fallecido,Colombia,2020-05-16,2020-05-30,,2020-06-06
+Soacha,Cundinamarca,Fallecido,25,F,En estudio,Fallecido,Colombia,2020-05-25,2020-05-30,,2020-05-30
+Barranquilla,Barranquilla D.E.,Fallecido,58,F,En estudio,Fallecido,Colombia,2020-05-13,2020-05-30,,2020-05-22
+Soledad,Atlántico,Fallecido,58,M,En estudio,Fallecido,Colombia,2020-05-16,2020-05-30,,2020-06-07
+Buenaventura,Buenaventura D.E.,Fallecido,44,F,En estudio,Fallecido,Colombia,2020-05-23,2020-05-30,,2020-05-31
+Soledad,Atlántico,Fallecido,51,M,En estudio,Fallecido,Colombia,2020-05-29,2020-05-31,,2020-05-29
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,87,M,En estudio,Asintomático,Colombia,2020-05-23,2020-05-31,,2020-05-21
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,69,M,En estudio,Fallecido,Colombia,2020-05-21,2020-05-31,,2020-05-21
+Bogotá D.C.,Bogotá D.C.,Fallecido,82,M,En estudio,Fallecido,Colombia,2020-05-25,2020-05-31,,2020-06-06
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,90,M,En estudio,Fallecido,Colombia,2020-05-17,2020-05-31,,2020-06-02
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,103,F,En estudio,Fallecido,Colombia,2020-05-20,2020-05-31,,2020-05-28
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-05-26,2020-05-31,,2020-05-30
+Buenaventura,Buenaventura D.E.,Fallecido,54,M,En estudio,Fallecido,Colombia,2020-05-26,2020-05-31,,2020-06-02
+Leticia,Amazonas,Fallecido,49,F,En estudio,Fallecido,Colombia,2020-05-22,2020-05-31,,2020-05-23
+Buenaventura,Buenaventura D.E.,Fallecido,70,F,En estudio,Fallecido,Colombia,2020-05-26,2020-05-31,,2020-05-26
+Barranquilla,Barranquilla D.E.,Fallecido,50,M,En estudio,Fallecido,Colombia,2020-05-27,2020-05-31,,2020-06-05
+Barranquilla,Barranquilla D.E.,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-05-24,2020-05-31,,2020-05-26
+Barranquilla,Barranquilla D.E.,Fallecido,45,M,En estudio,Fallecido,Colombia,2020-05-27,2020-05-31,,2020-06-03
+San Andrés de Tumaco,Nariño,Fallecido,93,F,En estudio,Fallecido,Colombia,2020-05-23,2020-05-31,,2020-05-26
+San Andrés de Tumaco,Nariño,Fallecido,39,M,En estudio,Fallecido,Colombia,2020-05-20,2020-05-31,,2020-05-20
+Barrancabermeja,Santander,Fallecido,69,M,En estudio,Fallecido,Colombia,2020-05-29,2020-05-31,,2020-06-06
+Cali,Valle del Cauca,Fallecido,34,M,En estudio,Fallecido,Colombia,2020-05-28,2020-05-31,,2020-05-29
+Buenaventura,Buenaventura D.E.,Fallecido,76,M,En estudio,Fallecido,Colombia,2020-05-28,2020-05-31,,2020-05-28
+Buenaventura,Buenaventura D.E.,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-05-28,2020-05-31,,2020-05-28
+Barranquilla,Barranquilla D.E.,Fallecido,78,F,En estudio,Fallecido,Colombia,2020-05-13,SIN DA,,2020-05-24
+Buenaventura,Buenaventura D.E.,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-05-29,2020-05-31,,2020-05-27
+Barranquilla,Barranquilla D.E.,Fallecido,90,F,En estudio,Fallecido,Colombia,2020-05-28,2020-06-01,,2020-05-28
+Barranquilla,Barranquilla D.E.,Fallecido,80,F,En estudio,Fallecido,Colombia,2020-05-30,2020-06-01,,2020-06-05
+Malambo,Atlántico,Fallecido,46,M,En estudio,Fallecido,Colombia,2020-05-29,2020-06-01,,2020-06-04
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,90,M,En estudio,Fallecido,Colombia,2020-05-24,2020-06-01,,2020-05-24
+Barranquilla,Barranquilla D.E.,Fallecido,34,M,En estudio,Fallecido,Colombia,2020-05-22,2020-06-01,,2020-05-22
+Soledad,Atlántico,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-05-27,2020-06-01,,2020-05-26
+Cali,Valle del Cauca,Fallecido,69,F,En estudio,Fallecido,Colombia,2020-05-29,2020-06-01,,2020-05-28
+Cali,Valle del Cauca,Fallecido,85,M,En estudio,Fallecido,Colombia,2020-05-23,2020-06-01,,2020-05-26
+Cali,Valle del Cauca,Fallecido,74,M,En estudio,Fallecido,Colombia,2020-05-28,2020-06-01,,2020-05-28
+Dagua,Valle del Cauca,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-05-29,2020-06-01,,2020-06-05
+Dagua,Valle del Cauca,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-05-30,2020-06-01,,2020-06-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,76,M,En estudio,Fallecido,Colombia,2020-05-29,2020-06-01,,2020-06-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,86,M,En estudio,Fallecido,Colombia,2020-05-28,2020-06-01,,2020-06-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-05-23,2020-06-01,,2020-06-06
+Bogotá D.C.,Bogotá D.C.,Fallecido,90,M,En estudio,Fallecido,Colombia,2020-05-29,2020-06-01,,2020-05-31
+Bogotá D.C.,Bogotá D.C.,Fallecido,70,F,En estudio,Fallecido,Colombia,2020-05-30,2020-06-01,,2020-05-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-05-27,2020-06-01,,2020-06-09
+Maicao,La Guajira,Fallecido,67,M,En estudio,Fallecido,Colombia,2020-05-27,2020-06-01,,2020-06-07
+Malambo,Atlántico,Fallecido,84,M,En estudio,Fallecido,Colombia,2020-05-23,2020-06-02,,2020-05-25
+Malambo,Atlántico,Fallecido,69,M,En estudio,Fallecido,Colombia,2020-05-23,2020-06-02,,2020-05-30
+Soledad,Atlántico,Fallecido,52,M,En estudio,Fallecido,Colombia,2020-05-20,2020-06-02,,2020-06-01
+Soledad,Atlántico,Fallecido,61,F,En estudio,Fallecido,Colombia,2020-05-22,2020-06-02,,2020-06-02
+Soledad,Atlántico,Fallecido,69,F,En estudio,Fallecido,Colombia,2020-05-23,2020-06-02,,2020-06-07
+Barranquilla,Barranquilla D.E.,Fallecido,47,M,En estudio,Fallecido,Colombia,2020-05-19,2020-06-02,,2020-05-30
+Barranquilla,Barranquilla D.E.,Fallecido,62,M,En estudio,Fallecido,Colombia,2020-05-26,2020-06-02,,2020-05-26
+Barranquilla,Barranquilla D.E.,Fallecido,79,F,En estudio,Fallecido,Colombia,2020-05-26,2020-06-02,,2020-05-31
+Barranquilla,Barranquilla D.E.,Fallecido,80,F,En estudio,Fallecido,Colombia,2020-05-26,2020-06-02,,2020-05-25
+Sabanagrande,Atlántico,Fallecido,65,F,En estudio,Fallecido,Colombia,2020-05-28,2020-06-02,,2020-05-31
+Barranquilla,Barranquilla D.E.,Fallecido,76,F,En estudio,Fallecido,Colombia,2020-05-24,2020-06-02,,2020-06-01
+Barranquilla,Barranquilla D.E.,Fallecido,83,F,En estudio,Fallecido,Colombia,2020-05-21,2020-06-02,,2020-05-23
+Soledad,Atlántico,Fallecido,92,F,En estudio,Fallecido,Colombia,2020-05-26,2020-06-02,,2020-05-26
+Barranquilla,Barranquilla D.E.,Fallecido,93,F,En estudio,Fallecido,Colombia,2020-05-25,2020-06-02,,2020-05-28
+Barranquilla,Barranquilla D.E.,Fallecido,60,M,En estudio,Fallecido,Colombia,2020-05-28,2020-06-02,,2020-06-02
+Barranquilla,Barranquilla D.E.,Fallecido,53,F,En estudio,Fallecido,Colombia,2020-05-28,2020-06-02,,2020-06-03
+Barranquilla,Barranquilla D.E.,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-05-25,2020-06-02,,2020-05-26
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,85,M,En estudio,Fallecido,Colombia,2020-05-27,2020-06-02,,2020-05-27
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-05-22,2020-06-02,,2020-05-28
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-05-29,2020-06-02,,2020-06-05
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,56,F,En estudio,Fallecido,Colombia,2020-05-29,2020-06-02,,2020-05-28
+Mosquera,Cundinamarca,Fallecido,79,F,En estudio,Fallecido,Colombia,2020-05-27,2020-06-02,,2020-06-01
+Girón,Santander,Fallecido,74,F,En estudio,Fallecido,Colombia,2020-05-30,2020-06-02,,2020-05-30
+Guacarí,Valle del Cauca,Fallecido,82,M,En estudio,Fallecido,Colombia,2020-05-26,2020-06-02,,2020-06-05
+Bogotá D.C.,Bogotá D.C.,Fallecido,36,F,En estudio,Fallecido,Colombia,2020-05-27,2020-06-02,,2020-05-27
+Bogotá D.C.,Bogotá D.C.,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-05-27,2020-06-02,,2020-05-30
+Bogotá D.C.,Bogotá D.C.,Fallecido,45,M,En estudio,Fallecido,Colombia,2020-05-29,2020-06-02,,2020-05-31
+Bogotá D.C.,Bogotá D.C.,Fallecido,74,F,En estudio,Fallecido,Colombia,2020-05-27,2020-06-02,,2020-05-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,59,M,En estudio,Fallecido,Colombia,2020-05-28,2020-06-02,,2020-05-30
+Bogotá D.C.,Bogotá D.C.,Fallecido,72,F,En estudio,Fallecido,Colombia,2020-05-27,2020-06-02,,2020-06-06
+Cali,Valle del Cauca,Fallecido,45,M,En estudio,Fallecido,Colombia,2020-05-30,2020-06-02,,2020-05-28
+Cali,Valle del Cauca,Fallecido,74,F,En estudio,Fallecido,Colombia,2020-05-30,2020-06-02,,2020-06-07
+Barranquilla,Barranquilla D.E.,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-05-31,2020-06-02,,2020-06-02
+Cali,Valle del Cauca,Fallecido,73,F,En estudio,Fallecido,Colombia,2020-05-29,2020-06-02,,2020-05-29
+Cali,Valle del Cauca,Fallecido,78,F,En estudio,Fallecido,Colombia,2020-05-28,2020-06-02,,2020-06-05
+Cali,Valle del Cauca,Fallecido,90,F,En estudio,Fallecido,Colombia,2020-05-30,2020-06-02,,2020-06-05
+Candelaria,Valle del Cauca,Fallecido,63,F,En estudio,Fallecido,Colombia,2020-05-29,2020-06-02,,2020-05-30
+Cali,Valle del Cauca,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-05-28,2020-06-02,,2020-05-31
+Cali,Valle del Cauca,Fallecido,53,F,En estudio,Fallecido,Colombia,2020-05-28,2020-06-02,,2020-06-04
+Pasto,Nariño,Fallecido,52,M,En estudio,Fallecido,Colombia,2020-05-23,2020-06-02,,2020-05-31
+San Andrés de Tumaco,Nariño,Fallecido,93,M,En estudio,Fallecido,Colombia,2020-05-22,2020-06-02,,2020-05-22
+San Andrés de Tumaco,Nariño,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-05-22,2020-06-02,,2020-05-30
+San Andrés de Tumaco,Nariño,Fallecido,35,M,En estudio,Fallecido,Colombia,2020-05-22,2020-06-02,,2020-05-22
+San Andrés de Tumaco,Nariño,Fallecido,84,F,En estudio,Fallecido,Colombia,2020-05-20,2020-06-02,,2020-05-20
+San Andrés de Tumaco,Nariño,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-05-22,2020-06-02,,2020-05-24
+San Andrés de Tumaco,Nariño,Fallecido,79,M,En estudio,Fallecido,Colombia,2020-05-20,2020-06-02,,2020-05-23
+Santa Rosa de Cabal,Risaralda,Fallecido,72,F,Relacionado,Fallecido,Colombia,2020-05-29,2020-06-02,,2020-06-09
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,37,M,En estudio,Asintomático,Colombia,2020-05-21,2020-06-02,,2020-06-07
+Barranquilla,Barranquilla D.E.,Fallecido,81,F,En estudio,Fallecido,Colombia,2020-05-27,2020-06-02,,2020-06-09
+Palmira,Valle del Cauca,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-05-31,2020-06-02,,2020-05-31
+Puerto Colombia,Atlántico,Fallecido,83,F,En estudio,Fallecido,Colombia,2020-05-26,2020-06-02,,2020-05-26
+Malambo,Atlántico,Fallecido,84,M,En estudio,Fallecido,Colombia,2020-05-16,2020-06-02,,2020-05-15
+Soledad,Atlántico,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-05-28,2020-06-02,,2020-05-28
+Puebloviejo,Magdalena,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-05-25,2020-06-02,,2020-05-25
+Malambo,Atlántico,Fallecido,73,F,En estudio,Fallecido,Colombia,2020-05-24,2020-06-02,,2020-05-24
+Soledad,Atlántico,Fallecido,42,M,En estudio,Fallecido,Colombia,2020-05-16,2020-06-02,,2020-05-16
+Soledad,Atlántico,Fallecido,38,M,En estudio,Fallecido,Colombia,2020-05-24,2020-06-02,,2020-06-05
+Baranoa,Atlántico,Fallecido,67,M,En estudio,Fallecido,Colombia,2020-05-21,2020-06-02,,2020-05-29
+Barranquilla,Barranquilla D.E.,Fallecido,88,F,En estudio,Fallecido,Colombia,2020-05-21,2020-06-02,,2020-05-27
+Bogotá D.C.,Bogotá D.C.,Fallecido,93,F,En estudio,Fallecido,Colombia,2020-05-29,2020-06-03,,2020-05-30
+Bogotá D.C.,Bogotá D.C.,Fallecido,58,F,En estudio,Fallecido,Colombia,2020-05-28,2020-06-03,,2020-05-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,70,F,En estudio,Fallecido,Colombia,2020-05-28,2020-06-03,,2020-06-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-06-02,2020-06-03,,2020-06-01
+Bogotá D.C.,Bogotá D.C.,Fallecido,43,M,En estudio,Fallecido,Colombia,2020-05-17,2020-06-03,,2020-06-09
+Bogotá D.C.,Bogotá D.C.,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-05-31,2020-06-03,,2020-06-08
+Bogotá D.C.,Bogotá D.C.,Fallecido,84,M,En estudio,Fallecido,Colombia,2020-05-29,2020-06-03,,2020-05-29
+Bogotá D.C.,Bogotá D.C.,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-05-28,2020-06-03,,2020-05-31
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,89,F,En estudio,Fallecido,Colombia,2020-05-25,2020-06-03,,2020-05-26
+Ciénaga,Magdalena,Fallecido,76,M,En estudio,Fallecido,Colombia,2020-05-25,2020-06-03,,2020-05-27
+Dosquebradas,Risaralda,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-05-31,2020-06-03,,2020-06-05
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,41,M,En estudio,Fallecido,Colombia,2020-05-27,2020-06-03,,2020-05-27
+Barranquilla,Barranquilla D.E.,Fallecido,89,M,En estudio,Fallecido,Colombia,2020-05-31,2020-06-03,,2020-06-02
+Barranquilla,Barranquilla D.E.,Fallecido,20,M,En estudio,Fallecido,Colombia,2020-05-28,2020-06-03,,2020-06-01
+Barranquilla,Barranquilla D.E.,Fallecido,74,M,En estudio,Fallecido,Colombia,2020-05-21,2020-06-03,,2020-06-08
+Barranquilla,Barranquilla D.E.,Fallecido,55,M,En estudio,Fallecido,Colombia,2020-05-26,2020-06-03,,2020-05-26
+Leticia,Amazonas,Fallecido,79,M,En estudio,Fallecido,Colombia,2020-05-26,2020-06-03,,2020-06-03
+Zipaquirá,Cundinamarca,Fallecido,84,F,En estudio,Fallecido,Colombia,2020-06-01,2020-06-03,,2020-06-03
+Buenaventura,Buenaventura D.E.,Fallecido,63,F,En estudio,Fallecido,Colombia,2020-05-28,2020-06-03,,2020-06-09
+Cali,Valle del Cauca,Fallecido,62,M,En estudio,Fallecido,Colombia,2020-05-31,2020-06-03,,2020-06-06
+Cali,Valle del Cauca,Fallecido,59,M,En estudio,Fallecido,Colombia,2020-05-30,2020-06-03,,2020-06-09
+Cali,Valle del Cauca,Fallecido,90,F,En estudio,Fallecido,Colombia,2020-06-01,2020-06-03,,2020-06-06
+Barranquilla,Barranquilla D.E.,Fallecido,83,F,En estudio,Fallecido,Colombia,2020-05-29,2020-06-03,,2020-05-30
+Turbaco,Bolívar,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-05-28,2020-06-03,,2020-06-02
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,79,F,En estudio,Fallecido,Colombia,2020-05-29,2020-06-03,,2020-06-01
+Cali,Valle del Cauca,Fallecido,56,M,En estudio,Fallecido,Colombia,2020-05-30,2020-06-03,,2020-05-30
+Cali,Valle del Cauca,Fallecido,41,M,En estudio,Fallecido,Colombia,2020-05-31,2020-06-03,,2020-06-08
+Ciénaga,Magdalena,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-05-29,2020-06-03,,2020-06-08
+San Andrés de Tumaco,Nariño,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-05-19,2020-06-03,,2020-05-23
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,84,F,En estudio,Fallecido,Colombia,2020-05-25,2020-06-03,,2020-05-25
+Colón,Putumayo,Fallecido,81,F,En estudio,Fallecido,Colombia,2020-05-20,2020-06-03,,2020-05-24
+Sincelejo,Sucre,Fallecido,66,M,En estudio,Asintomático,Colombia,2020-06-04,2020-06-04,,2020-05-31
+Bogotá D.C.,Bogotá D.C.,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-05-22,2020-06-04,,2020-06-05
+Bogotá D.C.,Bogotá D.C.,Fallecido,76,M,En estudio,Fallecido,Colombia,2020-05-29,2020-06-04,,2020-06-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,89,M,En estudio,Fallecido,Colombia,2020-06-02,2020-06-04,,2020-06-09
+Bogotá D.C.,Bogotá D.C.,Fallecido,76,M,Relacionado,Fallecido,Colombia,2020-05-31,2020-06-04,,2020-06-01
+Bogotá D.C.,Bogotá D.C.,Fallecido,84,M,En estudio,Fallecido,Colombia,2020-05-31,2020-06-04,,2020-06-02
+Bogotá D.C.,Bogotá D.C.,Fallecido,70,M,En estudio,Asintomático,Colombia,2020-06-01,2020-06-04,,2020-05-30
+Bogotá D.C.,Bogotá D.C.,Fallecido,84,M,En estudio,Fallecido,Colombia,2020-05-31,2020-06-04,,2020-06-01
+Bogotá D.C.,Bogotá D.C.,Fallecido,86,F,En estudio,Fallecido,Colombia,2020-06-01,2020-06-04,,2020-05-31
+Barranquilla,Barranquilla D.E.,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-05-24,2020-06-04,,2020-05-30
+Barranquilla,Barranquilla D.E.,Fallecido,39,M,En estudio,Fallecido,Colombia,2020-05-30,2020-06-04,,2020-05-30
+Santa Rosa,Bolívar,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-05-29,2020-06-04,,2020-05-31
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,42,F,En estudio,Fallecido,Colombia,2020-05-29,2020-06-04,,2020-06-08
+Soledad,Atlántico,Fallecido,74,F,En estudio,Fallecido,Colombia,2020-05-18,2020-06-04,,2020-06-04
+Soledad,Atlántico,Fallecido,68,F,En estudio,Fallecido,Colombia,2020-05-20,2020-06-04,,2020-06-09
+Puerto Colombia,Atlántico,Fallecido,61,M,En estudio,Fallecido,Colombia,2020-05-29,2020-06-04,,2020-05-29
+Soledad,Atlántico,Fallecido,83,M,En estudio,Fallecido,Colombia,2020-05-10,SIN DA,,2020-05-19
+Barranquilla,Barranquilla D.E.,Fallecido,90,M,En estudio,Fallecido,Colombia,2020-05-21,2020-06-04,,2020-05-27
+Baranoa,Atlántico,Fallecido,55,F,En estudio,Fallecido,Colombia,2020-05-28,2020-06-04,,2020-06-03
+Soledad,Atlántico,Fallecido,79,F,En estudio,Fallecido,Colombia,2020-05-22,2020-06-04,,2020-05-23
+Barranquilla,Barranquilla D.E.,Fallecido,84,M,En estudio,Fallecido,Colombia,2020-05-28,2020-06-04,,2020-05-28
+Barranquilla,Barranquilla D.E.,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-05-27,2020-06-04,,2020-05-28
+Barranquilla,Barranquilla D.E.,Fallecido,40,M,En estudio,Fallecido,Colombia,2020-05-24,2020-06-04,,2020-06-02
+Barranquilla,Barranquilla D.E.,Fallecido,90,M,En estudio,Fallecido,Colombia,2020-05-24,2020-06-04,,2020-06-03
+Malambo,Atlántico,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-05-23,2020-06-04,,2020-05-24
+Soledad,Atlántico,Fallecido,73,F,En estudio,Fallecido,Colombia,2020-05-25,2020-06-04,,2020-05-26
+Malambo,Atlántico,Fallecido,72,F,En estudio,Fallecido,Colombia,2020-05-26,2020-06-04,,2020-06-04
+Soledad,Atlántico,Fallecido,54,M,En estudio,Fallecido,Colombia,2020-05-25,2020-06-04,,2020-05-25
+Barranquilla,Barranquilla D.E.,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-05-27,2020-06-04,,2020-06-01
+San Andrés de Tumaco,Nariño,Fallecido,61,F,En estudio,Fallecido,Colombia,2020-05-26,2020-06-04,,2020-05-29
+Buenaventura,Buenaventura D.E.,Fallecido,66,F,En estudio,Fallecido,Colombia,2020-05-29,2020-06-04,,2020-05-30
+Cali,Valle del Cauca,Fallecido,63,F,En estudio,Fallecido,Colombia,2020-05-29,2020-06-04,,2020-06-08
+Cali,Valle del Cauca,Fallecido,61,M,En estudio,Fallecido,Colombia,2020-05-21,2020-06-04,,2020-05-31
+Sabanalarga,Atlántico,Fallecido,87,M,En estudio,Fallecido,Colombia,2020-05-27,2020-06-04,,2020-06-04
+Ibagué,Tolima,Fallecido,68,F,En estudio,Fallecido,Colombia,2020-06-01,2020-06-04,,2020-06-07
+Buenaventura,Buenaventura D.E.,Fallecido,55,M,En estudio,Fallecido,Colombia,2020-06-02,2020-06-04,,2020-06-05
+Cali,Valle del Cauca,Fallecido,48,M,En estudio,Fallecido,Colombia,2020-05-30,2020-06-04,,2020-06-07
+Pradera,Valle del Cauca,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-06-01,2020-06-04,,2020-06-07
+Barranquilla,Barranquilla D.E.,Fallecido,89,M,En estudio,Fallecido,Colombia,2020-05-26,2020-06-04,,2020-06-03
+Barranquilla,Barranquilla D.E.,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-05-25,2020-06-04,,2020-06-03
+Barranquilla,Barranquilla D.E.,Fallecido,86,M,En estudio,Fallecido,Colombia,2020-05-26,2020-06-04,,2020-05-28
+Barranquilla,Barranquilla D.E.,Fallecido,80,F,En estudio,Fallecido,Colombia,2020-06-01,2020-06-04,,2020-06-03
+Barranquilla,Barranquilla D.E.,Fallecido,85,F,En estudio,Fallecido,Colombia,2020-06-01,2020-06-04,,2020-06-06
+Barranquilla,Barranquilla D.E.,Fallecido,77,F,En estudio,Fallecido,Colombia,2020-05-25,2020-06-04,,2020-06-01
+Barranquilla,Barranquilla D.E.,Fallecido,75,M,En estudio,Fallecido,Colombia,2020-06-01,2020-06-04,,2020-06-05
+Malambo,Atlántico,Fallecido,46,M,En estudio,Fallecido,Colombia,2020-05-30,2020-06-04,,2020-05-31
+Barranquilla,Barranquilla D.E.,Fallecido,64,F,En estudio,Fallecido,Colombia,2020-05-27,2020-06-04,,2020-06-03
+Baranoa,Atlántico,Fallecido,69,F,En estudio,Fallecido,Colombia,2020-05-23,2020-06-04,,2020-05-26
+Soledad,Atlántico,Fallecido,61,M,En estudio,Fallecido,Colombia,2020-05-27,2020-06-04,,2020-06-08
+Barranquilla,Barranquilla D.E.,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-05-27,SIN DA,,2020-05-27
+Soledad,Atlántico,Fallecido,66,F,En estudio,Fallecido,Colombia,2020-05-27,2020-06-04,,2020-05-31
+Barranquilla,Barranquilla D.E.,Fallecido,70,F,En estudio,Fallecido,Colombia,2020-05-26,2020-06-04,,2020-06-02
+Barranquilla,Barranquilla D.E.,Fallecido,65,M,En estudio,Fallecido,Colombia,2020-05-28,2020-06-04,,2020-06-04
+Soledad,Atlántico,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-05-29,2020-06-04,,2020-06-06
+Barranquilla,Barranquilla D.E.,Fallecido,63,M,En estudio,Fallecido,Colombia,2020-05-24,2020-06-04,,2020-05-28
+Montelíbano,Córdoba,Fallecido,49,F,En estudio,Fallecido,Colombia,2020-06-03,2020-06-05,,2020-06-07
+Barranquilla,Barranquilla D.E.,Fallecido,50,M,En estudio,Fallecido,Colombia,2020-06-02,2020-06-05,,2020-06-05
+Tubará,Atlántico,Fallecido,54,M,En estudio,Fallecido,Colombia,2020-05-22,2020-06-05,,2020-05-30
+Barranquilla,Barranquilla D.E.,Fallecido,81,F,En estudio,Fallecido,Colombia,2020-05-22,2020-06-05,,2020-05-26
+Barranquilla,Barranquilla D.E.,Fallecido,59,M,En estudio,Fallecido,Colombia,2020-05-26,2020-06-05,,2020-06-02
+Barranquilla,Barranquilla D.E.,Fallecido,55,M,En estudio,Fallecido,Colombia,2020-05-27,2020-06-05,,2020-06-01
+Barranquilla,Barranquilla D.E.,Fallecido,81,F,En estudio,Fallecido,Colombia,2020-05-31,2020-06-05,,2020-06-07
+Barranquilla,Barranquilla D.E.,Fallecido,81,F,En estudio,Fallecido,Colombia,2020-06-01,2020-06-05,,2020-06-04
+Barranquilla,Barranquilla D.E.,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-06-01,2020-06-05,,2020-06-03
+Ricaurte,Cundinamarca,Fallecido,79,F,En estudio,Fallecido,Colombia,2020-06-01,2020-06-05,,2020-06-01
+Guaitarilla,Nariño,Fallecido,52,F,En estudio,Fallecido,Colombia,2020-05-28,2020-06-05,,2020-06-04
+Cali,Valle del Cauca,Fallecido,73,F,En estudio,Fallecido,Colombia,2020-05-06,SIN DA,,2020-06-06
+Cali,Valle del Cauca,Fallecido,61,F,En estudio,Fallecido,Colombia,2020-06-01,2020-06-05,,2020-06-02
+Barranquilla,Barranquilla D.E.,Fallecido,43,F,En estudio,Fallecido,Colombia,2020-05-27,2020-06-05,,2020-05-29
+Puebloviejo,Magdalena,Fallecido,72,M,En estudio,Fallecido,Colombia,2020-05-30,2020-06-05,,2020-05-30
+Calarcá,Quindío,Fallecido,81,F,En estudio,Fallecido,Colombia,2020-05-31,2020-06-05,,2020-06-07
+Bello,Antioquia,Fallecido,86,F,Relacionado,Fallecido,Colombia,2020-06-03,2020-06-05,,2020-06-06
+Barranquilla,Barranquilla D.E.,Fallecido,79,F,En estudio,Fallecido,Colombia,2020-06-02,2020-06-05,,2020-06-07
+Barranquilla,Barranquilla D.E.,Fallecido,48,M,En estudio,Fallecido,Colombia,2020-05-31,2020-06-05,,2020-06-09
+Barranquilla,Barranquilla D.E.,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-06-01,2020-06-05,,2020-06-09
+Barranquilla,Barranquilla D.E.,Fallecido,45,M,En estudio,Fallecido,Colombia,2020-06-01,2020-06-05,,2020-06-08
+Soledad,Atlántico,Fallecido,51,M,En estudio,Fallecido,Colombia,2020-06-01,2020-06-05,,2020-06-05
+Barranquilla,Barranquilla D.E.,Fallecido,31,F,En estudio,Fallecido,Colombia,2020-05-30,2020-06-05,,2020-05-30
+Zipaquirá,Cundinamarca,Fallecido,84,M,En estudio,Fallecido,Colombia,2020-06-03,2020-06-06,,2020-06-02
+San Andrés de Tumaco,Nariño,Fallecido,74,M,En estudio,Fallecido,Colombia,2020-05-20,2020-06-06,,2020-05-22
+Barranquilla,Barranquilla D.E.,Fallecido,93,M,En estudio,Fallecido,Colombia,2020-06-03,2020-06-06,,2020-06-07
+Barranquilla,Barranquilla D.E.,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-06-03,2020-06-06,,2020-06-06
+Barrancabermeja,Santander,Fallecido,87,F,En estudio,Fallecido,Colombia,2020-06-02,2020-06-06,,2020-06-03
+Soledad,Atlántico,Fallecido,32,F,En estudio,Fallecido,Colombia,2020-05-26,SIN DA,,2020-04-08
+Barranquilla,Barranquilla D.E.,Fallecido,73,M,En estudio,Fallecido,Colombia,2020-06-02,2020-06-06,,2020-06-04
+Santa Rosa,Bolívar,Fallecido,90,F,En estudio,Fallecido,Colombia,2020-05-29,2020-06-06,,2020-06-04
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,69,F,En estudio,Fallecido,Colombia,2020-05-30,2020-06-06,,2020-06-06
+San Andrés de Tumaco,Nariño,Fallecido,62,M,En estudio,Fallecido,Colombia,2020-05-20,2020-06-06,,2020-05-23
+Barranquilla,Barranquilla D.E.,Fallecido,50,M,En estudio,Fallecido,Colombia,2020-05-29,2020-06-06,,2020-06-04
+Barranquilla,Barranquilla D.E.,Fallecido,77,M,En estudio,Fallecido,Colombia,2020-05-30,2020-06-06,,2020-05-30
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,57,F,En estudio,Fallecido,Colombia,2020-05-31,2020-06-06,,2020-05-31
+Maicao,La Guajira,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-06-03,2020-06-06,,2020-06-08
+Sincelejo,Sucre,Fallecido,62,M,En estudio,Fallecido,Colombia,2020-06-01,2020-06-06,,2020-06-09
+Acacías,Meta,Fallecido,63,F,En estudio,Fallecido,Colombia,2020-05-31,2020-06-06,,2020-06-10
+Bogotá D.C.,Bogotá D.C.,Fallecido,92,F,En estudio,Fallecido,Colombia,2020-06-03,2020-06-06,,2020-06-01
+Bogotá D.C.,Bogotá D.C.,Fallecido,79,F,En estudio,Fallecido,Colombia,2020-06-03,2020-06-06,,2020-06-05
+Bogotá D.C.,Bogotá D.C.,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-06-04,2020-06-06,,2020-06-05
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-06-03,2020-06-06,,2020-06-03
+Soledad,Atlántico,Fallecido,80,F,En estudio,Fallecido,Colombia,2020-05-26,2020-06-06,,2020-06-04
+Barranquilla,Barranquilla D.E.,Fallecido,60,F,En estudio,Fallecido,Colombia,2020-06-04,2020-06-06,,2020-06-04
+Soledad,Atlántico,Fallecido,68,F,En estudio,Fallecido,Colombia,2020-06-03,2020-06-06,,2020-06-03
+Soledad,Atlántico,Fallecido,42,M,En estudio,Fallecido,Colombia,2020-06-02,2020-06-06,,2020-06-02
+Barranquilla,Barranquilla D.E.,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-06-01,2020-06-06,,2020-06-01
+Malambo,Atlántico,Fallecido,81,M,En estudio,Fallecido,Colombia,2020-06-03,2020-06-06,,2020-06-04
+Barranquilla,Barranquilla D.E.,Fallecido,86,M,En estudio,Fallecido,Colombia,2020-06-03,2020-06-06,,2020-06-03
+Barranquilla,Barranquilla D.E.,Fallecido,83,F,En estudio,Fallecido,Colombia,2020-06-01,2020-06-06,,2020-06-03
+Soledad,Atlántico,Fallecido,84,M,En estudio,Fallecido,Colombia,2020-06-02,2020-06-06,,2020-06-08
+Villanueva,Bolívar,Fallecido,69,F,En estudio,Fallecido,Colombia,2020-05-29,2020-06-06,,2020-05-30
+Galapa,Atlántico,Fallecido,67,M,En estudio,Fallecido,Colombia,2020-05-31,2020-06-07,,2020-05-31
+Barranquilla,Barranquilla D.E.,Fallecido,77,F,En estudio,Fallecido,Colombia,2020-06-06,2020-06-07,,2020-06-03
+Barranquilla,Barranquilla D.E.,Fallecido,94,M,En estudio,Fallecido,Colombia,2020-06-06,2020-06-07,,2020-05-31
+Barranquilla,Barranquilla D.E.,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-06-01,2020-06-07,,2020-06-02
+Barranquilla,Barranquilla D.E.,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-06-03,2020-06-07,,2020-06-06
+Tubará,Atlántico,Fallecido,50,M,En estudio,Fallecido,Colombia,2020-06-01,2020-06-07,,2020-06-01
+Barranquilla,Barranquilla D.E.,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-06-03,2020-06-07,,2020-06-04
+Barranquilla,Barranquilla D.E.,Fallecido,92,F,En estudio,Fallecido,Colombia,2020-06-03,2020-06-07,,2020-06-05
+Buenaventura,Buenaventura D.E.,Fallecido,86,M,En estudio,Fallecido,Colombia,2020-05-22,2020-06-07,,2020-05-22
+Cali,Valle del Cauca,Fallecido,74,F,En estudio,Fallecido,Colombia,2020-06-02,2020-06-07,,2020-06-03
+Cali,Valle del Cauca,Fallecido,71,M,En estudio,Fallecido,Colombia,2020-05-31,2020-06-07,,2020-06-08
+Leticia,Amazonas,Fallecido,95,M,En estudio,Fallecido,Colombia,2020-06-02,2020-06-07,,2020-06-02
+Barranquilla,Barranquilla D.E.,Fallecido,67,F,En estudio,Fallecido,Colombia,2020-06-04,2020-06-07,,2020-06-08
+Quibdó,Chocó,Fallecido,34,M,En estudio,Fallecido,Colombia,2020-05-29,2020-06-07,,2020-06-02
+Junín,Cundinamarca,Fallecido,89,F,En estudio,Fallecido,Colombia,2020-06-01,2020-06-07,,2020-06-05
+San Luis,Tolima,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-05-22,2020-06-07,,2020-06-07
+Jamundí,Valle del Cauca,Fallecido,102,F,En estudio,Fallecido,Colombia,2020-05-28,2020-06-07,,2020-05-28
+Cali,Valle del Cauca,Fallecido,93,M,En estudio,Fallecido,Colombia,2020-06-03,2020-06-07,,2020-06-05
+Bogotá D.C.,Bogotá D.C.,Fallecido,84,F,En estudio,Fallecido,Colombia,2020-05-07,2020-06-07,,2020-06-03
+Bogotá D.C.,Bogotá D.C.,Fallecido,87,M,En estudio,Fallecido,Colombia,2020-06-02,2020-06-07,,2020-06-08
+Bogotá D.C.,Bogotá D.C.,Fallecido,30,M,En estudio,Fallecido,Colombia,2020-06-02,2020-06-07,,2020-06-06
+Montería,Córdoba,Fallecido,81,F,En estudio,Fallecido,Colombia,2020-06-07,2020-06-07,,2020-06-07
+Sahagún,Córdoba,Fallecido,64,M,Relacionado,Fallecido,Colombia,2020-06-07,2020-06-07,,2020-06-06
+Soledad,Atlántico,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-06-04,2020-06-07,,2020-06-08
+Barranquilla,Barranquilla D.E.,Fallecido,60,M,En estudio,Fallecido,Colombia,2020-06-02,2020-06-07,,2020-06-03
+Barranquilla,Barranquilla D.E.,Fallecido,70,F,En estudio,Fallecido,Colombia,2020-06-04,2020-06-07,,2020-06-04
+Barranquilla,Barranquilla D.E.,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-06-04,2020-06-07,,2020-06-04
+Soledad,Atlántico,Fallecido,75,F,En estudio,Fallecido,Colombia,2020-06-04,2020-06-07,,2020-06-04
+Soledad,Atlántico,Fallecido,96,M,En estudio,Fallecido,Colombia,2020-06-04,2020-06-07,,2020-06-04
+Soledad,Atlántico,Fallecido,83,F,En estudio,Fallecido,Colombia,2020-06-02,2020-06-07,,2020-06-02
+Barranquilla,Barranquilla D.E.,Fallecido,92,F,En estudio,Fallecido,Colombia,2020-06-04,2020-06-07,,2020-06-04
+Barranquilla,Barranquilla D.E.,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-06-06,2020-06-08,,2020-06-05
+Leticia,Amazonas,Fallecido,71,F,En estudio,Fallecido,Colombia,2020-06-03,2020-06-08,,2020-06-05
+Soledad,Atlántico,Fallecido,40,M,En estudio,Fallecido,Colombia,2020-06-02,2020-06-08,,2020-06-02
+Soledad,Atlántico,Fallecido,44,M,En estudio,Fallecido,Colombia,2020-06-04,2020-06-08,,2020-06-04
+Soledad,Atlántico,Fallecido,48,F,En estudio,Fallecido,Colombia,2020-06-02,2020-06-08,,2020-06-01
+Barranquilla,Barranquilla D.E.,Fallecido,66,M,En estudio,Fallecido,Colombia,2020-06-01,2020-06-08,,2020-06-01
+Barranquilla,Barranquilla D.E.,Fallecido,84,M,En estudio,Fallecido,Colombia,2020-05-24,2020-06-08,,2020-06-03
+Barranquilla,Barranquilla D.E.,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-06-01,2020-06-08,,2020-06-01
+Barranquilla,Barranquilla D.E.,Fallecido,82,F,En estudio,Fallecido,Colombia,2020-06-02,2020-06-08,,2020-05-31
+Barranquilla,Barranquilla D.E.,Fallecido,68,F,En estudio,Fallecido,Colombia,2020-06-03,2020-06-08,,2020-06-03
+Malambo,Atlántico,Fallecido,74,F,En estudio,Fallecido,Colombia,2020-05-29,2020-06-08,,2020-05-29
+Barranquilla,Barranquilla D.E.,Fallecido,62,M,En estudio,Fallecido,Colombia,2020-06-02,2020-06-08,,2020-06-03
+Barranquilla,Barranquilla D.E.,Fallecido,58,M,En estudio,Fallecido,Colombia,2020-06-02,2020-06-08,,2020-06-07
+Soledad,Atlántico,Fallecido,71,F,En estudio,Fallecido,Colombia,2020-05-30,2020-06-08,,2020-06-01
+Mosquera,Cundinamarca,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-05-31,2020-06-08,,2020-06-04
+Pasto,Nariño,Fallecido,85,F,En estudio,Fallecido,Colombia,2020-05-28,2020-06-08,,2020-06-08
+Cali,Valle del Cauca,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-06-04,2020-06-08,,2020-06-06
+Barranquilla,Barranquilla D.E.,Fallecido,52,F,En estudio,Fallecido,Colombia,2020-05-25,2020-06-08,,2020-05-23
+Barranquilla,Barranquilla D.E.,Fallecido,60,M,En estudio,Fallecido,Colombia,2020-05-25,2020-06-08,,2020-06-01
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,95,F,En estudio,Fallecido,Colombia,2020-06-02,2020-06-08,,2020-06-01
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,70,M,En estudio,Fallecido,Colombia,2020-06-02,2020-06-08,,2020-06-04
+Ciénaga,Magdalena,Fallecido,63,F,En estudio,Fallecido,Colombia,2020-06-02,2020-06-08,,2020-06-05
+Puerto Tejada,Cauca,Fallecido,78,M,En estudio,Fallecido,Colombia,2020-06-03,2020-06-08,,2020-06-08
+Barranquilla,Barranquilla D.E.,Fallecido,59,F,En estudio,Fallecido,Colombia,2020-06-07,2020-06-07,,2020-06-03
+Barranquilla,Barranquilla D.E.,Fallecido,81,F,En estudio,Fallecido,Colombia,2020-06-07,2020-06-07,,2020-06-03
+Floridablanca,Santander,Fallecido,80,M,En estudio,Fallecido,Colombia,2020-06-07,2020-06-08,,2020-06-06
+Barranquilla,Barranquilla D.E.,Fallecido,78,F,En estudio,Fallecido,Colombia,2020-05-26,2020-06-08,,2020-06-03
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,55,M,En estudio,Fallecido,Colombia,2020-06-04,2020-06-08,,2020-06-04
+Vianí,Cundinamarca,Fallecido,76,M,En estudio,Fallecido,Colombia,2020-06-04,2020-06-08,,2020-06-04
+Cali,Valle del Cauca,Fallecido,65,F,En estudio,Fallecido,Colombia,2020-06-01,2020-06-08,,2020-06-06
+Bogotá D.C.,Bogotá D.C.,Fallecido,87,M,En estudio,Fallecido,Colombia,2020-05-15,2020-06-08,,2020-06-07
+Bogotá D.C.,Bogotá D.C.,Fallecido,57,F,En estudio,Fallecido,Colombia,2020-06-03,2020-06-08,,2020-06-07
+Bogotá D.C.,Bogotá D.C.,Fallecido,71,F,En estudio,Fallecido,Colombia,2020-06-01,2020-06-08,,2020-06-04
+Soledad,Atlántico,Fallecido,58,F,En estudio,Fallecido,Colombia,2020-06-05,2020-06-08,,2020-06-08
+Barranquilla,Barranquilla D.E.,Fallecido,49,M,En estudio,Fallecido,Colombia,2020-06-06,2020-06-08,,2020-06-08
+Bogotá D.C.,Bogotá D.C.,Fallecido,55,F,En estudio,Fallecido,Colombia,2020-05-30,2020-06-09,,2020-06-04
+Bogotá D.C.,Bogotá D.C.,Fallecido,46,M,En estudio,Fallecido,Colombia,2020-06-06,2020-06-09,,2020-06-08
+Bogotá D.C.,Bogotá D.C.,Fallecido,97,F,En estudio,Fallecido,Colombia,2020-06-05,2020-06-09,,2020-06-04
+Cali,Valle del Cauca,Fallecido,77,M,En estudio,Fallecido,Colombia,2020-06-03,2020-06-09,,2020-06-02
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,60,M,En estudio,Fallecido,Colombia,2020-06-07,2020-06-09,,2020-06-07
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,52,F,En estudio,Fallecido,Colombia,2020-06-02,2020-06-09,,2020-06-04
+Barranquilla,Barranquilla D.E.,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-06-05,2020-06-09,,2020-06-06
+Barranquilla,Barranquilla D.E.,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-06-01,2020-06-09,,2020-06-01
+Pasto,Nariño,Fallecido,33,M,En estudio,Fallecido,Colombia,2020-06-03,2020-06-09,,2020-06-03
+Soledad,Atlántico,Fallecido,59,M,En estudio,Fallecido,Colombia,2020-05-25,2020-06-09,,2020-06-02
+Barranquilla,Barranquilla D.E.,Fallecido,58,F,En estudio,Fallecido,Colombia,2020-06-03,2020-06-09,,2020-06-03
+Maicao,La Guajira,Fallecido,55,M,En estudio,Fallecido,Colombia,2020-06-03,2020-06-09,,2020-06-07
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,88,F,En estudio,Fallecido,Colombia,2020-05-27,2020-06-09,,2020-05-27
+Barranquilla,Barranquilla D.E.,Fallecido,62,M,En estudio,Fallecido,Colombia,2020-05-27,2020-06-09,,2020-06-02
+Barranquilla,Barranquilla D.E.,Fallecido,68,M,En estudio,Fallecido,Colombia,2020-05-21,2020-06-09,,2020-06-01
+Barranquilla,Barranquilla D.E.,Fallecido,57,M,En estudio,Fallecido,Colombia,2020-06-03,2020-06-09,,2020-06-06
+Malambo,Atlántico,Fallecido,64,F,En estudio,Fallecido,Colombia,2020-06-03,2020-06-09,,2020-06-03
+Soledad,Atlántico,Fallecido,54,F,En estudio,Fallecido,Colombia,2020-06-03,2020-06-09,,2020-06-02
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,60,F,En estudio,Fallecido,Colombia,2020-06-05,2020-06-09,,2020-06-05
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,88,M,En estudio,Fallecido,Colombia,2020-06-06,2020-06-09,,2020-06-06
+El Cerrito,Valle del Cauca,Fallecido,39,M,Relacionado,Fallecido,Colombia,2020-03-26,2020-06-09,,2020-04-02
+Cartagena de Indias,Cartagena D.T. y C.,Fallecido,72,F,En estudio,Fallecido,Colombia,2020-06-02,2020-06-10,,2020-06-08
+Buenaventura,Buenaventura D.E.,Fallecido,62,F,En estudio,Fallecido,Colombia,2020-06-08,2020-06-10,,2020-06-08
+Inírida,Guainía,Fallecido,73,F,En estudio,Fallecido,Colombia,2020-06-05,2020-06-10,,2020-06-07
+Buenaventura,Buenaventura D.E.,Fallecido,85,F,En estudio,Fallecido,Colombia,2020-06-07,2020-06-10,,2020-06-07
+Barranquilla,Barranquilla D.E.,Fallecido,64,M,En estudio,Fallecido,Colombia,2020-06-03,2020-06-10,,2020-06-09
+Pasto,Nariño,Fallecido,59,F,En estudio,Fallecido,Colombia,2020-05-31,2020-06-10,,2020-06-01
+San Andrés de Tumaco,Nariño,Fallecido,76,F,En estudio,Fallecido,Colombia,2020-05-30,2020-06-10,,2020-05-30
