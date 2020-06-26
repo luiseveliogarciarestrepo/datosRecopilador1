@@ -1,12 +1,8 @@
-import requests
 import os
 import csv
 import pyinputplus as pyip
 
-# Dirección web del archivo
-# direccion_url = 'https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD&bom=true&format=true'
-
-# 'Uncomment regions para trabajar si ya tiene definido el 'Path'.
+'''Uncomment regions para definir el Path'''
 direccion_local = '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'     # En mi Compaq
 # direccion_local = '/Users/Dr.LuisEvelioRestrepoGarcia/datosRecopilador/CovidColombia.csv'    # En mi Apple
 
@@ -17,21 +13,7 @@ m = 15
 s = 6
 j = '.'
 
-#  Quitar ## 'Uncomment region' para obtener la base de datos actualizada y guardarla en disco local.
-#  Para trabajar con el archivo en disco local, volver a ## 'Comment out region'
-
-# datos_req = requests.get(direccion_url)
-# try:
-#     datos_req.raise_for_status()
-# except Exception as exc:
-#     print('Problema en la descarga: %s' % (exc))
-# print(datos_req.status_code == requests.codes.ok)
-# playFile = open('CovidColombia.csv', 'wb')
-# for chunk in datos_req.iter_content(100000):
-#     playFile.write(chunk)
-# playFile.close()
-
-# Funciones
+'''Funciones'''
 
 
 def ajusteFechas(row):  # Toma formato de fechas del archivo, hace la partición en 'T' y devuelve el primer índice => 2020-06-05T00:00:00:00 => 2020-06-05
@@ -191,7 +173,9 @@ variable = variableIngresada()
 cuenta = 0
 print(variable)
 print()
-archivoCsv = open(variable + 'datosGompertz'+'.csv', 'w', newline='')
+nombre_archivo = variable + 'datosGompertz' + '.csv'
+archivoCsv = open(nombre_archivo, 'w', newline='')
+
 nuevoCsv = csv.writer(archivoCsv)
 
 if variable == 'Todas':
@@ -222,4 +206,3 @@ print('Número de casos con la variable ' + '\"' + variable + '\"' + ' es de ' +
 archivoCsv.close()
 
 # Para convertir el archivo csv a libreoffice .ods
-# ssconvert inputfile.csv outputfile.ods

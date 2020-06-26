@@ -1,12 +1,9 @@
-import requests
 import os
 import csv
 import pyinputplus as pyip
 
-# Dirección web del archivo
-# direccion_url = 'https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD&bom=true&format=true'
 
-# 'Uncomment regions para trabajar si ya tiene definido el 'Path'.
+'''Uncomment regions para establecer el Path'''
 direccion_local = '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'     # En mi Compaq
 # direccion_local = '/Users/Dr.LuisEvelioRestrepoGarcia/datosRecopilador/CovidColombia.csv'    # En mi Apple
 
@@ -16,20 +13,6 @@ l = 25
 m = 15
 s = 6
 j = '.'
-
-#  Quitar ## 'Uncomment region' para obtener la base de datos actualizada y guardarla en disco local.
-#  Para trabajar con el archivo en disco local, volver a ## 'Comment out region'
-
-# datos_req = requests.get(direccion_url)
-# try:
-#     datos_req.raise_for_status()
-# except Exception as exc:
-#     print('Problema en la descarga: %s' % (exc))
-# print(datos_req.status_code == requests.codes.ok)
-# playFile = open('CovidColombia.csv', 'wb')
-# for chunk in datos_req.iter_content(100000):
-#     playFile.write(chunk)
-# playFile.close()
 
 # Funciones
 
