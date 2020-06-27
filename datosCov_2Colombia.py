@@ -1,3 +1,4 @@
+import subprocess
 import os
 import csv
 import pyinputplus as pyip
@@ -177,7 +178,9 @@ variable = variableIngresada()
 cuenta = 0
 print(variable)
 print()
-archivoCsv = open(variable + '.csv', 'w', newline='')
+
+nombre_archivo = variable + '.csv'
+archivoCsv = open(nombre_archivo, 'w', newline='')
 nuevoCsv = csv.writer(archivoCsv)
 
 if variable == 'Todas':
@@ -206,3 +209,7 @@ print('\n')
 print('Número de casos con la variable ' + '\"' + variable + '\"' + ' es de ' + str(cuenta) + '.')
 
 archivoCsv.close()
+
+subprocess.run(['ssconvert', nombre_archivo, variable + '.ods'])
+subprocess.run(['rm', nombre_archivo])
+subprocess.run(['libreoffice', variable + '.ods'])

@@ -1,3 +1,4 @@
+import subprocess
 import os
 import csv
 import pyinputplus as pyip
@@ -206,3 +207,7 @@ print('Número de casos con la variable ' + '\"' + variable + '\"' + ' es de ' +
 archivoCsv.close()
 
 # Para convertir el archivo csv a libreoffice .ods
+# subprocess.run(['ssconvert', variable + 'datosGompertz' + '.csv', variable + '20'+'.ods'])
+subprocess.run(['ssconvert', nombre_archivo, variable + 'Gompertz' + '.ods'])
+subprocess.run(['rm', nombre_archivo])
+subprocess.run(['libreoffice', variable + 'Gompertz' + '.ods'])
