@@ -211,3 +211,10 @@ archivoCsv.close()
 subprocess.run(['ssconvert', nombre_archivo, variable + 'Gompertz' + '.ods'])
 subprocess.run(['rm', nombre_archivo])
 subprocess.run(['libreoffice', variable + 'Gompertz' + '.ods'])
+
+print("Si quiere abrir el nuevo archivo en una hoja de cálculo, escriba 'SI'.  De lo contrario escriba 'NO'")
+a = input()
+if a == 'SI':
+    subprocess.run(['libreoffice', variable + '.ods'])
+else:
+    print ('Ha sido un placer.  Chiao')
