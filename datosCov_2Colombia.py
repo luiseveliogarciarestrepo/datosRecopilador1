@@ -3,12 +3,12 @@ import os
 import csv
 import pyinputplus as pyip
 
-# Dirección web del archivo
-# direccion_url = 'https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD&bom=true&format=true'
+#Dirección web del archivo
+##direccion_url = 'https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD&bom=true&format=true'
 
 # 'Uncomment regions para trabajar si ya tiene definido el 'Path'.
-direccion_local = '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'     # En mi Compaq
-# direccion_local = '/Users/Dr.LuisEvelioRestrepoGarcia/datosRecopilador/CovidColombia.csv'    # En mi Apple
+##direccion_local = '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'     # En mi Compaq
+direccion_local = '/Users/Dr.LuisEvelioRestrepoGarcia/datosRecopilador/CovidColombia.csv'    # En mi Apple
 
 # Parámetros formato de impresión
 
@@ -17,21 +17,21 @@ m = 15
 s = 6
 j = '.'
 
-#  Quitar ## 'Uncomment region' para obtener la base de datos actualizada y guardarla en disco local.
-#  Para trabajar con el archivo en disco local, volver a ## 'Comment out region'
+'''Quitar ## 'Uncomment region' para obtener la base de datos actualizada y guardarla en disco local.
+  Para trabajar con el archivo en disco local, volver a ## 'Comment out region'
+'''
+##datos_req = requests.get(direccion_url)
+##try:
+##    datos_req.raise_for_status()
+##except Exception as exc:
+##    print('Problema en la descarga: %s' % (exc))
+##print(datos_req.status_code == requests.codes.ok)
+##playFile = open('CovidColombia.csv', 'wb')
+##for chunk in datos_req.iter_content(100000):
+##    playFile.write(chunk)
+##playFile.close()
 
-# datos_req = requests.get(direccion_url)
-# try:
-#     datos_req.raise_for_status()
-# except Exception as exc:
-#     print('Problema en la descarga: %s' % (exc))
-# print(datos_req.status_code == requests.codes.ok)
-# playFile = open('CovidColombia.csv', 'wb')
-# for chunk in datos_req.iter_content(100000):
-#     playFile.write(chunk)
-# playFile.close()
-
-# Funciones
+## Funciones
 
 
 def ajusteFechas(row):  # Toma formato de fechas del archivo, hace la partición en 'T' y devuelve el primer índice => 2020-06-05T00:00:00:00 => 2020-06-05
@@ -104,12 +104,11 @@ def variableIngresada():  # Para permitir que el usuario seleccione correctament
         return variable3
 
     else:
-
         variable4 = pyip.inputMenu(paises, blank=True, numbered=True)
         return variable4
 
 
-# Construye listado de variables que están en la base de datos.  Los que empiezan por letra tildada, quedan al final.
+#Construye listado de variables que están en la base de datos.  Los que empiezan por letra tildada, quedan al final.
 ciudades = []
 for row in archivo():
     if row['Ciudad de ubicación'] in ciudades:
@@ -117,9 +116,9 @@ for row in archivo():
     else:
         ciudades.append(row['Ciudad de ubicación'])
 ciudades.sort()
-# print(ciudades)
+print(ciudades)
 
-# Construye listado de Departamentos que están en la base de datos
+ #Construye listado de Departamentos que están en la base de datos
 departamento = []
 for row in archivo():
     if row['Departamento o Distrito '] in departamento:
@@ -127,7 +126,7 @@ for row in archivo():
     else:
         departamento.append(row['Departamento o Distrito '])
 departamento.sort()
-# print(departamento)
+print(departamento)
 
 # Construye listado de Países de procedencia que están en la base datos
 paises = []
@@ -137,8 +136,8 @@ for row in archivo():
     else:
         paises.append(row['País de procedencia'])
 paises.sort()
-# print(paises)
-##
+print(paises)
+
 
 # Construye listado de los Estados que están en la base datos:  Asintomático, leve, moderado, grave o fallecido.
 estados = []
@@ -148,7 +147,7 @@ for row in archivo():
     else:
         estados.append(row['Estado'])
 estados.sort()
-# print(estados)
+print(estados)
 
 # Construye listado de los Tipos que están en la base datos:  En estudio, importado o relacionado.
 tipos = []
@@ -158,7 +157,7 @@ for row in archivo():
     else:
         tipos.append(row['Tipo'])
 tipos.sort()
-# print(tipos)
+print(tipos)
 
 # Construye listado de la atención recibida que está en la base datos:  Casa, hospital, hospital UCI, recuperado o fallecido.
 atenciones = []
@@ -168,7 +167,7 @@ for row in archivo():
     else:
         atenciones.append(row['atención'])
 tipos.sort()
-# print(atenciones)
+print(atenciones)
 
 # Programa principal
 
