@@ -2,11 +2,14 @@ import subprocess
 import os
 import csv
 import pyinputplus as pyip
+from datetime import date
 
+today = date.today()
+hoy = today.strftime("%d/%m/%Y")
 
 '''Uncomment regions para establecer el Path'''
-direccion_local = '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'     # En mi Compaq
-# direccion_local = '/Users/Dr.LuisEvelioRestrepoGarcia/datosRecopilador/CovidColombia.csv'    # En mi Apple
+#direccion_local = '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'     # En mi Compaq
+direccion_local = '/Users/Dr.LuisEvelioRestrepoGarcia/datosRecopilador/CovidColombia.csv'    # En mi Apple
 
 # Parámetros formato de impresión
 
@@ -156,9 +159,10 @@ tipos.sort()
 
 # Programa principal
 
-print('''Información actualizada desde la base de datos del Instituto Nacional de Salud Colombiano.
-
- Elaborado por LUIS EVELIO GARCÍA RESTREPO, MD., MAS., EF.
+print('Información base de datos del Instituto Nacional de Salud Colombiano al',hoy)
+print('Información proyecciones de población Dane 2018-2023. CNPV 2018. Difusión: Febrero de 2020')
+print()
+print(''' Elaborado por LUIS EVELIO GARCÍA RESTREPO, MD., MAS., EF.
                DANIEL GARCÍA VÁSQUEZ  Ingenieurwesen Studierende
 
  Variables agrupadas:
