@@ -2,7 +2,6 @@ import requests
 import os
 import csv
 
-
 '''Dirección web del archivo a descargar'''
 direccion_url = 'https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD&bom=true&format=true'
 
