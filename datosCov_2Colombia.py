@@ -2,20 +2,33 @@ import subprocess
 import os
 import csv
 import pyinputplus as pyip
+from datetime import date
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 '''Uncomment regions para establecer el Path'''
 direccion_local = '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'     # En mi Compaq
 # direccion_local = '/Users/Dr.LuisEvelioRestrepoGarcia/datosRecopilador/CovidColombia.csv'    # En mi Apple
 =======
+today = date.today()
+hoy = today.strftime("%d/%m/%Y")
+
+'''Uncomment regions para establecer el Path'''
+#direccion_local = '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'     # En mi Compaq
+>>>>>>> calculos
+=======
 #Dirección web del archivo
 ##direccion_url = 'https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD&bom=true&format=true'
 
 # 'Uncomment regions para trabajar si ya tiene definido el 'Path'.
 ##direccion_local = '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'     # En mi Compaq
-direccion_local = '/Users/Dr.LuisEvelioRestrepoGarcia/datosRecopilador/CovidColombia.csv'    # En mi Apple
 >>>>>>> def19cea9326682f992bb7b9537676557968da81
+direccion_local = '/Users/Dr.LuisEvelioRestrepoGarcia/datosRecopilador/CovidColombia.csv'    # En mi Apple
+<<<<<<< HEAD
+>>>>>>> def19cea9326682f992bb7b9537676557968da81
+=======
+>>>>>>> calculos
 
 # Parámetros formato de impresión
 
@@ -182,9 +195,10 @@ print(atenciones)
 
 # Programa principal
 
-print('''Información actualizada desde la base de datos del Instituto Nacional de Salud Colombiano.
-
- Elaborado por LUIS EVELIO GARCÍA RESTREPO, MD., MAS., EF.
+print('Información base de datos del Instituto Nacional de Salud Colombiano al',hoy)
+print('Información proyecciones de población Dane 2018-2023. CNPV 2018. Difusión: Febrero de 2020')
+print()
+print(''' Elaborado por LUIS EVELIO GARCÍA RESTREPO, MD., MAS., EF.
                DANIEL GARCÍA VÁSQUEZ  Ingenieurwesen Studierende
 
  Variables agrupadas:

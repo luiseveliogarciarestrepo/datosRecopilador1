@@ -8,6 +8,7 @@ direccion_url = 'https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessTyp
 
 '''Uncomment para definir el Path'''
 
+
 direccion_local = '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'     # En mi Compaq
 # direccion_local = '/Users/Dr.LuisEvelioRestrepoGarcia/datosRecopilador/CovidColombia.csv'    # En mi Apple
 
