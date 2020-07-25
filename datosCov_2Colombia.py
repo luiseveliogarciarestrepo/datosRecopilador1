@@ -3,19 +3,14 @@ import os
 import csv
 import pyinputplus as pyip
 
-<<<<<<< HEAD
 
-'''Uncomment regions para establecer el Path'''
-direccion_local = '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'     # En mi Compaq
-# direccion_local = '/Users/Dr.LuisEvelioRestrepoGarcia/datosRecopilador/CovidColombia.csv'    # En mi Apple
-=======
 #Dirección web del archivo
 ##direccion_url = 'https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD&bom=true&format=true'
 
 # 'Uncomment regions para trabajar si ya tiene definido el 'Path'.
 ##direccion_local = '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'     # En mi Compaq
 direccion_local = '/Users/Dr.LuisEvelioRestrepoGarcia/datosRecopilador/CovidColombia.csv'    # En mi Apple
->>>>>>> def19cea9326682f992bb7b9537676557968da81
+
 
 # Parámetros formato de impresión
 
@@ -24,9 +19,9 @@ m = 15
 s = 6
 j = '.'
 
-<<<<<<< HEAD
-# Funciones
-=======
+
+
+
 '''Quitar ## 'Uncomment region' para obtener la base de datos actualizada y guardarla en disco local.
   Para trabajar con el archivo en disco local, volver a ## 'Comment out region'
 '''
@@ -41,9 +36,8 @@ j = '.'
 ##    playFile.write(chunk)
 ##playFile.close()
 
-## Funciones
->>>>>>> def19cea9326682f992bb7b9537676557968da81
 
+## Funciones
 
 def ajusteFechas(row):  # Toma formato de fechas del archivo, hace la partición en 'T' y devuelve el primer índice => 2020-06-05T00:00:00:00 => 2020-06-05
     fn = row['Fecha de notificación'].partition('T')   # Fecha de notificación
