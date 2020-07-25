@@ -137,6 +137,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,AF,Afghanistan,EMRO,210,33594,16,936
 2020-07-09,AF,Afghanistan,EMRO,59,33653,1,937
 2020-07-10,AF,Afghanistan,EMRO,541,34194,34,971
+2020-07-11,AF,Afghanistan,EMRO,157,34351,4,975
+2020-07-12,AF,Afghanistan,EMRO,100,34451,35,1010
+2020-07-13,AF,Afghanistan,EMRO,0,34451,0,1010
+2020-07-14,AF,Afghanistan,EMRO,289,34740,35,1045
+2020-07-15,AF,Afghanistan,EMRO,200,34940,49,1094
+2020-07-16,AF,Afghanistan,EMRO,130,35070,19,1113
+2020-07-17,AF,Afghanistan,EMRO,159,35229,34,1147
+2020-07-18,AF,Afghanistan,EMRO,60,35289,0,1147
 2020-03-09,AL,Albania,EURO,2,2,0,0
 2020-03-10,AL,Albania,EURO,4,6,0,0
 2020-03-11,AL,Albania,EURO,4,10,0,0
@@ -261,6 +269,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,AL,Albania,EURO,68,3106,2,83
 2020-07-09,AL,Albania,EURO,82,3188,0,83
 2020-07-10,AL,Albania,EURO,90,3278,2,85
+2020-07-11,AL,Albania,EURO,93,3371,4,89
+2020-07-12,AL,Albania,EURO,0,3371,0,89
+2020-07-13,AL,Albania,EURO,200,3571,6,95
+2020-07-14,AL,Albania,EURO,96,3667,2,97
+2020-07-15,AL,Albania,EURO,85,3752,4,101
+2020-07-16,AL,Albania,EURO,99,3851,3,104
+2020-07-17,AL,Albania,EURO,55,3906,3,107
+2020-07-18,AL,Albania,EURO,0,3906,0,107
 2020-02-25,DZ,Algeria,AFRO,1,1,0,0
 2020-02-26,DZ,Algeria,AFRO,0,1,0,0
 2020-02-27,DZ,Algeria,AFRO,0,1,0,0
@@ -398,6 +414,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,DZ,Algeria,AFRO,475,16879,9,968
 2020-07-09,DZ,Algeria,AFRO,469,17348,10,978
 2020-07-10,DZ,Algeria,AFRO,460,17808,10,988
+2020-07-11,DZ,Algeria,AFRO,434,18242,8,996
+2020-07-12,DZ,Algeria,AFRO,470,18712,8,1004
+2020-07-13,DZ,Algeria,AFRO,483,19195,7,1011
+2020-07-14,DZ,Algeria,AFRO,494,19689,7,1018
+2020-07-15,DZ,Algeria,AFRO,527,20216,10,1028
+2020-07-16,DZ,Algeria,AFRO,554,20770,12,1040
+2020-07-17,DZ,Algeria,AFRO,585,21355,12,1052
+2020-07-18,DZ,Algeria,AFRO,593,21948,5,1057
 2020-03-02,AD,Andorra,EURO,1,1,0,0
 2020-03-03,AD,Andorra,EURO,0,1,0,0
 2020-03-04,AD,Andorra,EURO,0,1,0,0
@@ -529,6 +553,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,AD,Andorra,EURO,0,855,0,52
 2020-07-09,AD,Andorra,EURO,0,855,0,52
 2020-07-10,AD,Andorra,EURO,0,855,0,52
+2020-07-11,AD,Andorra,EURO,0,855,0,52
+2020-07-12,AD,Andorra,EURO,0,855,0,52
+2020-07-13,AD,Andorra,EURO,0,855,0,52
+2020-07-14,AD,Andorra,EURO,3,858,0,52
+2020-07-15,AD,Andorra,EURO,3,861,0,52
+2020-07-16,AD,Andorra,EURO,1,862,0,52
+2020-07-17,AD,Andorra,EURO,15,877,0,52
+2020-07-18,AD,Andorra,EURO,3,880,0,52
 2020-03-21,AO,Angola,AFRO,2,2,0,0
 2020-03-22,AO,Angola,AFRO,0,2,0,0
 2020-03-23,AO,Angola,AFRO,0,2,0,0
@@ -641,6 +673,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,AO,Angola,AFRO,33,386,2,21
 2020-07-09,AO,Angola,AFRO,10,396,1,22
 2020-07-10,AO,Angola,AFRO,62,458,1,23
+2020-07-11,AO,Angola,AFRO,4,462,0,23
+2020-07-12,AO,Angola,AFRO,21,483,2,25
+2020-07-13,AO,Angola,AFRO,23,506,1,26
+2020-07-14,AO,Angola,AFRO,19,525,0,26
+2020-07-15,AO,Angola,AFRO,16,541,0,26
+2020-07-16,AO,Angola,AFRO,35,576,1,27
+2020-07-17,AO,Angola,AFRO,31,607,1,28
+2020-07-18,AO,Angola,AFRO,31,638,1,29
 2020-03-26,AI,Anguilla,AMRO,2,2,0,0
 2020-03-27,AI,Anguilla,AMRO,0,2,0,0
 2020-03-28,AI,Anguilla,AMRO,0,2,0,0
@@ -748,6 +788,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,AI,Anguilla,AMRO,0,3,0,0
 2020-07-09,AI,Anguilla,AMRO,0,3,0,0
 2020-07-10,AI,Anguilla,AMRO,0,3,0,0
+2020-07-11,AI,Anguilla,AMRO,0,3,0,0
+2020-07-12,AI,Anguilla,AMRO,0,3,0,0
+2020-07-13,AI,Anguilla,AMRO,0,3,0,0
+2020-07-14,AI,Anguilla,AMRO,0,3,0,0
+2020-07-15,AI,Anguilla,AMRO,0,3,0,0
+2020-07-16,AI,Anguilla,AMRO,0,3,0,0
+2020-07-17,AI,Anguilla,AMRO,0,3,0,0
+2020-07-18,AI,Anguilla,AMRO,0,3,0,0
 2020-03-13,AG,Antigua and Barbuda,AMRO,1,1,0,0
 2020-03-14,AG,Antigua and Barbuda,AMRO,0,1,0,0
 2020-03-15,AG,Antigua and Barbuda,AMRO,0,1,0,0
@@ -868,6 +916,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,AG,Antigua and Barbuda,AMRO,2,70,0,3
 2020-07-09,AG,Antigua and Barbuda,AMRO,0,70,0,3
 2020-07-10,AG,Antigua and Barbuda,AMRO,3,73,0,3
+2020-07-11,AG,Antigua and Barbuda,AMRO,0,73,0,3
+2020-07-12,AG,Antigua and Barbuda,AMRO,1,74,0,3
+2020-07-13,AG,Antigua and Barbuda,AMRO,0,74,0,3
+2020-07-14,AG,Antigua and Barbuda,AMRO,0,74,0,3
+2020-07-15,AG,Antigua and Barbuda,AMRO,0,74,0,3
+2020-07-16,AG,Antigua and Barbuda,AMRO,0,74,0,3
+2020-07-17,AG,Antigua and Barbuda,AMRO,0,74,0,3
+2020-07-18,AG,Antigua and Barbuda,AMRO,0,74,0,3
 2020-03-03,AR,Argentina,AMRO,1,1,0,0
 2020-03-04,AR,Argentina,AMRO,0,1,0,0
 2020-03-05,AR,Argentina,AMRO,0,1,0,0
@@ -998,6 +1054,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,AR,Argentina,AMRO,2632,80447,79,1602
 2020-07-09,AR,Argentina,AMRO,2979,83426,52,1654
 2020-07-10,AR,Argentina,AMRO,3604,87030,53,1707
+2020-07-11,AR,Argentina,AMRO,3663,90693,42,1749
+2020-07-12,AR,Argentina,AMRO,3367,94060,38,1787
+2020-07-13,AR,Argentina,AMRO,3449,97509,31,1818
+2020-07-14,AR,Argentina,AMRO,2657,100166,41,1859
+2020-07-15,AR,Argentina,AMRO,3099,103265,67,1926
+2020-07-16,AR,Argentina,AMRO,3645,106910,61,1987
+2020-07-17,AR,Argentina,AMRO,4250,111160,85,2072
+2020-07-18,AR,Argentina,AMRO,3623,114783,61,2133
 2020-03-01,AM,Armenia,EURO,1,1,0,0
 2020-03-02,AM,Armenia,EURO,0,1,0,0
 2020-03-03,AM,Armenia,EURO,0,1,0,0
@@ -1130,6 +1194,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,AM,Armenia,EURO,535,29820,18,521
 2020-07-09,AM,Armenia,EURO,526,30346,14,535
 2020-07-10,AM,Armenia,EURO,557,30903,11,546
+2020-07-11,AM,Armenia,EURO,489,31392,13,559
+2020-07-12,AM,Armenia,EURO,577,31969,6,565
+2020-07-13,AM,Armenia,EURO,182,32151,8,573
+2020-07-14,AM,Armenia,EURO,339,32490,8,581
+2020-07-15,AM,Armenia,EURO,515,33005,11,592
+2020-07-16,AM,Armenia,EURO,554,33559,15,607
+2020-07-17,AM,Armenia,EURO,442,34001,13,620
+2020-07-18,AM,Armenia,EURO,461,34462,11,631
 2020-03-17,AW,Aruba,AMRO,2,2,0,0
 2020-03-18,AW,Aruba,AMRO,2,4,0,0
 2020-03-19,AW,Aruba,AMRO,1,5,0,0
@@ -1246,6 +1318,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,AW,Aruba,AMRO,0,105,0,3
 2020-07-09,AW,Aruba,AMRO,0,105,0,3
 2020-07-10,AW,Aruba,AMRO,0,105,0,3
+2020-07-11,AW,Aruba,AMRO,0,105,0,3
+2020-07-12,AW,Aruba,AMRO,0,105,0,3
+2020-07-13,AW,Aruba,AMRO,0,105,0,3
+2020-07-14,AW,Aruba,AMRO,0,105,0,3
+2020-07-15,AW,Aruba,AMRO,0,105,0,3
+2020-07-16,AW,Aruba,AMRO,1,106,0,3
+2020-07-17,AW,Aruba,AMRO,0,106,0,3
+2020-07-18,AW,Aruba,AMRO,2,108,0,3
 2020-01-25,AU,Australia,WPRO,3,3,0,0
 2020-01-26,AU,Australia,WPRO,1,4,0,0
 2020-01-27,AU,Australia,WPRO,1,5,0,0
@@ -1414,6 +1494,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,AU,Australia,WPRO,169,8755,0,106
 2020-07-09,AU,Australia,WPRO,131,8886,0,106
 2020-07-10,AU,Australia,WPRO,173,9059,0,106
+2020-07-11,AU,Australia,WPRO,300,9359,0,106
+2020-07-12,AU,Australia,WPRO,194,9553,1,107
+2020-07-13,AU,Australia,WPRO,244,9797,1,108
+2020-07-14,AU,Australia,WPRO,183,9980,0,108
+2020-07-15,AU,Australia,WPRO,271,10251,0,108
+2020-07-16,AU,Australia,WPRO,244,10495,3,111
+2020-07-17,AU,Australia,WPRO,315,10810,2,113
+2020-07-18,AU,Australia,WPRO,425,11235,3,116
 2020-02-25,AT,Austria,EURO,2,2,0,0
 2020-02-26,AT,Austria,EURO,0,2,0,0
 2020-02-27,AT,Austria,EURO,2,4,0,0
@@ -1551,6 +1639,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,AT,Austria,EURO,89,18415,0,706
 2020-07-09,AT,Austria,EURO,101,18516,0,706
 2020-07-10,AT,Austria,EURO,97,18613,0,706
+2020-07-11,AT,Austria,EURO,74,18687,0,706
+2020-07-12,AT,Austria,EURO,108,18795,0,706
+2020-07-13,AT,Austria,EURO,52,18847,2,708
+2020-07-14,AT,Austria,EURO,12,18859,0,708
+2020-07-15,AT,Austria,EURO,201,19060,1,709
+2020-07-16,AT,Austria,EURO,55,19115,1,710
+2020-07-17,AT,Austria,EURO,153,19268,1,711
+2020-07-18,AT,Austria,EURO,138,19406,0,711
 2020-02-29,AZ,Azerbaijan,EURO,3,3,0,0
 2020-03-01,AZ,Azerbaijan,EURO,0,3,0,0
 2020-03-02,AZ,Azerbaijan,EURO,0,3,0,0
@@ -1684,6 +1780,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,AZ,Azerbaijan,EURO,537,21374,7,265
 2020-07-09,AZ,Azerbaijan,EURO,542,21916,9,274
 2020-07-10,AZ,Azerbaijan,EURO,548,22464,10,284
+2020-07-11,AZ,Azerbaijan,EURO,526,22990,8,292
+2020-07-12,AZ,Azerbaijan,EURO,531,23521,6,298
+2020-07-13,AZ,Azerbaijan,EURO,520,24041,8,306
+2020-07-14,AZ,Azerbaijan,EURO,529,24570,7,313
+2020-07-15,AZ,Azerbaijan,EURO,543,25113,6,319
+2020-07-16,AZ,Azerbaijan,EURO,559,25672,7,326
+2020-07-17,AZ,Azerbaijan,EURO,493,26165,8,334
+2020-07-18,AZ,Azerbaijan,EURO,471,26636,7,341
 2020-03-17,BS,Bahamas,AMRO,1,1,0,0
 2020-03-18,BS,Bahamas,AMRO,2,3,0,0
 2020-03-19,BS,Bahamas,AMRO,0,3,0,0
@@ -1800,6 +1904,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BS,Bahamas,AMRO,0,104,0,11
 2020-07-09,BS,Bahamas,AMRO,0,104,0,11
 2020-07-10,BS,Bahamas,AMRO,2,106,0,11
+2020-07-11,BS,Bahamas,AMRO,1,107,0,11
+2020-07-12,BS,Bahamas,AMRO,1,108,0,11
+2020-07-13,BS,Bahamas,AMRO,3,111,0,11
+2020-07-14,BS,Bahamas,AMRO,0,111,0,11
+2020-07-15,BS,Bahamas,AMRO,2,113,0,11
+2020-07-16,BS,Bahamas,AMRO,3,116,0,11
+2020-07-17,BS,Bahamas,AMRO,3,119,0,11
+2020-07-18,BS,Bahamas,AMRO,5,124,0,11
 2020-02-24,BH,Bahrain,EMRO,2,2,0,0
 2020-02-25,BH,Bahrain,EMRO,15,17,0,0
 2020-02-26,BH,Bahrain,EMRO,16,33,0,0
@@ -1938,6 +2050,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BH,Bahrain,EMRO,500,30321,0,98
 2020-07-09,BH,Bahrain,EMRO,610,30931,0,98
 2020-07-10,BH,Bahrain,EMRO,597,31528,5,103
+2020-07-11,BH,Bahrain,EMRO,511,32039,1,104
+2020-07-12,BH,Bahrain,EMRO,431,32470,0,104
+2020-07-13,BH,Bahrain,EMRO,471,32941,4,108
+2020-07-14,BH,Bahrain,EMRO,535,33476,1,109
+2020-07-15,BH,Bahrain,EMRO,602,34078,2,111
+2020-07-16,BH,Bahrain,EMRO,482,34560,6,117
+2020-07-17,BH,Bahrain,EMRO,524,35084,4,121
+2020-07-18,BH,Bahrain,EMRO,389,35473,3,124
 2020-03-08,BD,Bangladesh,SEARO,3,3,0,0
 2020-03-09,BD,Bangladesh,SEARO,0,3,0,0
 2020-03-10,BD,Bangladesh,SEARO,0,3,0,0
@@ -2063,6 +2183,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BD,Bangladesh,SEARO,3027,168645,55,2151
 2020-07-09,BD,Bangladesh,SEARO,3489,172134,46,2197
 2020-07-10,BD,Bangladesh,SEARO,3360,175494,41,2238
+2020-07-11,BD,Bangladesh,SEARO,2949,178443,37,2275
+2020-07-12,BD,Bangladesh,SEARO,2686,181129,30,2305
+2020-07-13,BD,Bangladesh,SEARO,2666,183795,47,2352
+2020-07-14,BD,Bangladesh,SEARO,3099,186894,39,2391
+2020-07-15,BD,Bangladesh,SEARO,3163,190057,33,2424
+2020-07-16,BD,Bangladesh,SEARO,3533,193590,33,2457
+2020-07-17,BD,Bangladesh,SEARO,2733,196323,39,2496
+2020-07-18,BD,Bangladesh,SEARO,3034,199357,51,2547
 2020-03-18,BB,Barbados,AMRO,2,2,0,0
 2020-03-19,BB,Barbados,AMRO,0,2,0,0
 2020-03-20,BB,Barbados,AMRO,3,5,0,0
@@ -2178,6 +2306,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BB,Barbados,AMRO,0,98,0,7
 2020-07-09,BB,Barbados,AMRO,0,98,0,7
 2020-07-10,BB,Barbados,AMRO,0,98,0,7
+2020-07-11,BB,Barbados,AMRO,0,98,0,7
+2020-07-12,BB,Barbados,AMRO,0,98,0,7
+2020-07-13,BB,Barbados,AMRO,5,103,0,7
+2020-07-14,BB,Barbados,AMRO,0,103,0,7
+2020-07-15,BB,Barbados,AMRO,0,103,0,7
+2020-07-16,BB,Barbados,AMRO,0,103,0,7
+2020-07-17,BB,Barbados,AMRO,1,104,0,7
+2020-07-18,BB,Barbados,AMRO,0,104,0,7
 2020-02-28,BY,Belarus,EURO,1,1,0,0
 2020-02-29,BY,Belarus,EURO,0,1,0,0
 2020-03-01,BY,Belarus,EURO,0,1,0,0
@@ -2312,6 +2448,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BY,Belarus,EURO,199,64003,7,436
 2020-07-09,BY,Belarus,EURO,221,64224,7,443
 2020-07-10,BY,Belarus,EURO,187,64411,6,449
+2020-07-11,BY,Belarus,EURO,193,64604,5,454
+2020-07-12,BY,Belarus,EURO,160,64764,5,459
+2020-07-13,BY,Belarus,EURO,168,64932,5,464
+2020-07-14,BY,Belarus,EURO,182,65114,4,468
+2020-07-15,BY,Belarus,EURO,155,65269,6,474
+2020-07-16,BY,Belarus,EURO,174,65443,6,480
+2020-07-17,BY,Belarus,EURO,180,65623,5,485
+2020-07-18,BY,Belarus,EURO,159,65782,6,491
 2020-02-04,BE,Belgium,EURO,1,1,0,0
 2020-02-05,BE,Belgium,EURO,0,1,0,0
 2020-02-06,BE,Belgium,EURO,0,1,0,0
@@ -2470,6 +2614,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BE,Belgium,EURO,65,62123,2,9776
 2020-07-09,BE,Belgium,EURO,87,62210,2,9778
 2020-07-10,BE,Belgium,EURO,0,62210,3,9781
+2020-07-11,BE,Belgium,EURO,259,62469,1,9782
+2020-07-12,BE,Belgium,EURO,137,62606,0,9782
+2020-07-13,BE,Belgium,EURO,101,62707,0,9782
+2020-07-14,BE,Belgium,EURO,74,62781,5,9787
+2020-07-15,BE,Belgium,EURO,0,62781,0,9787
+2020-07-16,BE,Belgium,EURO,258,63039,5,9792
+2020-07-17,BE,Belgium,EURO,199,63238,3,9795
+2020-07-18,BE,Belgium,EURO,261,63499,5,9800
 2020-03-24,BZ,Belize,AMRO,1,1,0,0
 2020-03-25,BZ,Belize,AMRO,0,1,0,0
 2020-03-26,BZ,Belize,AMRO,1,2,0,0
@@ -2579,6 +2731,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BZ,Belize,AMRO,0,30,0,2
 2020-07-09,BZ,Belize,AMRO,0,30,0,2
 2020-07-10,BZ,Belize,AMRO,0,30,0,2
+2020-07-11,BZ,Belize,AMRO,3,33,0,2
+2020-07-12,BZ,Belize,AMRO,4,37,0,2
+2020-07-13,BZ,Belize,AMRO,0,37,0,2
+2020-07-14,BZ,Belize,AMRO,0,37,0,2
+2020-07-15,BZ,Belize,AMRO,0,37,0,2
+2020-07-16,BZ,Belize,AMRO,2,39,0,2
+2020-07-17,BZ,Belize,AMRO,0,39,0,2
+2020-07-18,BZ,Belize,AMRO,1,40,0,2
 2020-03-17,BJ,Benin,AFRO,1,1,0,0
 2020-03-18,BJ,Benin,AFRO,0,1,0,0
 2020-03-19,BJ,Benin,AFRO,1,2,0,0
@@ -2695,6 +2855,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BJ,Benin,AFRO,86,1285,2,23
 2020-07-09,BJ,Benin,AFRO,0,1285,0,23
 2020-07-10,BJ,Benin,AFRO,0,1285,0,23
+2020-07-11,BJ,Benin,AFRO,0,1285,0,23
+2020-07-12,BJ,Benin,AFRO,93,1378,3,26
+2020-07-13,BJ,Benin,AFRO,0,1378,0,26
+2020-07-14,BJ,Benin,AFRO,0,1378,0,26
+2020-07-15,BJ,Benin,AFRO,85,1463,2,28
+2020-07-16,BJ,Benin,AFRO,0,1463,0,28
+2020-07-17,BJ,Benin,AFRO,0,1463,0,28
+2020-07-18,BJ,Benin,AFRO,139,1602,3,31
 2020-03-18,BM,Bermuda,AMRO,2,2,0,0
 2020-03-19,BM,Bermuda,AMRO,0,2,0,0
 2020-03-20,BM,Bermuda,AMRO,0,2,0,0
@@ -2810,6 +2978,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BM,Bermuda,AMRO,0,146,0,9
 2020-07-09,BM,Bermuda,AMRO,3,149,0,9
 2020-07-10,BM,Bermuda,AMRO,0,149,0,9
+2020-07-11,BM,Bermuda,AMRO,0,149,0,9
+2020-07-12,BM,Bermuda,AMRO,1,150,0,9
+2020-07-13,BM,Bermuda,AMRO,0,150,0,9
+2020-07-14,BM,Bermuda,AMRO,0,150,0,9
+2020-07-15,BM,Bermuda,AMRO,0,150,0,9
+2020-07-16,BM,Bermuda,AMRO,0,150,0,9
+2020-07-17,BM,Bermuda,AMRO,0,150,0,9
+2020-07-18,BM,Bermuda,AMRO,2,152,0,9
 2020-03-06,BT,Bhutan,SEARO,1,1,0,0
 2020-03-07,BT,Bhutan,SEARO,0,1,0,0
 2020-03-08,BT,Bhutan,SEARO,0,1,0,0
@@ -2937,6 +3113,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BT,Bhutan,SEARO,0,80,0,0
 2020-07-09,BT,Bhutan,SEARO,0,80,0,0
 2020-07-10,BT,Bhutan,SEARO,0,80,0,0
+2020-07-11,BT,Bhutan,SEARO,2,82,0,0
+2020-07-12,BT,Bhutan,SEARO,0,82,0,0
+2020-07-13,BT,Bhutan,SEARO,2,84,0,0
+2020-07-14,BT,Bhutan,SEARO,0,84,0,0
+2020-07-15,BT,Bhutan,SEARO,0,84,0,0
+2020-07-16,BT,Bhutan,SEARO,0,84,0,0
+2020-07-17,BT,Bhutan,SEARO,2,86,0,0
+2020-07-18,BT,Bhutan,SEARO,1,87,0,0
 2020-03-11,BO,Bolivia (Plurinational State of),AMRO,2,2,0,0
 2020-03-12,BO,Bolivia (Plurinational State of),AMRO,0,2,0,0
 2020-03-13,BO,Bolivia (Plurinational State of),AMRO,1,3,0,0
@@ -3059,6 +3243,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BO,Bolivia (Plurinational State of),AMRO,1212,40509,42,1476
 2020-07-09,BO,Bolivia (Plurinational State of),AMRO,1036,41545,54,1530
 2020-07-10,BO,Bolivia (Plurinational State of),AMRO,1439,42984,47,1577
+2020-07-11,BO,Bolivia (Plurinational State of),AMRO,1129,44113,61,1638
+2020-07-12,BO,Bolivia (Plurinational State of),AMRO,1452,45565,64,1702
+2020-07-13,BO,Bolivia (Plurinational State of),AMRO,1635,47200,52,1754
+2020-07-14,BO,Bolivia (Plurinational State of),AMRO,987,48187,53,1807
+2020-07-15,BO,Bolivia (Plurinational State of),AMRO,1063,49250,59,1866
+2020-07-16,BO,Bolivia (Plurinational State of),AMRO,1617,50867,32,1898
+2020-07-17,BO,Bolivia (Plurinational State of),AMRO,1351,52218,44,1942
+2020-07-18,BO,Bolivia (Plurinational State of),AMRO,1938,54156,42,1984
 2020-04-04,BQ,"Bonaire, Sint Eustatius and Saba",AMRO,2,2,0,0
 2020-04-05,BQ,"Bonaire, Sint Eustatius and Saba",AMRO,0,2,0,0
 2020-04-06,BQ,"Bonaire, Sint Eustatius and Saba",AMRO,0,2,0,0
@@ -3157,6 +3349,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BQ,"Bonaire, Sint Eustatius and Saba",AMRO,0,7,0,0
 2020-07-09,BQ,"Bonaire, Sint Eustatius and Saba",AMRO,0,7,0,0
 2020-07-10,BQ,"Bonaire, Sint Eustatius and Saba",AMRO,0,7,0,0
+2020-07-11,BQ,"Bonaire, Sint Eustatius and Saba",AMRO,0,7,0,0
+2020-07-12,BQ,"Bonaire, Sint Eustatius and Saba",AMRO,0,7,0,0
+2020-07-13,BQ,"Bonaire, Sint Eustatius and Saba",AMRO,0,7,0,0
+2020-07-14,BQ,"Bonaire, Sint Eustatius and Saba",AMRO,0,7,0,0
+2020-07-15,BQ,"Bonaire, Sint Eustatius and Saba",AMRO,2,9,0,0
+2020-07-16,BQ,"Bonaire, Sint Eustatius and Saba",AMRO,0,9,0,0
+2020-07-17,BQ,"Bonaire, Sint Eustatius and Saba",AMRO,1,10,0,0
+2020-07-18,BQ,"Bonaire, Sint Eustatius and Saba",AMRO,0,10,0,0
 2020-03-05,BA,Bosnia and Herzegovina,EURO,2,2,0,0
 2020-03-06,BA,Bosnia and Herzegovina,EURO,0,2,0,0
 2020-03-07,BA,Bosnia and Herzegovina,EURO,0,2,0,0
@@ -3285,6 +3485,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BA,Bosnia and Herzegovina,EURO,225,5618,13,206
 2020-07-09,BA,Bosnia and Herzegovina,EURO,250,5868,1,207
 2020-07-10,BA,Bosnia and Herzegovina,EURO,219,6087,6,213
+2020-07-11,BA,Bosnia and Herzegovina,EURO,315,6402,2,215
+2020-07-12,BA,Bosnia and Herzegovina,EURO,0,6402,0,215
+2020-07-13,BA,Bosnia and Herzegovina,EURO,482,6884,5,220
+2020-07-14,BA,Bosnia and Herzegovina,EURO,95,6979,4,224
+2020-07-15,BA,Bosnia and Herzegovina,EURO,197,7176,5,229
+2020-07-16,BA,Bosnia and Herzegovina,EURO,231,7407,4,233
+2020-07-17,BA,Bosnia and Herzegovina,EURO,274,7681,6,239
+2020-07-18,BA,Bosnia and Herzegovina,EURO,227,7908,4,243
 2020-04-01,BW,Botswana,AFRO,3,3,0,0
 2020-04-02,BW,Botswana,AFRO,0,3,1,1
 2020-04-03,BW,Botswana,AFRO,1,4,0,1
@@ -3386,6 +3594,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BW,Botswana,AFRO,0,314,0,1
 2020-07-09,BW,Botswana,AFRO,0,314,0,1
 2020-07-10,BW,Botswana,AFRO,0,314,0,1
+2020-07-11,BW,Botswana,AFRO,0,314,0,1
+2020-07-12,BW,Botswana,AFRO,0,314,0,1
+2020-07-13,BW,Botswana,AFRO,85,399,0,1
+2020-07-14,BW,Botswana,AFRO,0,399,0,1
+2020-07-15,BW,Botswana,AFRO,0,399,0,1
+2020-07-16,BW,Botswana,AFRO,0,399,0,1
+2020-07-17,BW,Botswana,AFRO,123,522,0,1
+2020-07-18,BW,Botswana,AFRO,0,522,0,1
 2020-02-26,BR,Brazil,AMRO,1,1,0,0
 2020-02-27,BR,Brazil,AMRO,0,1,0,0
 2020-02-28,BR,Brazil,AMRO,0,1,0,0
@@ -3522,6 +3738,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BR,Brazil,AMRO,20229,1623284,620,65487
 2020-07-09,BR,Brazil,AMRO,45305,1668589,1254,66741
 2020-07-10,BR,Brazil,AMRO,44571,1713160,1223,67964
+2020-07-11,BR,Brazil,AMRO,42619,1755779,1220,69184
+2020-07-12,BR,Brazil,AMRO,45048,1800827,1214,70398
+2020-07-13,BR,Brazil,AMRO,39023,1839850,1071,71469
+2020-07-14,BR,Brazil,AMRO,24831,1864681,631,72100
+2020-07-15,BR,Brazil,AMRO,20286,1884967,733,72833
+2020-07-16,BR,Brazil,AMRO,41857,1926824,1300,74133
+2020-07-17,BR,Brazil,AMRO,39924,1966748,1233,75366
+2020-07-18,BR,Brazil,AMRO,45403,2012151,1322,76688
 2020-03-26,VG,British Virgin Islands,AMRO,2,2,0,0
 2020-03-27,VG,British Virgin Islands,AMRO,0,2,0,0
 2020-03-28,VG,British Virgin Islands,AMRO,0,2,0,0
@@ -3629,6 +3853,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,VG,British Virgin Islands,AMRO,0,8,0,1
 2020-07-09,VG,British Virgin Islands,AMRO,0,8,0,1
 2020-07-10,VG,British Virgin Islands,AMRO,0,8,0,1
+2020-07-11,VG,British Virgin Islands,AMRO,0,8,0,1
+2020-07-12,VG,British Virgin Islands,AMRO,0,8,0,1
+2020-07-13,VG,British Virgin Islands,AMRO,0,8,0,1
+2020-07-14,VG,British Virgin Islands,AMRO,0,8,0,1
+2020-07-15,VG,British Virgin Islands,AMRO,0,8,0,1
+2020-07-16,VG,British Virgin Islands,AMRO,0,8,0,1
+2020-07-17,VG,British Virgin Islands,AMRO,0,8,0,1
+2020-07-18,VG,British Virgin Islands,AMRO,0,8,0,1
 2020-03-10,BN,Brunei Darussalam,WPRO,1,1,0,0
 2020-03-11,BN,Brunei Darussalam,WPRO,11,12,0,0
 2020-03-12,BN,Brunei Darussalam,WPRO,0,12,0,0
@@ -3752,6 +3984,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BN,Brunei Darussalam,WPRO,0,141,0,3
 2020-07-09,BN,Brunei Darussalam,WPRO,0,141,0,3
 2020-07-10,BN,Brunei Darussalam,WPRO,0,141,0,3
+2020-07-11,BN,Brunei Darussalam,WPRO,0,141,0,3
+2020-07-12,BN,Brunei Darussalam,WPRO,0,141,0,3
+2020-07-13,BN,Brunei Darussalam,WPRO,0,141,0,3
+2020-07-14,BN,Brunei Darussalam,WPRO,0,141,0,3
+2020-07-15,BN,Brunei Darussalam,WPRO,0,141,0,3
+2020-07-16,BN,Brunei Darussalam,WPRO,0,141,0,3
+2020-07-17,BN,Brunei Darussalam,WPRO,0,141,0,3
+2020-07-18,BN,Brunei Darussalam,WPRO,0,141,0,3
 2020-03-08,BG,Bulgaria,EURO,4,4,0,0
 2020-03-09,BG,Bulgaria,EURO,0,4,0,0
 2020-03-10,BG,Bulgaria,EURO,0,4,0,0
@@ -3877,6 +4117,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BG,Bulgaria,EURO,188,6102,4,254
 2020-07-09,BG,Bulgaria,EURO,240,6342,5,259
 2020-07-10,BG,Bulgaria,EURO,330,6672,3,262
+2020-07-11,BG,Bulgaria,EURO,292,6964,0,262
+2020-07-12,BG,Bulgaria,EURO,211,7175,0,262
+2020-07-13,BG,Bulgaria,EURO,77,7252,6,268
+2020-07-14,BG,Bulgaria,EURO,159,7411,8,276
+2020-07-15,BG,Bulgaria,EURO,234,7645,7,283
+2020-07-16,BG,Bulgaria,EURO,232,7877,6,289
+2020-07-17,BG,Bulgaria,EURO,267,8144,4,293
+2020-07-18,BG,Bulgaria,EURO,298,8442,4,297
 2020-03-11,BF,Burkina Faso,AFRO,2,2,0,0
 2020-03-12,BF,Burkina Faso,AFRO,0,2,0,0
 2020-03-13,BF,Burkina Faso,AFRO,0,2,0,0
@@ -3999,6 +4247,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BF,Burkina Faso,AFRO,3,1003,0,53
 2020-07-09,BF,Burkina Faso,AFRO,0,1003,0,53
 2020-07-10,BF,Burkina Faso,AFRO,2,1005,0,53
+2020-07-11,BF,Burkina Faso,AFRO,15,1020,1,54
+2020-07-12,BF,Burkina Faso,AFRO,0,1020,0,54
+2020-07-13,BF,Burkina Faso,AFRO,13,1033,-1,53
+2020-07-14,BF,Burkina Faso,AFRO,3,1036,0,53
+2020-07-15,BF,Burkina Faso,AFRO,1,1037,0,53
+2020-07-16,BF,Burkina Faso,AFRO,1,1038,0,53
+2020-07-17,BF,Burkina Faso,AFRO,0,1038,0,53
+2020-07-18,BF,Burkina Faso,AFRO,7,1045,0,53
 2020-04-01,BI,Burundi,AFRO,2,2,0,0
 2020-04-02,BI,Burundi,AFRO,0,2,0,0
 2020-04-03,BI,Burundi,AFRO,1,3,0,0
@@ -4100,6 +4356,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BI,Burundi,AFRO,0,191,0,1
 2020-07-09,BI,Burundi,AFRO,28,219,0,1
 2020-07-10,BI,Burundi,AFRO,0,219,0,1
+2020-07-11,BI,Burundi,AFRO,31,250,0,1
+2020-07-12,BI,Burundi,AFRO,0,250,0,1
+2020-07-13,BI,Burundi,AFRO,8,258,0,1
+2020-07-14,BI,Burundi,AFRO,11,269,0,1
+2020-07-15,BI,Burundi,AFRO,0,269,0,1
+2020-07-16,BI,Burundi,AFRO,34,303,0,1
+2020-07-17,BI,Burundi,AFRO,7,310,0,1
+2020-07-18,BI,Burundi,AFRO,0,310,0,1
 2020-03-20,CV,Cabo Verde,AFRO,1,1,0,0
 2020-03-21,CV,Cabo Verde,AFRO,2,3,0,0
 2020-03-22,CV,Cabo Verde,AFRO,0,3,0,0
@@ -4213,6 +4477,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,CV,Cabo Verde,AFRO,36,1499,1,18
 2020-07-09,CV,Cabo Verde,AFRO,43,1542,0,18
 2020-07-10,CV,Cabo Verde,AFRO,11,1553,1,19
+2020-07-11,CV,Cabo Verde,AFRO,38,1591,0,19
+2020-07-12,CV,Cabo Verde,AFRO,32,1623,0,19
+2020-07-13,CV,Cabo Verde,AFRO,75,1698,0,19
+2020-07-14,CV,Cabo Verde,AFRO,24,1722,0,19
+2020-07-15,CV,Cabo Verde,AFRO,58,1780,0,19
+2020-07-16,CV,Cabo Verde,AFRO,57,1837,0,19
+2020-07-17,CV,Cabo Verde,AFRO,57,1894,0,19
+2020-07-18,CV,Cabo Verde,AFRO,45,1939,1,20
 2020-01-27,KH,Cambodia,WPRO,1,1,0,0
 2020-01-28,KH,Cambodia,WPRO,0,1,0,0
 2020-01-29,KH,Cambodia,WPRO,0,1,0,0
@@ -4379,6 +4651,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,KH,Cambodia,WPRO,0,141,0,0
 2020-07-09,KH,Cambodia,WPRO,0,141,0,0
 2020-07-10,KH,Cambodia,WPRO,0,141,0,0
+2020-07-11,KH,Cambodia,WPRO,0,141,0,0
+2020-07-12,KH,Cambodia,WPRO,15,156,0,0
+2020-07-13,KH,Cambodia,WPRO,0,156,0,0
+2020-07-14,KH,Cambodia,WPRO,9,165,0,0
+2020-07-15,KH,Cambodia,WPRO,0,165,0,0
+2020-07-16,KH,Cambodia,WPRO,1,166,0,0
+2020-07-17,KH,Cambodia,WPRO,0,166,0,0
+2020-07-18,KH,Cambodia,WPRO,5,171,0,0
 2020-03-06,CM,Cameroon,AFRO,2,2,0,0
 2020-03-07,CM,Cameroon,AFRO,0,2,0,0
 2020-03-08,CM,Cameroon,AFRO,0,2,0,0
@@ -4506,6 +4786,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,CM,Cameroon,AFRO,392,14916,17,359
 2020-07-09,CM,Cameroon,AFRO,0,14916,0,359
 2020-07-10,CM,Cameroon,AFRO,0,14916,0,359
+2020-07-11,CM,Cameroon,AFRO,0,14916,0,359
+2020-07-12,CM,Cameroon,AFRO,0,14916,0,359
+2020-07-13,CM,Cameroon,AFRO,257,15173,0,359
+2020-07-14,CM,Cameroon,AFRO,0,15173,0,359
+2020-07-15,CM,Cameroon,AFRO,0,15173,0,359
+2020-07-16,CM,Cameroon,AFRO,884,16057,10,369
+2020-07-17,CM,Cameroon,AFRO,0,16057,0,369
+2020-07-18,CM,Cameroon,AFRO,100,16157,4,373
 2020-01-26,CA,Canada,AMRO,1,1,0,0
 2020-01-27,CA,Canada,AMRO,1,2,0,0
 2020-01-28,CA,Canada,AMRO,1,3,0,0
@@ -4673,6 +4961,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,CA,Canada,AMRO,399,105935,9,8693
 2020-07-09,CA,Canada,AMRO,232,106167,18,8711
 2020-07-10,CA,Canada,AMRO,267,106434,26,8737
+2020-07-11,CA,Canada,AMRO,371,106805,12,8749
+2020-07-12,CA,Canada,AMRO,321,107126,10,8759
+2020-07-13,CA,Canada,AMRO,221,107347,14,8773
+2020-07-14,CA,Canada,AMRO,243,107590,10,8783
+2020-07-15,CA,Canada,AMRO,565,108155,7,8790
+2020-07-16,CA,Canada,AMRO,331,108486,8,8798
+2020-07-17,CA,Canada,AMRO,343,108829,12,8810
+2020-07-18,CA,Canada,AMRO,435,109264,17,8827
 2020-03-13,KY,Cayman Islands,AMRO,1,1,0,0
 2020-03-14,KY,Cayman Islands,AMRO,0,1,0,0
 2020-03-15,KY,Cayman Islands,AMRO,0,1,0,0
@@ -4793,6 +5089,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,KY,Cayman Islands,AMRO,0,201,0,1
 2020-07-09,KY,Cayman Islands,AMRO,0,201,0,1
 2020-07-10,KY,Cayman Islands,AMRO,0,201,0,1
+2020-07-11,KY,Cayman Islands,AMRO,0,201,0,1
+2020-07-12,KY,Cayman Islands,AMRO,0,201,0,1
+2020-07-13,KY,Cayman Islands,AMRO,0,201,0,1
+2020-07-14,KY,Cayman Islands,AMRO,0,201,0,1
+2020-07-15,KY,Cayman Islands,AMRO,2,203,0,1
+2020-07-16,KY,Cayman Islands,AMRO,0,203,0,1
+2020-07-17,KY,Cayman Islands,AMRO,0,203,0,1
+2020-07-18,KY,Cayman Islands,AMRO,0,203,0,1
 2020-03-14,CF,Central African Republic,AFRO,1,1,0,0
 2020-03-15,CF,Central African Republic,AFRO,0,1,0,0
 2020-03-16,CF,Central African Republic,AFRO,0,1,0,0
@@ -4912,6 +5216,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,CF,Central African Republic,AFRO,38,4071,0,52
 2020-07-09,CF,Central African Republic,AFRO,38,4109,0,52
 2020-07-10,CF,Central African Republic,AFRO,91,4200,0,52
+2020-07-11,CF,Central African Republic,AFRO,0,4200,0,52
+2020-07-12,CF,Central African Republic,AFRO,88,4288,1,53
+2020-07-13,CF,Central African Republic,AFRO,0,4288,0,53
+2020-07-14,CF,Central African Republic,AFRO,33,4321,0,53
+2020-07-15,CF,Central African Republic,AFRO,0,4321,0,53
+2020-07-16,CF,Central African Republic,AFRO,41,4362,0,53
+2020-07-17,CF,Central African Republic,AFRO,11,4373,0,53
+2020-07-18,CF,Central African Republic,AFRO,16,4389,0,53
 2020-03-19,TD,Chad,AFRO,1,1,0,0
 2020-03-20,TD,Chad,AFRO,0,1,0,0
 2020-03-21,TD,Chad,AFRO,0,1,0,0
@@ -5026,6 +5338,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,TD,Chad,AFRO,1,873,0,74
 2020-07-09,TD,Chad,AFRO,0,873,0,74
 2020-07-10,TD,Chad,AFRO,0,873,0,74
+2020-07-11,TD,Chad,AFRO,1,874,0,74
+2020-07-12,TD,Chad,AFRO,0,874,0,74
+2020-07-13,TD,Chad,AFRO,6,880,1,75
+2020-07-14,TD,Chad,AFRO,0,880,0,75
+2020-07-15,TD,Chad,AFRO,4,884,0,75
+2020-07-16,TD,Chad,AFRO,1,885,0,75
+2020-07-17,TD,Chad,AFRO,1,886,0,75
+2020-07-18,TD,Chad,AFRO,1,887,0,75
 2020-03-03,CL,Chile,AMRO,1,1,0,0
 2020-03-04,CL,Chile,AMRO,0,1,0,0
 2020-03-05,CL,Chile,AMRO,0,1,0,0
@@ -5156,6 +5476,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,CL,Chile,AMRO,2462,301019,50,6434
 2020-07-09,CL,Chile,AMRO,2064,303083,139,6573
 2020-07-10,CL,Chile,AMRO,3133,306216,109,6682
+2020-07-11,CL,Chile,AMRO,3058,309274,99,6781
+2020-07-12,CL,Chile,AMRO,2755,312029,100,6881
+2020-07-13,CL,Chile,AMRO,3012,315041,98,6979
+2020-07-14,CL,Chile,AMRO,2616,317657,45,7024
+2020-07-15,CL,Chile,AMRO,1836,319493,45,7069
+2020-07-16,CL,Chile,AMRO,1712,321205,117,7186
+2020-07-17,CL,Chile,AMRO,2493,323698,104,7290
+2020-07-18,CL,Chile,AMRO,2841,326539,1057,8347
 2020-01-11,CN,China,WPRO,41,41,1,1
 2020-01-12,CN,China,WPRO,0,41,0,1
 2020-01-13,CN,China,WPRO,0,41,0,1
@@ -5338,6 +5666,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,CN,China,WPRO,21,85366,0,4648
 2020-07-09,CN,China,WPRO,33,85399,0,4648
 2020-07-10,CN,China,WPRO,46,85445,0,4648
+2020-07-11,CN,China,WPRO,42,85487,0,4648
+2020-07-12,CN,China,WPRO,35,85522,0,4648
+2020-07-13,CN,China,WPRO,46,85568,0,4648
+2020-07-14,CN,China,WPRO,55,85623,1,4649
+2020-07-15,CN,China,WPRO,54,85677,0,4649
+2020-07-16,CN,China,WPRO,20,85697,2,4651
+2020-07-17,CN,China,WPRO,78,85775,0,4651
+2020-07-18,CN,China,WPRO,82,85857,1,4652
 2020-03-06,CO,Colombia,AMRO,1,1,0,0
 2020-03-07,CO,Colombia,AMRO,0,1,0,0
 2020-03-08,CO,Colombia,AMRO,0,1,0,0
@@ -5465,6 +5801,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,CO,Colombia,AMRO,3171,120281,146,4210
 2020-07-09,CO,Colombia,AMRO,4213,124494,149,4359
 2020-07-10,CO,Colombia,AMRO,4144,128638,168,4527
+2020-07-11,CO,Colombia,AMRO,5335,133973,187,4714
+2020-07-12,CO,Colombia,AMRO,6803,140776,211,4925
+2020-07-13,CO,Colombia,AMRO,4586,145362,194,5119
+2020-07-14,CO,Colombia,AMRO,5083,150445,188,5307
+2020-07-15,CO,Colombia,AMRO,3832,154277,148,5455
+2020-07-16,CO,Colombia,AMRO,5621,159898,170,5625
+2020-07-17,CO,Colombia,AMRO,5271,165169,189,5814
+2020-07-18,CO,Colombia,AMRO,8037,173206,215,6029
 2020-05-01,KM,Comoros,AFRO,1,1,0,0
 2020-05-02,KM,Comoros,AFRO,0,1,0,0
 2020-05-03,KM,Comoros,AFRO,2,3,0,0
@@ -5536,6 +5880,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,KM,Comoros,AFRO,2,313,0,7
 2020-07-09,KM,Comoros,AFRO,0,313,0,7
 2020-07-10,KM,Comoros,AFRO,0,313,0,7
+2020-07-11,KM,Comoros,AFRO,1,314,0,7
+2020-07-12,KM,Comoros,AFRO,0,314,0,7
+2020-07-13,KM,Comoros,AFRO,3,317,0,7
+2020-07-14,KM,Comoros,AFRO,0,317,0,7
+2020-07-15,KM,Comoros,AFRO,4,321,0,7
+2020-07-16,KM,Comoros,AFRO,0,321,0,7
+2020-07-17,KM,Comoros,AFRO,7,328,0,7
+2020-07-18,KM,Comoros,AFRO,0,328,0,7
 2020-03-15,CG,Congo,AFRO,1,1,0,0
 2020-03-16,CG,Congo,AFRO,0,1,0,0
 2020-03-17,CG,Congo,AFRO,0,1,0,0
@@ -5654,6 +6006,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,CG,Congo,AFRO,200,1757,0,44
 2020-07-09,CG,Congo,AFRO,64,1821,3,47
 2020-07-10,CG,Congo,AFRO,207,2028,0,47
+2020-07-11,CG,Congo,AFRO,0,2028,0,47
+2020-07-12,CG,Congo,AFRO,75,2103,0,47
+2020-07-13,CG,Congo,AFRO,0,2103,0,47
+2020-07-14,CG,Congo,AFRO,119,2222,0,47
+2020-07-15,CG,Congo,AFRO,136,2358,1,48
+2020-07-16,CG,Congo,AFRO,0,2358,0,48
+2020-07-17,CG,Congo,AFRO,0,2358,0,48
+2020-07-18,CG,Congo,AFRO,275,2633,1,49
 2020-03-08,CR,Costa Rica,AMRO,5,5,0,0
 2020-03-09,CR,Costa Rica,AMRO,4,9,0,0
 2020-03-10,CR,Costa Rica,AMRO,0,9,0,0
@@ -5779,6 +6139,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,CR,Costa Rica,AMRO,245,5241,4,23
 2020-07-09,CR,Costa Rica,AMRO,245,5486,0,23
 2020-07-10,CR,Costa Rica,AMRO,350,5836,1,24
+2020-07-11,CR,Costa Rica,AMRO,649,6485,2,26
+2020-07-12,CR,Costa Rica,AMRO,360,6845,1,27
+2020-07-13,CR,Costa Rica,AMRO,386,7231,1,28
+2020-07-14,CR,Costa Rica,AMRO,365,7596,2,30
+2020-07-15,CR,Costa Rica,AMRO,440,8036,1,31
+2020-07-16,CR,Costa Rica,AMRO,446,8482,5,36
+2020-07-17,CR,Costa Rica,AMRO,504,8986,4,40
+2020-07-18,CR,Costa Rica,AMRO,560,9546,2,42
 2020-03-12,CI,Côte d’Ivoire,AFRO,1,1,0,0
 2020-03-13,CI,Côte d’Ivoire,AFRO,0,1,0,0
 2020-03-14,CI,Côte d’Ivoire,AFRO,2,3,0,0
@@ -5900,6 +6268,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,CI,Côte d’Ivoire,AFRO,0,10966,0,75
 2020-07-09,CI,Côte d’Ivoire,AFRO,538,11504,3,78
 2020-07-10,CI,Côte d’Ivoire,AFRO,0,11504,0,78
+2020-07-11,CI,Côte d’Ivoire,AFRO,0,11504,0,78
+2020-07-12,CI,Côte d’Ivoire,AFRO,548,12052,3,81
+2020-07-13,CI,Côte d’Ivoire,AFRO,714,12766,3,84
+2020-07-14,CI,Côte d’Ivoire,AFRO,106,12872,0,84
+2020-07-15,CI,Côte d’Ivoire,AFRO,165,13037,3,87
+2020-07-16,CI,Côte d’Ivoire,AFRO,0,13037,0,87
+2020-07-17,CI,Côte d’Ivoire,AFRO,366,13403,0,87
+2020-07-18,CI,Côte d’Ivoire,AFRO,293,13696,0,87
 2020-02-25,HR,Croatia,EURO,1,1,0,0
 2020-02-26,HR,Croatia,EURO,2,3,0,0
 2020-02-27,HR,Croatia,EURO,0,3,0,0
@@ -6037,6 +6413,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,HR,Croatia,EURO,52,3272,0,113
 2020-07-09,HR,Croatia,EURO,53,3325,1,114
 2020-07-10,HR,Croatia,EURO,91,3416,1,115
+2020-07-11,HR,Croatia,EURO,116,3532,2,117
+2020-07-12,HR,Croatia,EURO,140,3672,1,118
+2020-07-13,HR,Croatia,EURO,50,3722,1,119
+2020-07-14,HR,Croatia,EURO,53,3775,0,119
+2020-07-15,HR,Croatia,EURO,52,3827,0,119
+2020-07-16,HR,Croatia,EURO,126,3953,0,119
+2020-07-17,HR,Croatia,EURO,86,4039,0,119
+2020-07-18,HR,Croatia,EURO,98,4137,1,120
 2020-03-13,CU,Cuba,AMRO,4,4,0,0
 2020-03-14,CU,Cuba,AMRO,0,4,0,0
 2020-03-15,CU,Cuba,AMRO,0,4,0,0
@@ -6157,6 +6541,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,CU,Cuba,AMRO,15,2395,0,86
 2020-07-09,CU,Cuba,AMRO,4,2399,0,86
 2020-07-10,CU,Cuba,AMRO,4,2403,0,86
+2020-07-11,CU,Cuba,AMRO,10,2413,0,86
+2020-07-12,CU,Cuba,AMRO,7,2420,1,87
+2020-07-13,CU,Cuba,AMRO,6,2426,0,87
+2020-07-14,CU,Cuba,AMRO,2,2428,0,87
+2020-07-15,CU,Cuba,AMRO,4,2432,0,87
+2020-07-16,CU,Cuba,AMRO,6,2438,0,87
+2020-07-17,CU,Cuba,AMRO,2,2440,0,87
+2020-07-18,CU,Cuba,AMRO,4,2444,0,87
 2020-03-13,CW,Curacao,AMRO,1,1,0,0
 2020-03-14,CW,Curacao,AMRO,0,1,0,0
 2020-03-15,CW,Curacao,AMRO,1,2,0,0
@@ -6277,6 +6669,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,CW,Curacao,AMRO,0,25,0,1
 2020-07-09,CW,Curacao,AMRO,0,25,0,1
 2020-07-10,CW,Curacao,AMRO,0,25,0,1
+2020-07-11,CW,Curacao,AMRO,0,25,0,1
+2020-07-12,CW,Curacao,AMRO,0,25,0,1
+2020-07-13,CW,Curacao,AMRO,0,25,0,1
+2020-07-14,CW,Curacao,AMRO,1,26,0,1
+2020-07-15,CW,Curacao,AMRO,0,26,0,1
+2020-07-16,CW,Curacao,AMRO,0,26,0,1
+2020-07-17,CW,Curacao,AMRO,0,26,0,1
+2020-07-18,CW,Curacao,AMRO,2,28,0,1
 2020-03-09,CY,Cyprus,EURO,2,2,0,0
 2020-03-10,CY,Cyprus,EURO,0,2,0,0
 2020-03-11,CY,Cyprus,EURO,0,2,0,0
@@ -6401,6 +6801,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,CY,Cyprus,EURO,1,1005,0,19
 2020-07-09,CY,Cyprus,EURO,3,1008,0,19
 2020-07-10,CY,Cyprus,EURO,2,1010,0,19
+2020-07-11,CY,Cyprus,EURO,3,1013,0,19
+2020-07-12,CY,Cyprus,EURO,1,1014,0,19
+2020-07-13,CY,Cyprus,EURO,7,1021,0,19
+2020-07-14,CY,Cyprus,EURO,1,1022,0,19
+2020-07-15,CY,Cyprus,EURO,0,1022,0,19
+2020-07-16,CY,Cyprus,EURO,1,1023,0,19
+2020-07-17,CY,Cyprus,EURO,8,1031,0,19
+2020-07-18,CY,Cyprus,EURO,0,1031,0,19
 2020-03-01,CZ,Czechia,EURO,3,3,0,0
 2020-03-02,CZ,Czechia,EURO,0,3,0,0
 2020-03-03,CZ,Czechia,EURO,2,5,0,0
@@ -6533,6 +6941,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,CZ,Czechia,EURO,119,12685,1,351
 2020-07-09,CZ,Czechia,EURO,129,12814,0,351
 2020-07-10,CZ,Czechia,EURO,105,12919,1,352
+2020-07-11,CZ,Czechia,EURO,143,13062,0,352
+2020-07-12,CZ,Czechia,EURO,53,13115,0,352
+2020-07-13,CZ,Czechia,EURO,59,13174,0,352
+2020-07-14,CZ,Czechia,EURO,64,13238,1,353
+2020-07-15,CZ,Czechia,EURO,103,13341,2,355
+2020-07-16,CZ,Czechia,EURO,134,13475,0,355
+2020-07-17,CZ,Czechia,EURO,137,13612,0,355
+2020-07-18,CZ,Czechia,EURO,130,13742,3,358
 2020-03-11,CD,Democratic Republic of the Congo,AFRO,1,1,0,0
 2020-03-12,CD,Democratic Republic of the Congo,AFRO,0,1,0,0
 2020-03-13,CD,Democratic Republic of the Congo,AFRO,0,1,0,0
@@ -6655,6 +7071,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,CD,Democratic Republic of the Congo,AFRO,228,7659,1,182
 2020-07-09,CD,Democratic Republic of the Congo,AFRO,77,7736,1,183
 2020-07-10,CD,Democratic Republic of the Congo,AFRO,109,7845,5,188
+2020-07-11,CD,Democratic Republic of the Congo,AFRO,59,7904,0,188
+2020-07-12,CD,Democratic Republic of the Congo,AFRO,66,7970,0,188
+2020-07-13,CD,Democratic Republic of the Congo,AFRO,62,8032,0,188
+2020-07-14,CD,Democratic Republic of the Congo,AFRO,42,8074,1,189
+2020-07-15,CD,Democratic Republic of the Congo,AFRO,60,8134,0,189
+2020-07-16,CD,Democratic Republic of the Congo,AFRO,28,8162,2,191
+2020-07-17,CD,Democratic Republic of the Congo,AFRO,36,8198,1,192
+2020-07-18,CD,Democratic Republic of the Congo,AFRO,50,8248,0,192
 2020-02-27,DK,Denmark,EURO,1,1,0,0
 2020-02-28,DK,Denmark,EURO,1,2,0,0
 2020-02-29,DK,Denmark,EURO,1,3,0,0
@@ -6790,6 +7214,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,DK,Denmark,EURO,10,12888,2,609
 2020-07-09,DK,Denmark,EURO,12,12900,0,609
 2020-07-10,DK,Denmark,EURO,16,12916,0,609
+2020-07-11,DK,Denmark,EURO,30,12946,0,609
+2020-07-12,DK,Denmark,EURO,0,12946,0,609
+2020-07-13,DK,Denmark,EURO,0,12946,0,609
+2020-07-14,DK,Denmark,EURO,91,13037,1,610
+2020-07-15,DK,Denmark,EURO,24,13061,0,610
+2020-07-16,DK,Denmark,EURO,31,13092,0,610
+2020-07-17,DK,Denmark,EURO,32,13124,0,610
+2020-07-18,DK,Denmark,EURO,49,13173,1,611
 2020-03-18,DJ,Djibouti,EMRO,1,1,0,0
 2020-03-19,DJ,Djibouti,EMRO,0,1,0,0
 2020-03-20,DJ,Djibouti,EMRO,0,1,0,0
@@ -6905,6 +7337,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,DJ,Djibouti,EMRO,56,4878,0,55
 2020-07-09,DJ,Djibouti,EMRO,11,4889,0,55
 2020-07-10,DJ,Djibouti,EMRO,66,4955,1,56
+2020-07-11,DJ,Djibouti,EMRO,13,4968,0,56
+2020-07-12,DJ,Djibouti,EMRO,0,4968,0,56
+2020-07-13,DJ,Djibouti,EMRO,4,4972,0,56
+2020-07-14,DJ,Djibouti,EMRO,5,4977,0,56
+2020-07-15,DJ,Djibouti,EMRO,2,4979,0,56
+2020-07-16,DJ,Djibouti,EMRO,6,4985,0,56
+2020-07-17,DJ,Djibouti,EMRO,8,4993,0,56
+2020-07-18,DJ,Djibouti,EMRO,10,5003,0,56
 2020-03-24,DM,Dominica,AMRO,2,2,0,0
 2020-03-25,DM,Dominica,AMRO,0,2,0,0
 2020-03-26,DM,Dominica,AMRO,9,11,0,0
@@ -7014,6 +7454,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,DM,Dominica,AMRO,0,18,0,0
 2020-07-09,DM,Dominica,AMRO,0,18,0,0
 2020-07-10,DM,Dominica,AMRO,0,18,0,0
+2020-07-11,DM,Dominica,AMRO,0,18,0,0
+2020-07-12,DM,Dominica,AMRO,0,18,0,0
+2020-07-13,DM,Dominica,AMRO,0,18,0,0
+2020-07-14,DM,Dominica,AMRO,0,18,0,0
+2020-07-15,DM,Dominica,AMRO,0,18,0,0
+2020-07-16,DM,Dominica,AMRO,0,18,0,0
+2020-07-17,DM,Dominica,AMRO,0,18,0,0
+2020-07-18,DM,Dominica,AMRO,0,18,0,0
 2020-03-02,DO,Dominican Republic,AMRO,1,1,0,0
 2020-03-03,DO,Dominican Republic,AMRO,0,1,0,0
 2020-03-04,DO,Dominican Republic,AMRO,0,1,0,0
@@ -7145,6 +7593,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,DO,Dominican Republic,AMRO,302,38430,17,821
 2020-07-09,DO,Dominican Republic,AMRO,1158,39588,8,829
 2020-07-10,DO,Dominican Republic,AMRO,1202,40790,13,842
+2020-07-11,DO,Dominican Republic,AMRO,1125,41915,22,864
+2020-07-12,DO,Dominican Republic,AMRO,1199,43114,16,880
+2020-07-13,DO,Dominican Republic,AMRO,1418,44532,17,897
+2020-07-14,DO,Dominican Republic,AMRO,974,45506,6,903
+2020-07-15,DO,Dominican Republic,AMRO,799,46305,7,910
+2020-07-16,DO,Dominican Republic,AMRO,1366,47671,19,929
+2020-07-17,DO,Dominican Republic,AMRO,1072,48743,12,941
+2020-07-18,DO,Dominican Republic,AMRO,1370,50113,1,942
 2020-02-29,EC,Ecuador,AMRO,1,1,0,0
 2020-03-01,EC,Ecuador,AMRO,0,1,0,0
 2020-03-02,EC,Ecuador,AMRO,5,6,0,0
@@ -7278,6 +7734,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,EC,Ecuador,AMRO,865,63245,52,4873
 2020-07-09,EC,Ecuador,AMRO,0,63245,0,4873
 2020-07-10,EC,Ecuador,AMRO,1773,65018,66,4939
+2020-07-11,EC,Ecuador,AMRO,783,65801,44,4983
+2020-07-12,EC,Ecuador,AMRO,1408,67209,48,5031
+2020-07-13,EC,Ecuador,AMRO,661,67870,16,5047
+2020-07-14,EC,Ecuador,AMRO,589,68459,16,5063
+2020-07-15,EC,Ecuador,AMRO,1111,69570,67,5130
+2020-07-16,EC,Ecuador,AMRO,759,70329,28,5158
+2020-07-17,EC,Ecuador,AMRO,1036,71365,49,5207
+2020-07-18,EC,Ecuador,AMRO,1079,72444,43,5250
 2020-02-14,EG,Egypt,EMRO,1,1,0,0
 2020-02-15,EG,Egypt,EMRO,0,1,0,0
 2020-02-16,EG,Egypt,EMRO,0,1,0,0
@@ -7426,6 +7890,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,EG,Egypt,EMRO,1057,77279,67,3489
 2020-07-09,EG,Egypt,EMRO,1025,78304,75,3564
 2020-07-10,EG,Egypt,EMRO,950,79254,53,3617
+2020-07-11,EG,Egypt,EMRO,981,80235,85,3702
+2020-07-12,EG,Egypt,EMRO,923,81158,67,3769
+2020-07-13,EG,Egypt,EMRO,912,82070,89,3858
+2020-07-14,EG,Egypt,EMRO,931,83001,77,3935
+2020-07-15,EG,Egypt,EMRO,929,83930,73,4008
+2020-07-16,EG,Egypt,EMRO,913,84843,59,4067
+2020-07-17,EG,Egypt,EMRO,928,85771,53,4120
+2020-07-18,EG,Egypt,EMRO,703,86474,68,4188
 2020-03-19,SV,El Salvador,AMRO,1,1,0,0
 2020-03-20,SV,El Salvador,AMRO,0,1,0,0
 2020-03-21,SV,El Salvador,AMRO,0,1,0,0
@@ -7540,6 +8012,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,SV,El Salvador,AMRO,280,8307,6,229
 2020-07-09,SV,El Salvador,AMRO,259,8566,6,235
 2020-07-10,SV,El Salvador,AMRO,278,8844,8,243
+2020-07-11,SV,El Salvador,AMRO,298,9142,6,249
+2020-07-12,SV,El Salvador,AMRO,249,9391,5,254
+2020-07-13,SV,El Salvador,AMRO,283,9674,6,260
+2020-07-14,SV,El Salvador,AMRO,304,9978,7,267
+2020-07-15,SV,El Salvador,AMRO,325,10303,11,278
+2020-07-16,SV,El Salvador,AMRO,342,10645,8,286
+2020-07-17,SV,El Salvador,AMRO,312,10957,12,298
+2020-07-18,SV,El Salvador,AMRO,250,11207,11,309
 2020-03-14,GQ,Equatorial Guinea,AFRO,1,1,0,0
 2020-03-15,GQ,Equatorial Guinea,AFRO,0,1,0,0
 2020-03-16,GQ,Equatorial Guinea,AFRO,0,1,0,0
@@ -7659,6 +8139,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GQ,Equatorial Guinea,AFRO,0,1043,0,12
 2020-07-09,GQ,Equatorial Guinea,AFRO,0,1043,0,12
 2020-07-10,GQ,Equatorial Guinea,AFRO,0,1043,0,12
+2020-07-11,GQ,Equatorial Guinea,AFRO,0,1043,0,12
+2020-07-12,GQ,Equatorial Guinea,AFRO,0,1043,0,12
+2020-07-13,GQ,Equatorial Guinea,AFRO,0,1043,0,12
+2020-07-14,GQ,Equatorial Guinea,AFRO,0,1043,0,12
+2020-07-15,GQ,Equatorial Guinea,AFRO,0,1043,0,12
+2020-07-16,GQ,Equatorial Guinea,AFRO,0,1043,0,12
+2020-07-17,GQ,Equatorial Guinea,AFRO,1307,2350,29,41
+2020-07-18,GQ,Equatorial Guinea,AFRO,0,2350,0,41
 2020-03-21,ER,Eritrea,AFRO,1,1,0,0
 2020-03-22,ER,Eritrea,AFRO,0,1,0,0
 2020-03-23,ER,Eritrea,AFRO,0,1,0,0
@@ -7771,6 +8259,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,ER,Eritrea,AFRO,0,215,0,0
 2020-07-09,ER,Eritrea,AFRO,0,215,0,0
 2020-07-10,ER,Eritrea,AFRO,17,232,0,0
+2020-07-11,ER,Eritrea,AFRO,0,232,0,0
+2020-07-12,ER,Eritrea,AFRO,0,232,0,0
+2020-07-13,ER,Eritrea,AFRO,0,232,0,0
+2020-07-14,ER,Eritrea,AFRO,0,232,0,0
+2020-07-15,ER,Eritrea,AFRO,0,232,0,0
+2020-07-16,ER,Eritrea,AFRO,0,232,0,0
+2020-07-17,ER,Eritrea,AFRO,19,251,0,0
+2020-07-18,ER,Eritrea,AFRO,0,251,0,0
 2020-02-27,EE,Estonia,EURO,1,1,0,0
 2020-02-28,EE,Estonia,EURO,0,1,0,0
 2020-02-29,EE,Estonia,EURO,0,1,0,0
@@ -7906,6 +8402,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,EE,Estonia,EURO,1,1995,0,69
 2020-07-09,EE,Estonia,EURO,8,2003,0,69
 2020-07-10,EE,Estonia,EURO,8,2011,0,69
+2020-07-11,EE,Estonia,EURO,2,2013,0,69
+2020-07-12,EE,Estonia,EURO,1,2014,0,69
+2020-07-13,EE,Estonia,EURO,0,2014,0,69
+2020-07-14,EE,Estonia,EURO,0,2014,0,69
+2020-07-15,EE,Estonia,EURO,1,2015,0,69
+2020-07-16,EE,Estonia,EURO,1,2016,0,69
+2020-07-17,EE,Estonia,EURO,0,2016,0,69
+2020-07-18,EE,Estonia,EURO,4,2020,0,69
 2020-03-14,SZ,Eswatini,AFRO,1,1,0,0
 2020-03-15,SZ,Eswatini,AFRO,0,1,0,0
 2020-03-16,SZ,Eswatini,AFRO,0,1,0,0
@@ -8025,6 +8529,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,SZ,Eswatini,AFRO,45,1056,1,14
 2020-07-09,SZ,Eswatini,AFRO,82,1138,0,14
 2020-07-10,SZ,Eswatini,AFRO,75,1213,3,17
+2020-07-11,SZ,Eswatini,AFRO,44,1257,1,18
+2020-07-12,SZ,Eswatini,AFRO,54,1311,0,18
+2020-07-13,SZ,Eswatini,AFRO,40,1351,2,20
+2020-07-14,SZ,Eswatini,AFRO,38,1389,0,20
+2020-07-15,SZ,Eswatini,AFRO,45,1434,0,20
+2020-07-16,SZ,Eswatini,AFRO,55,1489,0,20
+2020-07-17,SZ,Eswatini,AFRO,63,1552,1,21
+2020-07-18,SZ,Eswatini,AFRO,67,1619,0,21
 2020-03-14,ET,Ethiopia,AFRO,1,1,0,0
 2020-03-15,ET,Ethiopia,AFRO,0,1,0,0
 2020-03-16,ET,Ethiopia,AFRO,3,4,0,0
@@ -8144,6 +8656,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,ET,Ethiopia,AFRO,108,6774,1,120
 2020-07-09,ET,Ethiopia,AFRO,199,6973,0,120
 2020-07-10,ET,Ethiopia,AFRO,147,7120,4,124
+2020-07-11,ET,Ethiopia,AFRO,282,7402,0,124
+2020-07-12,ET,Ethiopia,AFRO,158,7560,3,127
+2020-07-13,ET,Ethiopia,AFRO,206,7766,1,128
+2020-07-14,ET,Ethiopia,AFRO,203,7969,11,139
+2020-07-15,ET,Ethiopia,AFRO,212,8181,7,146
+2020-07-16,ET,Ethiopia,AFRO,294,8475,2,148
+2020-07-17,ET,Ethiopia,AFRO,328,8803,2,150
+2020-07-18,ET,Ethiopia,AFRO,344,9147,13,163
 2020-04-05,FK,Falkland Islands (Malvinas),AMRO,1,1,0,0
 2020-04-06,FK,Falkland Islands (Malvinas),AMRO,1,2,0,0
 2020-04-07,FK,Falkland Islands (Malvinas),AMRO,0,2,0,0
@@ -8241,6 +8761,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,FK,Falkland Islands (Malvinas),AMRO,0,13,0,0
 2020-07-09,FK,Falkland Islands (Malvinas),AMRO,0,13,0,0
 2020-07-10,FK,Falkland Islands (Malvinas),AMRO,0,13,0,0
+2020-07-11,FK,Falkland Islands (Malvinas),AMRO,0,13,0,0
+2020-07-12,FK,Falkland Islands (Malvinas),AMRO,0,13,0,0
+2020-07-13,FK,Falkland Islands (Malvinas),AMRO,0,13,0,0
+2020-07-14,FK,Falkland Islands (Malvinas),AMRO,0,13,0,0
+2020-07-15,FK,Falkland Islands (Malvinas),AMRO,0,13,0,0
+2020-07-16,FK,Falkland Islands (Malvinas),AMRO,0,13,0,0
+2020-07-17,FK,Falkland Islands (Malvinas),AMRO,0,13,0,0
+2020-07-18,FK,Falkland Islands (Malvinas),AMRO,0,13,0,0
 2020-03-06,FO,Faroe Islands,EURO,1,1,0,0
 2020-03-07,FO,Faroe Islands,EURO,1,2,0,0
 2020-03-08,FO,Faroe Islands,EURO,1,3,0,0
@@ -8368,6 +8896,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,FO,Faroe Islands,EURO,1,188,0,0
 2020-07-09,FO,Faroe Islands,EURO,0,188,0,0
 2020-07-10,FO,Faroe Islands,EURO,0,188,0,0
+2020-07-11,FO,Faroe Islands,EURO,0,188,0,0
+2020-07-12,FO,Faroe Islands,EURO,0,188,0,0
+2020-07-13,FO,Faroe Islands,EURO,0,188,0,0
+2020-07-14,FO,Faroe Islands,EURO,0,188,0,0
+2020-07-15,FO,Faroe Islands,EURO,0,188,0,0
+2020-07-16,FO,Faroe Islands,EURO,0,188,0,0
+2020-07-17,FO,Faroe Islands,EURO,0,188,0,0
+2020-07-18,FO,Faroe Islands,EURO,0,188,0,0
 2020-03-19,FJ,Fiji,WPRO,1,1,0,0
 2020-03-20,FJ,Fiji,WPRO,0,1,0,0
 2020-03-21,FJ,Fiji,WPRO,1,2,0,0
@@ -8482,6 +9018,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,FJ,Fiji,WPRO,2,21,0,0
 2020-07-09,FJ,Fiji,WPRO,0,21,0,0
 2020-07-10,FJ,Fiji,WPRO,0,21,0,0
+2020-07-11,FJ,Fiji,WPRO,0,21,0,0
+2020-07-12,FJ,Fiji,WPRO,5,26,0,0
+2020-07-13,FJ,Fiji,WPRO,0,26,0,0
+2020-07-14,FJ,Fiji,WPRO,0,26,0,0
+2020-07-15,FJ,Fiji,WPRO,0,26,0,0
+2020-07-16,FJ,Fiji,WPRO,0,26,0,0
+2020-07-17,FJ,Fiji,WPRO,0,26,0,0
+2020-07-18,FJ,Fiji,WPRO,0,26,0,0
 2020-01-29,FI,Finland,EURO,1,1,0,0
 2020-01-30,FI,Finland,EURO,0,1,0,0
 2020-01-31,FI,Finland,EURO,0,1,0,0
@@ -8639,13 +9183,21 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-01,FI,Finland,EURO,5,7214,0,328
 2020-07-02,FI,Finland,EURO,22,7236,0,328
 2020-07-03,FI,Finland,EURO,5,7241,0,328
-2020-07-04,FI,Finland,EURO,1,7242,1,329
-2020-07-05,FI,Finland,EURO,6,7248,0,329
-2020-07-06,FI,Finland,EURO,5,7253,0,329
-2020-07-07,FI,Finland,EURO,4,7257,0,329
-2020-07-08,FI,Finland,EURO,5,7262,0,329
-2020-07-09,FI,Finland,EURO,3,7265,0,329
-2020-07-10,FI,Finland,EURO,8,7273,0,329
+2020-07-04,FI,Finland,EURO,28,7269,0,328
+2020-07-05,FI,Finland,EURO,1,7270,0,328
+2020-07-06,FI,Finland,EURO,2,7272,0,328
+2020-07-07,FI,Finland,EURO,3,7275,0,328
+2020-07-08,FI,Finland,EURO,1,7276,0,328
+2020-07-09,FI,Finland,EURO,7,7283,0,328
+2020-07-10,FI,Finland,EURO,4,7287,0,328
+2020-07-11,FI,Finland,EURO,3,7290,0,328
+2020-07-12,FI,Finland,EURO,0,7290,0,328
+2020-07-13,FI,Finland,EURO,2,7292,0,328
+2020-07-14,FI,Finland,EURO,1,7293,0,328
+2020-07-15,FI,Finland,EURO,0,7293,0,328
+2020-07-16,FI,Finland,EURO,0,7293,0,328
+2020-07-17,FI,Finland,EURO,0,7293,0,328
+2020-07-18,FI,Finland,EURO,8,7301,0,328
 2020-01-24,FR,France,EURO,3,3,0,0
 2020-01-25,FR,France,EURO,0,3,0,0
 2020-01-26,FR,France,EURO,0,3,0,0
@@ -8815,6 +9367,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,FR,France,EURO,341,159909,12,29843
 2020-07-09,FR,France,EURO,370,160279,30,29873
 2020-07-10,FR,France,EURO,504,160783,13,29886
+2020-07-11,FR,France,EURO,492,161275,21,29907
+2020-07-12,FR,France,EURO,0,161275,0,29907
+2020-07-13,FR,France,EURO,0,161275,0,29907
+2020-07-14,FR,France,EURO,1115,162390,18,29925
+2020-07-15,FR,France,EURO,0,162390,0,29925
+2020-07-16,FR,France,EURO,767,163157,90,30015
+2020-07-17,FR,France,EURO,393,163550,17,30032
+2020-07-18,FR,France,EURO,697,164247,14,30046
 2020-03-07,GF,French Guiana,AMRO,5,5,0,0
 2020-03-08,GF,French Guiana,AMRO,0,5,0,0
 2020-03-09,GF,French Guiana,AMRO,0,5,0,0
@@ -8941,6 +9501,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GF,French Guiana,AMRO,124,5178,1,21
 2020-07-09,GF,French Guiana,AMRO,281,5459,1,22
 2020-07-10,GF,French Guiana,AMRO,99,5558,0,22
+2020-07-11,GF,French Guiana,AMRO,146,5704,1,23
+2020-07-12,GF,French Guiana,AMRO,245,5949,3,26
+2020-07-13,GF,French Guiana,AMRO,0,5949,0,26
+2020-07-14,GF,French Guiana,AMRO,221,6170,3,29
+2020-07-15,GF,French Guiana,AMRO,59,6229,2,31
+2020-07-16,GF,French Guiana,AMRO,70,6299,2,33
+2020-07-17,GF,French Guiana,AMRO,94,6393,1,34
+2020-07-18,GF,French Guiana,AMRO,116,6509,0,34
 2020-03-12,PF,French Polynesia,WPRO,1,1,0,0
 2020-03-13,PF,French Polynesia,WPRO,0,1,0,0
 2020-03-14,PF,French Polynesia,WPRO,0,1,0,0
@@ -9062,6 +9630,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,PF,French Polynesia,WPRO,0,62,0,0
 2020-07-09,PF,French Polynesia,WPRO,0,62,0,0
 2020-07-10,PF,French Polynesia,WPRO,0,62,0,0
+2020-07-11,PF,French Polynesia,WPRO,0,62,0,0
+2020-07-12,PF,French Polynesia,WPRO,0,62,0,0
+2020-07-13,PF,French Polynesia,WPRO,0,62,0,0
+2020-07-14,PF,French Polynesia,WPRO,0,62,0,0
+2020-07-15,PF,French Polynesia,WPRO,0,62,0,0
+2020-07-16,PF,French Polynesia,WPRO,0,62,0,0
+2020-07-17,PF,French Polynesia,WPRO,0,62,0,0
+2020-07-18,PF,French Polynesia,WPRO,0,62,0,0
 2020-03-14,GA,Gabon,AFRO,1,1,0,0
 2020-03-15,GA,Gabon,AFRO,0,1,0,0
 2020-03-16,GA,Gabon,AFRO,0,1,0,0
@@ -9181,6 +9757,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GA,Gabon,AFRO,0,5743,0,46
 2020-07-09,GA,Gabon,AFRO,128,5871,0,46
 2020-07-10,GA,Gabon,AFRO,0,5871,0,46
+2020-07-11,GA,Gabon,AFRO,71,5942,0,46
+2020-07-12,GA,Gabon,AFRO,0,5942,0,46
+2020-07-13,GA,Gabon,AFRO,0,5942,0,46
+2020-07-14,GA,Gabon,AFRO,0,5942,0,46
+2020-07-15,GA,Gabon,AFRO,0,5942,0,46
+2020-07-16,GA,Gabon,AFRO,0,5942,0,46
+2020-07-17,GA,Gabon,AFRO,179,6121,0,46
+2020-07-18,GA,Gabon,AFRO,0,6121,0,46
 2020-03-18,GM,Gambia,AFRO,1,1,0,0
 2020-03-19,GM,Gambia,AFRO,0,1,0,0
 2020-03-20,GM,Gambia,AFRO,0,1,0,0
@@ -9296,6 +9880,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GM,Gambia,AFRO,0,61,0,3
 2020-07-09,GM,Gambia,AFRO,2,63,0,3
 2020-07-10,GM,Gambia,AFRO,1,64,0,3
+2020-07-11,GM,Gambia,AFRO,0,64,0,3
+2020-07-12,GM,Gambia,AFRO,0,64,0,3
+2020-07-13,GM,Gambia,AFRO,0,64,0,3
+2020-07-14,GM,Gambia,AFRO,0,64,0,3
+2020-07-15,GM,Gambia,AFRO,0,64,0,3
+2020-07-16,GM,Gambia,AFRO,0,64,0,3
+2020-07-17,GM,Gambia,AFRO,14,78,0,3
+2020-07-18,GM,Gambia,AFRO,15,93,1,4
 2020-02-26,GE,Georgia,EURO,1,1,0,0
 2020-02-27,GE,Georgia,EURO,0,1,0,0
 2020-02-28,GE,Georgia,EURO,1,2,0,0
@@ -9432,6 +10024,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GE,Georgia,EURO,5,963,0,15
 2020-07-09,GE,Georgia,EURO,5,968,0,15
 2020-07-10,GE,Georgia,EURO,5,973,0,15
+2020-07-11,GE,Georgia,EURO,8,981,0,15
+2020-07-12,GE,Georgia,EURO,5,986,0,15
+2020-07-13,GE,Georgia,EURO,9,995,0,15
+2020-07-14,GE,Georgia,EURO,4,999,0,15
+2020-07-15,GE,Georgia,EURO,4,1003,0,15
+2020-07-16,GE,Georgia,EURO,3,1006,0,15
+2020-07-17,GE,Georgia,EURO,4,1010,0,15
+2020-07-18,GE,Georgia,EURO,8,1018,0,15
 2020-01-28,DE,Germany,EURO,4,4,0,0
 2020-01-29,DE,Germany,EURO,0,4,0,0
 2020-01-30,DE,Germany,EURO,0,4,0,0
@@ -9597,6 +10197,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,DE,Germany,EURO,397,197341,12,9036
 2020-07-09,DE,Germany,EURO,442,197783,12,9048
 2020-07-10,DE,Germany,EURO,395,198178,6,9054
+2020-07-11,DE,Germany,EURO,378,198556,6,9060
+2020-07-12,DE,Germany,EURO,248,198804,3,9063
+2020-07-13,DE,Germany,EURO,159,198963,1,9064
+2020-07-14,DE,Germany,EURO,0,198963,0,9064
+2020-07-15,DE,Germany,EURO,763,199726,7,9071
+2020-07-16,DE,Germany,EURO,534,200260,7,9078
+2020-07-17,DE,Germany,EURO,583,200843,4,9082
+2020-07-18,DE,Germany,EURO,529,201372,1,9083
 2020-03-14,GH,Ghana,AFRO,1,1,0,0
 2020-03-15,GH,Ghana,AFRO,1,2,0,0
 2020-03-16,GH,Ghana,AFRO,0,2,0,0
@@ -9716,6 +10324,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GH,Ghana,AFRO,1883,21968,7,129
 2020-07-09,GH,Ghana,AFRO,854,22822,0,129
 2020-07-10,GH,Ghana,AFRO,641,23463,0,129
+2020-07-11,GH,Ghana,AFRO,0,23463,0,129
+2020-07-12,GH,Ghana,AFRO,785,24248,6,135
+2020-07-13,GH,Ghana,AFRO,270,24518,4,139
+2020-07-14,GH,Ghana,AFRO,470,24988,0,139
+2020-07-15,GH,Ghana,AFRO,0,24988,0,139
+2020-07-16,GH,Ghana,AFRO,442,25430,0,139
+2020-07-17,GH,Ghana,AFRO,695,26125,0,139
+2020-07-18,GH,Ghana,AFRO,447,26572,5,144
 2020-03-03,GI,Gibraltar,EURO,1,1,0,0
 2020-03-04,GI,Gibraltar,EURO,0,1,0,0
 2020-03-05,GI,Gibraltar,EURO,0,1,0,0
@@ -9846,6 +10462,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GI,Gibraltar,EURO,0,179,0,0
 2020-07-09,GI,Gibraltar,EURO,0,179,0,0
 2020-07-10,GI,Gibraltar,EURO,0,179,0,0
+2020-07-11,GI,Gibraltar,EURO,1,180,0,0
+2020-07-12,GI,Gibraltar,EURO,0,180,0,0
+2020-07-13,GI,Gibraltar,EURO,0,180,0,0
+2020-07-14,GI,Gibraltar,EURO,0,180,0,0
+2020-07-15,GI,Gibraltar,EURO,0,180,0,0
+2020-07-16,GI,Gibraltar,EURO,0,180,0,0
+2020-07-17,GI,Gibraltar,EURO,0,180,0,0
+2020-07-18,GI,Gibraltar,EURO,0,180,0,0
 2020-02-26,GR,Greece,EURO,1,1,0,0
 2020-02-27,GR,Greece,EURO,2,3,0,0
 2020-02-28,GR,Greece,EURO,0,3,0,0
@@ -9982,6 +10606,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GR,Greece,EURO,27,3589,1,193
 2020-07-09,GR,Greece,EURO,33,3622,0,193
 2020-07-10,GR,Greece,EURO,50,3672,0,193
+2020-07-11,GR,Greece,EURO,60,3732,0,193
+2020-07-12,GR,Greece,EURO,40,3772,0,193
+2020-07-13,GR,Greece,EURO,31,3803,0,193
+2020-07-14,GR,Greece,EURO,23,3826,0,193
+2020-07-15,GR,Greece,EURO,57,3883,0,193
+2020-07-16,GR,Greece,EURO,27,3910,0,193
+2020-07-17,GR,Greece,EURO,29,3939,0,193
+2020-07-18,GR,Greece,EURO,25,3964,1,194
 2020-03-18,GL,Greenland,EURO,2,2,0,0
 2020-03-19,GL,Greenland,EURO,0,2,0,0
 2020-03-20,GL,Greenland,EURO,0,2,0,0
@@ -10097,6 +10729,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GL,Greenland,EURO,0,13,0,0
 2020-07-09,GL,Greenland,EURO,0,13,0,0
 2020-07-10,GL,Greenland,EURO,0,13,0,0
+2020-07-11,GL,Greenland,EURO,0,13,0,0
+2020-07-12,GL,Greenland,EURO,0,13,0,0
+2020-07-13,GL,Greenland,EURO,0,13,0,0
+2020-07-14,GL,Greenland,EURO,0,13,0,0
+2020-07-15,GL,Greenland,EURO,0,13,0,0
+2020-07-16,GL,Greenland,EURO,0,13,0,0
+2020-07-17,GL,Greenland,EURO,0,13,0,0
+2020-07-18,GL,Greenland,EURO,0,13,0,0
 2020-03-23,GD,Grenada,AMRO,1,1,0,0
 2020-03-24,GD,Grenada,AMRO,0,1,0,0
 2020-03-25,GD,Grenada,AMRO,0,1,0,0
@@ -10207,6 +10847,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GD,Grenada,AMRO,0,23,0,0
 2020-07-09,GD,Grenada,AMRO,0,23,0,0
 2020-07-10,GD,Grenada,AMRO,0,23,0,0
+2020-07-11,GD,Grenada,AMRO,0,23,0,0
+2020-07-12,GD,Grenada,AMRO,0,23,0,0
+2020-07-13,GD,Grenada,AMRO,0,23,0,0
+2020-07-14,GD,Grenada,AMRO,0,23,0,0
+2020-07-15,GD,Grenada,AMRO,0,23,0,0
+2020-07-16,GD,Grenada,AMRO,0,23,0,0
+2020-07-17,GD,Grenada,AMRO,0,23,0,0
+2020-07-18,GD,Grenada,AMRO,0,23,0,0
 2020-03-14,GP,Guadeloupe,AMRO,3,3,0,0
 2020-03-15,GP,Guadeloupe,AMRO,3,6,0,0
 2020-03-16,GP,Guadeloupe,AMRO,0,6,0,0
@@ -10326,6 +10974,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GP,Guadeloupe,AMRO,0,184,0,14
 2020-07-09,GP,Guadeloupe,AMRO,0,184,0,14
 2020-07-10,GP,Guadeloupe,AMRO,0,184,0,14
+2020-07-11,GP,Guadeloupe,AMRO,6,190,0,14
+2020-07-12,GP,Guadeloupe,AMRO,0,190,0,14
+2020-07-13,GP,Guadeloupe,AMRO,0,190,0,14
+2020-07-14,GP,Guadeloupe,AMRO,0,190,0,14
+2020-07-15,GP,Guadeloupe,AMRO,0,190,0,14
+2020-07-16,GP,Guadeloupe,AMRO,0,190,0,14
+2020-07-17,GP,Guadeloupe,AMRO,0,190,0,14
+2020-07-18,GP,Guadeloupe,AMRO,5,195,0,14
 2020-03-17,GU,Guam,WPRO,3,3,0,0
 2020-03-18,GU,Guam,WPRO,2,5,0,0
 2020-03-19,GU,Guam,WPRO,7,12,0,0
@@ -10442,6 +11098,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GU,Guam,WPRO,2,295,0,5
 2020-07-09,GU,Guam,WPRO,4,299,0,5
 2020-07-10,GU,Guam,WPRO,3,302,0,5
+2020-07-11,GU,Guam,WPRO,0,302,0,5
+2020-07-12,GU,Guam,WPRO,2,304,0,5
+2020-07-13,GU,Guam,WPRO,0,304,0,5
+2020-07-14,GU,Guam,WPRO,0,304,0,5
+2020-07-15,GU,Guam,WPRO,1,305,0,5
+2020-07-16,GU,Guam,WPRO,1,306,0,5
+2020-07-17,GU,Guam,WPRO,0,306,0,5
+2020-07-18,GU,Guam,WPRO,0,306,0,5
 2020-03-15,GT,Guatemala,AMRO,1,1,1,1
 2020-03-16,GT,Guatemala,AMRO,0,1,0,1
 2020-03-17,GT,Guatemala,AMRO,5,6,0,1
@@ -10560,6 +11224,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GT,Guatemala,AMRO,724,23972,34,981
 2020-07-09,GT,Guatemala,AMRO,815,24787,23,1004
 2020-07-10,GT,Guatemala,AMRO,624,25411,49,1053
+2020-07-11,GT,Guatemala,AMRO,1247,26658,39,1092
+2020-07-12,GT,Guatemala,AMRO,961,27619,47,1139
+2020-07-13,GT,Guatemala,AMRO,979,28598,33,1172
+2020-07-14,GT,Guatemala,AMRO,757,29355,47,1219
+2020-07-15,GT,Guatemala,AMRO,387,29742,25,1244
+2020-07-16,GT,Guatemala,AMRO,1130,30872,58,1302
+2020-07-17,GT,Guatemala,AMRO,1202,32074,48,1350
+2020-07-18,GT,Guatemala,AMRO,865,32939,54,1404
 2020-03-09,GG,Guernsey,EURO,1,1,0,0
 2020-03-10,GG,Guernsey,EURO,0,1,0,0
 2020-03-11,GG,Guernsey,EURO,0,1,0,0
@@ -10684,6 +11356,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GG,Guernsey,EURO,0,252,0,13
 2020-07-09,GG,Guernsey,EURO,0,252,0,13
 2020-07-10,GG,Guernsey,EURO,0,252,0,13
+2020-07-11,GG,Guernsey,EURO,0,252,0,13
+2020-07-12,GG,Guernsey,EURO,0,252,0,13
+2020-07-13,GG,Guernsey,EURO,0,252,0,13
+2020-07-14,GG,Guernsey,EURO,0,252,0,13
+2020-07-15,GG,Guernsey,EURO,0,252,0,13
+2020-07-16,GG,Guernsey,EURO,0,252,0,13
+2020-07-17,GG,Guernsey,EURO,0,252,0,13
+2020-07-18,GG,Guernsey,EURO,0,252,0,13
 2020-03-14,GN,Guinea,AFRO,1,1,0,0
 2020-03-15,GN,Guinea,AFRO,0,1,0,0
 2020-03-16,GN,Guinea,AFRO,0,1,0,0
@@ -10803,6 +11483,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GN,Guinea,AFRO,26,5636,0,34
 2020-07-09,GN,Guinea,AFRO,61,5697,0,34
 2020-07-10,GN,Guinea,AFRO,184,5881,2,36
+2020-07-11,GN,Guinea,AFRO,88,5969,1,37
+2020-07-12,GN,Guinea,AFRO,75,6044,0,37
+2020-07-13,GN,Guinea,AFRO,97,6141,0,37
+2020-07-14,GN,Guinea,AFRO,29,6170,1,38
+2020-07-15,GN,Guinea,AFRO,30,6200,0,38
+2020-07-16,GN,Guinea,AFRO,76,6276,0,38
+2020-07-17,GN,Guinea,AFRO,83,6359,1,39
+2020-07-18,GN,Guinea,AFRO,71,6430,0,39
 2020-03-26,GW,Guinea-Bissau,AFRO,2,2,0,0
 2020-03-27,GW,Guinea-Bissau,AFRO,0,2,0,0
 2020-03-28,GW,Guinea-Bissau,AFRO,0,2,0,0
@@ -10910,6 +11598,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GW,Guinea-Bissau,AFRO,0,1790,0,25
 2020-07-09,GW,Guinea-Bissau,AFRO,0,1790,0,25
 2020-07-10,GW,Guinea-Bissau,AFRO,0,1790,0,25
+2020-07-11,GW,Guinea-Bissau,AFRO,52,1842,0,25
+2020-07-12,GW,Guinea-Bissau,AFRO,0,1842,0,25
+2020-07-13,GW,Guinea-Bissau,AFRO,0,1842,0,25
+2020-07-14,GW,Guinea-Bissau,AFRO,60,1902,1,26
+2020-07-15,GW,Guinea-Bissau,AFRO,0,1902,0,26
+2020-07-16,GW,Guinea-Bissau,AFRO,25,1927,0,26
+2020-07-17,GW,Guinea-Bissau,AFRO,0,1927,0,26
+2020-07-18,GW,Guinea-Bissau,AFRO,23,1950,0,26
 2020-03-13,GY,Guyana,AMRO,1,1,1,1
 2020-03-14,GY,Guyana,AMRO,0,1,0,1
 2020-03-15,GY,Guyana,AMRO,3,4,0,1
@@ -11030,6 +11726,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GY,Guyana,AMRO,5,278,1,16
 2020-07-09,GY,Guyana,AMRO,6,284,0,16
 2020-07-10,GY,Guyana,AMRO,1,285,0,16
+2020-07-11,GY,Guyana,AMRO,1,286,0,16
+2020-07-12,GY,Guyana,AMRO,4,290,0,16
+2020-07-13,GY,Guyana,AMRO,1,291,1,17
+2020-07-14,GY,Guyana,AMRO,6,297,0,17
+2020-07-15,GY,Guyana,AMRO,3,300,0,17
+2020-07-16,GY,Guyana,AMRO,8,308,1,18
+2020-07-17,GY,Guyana,AMRO,5,313,1,19
+2020-07-18,GY,Guyana,AMRO,2,315,0,19
 2020-03-20,HT,Haiti,AMRO,2,2,0,0
 2020-03-21,HT,Haiti,AMRO,0,2,0,0
 2020-03-22,HT,Haiti,AMRO,0,2,0,0
@@ -11143,6 +11847,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,HT,Haiti,AMRO,38,6371,0,113
 2020-07-09,HT,Haiti,AMRO,61,6432,4,117
 2020-07-10,HT,Haiti,AMRO,54,6486,6,123
+2020-07-11,HT,Haiti,AMRO,96,6582,7,130
+2020-07-12,HT,Haiti,AMRO,35,6617,5,135
+2020-07-13,HT,Haiti,AMRO,73,6690,4,139
+2020-07-14,HT,Haiti,AMRO,37,6727,0,139
+2020-07-15,HT,Haiti,AMRO,0,6727,2,141
+2020-07-16,HT,Haiti,AMRO,104,6831,2,143
+2020-07-17,HT,Haiti,AMRO,71,6902,2,145
+2020-07-18,HT,Haiti,AMRO,46,6948,0,145
 2020-03-06,VA,Holy See,EURO,1,1,0,0
 2020-03-07,VA,Holy See,EURO,0,1,0,0
 2020-03-08,VA,Holy See,EURO,0,1,0,0
@@ -11270,6 +11982,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,VA,Holy See,EURO,0,12,0,0
 2020-07-09,VA,Holy See,EURO,0,12,0,0
 2020-07-10,VA,Holy See,EURO,0,12,0,0
+2020-07-11,VA,Holy See,EURO,0,12,0,0
+2020-07-12,VA,Holy See,EURO,0,12,0,0
+2020-07-13,VA,Holy See,EURO,0,12,0,0
+2020-07-14,VA,Holy See,EURO,0,12,0,0
+2020-07-15,VA,Holy See,EURO,0,12,0,0
+2020-07-16,VA,Holy See,EURO,0,12,0,0
+2020-07-17,VA,Holy See,EURO,0,12,0,0
+2020-07-18,VA,Holy See,EURO,0,12,0,0
 2020-03-12,HN,Honduras,AMRO,2,2,0,0
 2020-03-13,HN,Honduras,AMRO,0,2,0,0
 2020-03-14,HN,Honduras,AMRO,0,2,0,0
@@ -11391,6 +12111,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,HN,Honduras,AMRO,722,24665,17,656
 2020-07-09,HN,Honduras,AMRO,763,25428,21,677
 2020-07-10,HN,Honduras,AMRO,550,25978,17,694
+2020-07-11,HN,Honduras,AMRO,406,26384,10,704
+2020-07-12,HN,Honduras,AMRO,669,27053,46,750
+2020-07-13,HN,Honduras,AMRO,530,27583,21,771
+2020-07-14,HN,Honduras,AMRO,507,28090,3,774
+2020-07-15,HN,Honduras,AMRO,489,28579,15,789
+2020-07-16,HN,Honduras,AMRO,527,29106,18,807
+2020-07-17,HN,Honduras,AMRO,930,30036,18,825
+2020-07-18,HN,Honduras,AMRO,831,30867,10,835
 2020-03-04,HU,Hungary,EURO,2,2,0,0
 2020-03-05,HU,Hungary,EURO,0,2,0,0
 2020-03-06,HU,Hungary,EURO,2,4,0,0
@@ -11520,6 +12248,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,HU,Hungary,EURO,21,4210,0,589
 2020-07-09,HU,Hungary,EURO,0,4210,0,589
 2020-07-10,HU,Hungary,EURO,10,4220,2,591
+2020-07-11,HU,Hungary,EURO,3,4223,2,593
+2020-07-12,HU,Hungary,EURO,6,4229,2,595
+2020-07-13,HU,Hungary,EURO,5,4234,0,595
+2020-07-14,HU,Hungary,EURO,13,4247,0,595
+2020-07-15,HU,Hungary,EURO,16,4263,0,595
+2020-07-16,HU,Hungary,EURO,0,4263,0,595
+2020-07-17,HU,Hungary,EURO,16,4279,0,595
+2020-07-18,HU,Hungary,EURO,14,4293,0,595
 2020-03-01,IS,Iceland,EURO,2,2,0,0
 2020-03-02,IS,Iceland,EURO,7,9,0,0
 2020-03-03,IS,Iceland,EURO,7,16,0,0
@@ -11652,6 +12388,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,IS,Iceland,EURO,7,1873,0,10
 2020-07-09,IS,Iceland,EURO,7,1880,0,10
 2020-07-10,IS,Iceland,EURO,2,1882,0,10
+2020-07-11,IS,Iceland,EURO,4,1886,0,10
+2020-07-12,IS,Iceland,EURO,2,1888,0,10
+2020-07-13,IS,Iceland,EURO,8,1896,0,10
+2020-07-14,IS,Iceland,EURO,4,1900,0,10
+2020-07-15,IS,Iceland,EURO,5,1905,0,10
+2020-07-16,IS,Iceland,EURO,6,1911,0,10
+2020-07-17,IS,Iceland,EURO,3,1914,0,10
+2020-07-18,IS,Iceland,EURO,2,1916,0,10
 2020-01-30,IN,India,SEARO,1,1,0,0
 2020-01-31,IN,India,SEARO,0,1,0,0
 2020-02-01,IN,India,SEARO,0,1,0,0
@@ -11815,6 +12559,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,IN,India,SEARO,22752,742417,482,20642
 2020-07-09,IN,India,SEARO,24879,767296,487,21129
 2020-07-10,IN,India,SEARO,26506,793802,475,21604
+2020-07-11,IN,India,SEARO,27114,820916,519,22123
+2020-07-12,IN,India,SEARO,28637,849553,551,22674
+2020-07-13,IN,India,SEARO,28701,878254,500,23174
+2020-07-14,IN,India,SEARO,28498,906752,553,23727
+2020-07-15,IN,India,SEARO,29429,936181,582,24309
+2020-07-16,IN,India,SEARO,32695,968876,606,24915
+2020-07-17,IN,India,SEARO,34956,1003832,687,25602
+2020-07-18,IN,India,SEARO,34884,1038716,671,26273
 2020-03-02,ID,Indonesia,SEARO,2,2,0,0
 2020-03-03,ID,Indonesia,SEARO,0,2,0,0
 2020-03-04,ID,Indonesia,SEARO,0,2,0,0
@@ -11946,6 +12698,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,ID,Indonesia,SEARO,1268,66226,68,3309
 2020-07-09,ID,Indonesia,SEARO,1853,68079,50,3359
 2020-07-10,ID,Indonesia,SEARO,2657,70736,58,3417
+2020-07-11,ID,Indonesia,SEARO,1611,72347,52,3469
+2020-07-12,ID,Indonesia,SEARO,1671,74018,66,3535
+2020-07-13,ID,Indonesia,SEARO,1681,75699,71,3606
+2020-07-14,ID,Indonesia,SEARO,1282,76981,50,3656
+2020-07-15,ID,Indonesia,SEARO,1591,78572,54,3710
+2020-07-16,ID,Indonesia,SEARO,1522,80094,87,3797
+2020-07-17,ID,Indonesia,SEARO,1574,81668,76,3873
+2020-07-18,ID,Indonesia,SEARO,1462,83130,84,3957
 2020-02-19,IR,Iran (Islamic Republic of),EMRO,2,2,2,2
 2020-02-20,IR,Iran (Islamic Republic of),EMRO,3,5,0,2
 2020-02-21,IR,Iran (Islamic Republic of),EMRO,13,18,2,4
@@ -12089,6 +12849,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,IR,Iran (Islamic Republic of),EMRO,2637,245688,200,11931
 2020-07-09,IR,Iran (Islamic Republic of),EMRO,2691,248379,153,12084
 2020-07-10,IR,Iran (Islamic Republic of),EMRO,2079,250458,221,12305
+2020-07-11,IR,Iran (Islamic Republic of),EMRO,2262,252720,142,12447
+2020-07-12,IR,Iran (Islamic Republic of),EMRO,2397,255117,188,12635
+2020-07-13,IR,Iran (Islamic Republic of),EMRO,2186,257303,194,12829
+2020-07-14,IR,Iran (Islamic Republic of),EMRO,2349,259652,203,13032
+2020-07-15,IR,Iran (Islamic Republic of),EMRO,2521,262173,179,13211
+2020-07-16,IR,Iran (Islamic Republic of),EMRO,2388,264561,199,13410
+2020-07-17,IR,Iran (Islamic Republic of),EMRO,2500,267061,198,13608
+2020-07-18,IR,Iran (Islamic Republic of),EMRO,2379,269440,183,13791
 2020-02-24,IQ,Iraq,EMRO,1,1,0,0
 2020-02-25,IQ,Iraq,EMRO,4,5,0,0
 2020-02-26,IQ,Iraq,EMRO,0,5,0,0
@@ -12227,6 +12995,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,IQ,Iraq,EMRO,2426,64701,118,2685
 2020-07-09,IQ,Iraq,EMRO,2741,67442,94,2779
 2020-07-10,IQ,Iraq,EMRO,2170,69612,103,2882
+2020-07-11,IQ,Iraq,EMRO,2848,72460,78,2960
+2020-07-12,IQ,Iraq,EMRO,2734,75194,95,3055
+2020-07-13,IQ,Iraq,EMRO,2312,77506,95,3150
+2020-07-14,IQ,Iraq,EMRO,2229,79735,100,3250
+2020-07-15,IQ,Iraq,EMRO,2022,81757,95,3345
+2020-07-16,IQ,Iraq,EMRO,2110,83867,87,3432
+2020-07-17,IQ,Iraq,EMRO,2281,86148,90,3522
+2020-07-18,IQ,Iraq,EMRO,2023,88171,94,3616
 2020-03-01,IE,Ireland,EURO,1,1,0,0
 2020-03-02,IE,Ireland,EURO,0,1,0,0
 2020-03-03,IE,Ireland,EURO,1,2,0,0
@@ -12359,6 +13135,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,IE,Ireland,EURO,7,25538,2,1743
 2020-07-09,IE,Ireland,EURO,4,25542,0,1743
 2020-07-10,IE,Ireland,EURO,23,25565,0,1743
+2020-07-11,IE,Ireland,EURO,24,25589,1,1744
+2020-07-12,IE,Ireland,EURO,22,25611,2,1746
+2020-07-13,IE,Ireland,EURO,17,25628,0,1746
+2020-07-14,IE,Ireland,EURO,10,25638,0,1746
+2020-07-15,IE,Ireland,EURO,32,25670,0,1746
+2020-07-16,IE,Ireland,EURO,13,25683,2,1748
+2020-07-17,IE,Ireland,EURO,15,25698,1,1749
+2020-07-18,IE,Ireland,EURO,32,25730,3,1752
 2020-03-20,IM,Isle of Man,EURO,1,1,0,0
 2020-03-21,IM,Isle of Man,EURO,1,2,0,0
 2020-03-22,IM,Isle of Man,EURO,0,2,0,0
@@ -12472,6 +13256,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,IM,Isle of Man,EURO,0,336,0,24
 2020-07-09,IM,Isle of Man,EURO,0,336,0,24
 2020-07-10,IM,Isle of Man,EURO,0,336,0,24
+2020-07-11,IM,Isle of Man,EURO,0,336,0,24
+2020-07-12,IM,Isle of Man,EURO,0,336,0,24
+2020-07-13,IM,Isle of Man,EURO,0,336,0,24
+2020-07-14,IM,Isle of Man,EURO,0,336,0,24
+2020-07-15,IM,Isle of Man,EURO,0,336,0,24
+2020-07-16,IM,Isle of Man,EURO,0,336,0,24
+2020-07-17,IM,Isle of Man,EURO,0,336,0,24
+2020-07-18,IM,Isle of Man,EURO,0,336,0,24
 2020-02-21,IL,Israel,EURO,1,1,0,0
 2020-02-22,IL,Israel,EURO,0,1,0,0
 2020-02-23,IL,Israel,EURO,0,1,0,0
@@ -12613,6 +13405,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,IL,Israel,EURO,1082,31137,5,336
 2020-07-09,IL,Israel,EURO,1406,32543,6,342
 2020-07-10,IL,Israel,EURO,1360,33903,4,346
+2020-07-11,IL,Israel,EURO,1523,35426,3,349
+2020-07-12,IL,Israel,EURO,1395,36821,4,353
+2020-07-13,IL,Israel,EURO,1194,38015,4,357
+2020-07-14,IL,Israel,EURO,1279,39294,7,364
+2020-07-15,IL,Israel,EURO,1735,41029,3,367
+2020-07-16,IL,Israel,EURO,1573,42602,5,372
+2020-07-17,IL,Israel,EURO,1896,44498,7,379
+2020-07-18,IL,Israel,EURO,1946,46444,7,386
 2020-01-29,IT,Italy,EURO,2,2,0,0
 2020-01-30,IT,Italy,EURO,0,2,0,0
 2020-01-31,IT,Italy,EURO,0,2,0,0
@@ -12777,6 +13577,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,IT,Italy,EURO,137,241956,30,34899
 2020-07-09,IT,Italy,EURO,193,242149,15,34914
 2020-07-10,IT,Italy,EURO,214,242363,12,34926
+2020-07-11,IT,Italy,EURO,276,242639,12,34938
+2020-07-12,IT,Italy,EURO,188,242827,7,34945
+2020-07-13,IT,Italy,EURO,234,243061,9,34954
+2020-07-14,IT,Italy,EURO,169,243230,13,34967
+2020-07-15,IT,Italy,EURO,114,243344,17,34984
+2020-07-16,IT,Italy,EURO,162,243506,13,34997
+2020-07-17,IT,Italy,EURO,230,243736,20,35017
+2020-07-18,IT,Italy,EURO,231,243967,11,35028
 2020-03-10,JM,Jamaica,AMRO,1,1,0,0
 2020-03-11,JM,Jamaica,AMRO,0,1,0,0
 2020-03-12,JM,Jamaica,AMRO,0,1,0,0
@@ -12900,6 +13708,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,JM,Jamaica,AMRO,5,737,0,10
 2020-07-09,JM,Jamaica,AMRO,8,745,0,10
 2020-07-10,JM,Jamaica,AMRO,6,751,0,10
+2020-07-11,JM,Jamaica,AMRO,2,753,0,10
+2020-07-12,JM,Jamaica,AMRO,0,753,0,10
+2020-07-13,JM,Jamaica,AMRO,5,758,0,10
+2020-07-14,JM,Jamaica,AMRO,0,758,0,10
+2020-07-15,JM,Jamaica,AMRO,1,759,0,10
+2020-07-16,JM,Jamaica,AMRO,3,762,0,10
+2020-07-17,JM,Jamaica,AMRO,1,763,0,10
+2020-07-18,JM,Jamaica,AMRO,2,765,0,10
 2020-01-14,JP,Japan,WPRO,1,1,0,0
 2020-01-15,JP,Japan,WPRO,0,1,0,0
 2020-01-16,JP,Japan,WPRO,0,1,0,0
@@ -13079,6 +13895,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,JP,Japan,WPRO,193,20174,2,980
 2020-07-09,JP,Japan,WPRO,197,20371,1,981
 2020-07-10,JP,Japan,WPRO,348,20719,1,982
+2020-07-11,JP,Japan,WPRO,410,21129,0,982
+2020-07-12,JP,Japan,WPRO,373,21502,0,982
+2020-07-13,JP,Japan,WPRO,366,21868,0,982
+2020-07-14,JP,Japan,WPRO,352,22220,0,982
+2020-07-15,JP,Japan,WPRO,288,22508,2,984
+2020-07-16,JP,Japan,WPRO,382,22890,1,985
+2020-07-17,JP,Japan,WPRO,583,23473,0,985
+2020-07-18,JP,Japan,WPRO,659,24132,0,985
 2020-03-12,JE,Jersey,EURO,2,2,0,0
 2020-03-13,JE,Jersey,EURO,0,2,0,0
 2020-03-14,JE,Jersey,EURO,0,2,0,0
@@ -13200,6 +14024,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,JE,Jersey,EURO,5,325,0,31
 2020-07-09,JE,Jersey,EURO,0,325,0,31
 2020-07-10,JE,Jersey,EURO,0,325,0,31
+2020-07-11,JE,Jersey,EURO,0,325,0,31
+2020-07-12,JE,Jersey,EURO,0,325,0,31
+2020-07-13,JE,Jersey,EURO,0,325,0,31
+2020-07-14,JE,Jersey,EURO,4,329,0,31
+2020-07-15,JE,Jersey,EURO,0,329,0,31
+2020-07-16,JE,Jersey,EURO,0,329,0,31
+2020-07-17,JE,Jersey,EURO,0,329,0,31
+2020-07-18,JE,Jersey,EURO,2,331,0,31
 2020-03-02,JO,Jordan,EMRO,1,1,0,0
 2020-03-03,JO,Jordan,EMRO,0,1,0,0
 2020-03-04,JO,Jordan,EMRO,0,1,0,0
@@ -13331,6 +14163,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,JO,Jordan,EMRO,2,1169,0,10
 2020-07-09,JO,Jordan,EMRO,0,1169,0,10
 2020-07-10,JO,Jordan,EMRO,0,1169,0,10
+2020-07-11,JO,Jordan,EMRO,4,1173,0,10
+2020-07-12,JO,Jordan,EMRO,3,1176,0,10
+2020-07-13,JO,Jordan,EMRO,3,1179,0,10
+2020-07-14,JO,Jordan,EMRO,4,1183,0,10
+2020-07-15,JO,Jordan,EMRO,15,1198,0,10
+2020-07-16,JO,Jordan,EMRO,3,1201,0,10
+2020-07-17,JO,Jordan,EMRO,5,1206,0,10
+2020-07-18,JO,Jordan,EMRO,3,1209,0,10
 2020-03-14,KZ,Kazakhstan,EURO,2,2,0,0
 2020-03-15,KZ,Kazakhstan,EURO,4,6,0,0
 2020-03-16,KZ,Kazakhstan,EURO,0,6,0,0
@@ -13450,6 +14290,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,KZ,Kazakhstan,EURO,1376,51059,0,264
 2020-07-09,KZ,Kazakhstan,EURO,1962,53021,32,296
 2020-07-10,KZ,Kazakhstan,EURO,1726,54747,0,296
+2020-07-11,KZ,Kazakhstan,EURO,1708,56455,36,332
+2020-07-12,KZ,Kazakhstan,EURO,1798,58253,20,352
+2020-07-13,KZ,Kazakhstan,EURO,1646,59899,23,375
+2020-07-14,KZ,Kazakhstan,EURO,1856,61755,0,375
+2020-07-15,KZ,Kazakhstan,EURO,1759,63514,0,375
+2020-07-16,KZ,Kazakhstan,EURO,1674,65188,0,375
+2020-07-17,KZ,Kazakhstan,EURO,1707,66895,0,375
+2020-07-18,KZ,Kazakhstan,EURO,1808,68703,0,375
 2020-03-14,KE,Kenya,AFRO,1,1,0,0
 2020-03-15,KE,Kenya,AFRO,0,1,0,0
 2020-03-16,KE,Kenya,AFRO,2,3,0,0
@@ -13569,6 +14417,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,KE,Kenya,AFRO,183,8250,3,167
 2020-07-09,KE,Kenya,AFRO,278,8528,2,169
 2020-07-10,KE,Kenya,AFRO,447,8975,4,173
+2020-07-11,KE,Kenya,AFRO,473,9448,8,181
+2020-07-12,KE,Kenya,AFRO,278,9726,3,184
+2020-07-13,KE,Kenya,AFRO,379,10105,1,185
+2020-07-14,KE,Kenya,AFRO,189,10294,12,197
+2020-07-15,KE,Kenya,AFRO,497,10791,5,202
+2020-07-16,KE,Kenya,AFRO,461,11252,7,209
+2020-07-17,KE,Kenya,AFRO,421,11673,8,217
+2020-07-18,KE,Kenya,AFRO,389,12062,5,222
 2020-03-13,XK,Kosovo[1],EURO,2,2,0,0
 2020-03-14,XK,Kosovo[1],EURO,3,5,0,0
 2020-03-15,XK,Kosovo[1],EURO,0,5,0,0
@@ -13689,6 +14545,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,XK,Kosovo[1],EURO,183,3843,3,72
 2020-07-09,XK,Kosovo[1],EURO,214,4057,4,76
 2020-07-10,XK,Kosovo[1],EURO,207,4264,8,84
+2020-07-11,XK,Kosovo[1],EURO,205,4469,3,87
+2020-07-12,XK,Kosovo[1],EURO,203,4672,4,91
+2020-07-13,XK,Kosovo[1],EURO,216,4888,1,92
+2020-07-14,XK,Kosovo[1],EURO,187,5075,6,98
+2020-07-15,XK,Kosovo[1],EURO,0,5075,0,98
+2020-07-16,XK,Kosovo[1],EURO,119,5194,4,102
+2020-07-17,XK,Kosovo[1],EURO,135,5329,6,108
+2020-07-18,XK,Kosovo[1],EURO,81,5410,6,114
 2020-02-24,KW,Kuwait,EMRO,5,5,0,0
 2020-02-25,KW,Kuwait,EMRO,4,9,0,0
 2020-02-26,KW,Kuwait,EMRO,17,26,0,0
@@ -13827,6 +14691,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,KW,Kuwait,EMRO,601,51245,4,377
 2020-07-09,KW,Kuwait,EMRO,762,52007,2,379
 2020-07-10,KW,Kuwait,EMRO,833,52840,3,382
+2020-07-11,KW,Kuwait,EMRO,740,53580,1,383
+2020-07-12,KW,Kuwait,EMRO,478,54058,3,386
+2020-07-13,KW,Kuwait,EMRO,836,54894,4,390
+2020-07-14,KW,Kuwait,EMRO,614,55508,3,393
+2020-07-15,KW,Kuwait,EMRO,666,56174,3,396
+2020-07-16,KW,Kuwait,EMRO,703,56877,3,399
+2020-07-17,KW,Kuwait,EMRO,791,57668,3,402
+2020-07-18,KW,Kuwait,EMRO,553,58221,2,404
 2020-03-18,KG,Kyrgyzstan,EURO,3,3,0,0
 2020-03-19,KG,Kyrgyzstan,EURO,0,3,0,0
 2020-03-20,KG,Kyrgyzstan,EURO,3,6,0,0
@@ -13942,6 +14814,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,KG,Kyrgyzstan,EURO,345,8486,13,112
 2020-07-09,KG,Kyrgyzstan,EURO,361,8847,4,116
 2020-07-10,KG,Kyrgyzstan,EURO,511,9358,6,122
+2020-07-11,KG,Kyrgyzstan,EURO,552,9910,3,125
+2020-07-12,KG,Kyrgyzstan,EURO,719,10629,7,132
+2020-07-13,KG,Kyrgyzstan,EURO,488,11117,15,147
+2020-07-14,KG,Kyrgyzstan,EURO,421,11538,2,149
+2020-07-15,KG,Kyrgyzstan,EURO,439,11977,11,160
+2020-07-16,KG,Kyrgyzstan,EURO,521,12498,7,167
+2020-07-17,KG,Kyrgyzstan,EURO,603,13101,5,172
+2020-07-18,KG,Kyrgyzstan,EURO,11883,24984,751,923
 2020-03-24,LA,Lao People's Democratic Republic,WPRO,2,2,0,0
 2020-03-25,LA,Lao People's Democratic Republic,WPRO,0,2,0,0
 2020-03-26,LA,Lao People's Democratic Republic,WPRO,1,3,0,0
@@ -14051,6 +14931,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,LA,Lao People's Democratic Republic,WPRO,0,19,0,0
 2020-07-09,LA,Lao People's Democratic Republic,WPRO,0,19,0,0
 2020-07-10,LA,Lao People's Democratic Republic,WPRO,0,19,0,0
+2020-07-11,LA,Lao People's Democratic Republic,WPRO,0,19,0,0
+2020-07-12,LA,Lao People's Democratic Republic,WPRO,0,19,0,0
+2020-07-13,LA,Lao People's Democratic Republic,WPRO,0,19,0,0
+2020-07-14,LA,Lao People's Democratic Republic,WPRO,0,19,0,0
+2020-07-15,LA,Lao People's Democratic Republic,WPRO,0,19,0,0
+2020-07-16,LA,Lao People's Democratic Republic,WPRO,0,19,0,0
+2020-07-17,LA,Lao People's Democratic Republic,WPRO,0,19,0,0
+2020-07-18,LA,Lao People's Democratic Republic,WPRO,0,19,0,0
 2020-03-02,LV,Latvia,EURO,1,1,0,0
 2020-03-03,LV,Latvia,EURO,0,1,0,0
 2020-03-04,LV,Latvia,EURO,0,1,0,0
@@ -14182,6 +15070,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,LV,Latvia,EURO,7,1134,0,30
 2020-07-09,LV,Latvia,EURO,7,1141,0,30
 2020-07-10,LV,Latvia,EURO,13,1154,0,30
+2020-07-11,LV,Latvia,EURO,0,1154,0,30
+2020-07-12,LV,Latvia,EURO,19,1173,0,30
+2020-07-13,LV,Latvia,EURO,0,1173,0,30
+2020-07-14,LV,Latvia,EURO,1,1174,1,31
+2020-07-15,LV,Latvia,EURO,4,1178,0,31
+2020-07-16,LV,Latvia,EURO,0,1178,0,31
+2020-07-17,LV,Latvia,EURO,1,1179,0,31
+2020-07-18,LV,Latvia,EURO,6,1185,0,31
 2020-02-21,LB,Lebanon,EMRO,1,1,0,0
 2020-02-22,LB,Lebanon,EMRO,0,1,0,0
 2020-02-23,LB,Lebanon,EMRO,0,1,0,0
@@ -14323,6 +15219,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,LB,Lebanon,EMRO,22,1907,0,36
 2020-07-09,LB,Lebanon,EMRO,39,1946,0,36
 2020-07-10,LB,Lebanon,EMRO,65,2011,0,36
+2020-07-11,LB,Lebanon,EMRO,71,2082,0,36
+2020-07-12,LB,Lebanon,EMRO,86,2168,0,36
+2020-07-13,LB,Lebanon,EMRO,166,2334,0,36
+2020-07-14,LB,Lebanon,EMRO,85,2419,0,36
+2020-07-15,LB,Lebanon,EMRO,32,2451,1,37
+2020-07-16,LB,Lebanon,EMRO,91,2542,1,38
+2020-07-17,LB,Lebanon,EMRO,57,2599,2,40
+2020-07-18,LB,Lebanon,EMRO,101,2700,0,40
 2020-05-14,LS,Lesotho,AFRO,1,1,0,0
 2020-05-15,LS,Lesotho,AFRO,0,1,0,0
 2020-05-16,LS,Lesotho,AFRO,0,1,0,0
@@ -14381,6 +15285,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,LS,Lesotho,AFRO,0,91,0,0
 2020-07-09,LS,Lesotho,AFRO,43,134,1,1
 2020-07-10,LS,Lesotho,AFRO,0,134,0,1
+2020-07-11,LS,Lesotho,AFRO,50,184,0,1
+2020-07-12,LS,Lesotho,AFRO,0,184,0,1
+2020-07-13,LS,Lesotho,AFRO,49,233,1,2
+2020-07-14,LS,Lesotho,AFRO,12,245,1,3
+2020-07-15,LS,Lesotho,AFRO,11,256,0,3
+2020-07-16,LS,Lesotho,AFRO,0,256,0,3
+2020-07-17,LS,Lesotho,AFRO,0,256,0,3
+2020-07-18,LS,Lesotho,AFRO,103,359,3,6
 2020-03-17,LR,Liberia,AFRO,1,1,0,0
 2020-03-18,LR,Liberia,AFRO,1,2,0,0
 2020-03-19,LR,Liberia,AFRO,0,2,0,0
@@ -14497,6 +15409,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,LR,Liberia,AFRO,26,917,2,41
 2020-07-09,LR,Liberia,AFRO,9,926,0,41
 2020-07-10,LR,Liberia,AFRO,31,957,1,42
+2020-07-11,LR,Liberia,AFRO,6,963,5,47
+2020-07-12,LR,Liberia,AFRO,35,998,0,47
+2020-07-13,LR,Liberia,AFRO,12,1010,4,51
+2020-07-14,LR,Liberia,AFRO,14,1024,0,51
+2020-07-15,LR,Liberia,AFRO,14,1038,0,51
+2020-07-16,LR,Liberia,AFRO,18,1056,15,66
+2020-07-17,LR,Liberia,AFRO,14,1070,2,68
+2020-07-18,LR,Liberia,AFRO,0,1070,0,68
 2020-03-25,LY,Libya,EMRO,1,1,0,0
 2020-03-26,LY,Libya,EMRO,0,1,0,0
 2020-03-27,LY,Libya,EMRO,0,1,0,0
@@ -14605,6 +15525,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,LY,Libya,EMRO,136,1182,3,35
 2020-07-09,LY,Libya,EMRO,0,1182,0,35
 2020-07-10,LY,Libya,EMRO,160,1342,3,38
+2020-07-11,LY,Libya,EMRO,0,1342,0,38
+2020-07-12,LY,Libya,EMRO,47,1389,0,38
+2020-07-13,LY,Libya,EMRO,44,1433,1,39
+2020-07-14,LY,Libya,EMRO,79,1512,1,40
+2020-07-15,LY,Libya,EMRO,51,1563,2,42
+2020-07-16,LY,Libya,EMRO,26,1589,1,43
+2020-07-17,LY,Libya,EMRO,63,1652,3,46
+2020-07-18,LY,Libya,EMRO,52,1704,1,47
 2020-03-05,LI,Liechtenstein,EURO,1,1,0,0
 2020-03-06,LI,Liechtenstein,EURO,0,1,0,0
 2020-03-07,LI,Liechtenstein,EURO,0,1,0,0
@@ -14733,6 +15661,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,LI,Liechtenstein,EURO,0,85,0,1
 2020-07-09,LI,Liechtenstein,EURO,0,85,0,1
 2020-07-10,LI,Liechtenstein,EURO,0,85,0,1
+2020-07-11,LI,Liechtenstein,EURO,0,85,0,1
+2020-07-12,LI,Liechtenstein,EURO,0,85,0,1
+2020-07-13,LI,Liechtenstein,EURO,0,85,0,1
+2020-07-14,LI,Liechtenstein,EURO,0,85,0,1
+2020-07-15,LI,Liechtenstein,EURO,0,85,0,1
+2020-07-16,LI,Liechtenstein,EURO,0,85,0,1
+2020-07-17,LI,Liechtenstein,EURO,0,85,0,1
+2020-07-18,LI,Liechtenstein,EURO,1,86,0,1
 2020-02-28,LT,Lithuania,EURO,1,1,0,0
 2020-02-29,LT,Lithuania,EURO,0,1,0,0
 2020-03-01,LT,Lithuania,EURO,0,1,0,0
@@ -14867,6 +15803,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,LT,Lithuania,EURO,3,1844,0,79
 2020-07-09,LT,Lithuania,EURO,10,1854,0,79
 2020-07-10,LT,Lithuania,EURO,3,1857,0,79
+2020-07-11,LT,Lithuania,EURO,4,1861,0,79
+2020-07-12,LT,Lithuania,EURO,4,1865,0,79
+2020-07-13,LT,Lithuania,EURO,4,1869,0,79
+2020-07-14,LT,Lithuania,EURO,5,1874,0,79
+2020-07-15,LT,Lithuania,EURO,1,1875,0,79
+2020-07-16,LT,Lithuania,EURO,7,1882,0,79
+2020-07-17,LT,Lithuania,EURO,20,1902,0,79
+2020-07-18,LT,Lithuania,EURO,6,1908,0,79
 2020-03-01,LU,Luxembourg,EURO,1,1,0,0
 2020-03-02,LU,Luxembourg,EURO,0,1,0,0
 2020-03-03,LU,Luxembourg,EURO,0,1,0,0
@@ -14999,6 +15943,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,LU,Luxembourg,EURO,61,4603,0,110
 2020-07-09,LU,Luxembourg,EURO,47,4650,0,110
 2020-07-10,LU,Luxembourg,EURO,69,4719,0,110
+2020-07-11,LU,Luxembourg,EURO,58,4777,0,110
+2020-07-12,LU,Luxembourg,EURO,65,4842,0,110
+2020-07-13,LU,Luxembourg,EURO,83,4925,1,111
+2020-07-14,LU,Luxembourg,EURO,31,4956,0,111
+2020-07-15,LU,Luxembourg,EURO,100,5056,0,111
+2020-07-16,LU,Luxembourg,EURO,0,5056,0,111
+2020-07-17,LU,Luxembourg,EURO,66,5122,0,111
+2020-07-18,LU,Luxembourg,EURO,163,5285,0,111
 2020-03-21,MG,Madagascar,AFRO,3,3,0,0
 2020-03-22,MG,Madagascar,AFRO,0,3,0,0
 2020-03-23,MG,Madagascar,AFRO,9,12,0,0
@@ -15111,6 +16063,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MG,Madagascar,AFRO,222,3472,0,33
 2020-07-09,MG,Madagascar,AFRO,101,3573,0,33
 2020-07-10,MG,Madagascar,AFRO,209,3782,0,33
+2020-07-11,MG,Madagascar,AFRO,361,4143,1,34
+2020-07-12,MG,Madagascar,AFRO,435,4578,0,34
+2020-07-13,MG,Madagascar,AFRO,289,4867,1,35
+2020-07-14,MG,Madagascar,AFRO,213,5080,2,37
+2020-07-15,MG,Madagascar,AFRO,263,5343,2,39
+2020-07-16,MG,Madagascar,AFRO,262,5605,4,43
+2020-07-17,MG,Madagascar,AFRO,484,6089,10,53
+2020-07-18,MG,Madagascar,AFRO,378,6467,1,54
 2020-04-03,MW,Malawi,AFRO,3,3,0,0
 2020-04-04,MW,Malawi,AFRO,0,3,0,0
 2020-04-05,MW,Malawi,AFRO,0,3,0,0
@@ -15210,6 +16170,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MW,Malawi,AFRO,59,1877,5,24
 2020-07-09,MW,Malawi,AFRO,65,1942,1,25
 2020-07-10,MW,Malawi,AFRO,44,1986,4,29
+2020-07-11,MW,Malawi,AFRO,83,2069,2,31
+2020-07-12,MW,Malawi,AFRO,192,2261,2,33
+2020-07-13,MW,Malawi,AFRO,103,2364,5,38
+2020-07-14,MW,Malawi,AFRO,66,2430,1,39
+2020-07-15,MW,Malawi,AFRO,67,2497,1,40
+2020-07-16,MW,Malawi,AFRO,117,2614,3,43
+2020-07-17,MW,Malawi,AFRO,102,2716,8,51
+2020-07-18,MW,Malawi,AFRO,94,2810,4,55
 2020-01-25,MY,Malaysia,WPRO,3,3,0,0
 2020-01-26,MY,Malaysia,WPRO,1,4,0,0
 2020-01-27,MY,Malaysia,WPRO,0,4,0,0
@@ -15378,6 +16346,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MY,Malaysia,WPRO,6,8674,0,121
 2020-07-09,MY,Malaysia,WPRO,3,8677,0,121
 2020-07-10,MY,Malaysia,WPRO,6,8683,0,121
+2020-07-11,MY,Malaysia,WPRO,13,8696,0,121
+2020-07-12,MY,Malaysia,WPRO,8,8704,1,122
+2020-07-13,MY,Malaysia,WPRO,14,8718,0,122
+2020-07-14,MY,Malaysia,WPRO,7,8725,0,122
+2020-07-15,MY,Malaysia,WPRO,4,8729,0,122
+2020-07-16,MY,Malaysia,WPRO,5,8734,0,122
+2020-07-17,MY,Malaysia,WPRO,3,8737,0,122
+2020-07-18,MY,Malaysia,WPRO,18,8755,0,122
 2020-03-07,MV,Maldives,SEARO,2,2,0,0
 2020-03-08,MV,Maldives,SEARO,2,4,0,0
 2020-03-09,MV,Maldives,SEARO,0,4,0,0
@@ -15504,6 +16480,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MV,Maldives,SEARO,10,2501,0,12
 2020-07-09,MV,Maldives,SEARO,16,2517,1,13
 2020-07-10,MV,Maldives,SEARO,36,2553,0,13
+2020-07-11,MV,Maldives,SEARO,64,2617,0,13
+2020-07-12,MV,Maldives,SEARO,47,2664,0,13
+2020-07-13,MV,Maldives,SEARO,67,2731,0,13
+2020-07-14,MV,Maldives,SEARO,31,2762,0,13
+2020-07-15,MV,Maldives,SEARO,39,2801,1,14
+2020-07-16,MV,Maldives,SEARO,30,2831,0,14
+2020-07-17,MV,Maldives,SEARO,68,2899,1,15
+2020-07-18,MV,Maldives,SEARO,14,2913,0,15
 2020-03-26,ML,Mali,AFRO,2,2,0,0
 2020-03-27,ML,Mali,AFRO,0,2,0,0
 2020-03-28,ML,Mali,AFRO,7,9,0,0
@@ -15611,6 +16595,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,ML,Mali,AFRO,17,2348,0,119
 2020-07-09,ML,Mali,AFRO,10,2358,1,120
 2020-07-10,ML,Mali,AFRO,12,2370,0,120
+2020-07-11,ML,Mali,AFRO,34,2404,1,121
+2020-07-12,ML,Mali,AFRO,2,2406,0,121
+2020-07-13,ML,Mali,AFRO,5,2411,0,121
+2020-07-14,ML,Mali,AFRO,1,2412,0,121
+2020-07-15,ML,Mali,AFRO,11,2423,0,121
+2020-07-16,ML,Mali,AFRO,10,2433,0,121
+2020-07-17,ML,Mali,AFRO,7,2440,0,121
+2020-07-18,ML,Mali,AFRO,27,2467,0,121
 2020-03-07,MT,Malta,EURO,3,3,0,0
 2020-03-08,MT,Malta,EURO,0,3,0,0
 2020-03-09,MT,Malta,EURO,0,3,0,0
@@ -15737,6 +16729,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MT,Malta,EURO,1,673,0,9
 2020-07-09,MT,Malta,EURO,0,673,0,9
 2020-07-10,MT,Malta,EURO,1,674,0,9
+2020-07-11,MT,Malta,EURO,0,674,0,9
+2020-07-12,MT,Malta,EURO,0,674,0,9
+2020-07-13,MT,Malta,EURO,0,674,0,9
+2020-07-14,MT,Malta,EURO,0,674,0,9
+2020-07-15,MT,Malta,EURO,0,674,0,9
+2020-07-16,MT,Malta,EURO,0,674,0,9
+2020-07-17,MT,Malta,EURO,0,674,0,9
+2020-07-18,MT,Malta,EURO,0,674,0,9
 2020-03-07,MQ,Martinique,AMRO,2,2,0,0
 2020-03-08,MQ,Martinique,AMRO,0,2,0,0
 2020-03-09,MQ,Martinique,AMRO,0,2,0,0
@@ -15863,6 +16863,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MQ,Martinique,AMRO,0,249,0,14
 2020-07-09,MQ,Martinique,AMRO,0,249,0,14
 2020-07-10,MQ,Martinique,AMRO,0,249,0,14
+2020-07-11,MQ,Martinique,AMRO,0,249,0,14
+2020-07-12,MQ,Martinique,AMRO,6,255,1,15
+2020-07-13,MQ,Martinique,AMRO,0,255,0,15
+2020-07-14,MQ,Martinique,AMRO,0,255,0,15
+2020-07-15,MQ,Martinique,AMRO,0,255,0,15
+2020-07-16,MQ,Martinique,AMRO,0,255,0,15
+2020-07-17,MQ,Martinique,AMRO,0,255,0,15
+2020-07-18,MQ,Martinique,AMRO,6,261,0,15
 2020-03-14,MR,Mauritania,AFRO,1,1,0,0
 2020-03-15,MR,Mauritania,AFRO,0,1,0,0
 2020-03-16,MR,Mauritania,AFRO,0,1,0,0
@@ -15982,6 +16990,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MR,Mauritania,AFRO,69,4948,3,133
 2020-07-09,MR,Mauritania,AFRO,76,5024,2,135
 2020-07-10,MR,Mauritania,AFRO,63,5087,4,139
+2020-07-11,MR,Mauritania,AFRO,39,5126,5,144
+2020-07-12,MR,Mauritania,AFRO,0,5126,0,144
+2020-07-13,MR,Mauritania,AFRO,149,5275,3,147
+2020-07-14,MR,Mauritania,AFRO,80,5355,0,147
+2020-07-15,MR,Mauritania,AFRO,91,5446,2,149
+2020-07-16,MR,Mauritania,AFRO,72,5518,0,149
+2020-07-17,MR,Mauritania,AFRO,46,5564,0,149
+2020-07-18,MR,Mauritania,AFRO,95,5659,1,150
 2020-03-18,MU,Mauritius,AFRO,3,3,0,0
 2020-03-19,MU,Mauritius,AFRO,4,7,0,0
 2020-03-20,MU,Mauritius,AFRO,5,12,0,0
@@ -16097,6 +17113,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MU,Mauritius,AFRO,0,342,0,10
 2020-07-09,MU,Mauritius,AFRO,0,342,0,10
 2020-07-10,MU,Mauritius,AFRO,0,342,0,10
+2020-07-11,MU,Mauritius,AFRO,0,342,0,10
+2020-07-12,MU,Mauritius,AFRO,0,342,0,10
+2020-07-13,MU,Mauritius,AFRO,0,342,0,10
+2020-07-14,MU,Mauritius,AFRO,1,343,0,10
+2020-07-15,MU,Mauritius,AFRO,0,343,0,10
+2020-07-16,MU,Mauritius,AFRO,0,343,0,10
+2020-07-17,MU,Mauritius,AFRO,0,343,0,10
+2020-07-18,MU,Mauritius,AFRO,0,343,0,10
 2020-03-14,YT,Mayotte,AFRO,1,1,0,0
 2020-03-15,YT,Mayotte,AFRO,0,1,0,0
 2020-03-16,YT,Mayotte,AFRO,0,1,0,0
@@ -16215,7 +17239,15 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-07,YT,Mayotte,AFRO,11,2679,0,36
 2020-07-08,YT,Mayotte,AFRO,9,2688,0,36
 2020-07-09,YT,Mayotte,AFRO,0,2688,0,36
-2020-07-10,YT,Mayotte,AFRO,14,2702,4,40
+2020-07-10,YT,Mayotte,AFRO,14,2702,1,37
+2020-07-11,YT,Mayotte,AFRO,9,2711,0,37
+2020-07-12,YT,Mayotte,AFRO,0,2711,0,37
+2020-07-13,YT,Mayotte,AFRO,0,2711,0,37
+2020-07-14,YT,Mayotte,AFRO,13,2724,0,37
+2020-07-15,YT,Mayotte,AFRO,0,2724,0,37
+2020-07-16,YT,Mayotte,AFRO,19,2743,0,37
+2020-07-17,YT,Mayotte,AFRO,39,2782,0,37
+2020-07-18,YT,Mayotte,AFRO,0,2782,0,37
 2020-02-28,MX,Mexico,AMRO,2,2,0,0
 2020-02-29,MX,Mexico,AMRO,0,2,0,0
 2020-03-01,MX,Mexico,AMRO,0,2,0,0
@@ -16350,6 +17382,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MX,Mexico,AMRO,4902,261750,480,31119
 2020-07-09,MX,Mexico,AMRO,6258,268008,895,32014
 2020-07-10,MX,Mexico,AMRO,6995,275003,782,32796
+2020-07-11,MX,Mexico,AMRO,7280,282283,730,33526
+2020-07-12,MX,Mexico,AMRO,6891,289174,665,34191
+2020-07-13,MX,Mexico,AMRO,6094,295268,539,34730
+2020-07-14,MX,Mexico,AMRO,4482,299750,276,35006
+2020-07-15,MX,Mexico,AMRO,4685,304435,485,35491
+2020-07-16,MX,Mexico,AMRO,7051,311486,836,36327
+2020-07-17,MX,Mexico,AMRO,6149,317635,579,36906
+2020-07-18,MX,Mexico,AMRO,6406,324041,668,37574
 2020-02-29,MC,Monaco,EURO,1,1,0,0
 2020-03-01,MC,Monaco,EURO,0,1,0,0
 2020-03-02,MC,Monaco,EURO,0,1,0,0
@@ -16483,6 +17523,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MC,Monaco,EURO,0,99,0,1
 2020-07-09,MC,Monaco,EURO,0,99,0,1
 2020-07-10,MC,Monaco,EURO,0,99,0,1
+2020-07-11,MC,Monaco,EURO,0,99,0,1
+2020-07-12,MC,Monaco,EURO,0,99,0,1
+2020-07-13,MC,Monaco,EURO,0,99,0,1
+2020-07-14,MC,Monaco,EURO,0,99,0,1
+2020-07-15,MC,Monaco,EURO,0,99,0,1
+2020-07-16,MC,Monaco,EURO,0,99,0,1
+2020-07-17,MC,Monaco,EURO,0,99,0,1
+2020-07-18,MC,Monaco,EURO,0,99,0,1
 2020-03-10,MN,Mongolia,WPRO,1,1,0,0
 2020-03-11,MN,Mongolia,WPRO,0,1,0,0
 2020-03-12,MN,Mongolia,WPRO,0,1,0,0
@@ -16606,6 +17654,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MN,Mongolia,WPRO,5,225,0,0
 2020-07-09,MN,Mongolia,WPRO,2,227,0,0
 2020-07-10,MN,Mongolia,WPRO,0,227,0,0
+2020-07-11,MN,Mongolia,WPRO,0,227,0,0
+2020-07-12,MN,Mongolia,WPRO,0,227,0,0
+2020-07-13,MN,Mongolia,WPRO,3,230,0,0
+2020-07-14,MN,Mongolia,WPRO,0,230,0,0
+2020-07-15,MN,Mongolia,WPRO,13,243,0,0
+2020-07-16,MN,Mongolia,WPRO,18,261,0,0
+2020-07-17,MN,Mongolia,WPRO,0,261,0,0
+2020-07-18,MN,Mongolia,WPRO,1,262,0,0
 2020-03-17,ME,Montenegro,EURO,2,2,0,0
 2020-03-18,ME,Montenegro,EURO,0,2,0,0
 2020-03-19,ME,Montenegro,EURO,8,10,0,0
@@ -16722,6 +17778,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,ME,Montenegro,EURO,66,907,3,17
 2020-07-09,ME,Montenegro,EURO,53,960,0,17
 2020-07-10,ME,Montenegro,EURO,59,1019,2,19
+2020-07-11,ME,Montenegro,EURO,58,1077,0,19
+2020-07-12,ME,Montenegro,EURO,87,1164,4,23
+2020-07-13,ME,Montenegro,EURO,57,1221,0,23
+2020-07-14,ME,Montenegro,EURO,66,1287,1,24
+2020-07-15,ME,Montenegro,EURO,0,1287,0,24
+2020-07-16,ME,Montenegro,EURO,142,1429,1,25
+2020-07-17,ME,Montenegro,EURO,153,1582,1,26
+2020-07-18,ME,Montenegro,EURO,36,1618,2,28
 2020-03-18,MS,Montserrat,AMRO,1,1,0,0
 2020-03-19,MS,Montserrat,AMRO,0,1,0,0
 2020-03-20,MS,Montserrat,AMRO,0,1,0,0
@@ -16837,6 +17901,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MS,Montserrat,AMRO,0,11,0,1
 2020-07-09,MS,Montserrat,AMRO,0,11,0,1
 2020-07-10,MS,Montserrat,AMRO,0,11,0,1
+2020-07-11,MS,Montserrat,AMRO,1,12,0,1
+2020-07-12,MS,Montserrat,AMRO,0,12,0,1
+2020-07-13,MS,Montserrat,AMRO,0,12,0,1
+2020-07-14,MS,Montserrat,AMRO,0,12,0,1
+2020-07-15,MS,Montserrat,AMRO,0,12,0,1
+2020-07-16,MS,Montserrat,AMRO,0,12,0,1
+2020-07-17,MS,Montserrat,AMRO,0,12,0,1
+2020-07-18,MS,Montserrat,AMRO,0,12,0,1
 2020-03-02,MA,Morocco,EMRO,1,1,0,0
 2020-03-03,MA,Morocco,EMRO,0,1,0,0
 2020-03-04,MA,Morocco,EMRO,0,1,0,0
@@ -16968,6 +18040,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MA,Morocco,EMRO,228,14607,3,240
 2020-07-09,MA,Morocco,EMRO,164,14771,2,242
 2020-07-10,MA,Morocco,EMRO,308,15079,0,242
+2020-07-11,MA,Morocco,EMRO,364,15443,2,244
+2020-07-12,MA,Morocco,EMRO,99,15542,1,245
+2020-07-13,MA,Morocco,EMRO,203,15745,5,250
+2020-07-14,MA,Morocco,EMRO,191,15936,5,255
+2020-07-15,MA,Morocco,EMRO,161,16097,2,257
+2020-07-16,MA,Morocco,EMRO,165,16262,2,259
+2020-07-17,MA,Morocco,EMRO,283,16545,4,263
+2020-07-18,MA,Morocco,EMRO,181,16726,1,264
 2020-03-23,MZ,Mozambique,AFRO,1,1,0,0
 2020-03-24,MZ,Mozambique,AFRO,0,1,0,0
 2020-03-25,MZ,Mozambique,AFRO,2,3,0,0
@@ -17078,6 +18158,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MZ,Mozambique,AFRO,28,1040,0,8
 2020-07-09,MZ,Mozambique,AFRO,31,1071,0,8
 2020-07-10,MZ,Mozambique,AFRO,21,1092,1,9
+2020-07-11,MZ,Mozambique,AFRO,19,1111,0,9
+2020-07-12,MZ,Mozambique,AFRO,24,1135,0,9
+2020-07-13,MZ,Mozambique,AFRO,22,1157,0,9
+2020-07-14,MZ,Mozambique,AFRO,62,1219,0,9
+2020-07-15,MZ,Mozambique,AFRO,49,1268,0,9
+2020-07-16,MZ,Mozambique,AFRO,62,1330,0,9
+2020-07-17,MZ,Mozambique,AFRO,53,1383,0,9
+2020-07-18,MZ,Mozambique,AFRO,19,1402,0,9
 2020-03-24,MM,Myanmar,SEARO,2,2,0,0
 2020-03-25,MM,Myanmar,SEARO,1,3,0,0
 2020-03-26,MM,Myanmar,SEARO,0,3,0,0
@@ -17187,6 +18275,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MM,Myanmar,SEARO,0,316,0,6
 2020-07-09,MM,Myanmar,SEARO,2,318,0,6
 2020-07-10,MM,Myanmar,SEARO,3,321,0,6
+2020-07-11,MM,Myanmar,SEARO,5,326,0,6
+2020-07-12,MM,Myanmar,SEARO,4,330,0,6
+2020-07-13,MM,Myanmar,SEARO,1,331,0,6
+2020-07-14,MM,Myanmar,SEARO,5,336,0,6
+2020-07-15,MM,Myanmar,SEARO,1,337,0,6
+2020-07-16,MM,Myanmar,SEARO,0,337,0,6
+2020-07-17,MM,Myanmar,SEARO,2,339,0,6
+2020-07-18,MM,Myanmar,SEARO,0,339,0,6
 2020-03-14,NA,Namibia,AFRO,2,2,0,0
 2020-03-15,NA,Namibia,AFRO,0,2,0,0
 2020-03-16,NA,Namibia,AFRO,0,2,0,0
@@ -17306,6 +18402,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,NA,Namibia,AFRO,54,539,0,0
 2020-07-09,NA,Namibia,AFRO,54,593,0,0
 2020-07-10,NA,Namibia,AFRO,22,615,0,0
+2020-07-11,NA,Namibia,AFRO,53,668,1,1
+2020-07-12,NA,Namibia,AFRO,45,713,0,1
+2020-07-13,NA,Namibia,AFRO,72,785,0,1
+2020-07-14,NA,Namibia,AFRO,76,861,0,1
+2020-07-15,NA,Namibia,AFRO,3,864,1,2
+2020-07-16,NA,Namibia,AFRO,96,960,0,2
+2020-07-17,NA,Namibia,AFRO,72,1032,0,2
+2020-07-18,NA,Namibia,AFRO,46,1078,0,2
 2020-01-23,NP,Nepal,SEARO,1,1,0,0
 2020-01-24,NP,Nepal,SEARO,0,1,0,0
 2020-01-25,NP,Nepal,SEARO,0,1,0,0
@@ -17476,6 +18580,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,NP,Nepal,SEARO,204,16168,0,35
 2020-07-09,NP,Nepal,SEARO,255,16423,0,35
 2020-07-10,NP,Nepal,SEARO,108,16531,0,35
+2020-07-11,NP,Nepal,SEARO,118,16649,0,35
+2020-07-12,NP,Nepal,SEARO,70,16719,3,38
+2020-07-13,NP,Nepal,SEARO,82,16801,0,38
+2020-07-14,NP,Nepal,SEARO,144,16945,0,38
+2020-07-15,NP,Nepal,SEARO,116,17061,0,38
+2020-07-16,NP,Nepal,SEARO,116,17177,1,39
+2020-07-17,NP,Nepal,SEARO,167,17344,0,39
+2020-07-18,NP,Nepal,SEARO,101,17445,1,40
 2020-02-27,NL,Netherlands,EURO,1,1,0,0
 2020-02-28,NL,Netherlands,EURO,1,2,0,0
 2020-02-29,NL,Netherlands,EURO,4,6,0,0
@@ -17610,7 +18722,15 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-07,NL,Netherlands,EURO,36,50602,1,6119
 2020-07-08,NL,Netherlands,EURO,37,50639,4,6123
 2020-07-09,NL,Netherlands,EURO,52,50691,3,6126
-2020-07-10,NL,Netherlands,EURO,52,50743,2,6128
+2020-07-10,NL,Netherlands,EURO,52,50743,1,6127
+2020-07-11,NL,Netherlands,EURO,42,50785,0,6127
+2020-07-12,NL,Netherlands,EURO,81,50866,0,6127
+2020-07-13,NL,Netherlands,EURO,101,50967,0,6127
+2020-07-14,NL,Netherlands,EURO,71,51038,0,6127
+2020-07-15,NL,Netherlands,EURO,53,51091,0,6127
+2020-07-16,NL,Netherlands,EURO,106,51197,0,6127
+2020-07-17,NL,Netherlands,EURO,99,51296,1,6128
+2020-07-18,NL,Netherlands,EURO,103,51399,1,6129
 2020-03-19,NC,New Caledonia,WPRO,2,2,0,0
 2020-03-20,NC,New Caledonia,WPRO,0,2,0,0
 2020-03-21,NC,New Caledonia,WPRO,2,4,0,0
@@ -17725,6 +18845,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,NC,New Caledonia,WPRO,0,21,0,0
 2020-07-09,NC,New Caledonia,WPRO,0,21,0,0
 2020-07-10,NC,New Caledonia,WPRO,0,21,0,0
+2020-07-11,NC,New Caledonia,WPRO,0,21,0,0
+2020-07-12,NC,New Caledonia,WPRO,0,21,0,0
+2020-07-13,NC,New Caledonia,WPRO,0,21,0,0
+2020-07-14,NC,New Caledonia,WPRO,0,21,0,0
+2020-07-15,NC,New Caledonia,WPRO,1,22,0,0
+2020-07-16,NC,New Caledonia,WPRO,0,22,0,0
+2020-07-17,NC,New Caledonia,WPRO,0,22,0,0
+2020-07-18,NC,New Caledonia,WPRO,0,22,0,0
 2020-02-28,NZ,New Zealand,WPRO,1,1,0,0
 2020-02-29,NZ,New Zealand,WPRO,0,1,0,0
 2020-03-01,NZ,New Zealand,WPRO,0,1,0,0
@@ -17859,6 +18987,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,NZ,New Zealand,WPRO,1,1187,0,22
 2020-07-09,NZ,New Zealand,WPRO,3,1190,0,22
 2020-07-10,NZ,New Zealand,WPRO,2,1192,0,22
+2020-07-11,NZ,New Zealand,WPRO,1,1193,0,22
+2020-07-12,NZ,New Zealand,WPRO,1,1194,0,22
+2020-07-13,NZ,New Zealand,WPRO,0,1194,0,22
+2020-07-14,NZ,New Zealand,WPRO,1,1195,0,22
+2020-07-15,NZ,New Zealand,WPRO,2,1197,0,22
+2020-07-16,NZ,New Zealand,WPRO,1,1198,0,22
+2020-07-17,NZ,New Zealand,WPRO,1,1199,0,22
+2020-07-18,NZ,New Zealand,WPRO,1,1200,0,22
 2020-03-19,NI,Nicaragua,AMRO,1,1,0,0
 2020-03-20,NI,Nicaragua,AMRO,0,1,0,0
 2020-03-21,NI,Nicaragua,AMRO,1,2,0,0
@@ -17973,6 +19109,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,NI,Nicaragua,AMRO,0,2182,0,83
 2020-07-09,NI,Nicaragua,AMRO,229,2411,8,91
 2020-07-10,NI,Nicaragua,AMRO,0,2411,0,91
+2020-07-11,NI,Nicaragua,AMRO,0,2411,0,91
+2020-07-12,NI,Nicaragua,AMRO,0,2411,0,91
+2020-07-13,NI,Nicaragua,AMRO,0,2411,0,91
+2020-07-14,NI,Nicaragua,AMRO,0,2411,0,91
+2020-07-15,NI,Nicaragua,AMRO,301,2712,8,99
+2020-07-16,NI,Nicaragua,AMRO,0,2712,0,99
+2020-07-17,NI,Nicaragua,AMRO,0,2712,0,99
+2020-07-18,NI,Nicaragua,AMRO,0,2712,0,99
 2020-03-19,NE,Niger,AFRO,1,1,0,0
 2020-03-20,NE,Niger,AFRO,0,1,0,0
 2020-03-21,NE,Niger,AFRO,0,1,0,0
@@ -18087,6 +19231,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,NE,Niger,AFRO,1,1094,0,68
 2020-07-09,NE,Niger,AFRO,3,1097,0,68
 2020-07-10,NE,Niger,AFRO,0,1097,0,68
+2020-07-11,NE,Niger,AFRO,2,1099,0,68
+2020-07-12,NE,Niger,AFRO,0,1099,0,68
+2020-07-13,NE,Niger,AFRO,0,1099,0,68
+2020-07-14,NE,Niger,AFRO,0,1099,0,68
+2020-07-15,NE,Niger,AFRO,0,1099,0,68
+2020-07-16,NE,Niger,AFRO,0,1099,0,68
+2020-07-17,NE,Niger,AFRO,3,1102,1,69
+2020-07-18,NE,Niger,AFRO,0,1102,0,69
 2020-02-28,NG,Nigeria,AFRO,1,1,0,0
 2020-02-29,NG,Nigeria,AFRO,0,1,0,0
 2020-03-01,NG,Nigeria,AFRO,0,1,0,0
@@ -18221,6 +19373,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,NG,Nigeria,AFRO,503,29789,15,669
 2020-07-09,NG,Nigeria,AFRO,460,30249,15,684
 2020-07-10,NG,Nigeria,AFRO,499,30748,5,689
+2020-07-11,NG,Nigeria,AFRO,575,31323,20,709
+2020-07-12,NG,Nigeria,AFRO,664,31987,15,724
+2020-07-13,NG,Nigeria,AFRO,571,32558,16,740
+2020-07-14,NG,Nigeria,AFRO,595,33153,4,744
+2020-07-15,NG,Nigeria,AFRO,463,33616,10,754
+2020-07-16,NG,Nigeria,AFRO,643,34259,6,760
+2020-07-17,NG,Nigeria,AFRO,595,34854,9,769
+2020-07-18,NG,Nigeria,AFRO,600,35454,3,772
 2020-02-26,MK,North Macedonia,EURO,1,1,0,0
 2020-02-27,MK,North Macedonia,EURO,0,1,0,0
 2020-02-28,MK,North Macedonia,EURO,0,1,0,0
@@ -18357,6 +19517,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MK,North Macedonia,EURO,119,7243,5,351
 2020-07-09,MK,North Macedonia,EURO,162,7405,8,359
 2020-07-10,MK,North Macedonia,EURO,167,7572,3,362
+2020-07-11,MK,North Macedonia,EURO,198,7770,5,367
+2020-07-12,MK,North Macedonia,EURO,197,7967,8,375
+2020-07-13,MK,North Macedonia,EURO,144,8111,7,382
+2020-07-14,MK,North Macedonia,EURO,86,8197,3,385
+2020-07-15,MK,North Macedonia,EURO,134,8331,4,389
+2020-07-16,MK,North Macedonia,EURO,191,8522,4,393
+2020-07-17,MK,North Macedonia,EURO,90,8612,8,401
+2020-07-18,MK,North Macedonia,EURO,174,8786,5,406
 2020-03-29,MP,Northern Mariana Islands (Commonwealth of the),WPRO,2,2,0,0
 2020-03-30,MP,Northern Mariana Islands (Commonwealth of the),WPRO,0,2,0,0
 2020-03-31,MP,Northern Mariana Islands (Commonwealth of the),WPRO,0,2,0,0
@@ -18461,6 +19629,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MP,Northern Mariana Islands (Commonwealth of the),WPRO,0,31,0,2
 2020-07-09,MP,Northern Mariana Islands (Commonwealth of the),WPRO,0,31,0,2
 2020-07-10,MP,Northern Mariana Islands (Commonwealth of the),WPRO,0,31,0,2
+2020-07-11,MP,Northern Mariana Islands (Commonwealth of the),WPRO,0,31,0,2
+2020-07-12,MP,Northern Mariana Islands (Commonwealth of the),WPRO,2,33,0,2
+2020-07-13,MP,Northern Mariana Islands (Commonwealth of the),WPRO,0,33,0,2
+2020-07-14,MP,Northern Mariana Islands (Commonwealth of the),WPRO,0,33,0,2
+2020-07-15,MP,Northern Mariana Islands (Commonwealth of the),WPRO,3,36,0,2
+2020-07-16,MP,Northern Mariana Islands (Commonwealth of the),WPRO,0,36,0,2
+2020-07-17,MP,Northern Mariana Islands (Commonwealth of the),WPRO,1,37,0,2
+2020-07-18,MP,Northern Mariana Islands (Commonwealth of the),WPRO,0,37,0,2
 2020-02-26,NO,Norway,EURO,1,1,0,0
 2020-02-27,NO,Norway,EURO,3,4,0,0
 2020-02-28,NO,Norway,EURO,2,6,0,0
@@ -18597,6 +19773,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,NO,Norway,EURO,6,8936,0,251
 2020-07-09,NO,Norway,EURO,11,8947,0,251
 2020-07-10,NO,Norway,EURO,7,8954,1,252
+2020-07-11,NO,Norway,EURO,11,8965,0,252
+2020-07-12,NO,Norway,EURO,0,8965,0,252
+2020-07-13,NO,Norway,EURO,0,8965,0,252
+2020-07-14,NO,Norway,EURO,16,8981,1,253
+2020-07-15,NO,Norway,EURO,3,8984,0,253
+2020-07-16,NO,Norway,EURO,17,9001,0,253
+2020-07-17,NO,Norway,EURO,10,9011,1,254
+2020-07-18,NO,Norway,EURO,4,9015,1,255
 2020-03-05,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,7,7,0,0
 2020-03-06,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,9,16,0,0
 2020-03-07,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,0,16,0,0
@@ -18725,6 +19909,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,306,5092,1,22
 2020-07-09,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,475,5567,2,24
 2020-07-10,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,262,5829,3,27
+2020-07-11,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,396,6225,5,32
+2020-07-12,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,463,6688,0,32
+2020-07-13,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,349,7037,7,39
+2020-07-14,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,404,7441,2,41
+2020-07-15,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,293,7734,6,47
+2020-07-16,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,419,8153,0,47
+2020-07-17,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,463,8616,5,52
+2020-07-18,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,439,9055,5,57
 2020-02-24,OM,Oman,EMRO,2,2,0,0
 2020-02-25,OM,Oman,EMRO,2,4,0,0
 2020-02-26,OM,Oman,EMRO,0,4,0,0
@@ -18863,6 +20055,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,OM,Oman,EMRO,1262,48997,6,224
 2020-07-09,OM,Oman,EMRO,1210,50207,9,233
 2020-07-10,OM,Oman,EMRO,1518,51725,3,236
+2020-07-11,OM,Oman,EMRO,1889,53614,8,244
+2020-07-12,OM,Oman,EMRO,1083,54697,4,248
+2020-07-13,OM,Oman,EMRO,1318,56015,9,257
+2020-07-14,OM,Oman,EMRO,2164,58179,2,259
+2020-07-15,OM,Oman,EMRO,1389,59568,14,273
+2020-07-16,OM,Oman,EMRO,1679,61247,8,281
+2020-07-17,OM,Oman,EMRO,1327,62574,9,290
+2020-07-18,OM,Oman,EMRO,1619,64193,8,298
 2020-02-05, ,Other,Other,10,10,0,0
 2020-02-06, ,Other,Other,10,20,0,0
 2020-02-07, ,Other,Other,41,61,0,0
@@ -19020,6 +20220,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08, ,Other,Other,0,741,0,13
 2020-07-09, ,Other,Other,0,741,0,13
 2020-07-10, ,Other,Other,0,741,0,13
+2020-07-11, ,Other,Other,0,741,0,13
+2020-07-12, ,Other,Other,0,741,0,13
+2020-07-13, ,Other,Other,0,741,0,13
+2020-07-14, ,Other,Other,0,741,0,13
+2020-07-15, ,Other,Other,0,741,0,13
+2020-07-16, ,Other,Other,0,741,0,13
+2020-07-17, ,Other,Other,0,741,0,13
+2020-07-18, ,Other,Other,0,741,0,13
 2020-02-26,PK,Pakistan,EMRO,2,2,0,0
 2020-02-27,PK,Pakistan,EMRO,0,2,0,0
 2020-02-28,PK,Pakistan,EMRO,0,2,0,0
@@ -19156,6 +20364,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,PK,Pakistan,EMRO,2980,237489,83,4922
 2020-07-09,PK,Pakistan,EMRO,3359,240848,61,4983
 2020-07-10,PK,Pakistan,EMRO,2748,243596,75,5058
+2020-07-11,PK,Pakistan,EMRO,2755,246351,65,5123
+2020-07-12,PK,Pakistan,EMRO,2521,248872,74,5197
+2020-07-13,PK,Pakistan,EMRO,2753,251625,69,5266
+2020-07-14,PK,Pakistan,EMRO,1979,253604,54,5320
+2020-07-15,PK,Pakistan,EMRO,2165,255769,66,5386
+2020-07-16,PK,Pakistan,EMRO,2145,257914,40,5426
+2020-07-17,PK,Pakistan,EMRO,2085,259999,49,5475
+2020-07-18,PK,Pakistan,EMRO,1918,261917,47,5522
 2020-03-10,PA,Panama,AMRO,1,1,0,0
 2020-03-11,PA,Panama,AMRO,7,8,1,1
 2020-03-12,PA,Panama,AMRO,2,10,0,1
@@ -19279,6 +20495,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,PA,Panama,AMRO,1185,39334,23,770
 2020-07-09,PA,Panama,AMRO,957,40291,29,799
 2020-07-10,PA,Panama,AMRO,960,41251,20,819
+2020-07-11,PA,Panama,AMRO,965,42216,20,839
+2020-07-12,PA,Panama,AMRO,1041,43257,24,863
+2020-07-13,PA,Panama,AMRO,1075,44332,30,893
+2020-07-14,PA,Panama,AMRO,1301,45633,16,909
+2020-07-15,PA,Panama,AMRO,1540,47173,23,932
+2020-07-16,PA,Panama,AMRO,923,48096,28,960
+2020-07-17,PA,Panama,AMRO,1147,49243,22,982
+2020-07-18,PA,Panama,AMRO,1130,50373,18,1000
 2020-03-20,PG,Papua New Guinea,WPRO,1,1,0,0
 2020-03-21,PG,Papua New Guinea,WPRO,0,1,0,0
 2020-03-22,PG,Papua New Guinea,WPRO,0,1,0,0
@@ -19392,6 +20616,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,PG,Papua New Guinea,WPRO,0,11,0,0
 2020-07-09,PG,Papua New Guinea,WPRO,0,11,0,0
 2020-07-10,PG,Papua New Guinea,WPRO,0,11,0,0
+2020-07-11,PG,Papua New Guinea,WPRO,0,11,0,0
+2020-07-12,PG,Papua New Guinea,WPRO,0,11,0,0
+2020-07-13,PG,Papua New Guinea,WPRO,0,11,0,0
+2020-07-14,PG,Papua New Guinea,WPRO,0,11,0,0
+2020-07-15,PG,Papua New Guinea,WPRO,0,11,0,0
+2020-07-16,PG,Papua New Guinea,WPRO,0,11,0,0
+2020-07-17,PG,Papua New Guinea,WPRO,4,15,0,0
+2020-07-18,PG,Papua New Guinea,WPRO,0,15,0,0
 2020-03-08,PY,Paraguay,AMRO,1,1,0,0
 2020-03-09,PY,Paraguay,AMRO,0,1,0,0
 2020-03-10,PY,Paraguay,AMRO,0,1,0,0
@@ -19516,7 +20748,15 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-07,PY,Paraguay,AMRO,29,2456,0,20
 2020-07-08,PY,Paraguay,AMRO,46,2502,0,20
 2020-07-09,PY,Paraguay,AMRO,52,2554,0,20
-2020-07-10,PY,Paraguay,AMRO,0,2554,0,20
+2020-07-10,PY,Paraguay,AMRO,84,2638,0,20
+2020-07-11,PY,Paraguay,AMRO,98,2736,0,20
+2020-07-12,PY,Paraguay,AMRO,0,2736,0,20
+2020-07-13,PY,Paraguay,AMRO,84,2820,1,21
+2020-07-14,PY,Paraguay,AMRO,160,2980,4,25
+2020-07-15,PY,Paraguay,AMRO,0,2980,0,25
+2020-07-16,PY,Paraguay,AMRO,94,3074,0,25
+2020-07-17,PY,Paraguay,AMRO,124,3198,0,25
+2020-07-18,PY,Paraguay,AMRO,144,3342,2,27
 2020-03-07,PE,Peru,AMRO,6,6,0,0
 2020-03-08,PE,Peru,AMRO,0,6,0,0
 2020-03-09,PE,Peru,AMRO,1,7,0,0
@@ -19643,6 +20883,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,PE,Peru,AMRO,2985,305703,183,10772
 2020-07-09,PE,Peru,AMRO,3575,309278,180,10952
 2020-07-10,PE,Peru,AMRO,3633,312911,181,11133
+2020-07-11,PE,Peru,AMRO,3537,316448,181,11314
+2020-07-12,PE,Peru,AMRO,3198,319646,186,11500
+2020-07-13,PE,Peru,AMRO,3064,322710,182,11682
+2020-07-14,PE,Peru,AMRO,3616,326326,188,11870
+2020-07-15,PE,Peru,AMRO,3797,330123,184,12054
+2020-07-16,PE,Peru,AMRO,3744,333867,175,12229
+2020-07-17,PE,Peru,AMRO,3857,337724,188,12417
+2020-07-18,PE,Peru,AMRO,3862,341586,198,12615
 2020-01-30,PH,Philippines,WPRO,1,1,0,0
 2020-01-31,PH,Philippines,WPRO,0,1,0,0
 2020-02-01,PH,Philippines,WPRO,1,2,0,0
@@ -19805,7 +21053,15 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-07,PH,Philippines,WPRO,2079,46333,6,1303
 2020-07-08,PH,Philippines,WPRO,1540,47873,6,1309
 2020-07-09,PH,Philippines,WPRO,2486,50359,5,1314
-2020-07-10,PH,Philippines,WPRO,1395,51754,0,1314
+2020-07-10,PH,Philippines,WPRO,1395,51754,4,1318
+2020-07-11,PH,Philippines,WPRO,1160,52914,42,1360
+2020-07-12,PH,Philippines,WPRO,1308,54222,12,1372
+2020-07-13,PH,Philippines,WPRO,2037,56259,162,1534
+2020-07-14,PH,Philippines,WPRO,747,57006,65,1599
+2020-07-15,PH,Philippines,WPRO,539,57545,4,1603
+2020-07-16,PH,Philippines,WPRO,1305,58850,11,1614
+2020-07-17,PH,Philippines,WPRO,2416,61266,29,1643
+2020-07-18,PH,Philippines,WPRO,1735,63001,17,1660
 2020-03-05,PL,Poland,EURO,1,1,0,0
 2020-03-06,PL,Poland,EURO,4,5,0,0
 2020-03-07,PL,Poland,EURO,1,6,0,0
@@ -19934,6 +21190,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,PL,Poland,EURO,257,36412,7,1528
 2020-07-09,PL,Poland,EURO,277,36689,14,1542
 2020-07-10,PL,Poland,EURO,262,36951,9,1551
+2020-07-11,PL,Poland,EURO,265,37216,11,1562
+2020-07-12,PL,Poland,EURO,305,37521,6,1568
+2020-07-13,PL,Poland,EURO,370,37891,3,1571
+2020-07-14,PL,Poland,EURO,299,38190,5,1576
+2020-07-15,PL,Poland,EURO,267,38457,12,1588
+2020-07-16,PL,Poland,EURO,323,38780,6,1594
+2020-07-17,PL,Poland,EURO,274,39054,11,1605
+2020-07-18,PL,Poland,EURO,353,39407,7,1612
 2020-03-02,PT,Portugal,EURO,2,2,0,0
 2020-03-03,PT,Portugal,EURO,0,2,0,0
 2020-03-04,PT,Portugal,EURO,4,6,0,0
@@ -20065,6 +21329,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,PT,Portugal,EURO,287,44416,9,1629
 2020-07-09,PT,Portugal,EURO,443,44859,2,1631
 2020-07-10,PT,Portugal,EURO,418,45277,13,1644
+2020-07-11,PT,Portugal,EURO,402,45679,2,1646
+2020-07-12,PT,Portugal,EURO,542,46221,8,1654
+2020-07-13,PT,Portugal,EURO,291,46512,6,1660
+2020-07-14,PT,Portugal,EURO,306,46818,2,1662
+2020-07-15,PT,Portugal,EURO,233,47051,6,1668
+2020-07-16,PT,Portugal,EURO,375,47426,8,1676
+2020-07-17,PT,Portugal,EURO,339,47765,3,1679
+2020-07-18,PT,Portugal,EURO,312,48077,3,1682
 2020-03-14,PR,Puerto Rico,AMRO,3,3,0,0
 2020-03-15,PR,Puerto Rico,AMRO,0,3,0,0
 2020-03-16,PR,Puerto Rico,AMRO,0,3,0,0
@@ -20184,6 +21456,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,PR,Puerto Rico,AMRO,129,8714,2,157
 2020-07-09,PR,Puerto Rico,AMRO,31,8745,2,159
 2020-07-10,PR,Puerto Rico,AMRO,117,8862,0,159
+2020-07-11,PR,Puerto Rico,AMRO,275,9137,0,159
+2020-07-12,PR,Puerto Rico,AMRO,229,9366,8,167
+2020-07-13,PR,Puerto Rico,AMRO,288,9654,0,167
+2020-07-14,PR,Puerto Rico,AMRO,356,10010,0,167
+2020-07-15,PR,Puerto Rico,AMRO,113,10123,2,169
+2020-07-16,PR,Puerto Rico,AMRO,256,10379,2,171
+2020-07-17,PR,Puerto Rico,AMRO,195,10574,1,172
+2020-07-18,PR,Puerto Rico,AMRO,546,11120,5,177
 2020-02-29,QA,Qatar,EMRO,1,1,0,0
 2020-03-01,QA,Qatar,EMRO,2,3,0,0
 2020-03-02,QA,Qatar,EMRO,4,7,0,0
@@ -20317,6 +21597,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,QA,Qatar,EMRO,600,100945,1,134
 2020-07-09,QA,Qatar,EMRO,608,101553,4,138
 2020-07-10,QA,Qatar,EMRO,557,102110,4,142
+2020-07-11,QA,Qatar,EMRO,520,102630,4,146
+2020-07-12,QA,Qatar,EMRO,498,103128,0,146
+2020-07-13,QA,Qatar,EMRO,470,103598,1,147
+2020-07-14,QA,Qatar,EMRO,418,104016,2,149
+2020-07-15,QA,Qatar,EMRO,517,104533,1,150
+2020-07-16,QA,Qatar,EMRO,450,104983,1,151
+2020-07-17,QA,Qatar,EMRO,494,105477,1,152
+2020-07-18,QA,Qatar,EMRO,421,105898,1,153
 2020-01-19,KR,Republic of Korea,WPRO,1,1,0,0
 2020-01-20,KR,Republic of Korea,WPRO,0,1,0,0
 2020-01-21,KR,Republic of Korea,WPRO,0,1,0,0
@@ -20491,6 +21779,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,KR,Republic of Korea,WPRO,63,13244,0,285
 2020-07-09,KR,Republic of Korea,WPRO,49,13293,2,287
 2020-07-10,KR,Republic of Korea,WPRO,45,13338,1,288
+2020-07-11,KR,Republic of Korea,WPRO,35,13373,0,288
+2020-07-12,KR,Republic of Korea,WPRO,44,13417,1,289
+2020-07-13,KR,Republic of Korea,WPRO,62,13479,0,289
+2020-07-14,KR,Republic of Korea,WPRO,33,13512,0,289
+2020-07-15,KR,Republic of Korea,WPRO,39,13551,0,289
+2020-07-16,KR,Republic of Korea,WPRO,61,13612,2,291
+2020-07-17,KR,Republic of Korea,WPRO,60,13672,2,293
+2020-07-18,KR,Republic of Korea,WPRO,39,13711,1,294
 2020-03-07,MD,Republic of Moldova,EURO,1,1,0,0
 2020-03-08,MD,Republic of Moldova,EURO,0,1,0,0
 2020-03-09,MD,Republic of Moldova,EURO,0,1,0,0
@@ -20617,6 +21913,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MD,Republic of Moldova,EURO,235,18141,6,604
 2020-07-09,MD,Republic of Moldova,EURO,330,18471,10,614
 2020-07-10,MD,Republic of Moldova,EURO,195,18666,13,627
+2020-07-11,MD,Republic of Moldova,EURO,258,18924,8,635
+2020-07-12,MD,Republic of Moldova,EURO,284,19208,5,640
+2020-07-13,MD,Republic of Moldova,EURO,174,19382,2,642
+2020-07-14,MD,Republic of Moldova,EURO,57,19439,10,652
+2020-07-15,MD,Republic of Moldova,EURO,269,19708,6,658
+2020-07-16,MD,Republic of Moldova,EURO,332,20040,4,662
+2020-07-17,MD,Republic of Moldova,EURO,224,20264,4,666
+2020-07-18,MD,Republic of Moldova,EURO,230,20494,9,675
 2020-03-13,RE,Réunion,AFRO,3,3,0,0
 2020-03-14,RE,Réunion,AFRO,3,6,0,0
 2020-03-15,RE,Réunion,AFRO,3,9,0,0
@@ -20737,6 +22041,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,RE,Réunion,AFRO,1,551,1,3
 2020-07-09,RE,Réunion,AFRO,12,563,0,3
 2020-07-10,RE,Réunion,AFRO,3,566,0,3
+2020-07-11,RE,Réunion,AFRO,5,571,0,3
+2020-07-12,RE,Réunion,AFRO,6,577,0,3
+2020-07-13,RE,Réunion,AFRO,16,593,0,3
+2020-07-14,RE,Réunion,AFRO,3,596,0,3
+2020-07-15,RE,Réunion,AFRO,3,599,0,3
+2020-07-16,RE,Réunion,AFRO,9,608,0,3
+2020-07-17,RE,Réunion,AFRO,6,614,0,3
+2020-07-18,RE,Réunion,AFRO,10,624,0,3
 2020-02-26,RO,Romania,EURO,1,1,0,0
 2020-02-27,RO,Romania,EURO,0,1,0,0
 2020-02-28,RO,Romania,EURO,2,3,0,0
@@ -20873,6 +22185,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,RO,Romania,EURO,397,29620,31,1799
 2020-07-09,RO,Romania,EURO,555,30175,18,1817
 2020-07-10,RO,Romania,EURO,614,30789,17,1834
+2020-07-11,RO,Romania,EURO,592,31381,13,1847
+2020-07-12,RO,Romania,EURO,698,32079,24,1871
+2020-07-13,RO,Romania,EURO,456,32535,13,1884
+2020-07-14,RO,Romania,EURO,413,32948,17,1901
+2020-07-15,RO,Romania,EURO,637,33585,30,1931
+2020-07-16,RO,Romania,EURO,641,34226,21,1952
+2020-07-17,RO,Romania,EURO,777,35003,19,1971
+2020-07-18,RO,Romania,EURO,799,35802,17,1988
 2020-01-31,RU,Russian Federation,EURO,2,2,0,0
 2020-02-01,RU,Russian Federation,EURO,0,2,0,0
 2020-02-02,RU,Russian Federation,EURO,0,2,0,0
@@ -21035,6 +22355,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,RU,Russian Federation,EURO,6562,700792,173,10667
 2020-07-09,RU,Russian Federation,EURO,6509,707301,176,10843
 2020-07-10,RU,Russian Federation,EURO,6635,713936,174,11017
+2020-07-11,RU,Russian Federation,EURO,6611,720547,188,11205
+2020-07-12,RU,Russian Federation,EURO,6615,727162,130,11335
+2020-07-13,RU,Russian Federation,EURO,6537,733699,104,11439
+2020-07-14,RU,Russian Federation,EURO,6248,739947,175,11614
+2020-07-15,RU,Russian Federation,EURO,6422,746369,156,11770
+2020-07-16,RU,Russian Federation,EURO,6428,752797,167,11937
+2020-07-17,RU,Russian Federation,EURO,6406,759203,186,12123
+2020-07-18,RU,Russian Federation,EURO,6234,765437,124,12247
 2020-03-15,RW,Rwanda,AFRO,5,5,0,0
 2020-03-16,RW,Rwanda,AFRO,0,5,0,0
 2020-03-17,RW,Rwanda,AFRO,2,7,0,0
@@ -21153,6 +22481,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,RW,Rwanda,AFRO,59,1172,0,3
 2020-07-09,RW,Rwanda,AFRO,22,1194,0,3
 2020-07-10,RW,Rwanda,AFRO,16,1210,0,3
+2020-07-11,RW,Rwanda,AFRO,42,1252,0,3
+2020-07-12,RW,Rwanda,AFRO,47,1299,0,3
+2020-07-13,RW,Rwanda,AFRO,38,1337,1,4
+2020-07-14,RW,Rwanda,AFRO,41,1378,0,4
+2020-07-15,RW,Rwanda,AFRO,38,1416,0,4
+2020-07-16,RW,Rwanda,AFRO,19,1435,0,4
+2020-07-17,RW,Rwanda,AFRO,38,1473,0,4
+2020-07-18,RW,Rwanda,AFRO,12,1485,0,4
 2020-03-02,BL,Saint Barthélemy,AMRO,1,1,0,0
 2020-03-03,BL,Saint Barthélemy,AMRO,0,1,0,0
 2020-03-04,BL,Saint Barthélemy,AMRO,0,1,0,0
@@ -21284,6 +22620,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,BL,Saint Barthélemy,AMRO,0,6,0,0
 2020-07-09,BL,Saint Barthélemy,AMRO,0,6,0,0
 2020-07-10,BL,Saint Barthélemy,AMRO,0,6,0,0
+2020-07-11,BL,Saint Barthélemy,AMRO,0,6,0,0
+2020-07-12,BL,Saint Barthélemy,AMRO,0,6,0,0
+2020-07-13,BL,Saint Barthélemy,AMRO,0,6,0,0
+2020-07-14,BL,Saint Barthélemy,AMRO,0,6,0,0
+2020-07-15,BL,Saint Barthélemy,AMRO,0,6,0,0
+2020-07-16,BL,Saint Barthélemy,AMRO,0,6,0,0
+2020-07-17,BL,Saint Barthélemy,AMRO,0,6,0,0
+2020-07-18,BL,Saint Barthélemy,AMRO,0,6,0,0
 2020-03-26,KN,Saint Kitts and Nevis,AMRO,2,2,0,0
 2020-03-27,KN,Saint Kitts and Nevis,AMRO,0,2,0,0
 2020-03-28,KN,Saint Kitts and Nevis,AMRO,0,2,0,0
@@ -21391,6 +22735,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,KN,Saint Kitts and Nevis,AMRO,0,16,0,0
 2020-07-09,KN,Saint Kitts and Nevis,AMRO,0,16,0,0
 2020-07-10,KN,Saint Kitts and Nevis,AMRO,0,16,0,0
+2020-07-11,KN,Saint Kitts and Nevis,AMRO,1,17,0,0
+2020-07-12,KN,Saint Kitts and Nevis,AMRO,0,17,0,0
+2020-07-13,KN,Saint Kitts and Nevis,AMRO,0,17,0,0
+2020-07-14,KN,Saint Kitts and Nevis,AMRO,0,17,0,0
+2020-07-15,KN,Saint Kitts and Nevis,AMRO,0,17,0,0
+2020-07-16,KN,Saint Kitts and Nevis,AMRO,0,17,0,0
+2020-07-17,KN,Saint Kitts and Nevis,AMRO,0,17,0,0
+2020-07-18,KN,Saint Kitts and Nevis,AMRO,0,17,0,0
 2020-03-15,LC,Saint Lucia,AMRO,2,2,0,0
 2020-03-16,LC,Saint Lucia,AMRO,0,2,0,0
 2020-03-17,LC,Saint Lucia,AMRO,0,2,0,0
@@ -21509,6 +22861,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,LC,Saint Lucia,AMRO,0,22,0,0
 2020-07-09,LC,Saint Lucia,AMRO,0,22,0,0
 2020-07-10,LC,Saint Lucia,AMRO,0,22,0,0
+2020-07-11,LC,Saint Lucia,AMRO,0,22,0,0
+2020-07-12,LC,Saint Lucia,AMRO,0,22,0,0
+2020-07-13,LC,Saint Lucia,AMRO,0,22,0,0
+2020-07-14,LC,Saint Lucia,AMRO,0,22,0,0
+2020-07-15,LC,Saint Lucia,AMRO,0,22,0,0
+2020-07-16,LC,Saint Lucia,AMRO,1,23,0,0
+2020-07-17,LC,Saint Lucia,AMRO,0,23,0,0
+2020-07-18,LC,Saint Lucia,AMRO,0,23,0,0
 2020-03-02,MF,Saint Martin,AMRO,2,2,0,0
 2020-03-03,MF,Saint Martin,AMRO,0,2,0,0
 2020-03-04,MF,Saint Martin,AMRO,0,2,0,0
@@ -21640,6 +23000,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,MF,Saint Martin,AMRO,0,44,0,3
 2020-07-09,MF,Saint Martin,AMRO,0,44,0,3
 2020-07-10,MF,Saint Martin,AMRO,0,44,0,3
+2020-07-11,MF,Saint Martin,AMRO,0,44,0,3
+2020-07-12,MF,Saint Martin,AMRO,0,44,0,3
+2020-07-13,MF,Saint Martin,AMRO,0,44,0,3
+2020-07-14,MF,Saint Martin,AMRO,0,44,0,3
+2020-07-15,MF,Saint Martin,AMRO,0,44,0,3
+2020-07-16,MF,Saint Martin,AMRO,0,44,0,3
+2020-07-17,MF,Saint Martin,AMRO,0,44,0,3
+2020-07-18,MF,Saint Martin,AMRO,2,46,0,3
 2020-04-08,PM,Saint Pierre and Miquelon,AMRO,1,1,0,0
 2020-04-09,PM,Saint Pierre and Miquelon,AMRO,0,1,0,0
 2020-04-10,PM,Saint Pierre and Miquelon,AMRO,0,1,0,0
@@ -21734,6 +23102,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,PM,Saint Pierre and Miquelon,AMRO,0,1,0,0
 2020-07-09,PM,Saint Pierre and Miquelon,AMRO,0,1,0,0
 2020-07-10,PM,Saint Pierre and Miquelon,AMRO,1,2,0,0
+2020-07-11,PM,Saint Pierre and Miquelon,AMRO,0,2,0,0
+2020-07-12,PM,Saint Pierre and Miquelon,AMRO,0,2,0,0
+2020-07-13,PM,Saint Pierre and Miquelon,AMRO,0,2,0,0
+2020-07-14,PM,Saint Pierre and Miquelon,AMRO,0,2,0,0
+2020-07-15,PM,Saint Pierre and Miquelon,AMRO,0,2,0,0
+2020-07-16,PM,Saint Pierre and Miquelon,AMRO,0,2,0,0
+2020-07-17,PM,Saint Pierre and Miquelon,AMRO,2,4,0,0
+2020-07-18,PM,Saint Pierre and Miquelon,AMRO,0,4,0,0
 2020-03-13,VC,Saint Vincent and the Grenadines,AMRO,1,1,0,0
 2020-03-14,VC,Saint Vincent and the Grenadines,AMRO,0,1,0,0
 2020-03-15,VC,Saint Vincent and the Grenadines,AMRO,0,1,0,0
@@ -21854,6 +23230,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,VC,Saint Vincent and the Grenadines,AMRO,0,29,0,0
 2020-07-09,VC,Saint Vincent and the Grenadines,AMRO,0,29,0,0
 2020-07-10,VC,Saint Vincent and the Grenadines,AMRO,0,29,0,0
+2020-07-11,VC,Saint Vincent and the Grenadines,AMRO,0,29,0,0
+2020-07-12,VC,Saint Vincent and the Grenadines,AMRO,0,29,0,0
+2020-07-13,VC,Saint Vincent and the Grenadines,AMRO,0,29,0,0
+2020-07-14,VC,Saint Vincent and the Grenadines,AMRO,6,35,0,0
+2020-07-15,VC,Saint Vincent and the Grenadines,AMRO,0,35,0,0
+2020-07-16,VC,Saint Vincent and the Grenadines,AMRO,0,35,0,0
+2020-07-17,VC,Saint Vincent and the Grenadines,AMRO,0,35,0,0
+2020-07-18,VC,Saint Vincent and the Grenadines,AMRO,0,35,0,0
 2020-02-28,SM,San Marino,EURO,1,1,0,0
 2020-02-29,SM,San Marino,EURO,0,1,0,0
 2020-03-01,SM,San Marino,EURO,0,1,0,0
@@ -21987,7 +23371,15 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-07,SM,San Marino,EURO,0,713,0,42
 2020-07-08,SM,San Marino,EURO,0,713,0,42
 2020-07-09,SM,San Marino,EURO,0,713,0,42
-2020-07-10,SM,San Marino,EURO,0,713,0,42
+2020-07-10,SM,San Marino,EURO,3,716,0,42
+2020-07-11,SM,San Marino,EURO,0,716,0,42
+2020-07-12,SM,San Marino,EURO,0,716,0,42
+2020-07-13,SM,San Marino,EURO,0,716,0,42
+2020-07-14,SM,San Marino,EURO,0,716,0,42
+2020-07-15,SM,San Marino,EURO,0,716,0,42
+2020-07-16,SM,San Marino,EURO,0,716,0,42
+2020-07-17,SM,San Marino,EURO,0,716,0,42
+2020-07-18,SM,San Marino,EURO,0,716,0,42
 2020-04-06,ST,Sao Tome and Principe,AFRO,4,4,0,0
 2020-04-07,ST,Sao Tome and Principe,AFRO,0,4,0,0
 2020-04-08,ST,Sao Tome and Principe,AFRO,0,4,0,0
@@ -22084,6 +23476,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,ST,Sao Tome and Principe,AFRO,3,404,0,11
 2020-07-09,ST,Sao Tome and Principe,AFRO,0,404,0,11
 2020-07-10,ST,Sao Tome and Principe,AFRO,2,406,1,12
+2020-07-11,ST,Sao Tome and Principe,AFRO,1,407,0,12
+2020-07-12,ST,Sao Tome and Principe,AFRO,0,407,0,12
+2020-07-13,ST,Sao Tome and Principe,AFRO,2,409,0,12
+2020-07-14,ST,Sao Tome and Principe,AFRO,3,412,0,12
+2020-07-15,ST,Sao Tome and Principe,AFRO,4,416,0,12
+2020-07-16,ST,Sao Tome and Principe,AFRO,1,417,0,12
+2020-07-17,ST,Sao Tome and Principe,AFRO,323,740,2,14
+2020-07-18,ST,Sao Tome and Principe,AFRO,1,741,0,14
 2020-03-02,SA,Saudi Arabia,EMRO,1,1,0,0
 2020-03-03,SA,Saudi Arabia,EMRO,0,1,0,0
 2020-03-04,SA,Saudi Arabia,EMRO,1,2,0,0
@@ -22215,6 +23615,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,SA,Saudi Arabia,EMRO,3392,217108,49,2017
 2020-07-09,SA,Saudi Arabia,EMRO,3036,220144,42,2059
 2020-07-10,SA,Saudi Arabia,EMRO,3183,223327,41,2100
+2020-07-11,SA,Saudi Arabia,EMRO,3159,226486,51,2151
+2020-07-12,SA,Saudi Arabia,EMRO,2994,229480,30,2181
+2020-07-13,SA,Saudi Arabia,EMRO,2779,232259,42,2223
+2020-07-14,SA,Saudi Arabia,EMRO,2852,235111,20,2243
+2020-07-15,SA,Saudi Arabia,EMRO,2692,237803,40,2283
+2020-07-16,SA,Saudi Arabia,EMRO,2671,240474,42,2325
+2020-07-17,SA,Saudi Arabia,EMRO,2764,243238,45,2370
+2020-07-18,SA,Saudi Arabia,EMRO,2613,245851,37,2407
 2020-03-02,SN,Senegal,AFRO,1,1,0,0
 2020-03-03,SN,Senegal,AFRO,0,1,0,0
 2020-03-04,SN,Senegal,AFRO,3,4,0,0
@@ -22346,6 +23754,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,SN,Senegal,AFRO,69,7547,1,137
 2020-07-09,SN,Senegal,AFRO,110,7657,4,141
 2020-07-10,SN,Senegal,AFRO,127,7784,2,143
+2020-07-11,SN,Senegal,AFRO,98,7882,2,145
+2020-07-12,SN,Senegal,AFRO,132,8014,0,145
+2020-07-13,SN,Senegal,AFRO,121,8135,3,148
+2020-07-14,SN,Senegal,AFRO,63,8198,2,150
+2020-07-15,SN,Senegal,AFRO,45,8243,0,150
+2020-07-16,SN,Senegal,AFRO,126,8369,3,153
+2020-07-17,SN,Senegal,AFRO,112,8481,3,156
+2020-07-18,SN,Senegal,AFRO,63,8544,4,160
 2020-03-06,RS,Serbia,EURO,1,1,0,0
 2020-03-07,RS,Serbia,EURO,0,1,0,0
 2020-03-08,RS,Serbia,EURO,0,1,0,0
@@ -22473,6 +23889,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,RS,Serbia,EURO,299,16719,13,330
 2020-07-09,RS,Serbia,EURO,357,17076,11,341
 2020-07-10,RS,Serbia,EURO,266,17342,11,352
+2020-07-11,RS,Serbia,EURO,386,17728,18,370
+2020-07-12,RS,Serbia,EURO,345,18073,12,382
+2020-07-13,RS,Serbia,EURO,287,18360,11,393
+2020-07-14,RS,Serbia,EURO,279,18639,12,405
+2020-07-15,RS,Serbia,EURO,344,18983,13,418
+2020-07-16,RS,Serbia,EURO,351,19334,11,429
+2020-07-17,RS,Serbia,EURO,383,19717,13,442
+2020-07-18,RS,Serbia,EURO,392,20109,10,452
 2020-03-15,SC,Seychelles,AFRO,2,2,0,0
 2020-03-16,SC,Seychelles,AFRO,2,4,0,0
 2020-03-17,SC,Seychelles,AFRO,0,4,0,0
@@ -22591,6 +24015,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,SC,Seychelles,AFRO,10,91,0,0
 2020-07-09,SC,Seychelles,AFRO,3,94,0,0
 2020-07-10,SC,Seychelles,AFRO,6,100,0,0
+2020-07-11,SC,Seychelles,AFRO,0,100,0,0
+2020-07-12,SC,Seychelles,AFRO,0,100,0,0
+2020-07-13,SC,Seychelles,AFRO,0,100,0,0
+2020-07-14,SC,Seychelles,AFRO,0,100,0,0
+2020-07-15,SC,Seychelles,AFRO,0,100,0,0
+2020-07-16,SC,Seychelles,AFRO,8,108,0,0
+2020-07-17,SC,Seychelles,AFRO,0,108,0,0
+2020-07-18,SC,Seychelles,AFRO,0,108,0,0
 2020-04-01,SL,Sierra Leone,AFRO,1,1,0,0
 2020-04-02,SL,Sierra Leone,AFRO,1,2,0,0
 2020-04-03,SL,Sierra Leone,AFRO,0,2,0,0
@@ -22692,6 +24124,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,SL,Sierra Leone,AFRO,25,1572,1,63
 2020-07-09,SL,Sierra Leone,AFRO,12,1584,0,63
 2020-07-10,SL,Sierra Leone,AFRO,14,1598,0,63
+2020-07-11,SL,Sierra Leone,AFRO,15,1613,0,63
+2020-07-12,SL,Sierra Leone,AFRO,5,1618,0,63
+2020-07-13,SL,Sierra Leone,AFRO,17,1635,0,63
+2020-07-14,SL,Sierra Leone,AFRO,7,1642,0,63
+2020-07-15,SL,Sierra Leone,AFRO,9,1651,1,64
+2020-07-16,SL,Sierra Leone,AFRO,17,1668,0,64
+2020-07-17,SL,Sierra Leone,AFRO,10,1678,0,64
+2020-07-18,SL,Sierra Leone,AFRO,10,1688,1,65
 2020-01-23,SG,Singapore,WPRO,1,1,0,0
 2020-01-24,SG,Singapore,WPRO,2,3,0,0
 2020-01-25,SG,Singapore,WPRO,0,3,0,0
@@ -22862,6 +24302,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,SG,Singapore,WPRO,157,45140,0,26
 2020-07-09,SG,Singapore,WPRO,158,45298,0,26
 2020-07-10,SG,Singapore,WPRO,125,45423,0,26
+2020-07-11,SG,Singapore,WPRO,191,45614,0,26
+2020-07-12,SG,Singapore,WPRO,169,45783,0,26
+2020-07-13,SG,Singapore,WPRO,178,45961,0,26
+2020-07-14,SG,Singapore,WPRO,322,46283,0,26
+2020-07-15,SG,Singapore,WPRO,347,46630,1,27
+2020-07-16,SG,Singapore,WPRO,249,46879,0,27
+2020-07-17,SG,Singapore,WPRO,248,47127,0,27
+2020-07-18,SG,Singapore,WPRO,327,47454,0,27
 2020-03-18,SX,Sint Maarten,AMRO,1,1,0,0
 2020-03-19,SX,Sint Maarten,AMRO,0,1,0,0
 2020-03-20,SX,Sint Maarten,AMRO,0,1,0,0
@@ -22977,6 +24425,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,SX,Sint Maarten,AMRO,0,78,0,15
 2020-07-09,SX,Sint Maarten,AMRO,0,78,0,15
 2020-07-10,SX,Sint Maarten,AMRO,0,78,0,15
+2020-07-11,SX,Sint Maarten,AMRO,0,78,0,15
+2020-07-12,SX,Sint Maarten,AMRO,0,78,0,15
+2020-07-13,SX,Sint Maarten,AMRO,0,78,0,15
+2020-07-14,SX,Sint Maarten,AMRO,0,78,0,15
+2020-07-15,SX,Sint Maarten,AMRO,0,78,0,15
+2020-07-16,SX,Sint Maarten,AMRO,1,79,0,15
+2020-07-17,SX,Sint Maarten,AMRO,0,79,0,15
+2020-07-18,SX,Sint Maarten,AMRO,0,79,0,15
 2020-03-06,SK,Slovakia,EURO,1,1,0,0
 2020-03-07,SK,Slovakia,EURO,2,3,0,0
 2020-03-08,SK,Slovakia,EURO,2,5,0,0
@@ -23104,6 +24560,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,SK,Slovakia,EURO,2,1767,0,28
 2020-07-09,SK,Slovakia,EURO,31,1798,0,28
 2020-07-10,SK,Slovakia,EURO,53,1851,0,28
+2020-07-11,SK,Slovakia,EURO,19,1870,0,28
+2020-07-12,SK,Slovakia,EURO,23,1893,0,28
+2020-07-13,SK,Slovakia,EURO,8,1901,0,28
+2020-07-14,SK,Slovakia,EURO,1,1902,0,28
+2020-07-15,SK,Slovakia,EURO,6,1908,0,28
+2020-07-16,SK,Slovakia,EURO,19,1927,0,28
+2020-07-17,SK,Slovakia,EURO,24,1951,0,28
+2020-07-18,SK,Slovakia,EURO,14,1965,0,28
 2020-03-04,SI,Slovenia,EURO,1,1,0,0
 2020-03-05,SI,Slovenia,EURO,4,5,0,0
 2020-03-06,SI,Slovenia,EURO,4,9,0,0
@@ -23233,6 +24697,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,SI,Slovenia,EURO,23,1739,0,111
 2020-07-09,SI,Slovenia,EURO,24,1763,0,111
 2020-07-10,SI,Slovenia,EURO,13,1776,0,111
+2020-07-11,SI,Slovenia,EURO,17,1793,0,111
+2020-07-12,SI,Slovenia,EURO,34,1827,0,111
+2020-07-13,SI,Slovenia,EURO,14,1841,0,111
+2020-07-14,SI,Slovenia,EURO,8,1849,0,111
+2020-07-15,SI,Slovenia,EURO,10,1859,0,111
+2020-07-16,SI,Slovenia,EURO,19,1878,0,111
+2020-07-17,SI,Slovenia,EURO,19,1897,0,111
+2020-07-18,SI,Slovenia,EURO,19,1916,0,111
 2020-03-16,SO,Somalia,EMRO,1,1,0,0
 2020-03-17,SO,Somalia,EMRO,0,1,0,0
 2020-03-18,SO,Somalia,EMRO,0,1,0,0
@@ -23350,6 +24822,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,SO,Somalia,EMRO,9,3015,0,92
 2020-07-09,SO,Somalia,EMRO,13,3028,0,92
 2020-07-10,SO,Somalia,EMRO,10,3038,0,92
+2020-07-11,SO,Somalia,EMRO,0,3038,0,92
+2020-07-12,SO,Somalia,EMRO,13,3051,0,92
+2020-07-13,SO,Somalia,EMRO,8,3059,1,93
+2020-07-14,SO,Somalia,EMRO,13,3072,0,93
+2020-07-15,SO,Somalia,EMRO,4,3076,0,93
+2020-07-16,SO,Somalia,EMRO,7,3083,0,93
+2020-07-17,SO,Somalia,EMRO,23,3106,0,93
+2020-07-18,SO,Somalia,EMRO,0,3106,0,93
 2020-03-05,ZA,South Africa,AFRO,1,1,0,0
 2020-03-06,ZA,South Africa,AFRO,0,1,0,0
 2020-03-07,ZA,South Africa,AFRO,1,2,0,0
@@ -23478,6 +24958,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,ZA,South Africa,AFRO,10134,215855,192,3502
 2020-07-09,ZA,South Africa,AFRO,8810,224665,100,3602
 2020-07-10,ZA,South Africa,AFRO,13674,238339,118,3720
+2020-07-11,ZA,South Africa,AFRO,12348,250687,140,3860
+2020-07-12,ZA,South Africa,AFRO,13497,264184,111,3971
+2020-07-13,ZA,South Africa,AFRO,12058,276242,108,4079
+2020-07-14,ZA,South Africa,AFRO,11554,287796,93,4172
+2020-07-15,ZA,South Africa,AFRO,10496,298292,174,4346
+2020-07-16,ZA,South Africa,AFRO,12757,311049,107,4453
+2020-07-17,ZA,South Africa,AFRO,13172,324221,216,4669
+2020-07-18,ZA,South Africa,AFRO,13373,337594,135,4804
 2020-04-06,SS,South Sudan,AFRO,1,1,0,0
 2020-04-07,SS,South Sudan,AFRO,0,1,0,0
 2020-04-08,SS,South Sudan,AFRO,0,1,0,0
@@ -23574,6 +25062,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,SS,South Sudan,AFRO,8,2106,0,40
 2020-07-09,SS,South Sudan,AFRO,0,2106,0,40
 2020-07-10,SS,South Sudan,AFRO,23,2129,1,41
+2020-07-11,SS,South Sudan,AFRO,0,2129,0,41
+2020-07-12,SS,South Sudan,AFRO,10,2139,0,41
+2020-07-13,SS,South Sudan,AFRO,9,2148,0,41
+2020-07-14,SS,South Sudan,AFRO,0,2148,0,41
+2020-07-15,SS,South Sudan,AFRO,5,2153,0,41
+2020-07-16,SS,South Sudan,AFRO,18,2171,0,41
+2020-07-17,SS,South Sudan,AFRO,20,2191,2,43
+2020-07-18,SS,South Sudan,AFRO,0,2191,0,43
 2020-02-02,ES,Spain,EURO,1,1,0,0
 2020-02-03,ES,Spain,EURO,0,1,0,0
 2020-02-04,ES,Spain,EURO,0,1,0,0
@@ -23651,89 +25147,97 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-04-16,ES,Spain,EURO,4040,180074,463,20604
 2020-04-17,ES,Spain,EURO,4400,184474,476,21080
 2020-04-18,ES,Spain,EURO,4104,188578,410,21490
-2020-04-19,ES,Spain,EURO,0,188578,375,21865
-2020-04-20,ES,Spain,EURO,2585,191163,359,22224
-2020-04-21,ES,Spain,EURO,3352,194515,396,22620
-2020-04-22,ES,Spain,EURO,2627,197142,318,22938
-2020-04-23,ES,Spain,EURO,3052,200194,300,23238
-2020-04-24,ES,Spain,EURO,2767,202961,313,23551
-2020-04-25,ES,Spain,EURO,2944,205905,280,23831
-2020-04-26,ES,Spain,EURO,0,205905,259,24090
-2020-04-27,ES,Spain,EURO,1729,207634,250,24340
-2020-04-28,ES,Spain,EURO,1831,209465,247,24587
-2020-04-29,ES,Spain,EURO,1308,210773,224,24811
-2020-04-30,ES,Spain,EURO,2144,212917,206,25017
-2020-05-01,ES,Spain,EURO,518,213435,170,25187
-2020-05-02,ES,Spain,EURO,1781,215216,191,25378
-2020-05-03,ES,Spain,EURO,1366,216582,185,25563
-2020-05-04,ES,Spain,EURO,884,217466,177,25740
-2020-05-05,ES,Spain,EURO,545,218011,175,25915
-2020-05-06,ES,Spain,EURO,1318,219329,147,26062
-2020-05-07,ES,Spain,EURO,996,220325,158,26220
-2020-05-08,ES,Spain,EURO,1122,221447,140,26360
-2020-05-09,ES,Spain,EURO,1410,222857,121,26481
-2020-05-10,ES,Spain,EURO,2067,224924,315,26796
-2020-05-11,ES,Spain,EURO,812,225736,118,26914
-2020-05-12,ES,Spain,EURO,3046,228782,108,27022
-2020-05-13,ES,Spain,EURO,454,229236,88,27110
-2020-05-14,ES,Spain,EURO,614,229850,83,27193
-2020-05-15,ES,Spain,EURO,687,230537,70,27263
-2020-05-16,ES,Spain,EURO,711,231248,58,27321
-2020-05-17,ES,Spain,EURO,697,231945,53,27374
-2020-05-18,ES,Spain,EURO,315,232260,65,27439
-2020-05-19,ES,Spain,EURO,224,232484,60,27499
-2020-05-20,ES,Spain,EURO,577,233061,54,27553
-2020-05-21,ES,Spain,EURO,762,233823,62,27615
-2020-05-22,ES,Spain,EURO,670,234493,64,27679
-2020-05-23,ES,Spain,EURO,712,235205,59,27738
-2020-05-24,ES,Spain,EURO,744,235949,51,27789
-2020-05-25,ES,Spain,EURO,295,236244,55,27844
-2020-05-26,ES,Spain,EURO,234,236478,42,27886
-2020-05-27,ES,Spain,EURO,522,237000,35,27921
-2020-05-28,ES,Spain,EURO,680,237680,34,27955
-2020-05-29,ES,Spain,EURO,584,238264,37,27992
-2020-05-30,ES,Spain,EURO,630,238894,39,28031
-2020-05-31,ES,Spain,EURO,681,239575,32,28063
-2020-06-01,ES,Spain,EURO,329,239904,23,28086
-2020-06-02,ES,Spain,EURO,161,240065,34,28120
-2020-06-03,ES,Spain,EURO,335,240400,24,28144
-2020-06-04,ES,Spain,EURO,465,240865,33,28177
-2020-06-05,ES,Spain,EURO,579,241444,16,28193
-2020-06-06,ES,Spain,EURO,489,241933,20,28213
-2020-06-07,ES,Spain,EURO,627,242560,13,28226
-2020-06-08,ES,Spain,EURO,242,242802,19,28245
-2020-06-09,ES,Spain,EURO,137,242939,11,28256
-2020-06-10,ES,Spain,EURO,340,243279,25,28281
-2020-06-11,ES,Spain,EURO,413,243692,15,28296
-2020-06-12,ES,Spain,EURO,435,244127,9,28305
-2020-06-13,ES,Spain,EURO,354,244481,10,28315
-2020-06-14,ES,Spain,EURO,457,244938,9,28324
-2020-06-15,ES,Spain,EURO,110,245048,9,28333
-2020-06-16,ES,Spain,EURO,80,245128,6,28339
-2020-06-17,ES,Spain,EURO,264,245392,5,28344
-2020-06-18,ES,Spain,EURO,354,245746,2,28346
-2020-06-19,ES,Spain,EURO,326,246072,3,28349
-2020-06-20,ES,Spain,EURO,371,246443,3,28352
-2020-06-21,ES,Spain,EURO,333,246776,4,28356
-2020-06-22,ES,Spain,EURO,234,247010,0,28356
-2020-06-23,ES,Spain,EURO,181,247191,4,28360
-2020-06-24,ES,Spain,EURO,233,247424,1,28361
-2020-06-25,ES,Spain,EURO,415,247839,5,28366
-2020-06-26,ES,Spain,EURO,345,248184,4,28370
-2020-06-27,ES,Spain,EURO,369,248553,1,28371
-2020-06-28,ES,Spain,EURO,480,249033,6,28377
-2020-06-29,ES,Spain,EURO,242,249275,6,28383
-2020-06-30,ES,Spain,EURO,194,249469,3,28386
-2020-07-01,ES,Spain,EURO,244,249713,3,28389
-2020-07-02,ES,Spain,EURO,429,250142,0,28389
-2020-07-03,ES,Spain,EURO,394,250536,0,28389
-2020-07-04,ES,Spain,EURO,459,250995,2,28391
-2020-07-05,ES,Spain,EURO,546,251541,1,28392
-2020-07-06,ES,Spain,EURO,282,251823,0,28392
-2020-07-07,ES,Spain,EURO,183,252006,0,28392
-2020-07-08,ES,Spain,EURO,124,252130,0,28392
-2020-07-09,ES,Spain,EURO,383,252513,4,28396
-2020-07-10,ES,Spain,EURO,543,253056,5,28401
+2020-04-19,ES,Spain,EURO,2213,190791,375,21865
+2020-04-20,ES,Spain,EURO,2585,193376,359,22224
+2020-04-21,ES,Spain,EURO,3352,196728,396,22620
+2020-04-22,ES,Spain,EURO,2627,199355,318,22938
+2020-04-23,ES,Spain,EURO,3052,202407,300,23238
+2020-04-24,ES,Spain,EURO,2767,205174,313,23551
+2020-04-25,ES,Spain,EURO,2944,208118,280,23831
+2020-04-26,ES,Spain,EURO,1346,209464,465,24296
+2020-04-27,ES,Spain,EURO,1729,211193,250,24546
+2020-04-28,ES,Spain,EURO,1831,213024,247,24793
+2020-04-29,ES,Spain,EURO,1308,214332,224,25017
+2020-04-30,ES,Spain,EURO,2144,216476,206,25223
+2020-05-01,ES,Spain,EURO,518,216994,170,25393
+2020-05-02,ES,Spain,EURO,1781,218775,191,25584
+2020-05-03,ES,Spain,EURO,1366,220141,185,25769
+2020-05-04,ES,Spain,EURO,884,221025,177,25946
+2020-05-05,ES,Spain,EURO,545,221570,175,26121
+2020-05-06,ES,Spain,EURO,1318,222888,147,26268
+2020-05-07,ES,Spain,EURO,996,223884,158,26426
+2020-05-08,ES,Spain,EURO,1122,225006,140,26566
+2020-05-09,ES,Spain,EURO,1410,226416,121,26687
+2020-05-10,ES,Spain,EURO,721,227137,106,26793
+2020-05-11,ES,Spain,EURO,460,227597,118,26911
+2020-05-12,ES,Spain,EURO,615,228212,108,27019
+2020-05-13,ES,Spain,EURO,708,228920,88,27107
+2020-05-14,ES,Spain,EURO,719,229639,83,27190
+2020-05-15,ES,Spain,EURO,695,230334,70,27260
+2020-05-16,ES,Spain,EURO,316,230650,58,27318
+2020-05-17,ES,Spain,EURO,224,230874,53,27371
+2020-05-18,ES,Spain,EURO,572,231446,65,27436
+2020-05-19,ES,Spain,EURO,762,232208,60,27496
+2020-05-20,ES,Spain,EURO,667,232875,54,27550
+2020-05-21,ES,Spain,EURO,706,233581,62,27612
+2020-05-22,ES,Spain,EURO,741,234322,64,27676
+2020-05-23,ES,Spain,EURO,289,234611,59,27735
+2020-05-24,ES,Spain,EURO,234,234845,51,27786
+2020-05-25,ES,Spain,EURO,518,235363,56,27842
+2020-05-26,ES,Spain,EURO,678,236041,42,27884
+2020-05-27,ES,Spain,EURO,581,236622,35,27919
+2020-05-28,ES,Spain,EURO,624,237246,34,27953
+2020-05-29,ES,Spain,EURO,679,237925,37,27990
+2020-05-30,ES,Spain,EURO,330,238255,39,28029
+2020-05-31,ES,Spain,EURO,160,238415,32,28061
+2020-06-01,ES,Spain,EURO,335,238750,24,28085
+2020-06-02,ES,Spain,EURO,460,239210,34,28119
+2020-06-03,ES,Spain,EURO,578,239788,24,28143
+2020-06-04,ES,Spain,EURO,489,240277,33,28176
+2020-06-05,ES,Spain,EURO,626,240903,16,28192
+2020-06-06,ES,Spain,EURO,243,241146,21,28213
+2020-06-07,ES,Spain,EURO,139,241285,13,28226
+2020-06-08,ES,Spain,EURO,338,241623,19,28245
+2020-06-09,ES,Spain,EURO,411,242034,11,28256
+2020-06-10,ES,Spain,EURO,434,242468,25,28281
+2020-06-11,ES,Spain,EURO,353,242821,15,28296
+2020-06-12,ES,Spain,EURO,456,243277,9,28305
+2020-06-13,ES,Spain,EURO,106,243383,10,28315
+2020-06-14,ES,Spain,EURO,80,243463,9,28324
+2020-06-15,ES,Spain,EURO,264,243727,9,28333
+2020-06-16,ES,Spain,EURO,355,244082,6,28339
+2020-06-17,ES,Spain,EURO,329,244411,5,28344
+2020-06-18,ES,Spain,EURO,368,244779,2,28346
+2020-06-19,ES,Spain,EURO,335,245114,3,28349
+2020-06-20,ES,Spain,EURO,231,245345,3,28352
+2020-06-21,ES,Spain,EURO,180,245525,5,28357
+2020-06-22,ES,Spain,EURO,230,245755,0,28357
+2020-06-23,ES,Spain,EURO,415,246170,4,28361
+2020-06-24,ES,Spain,EURO,346,246516,1,28362
+2020-06-25,ES,Spain,EURO,344,246860,5,28367
+2020-06-26,ES,Spain,EURO,476,247336,4,28371
+2020-06-27,ES,Spain,EURO,241,247577,1,28372
+2020-06-28,ES,Spain,EURO,195,247772,7,28379
+2020-06-29,ES,Spain,EURO,247,248019,6,28385
+2020-06-30,ES,Spain,EURO,433,248452,3,28388
+2020-07-01,ES,Spain,EURO,407,248859,4,28392
+2020-07-02,ES,Spain,EURO,467,249326,0,28392
+2020-07-03,ES,Spain,EURO,573,249899,1,28393
+2020-07-04,ES,Spain,EURO,288,250187,3,28396
+2020-07-05,ES,Spain,EURO,195,250382,0,28396
+2020-07-06,ES,Spain,EURO,295,250677,2,28398
+2020-07-07,ES,Spain,EURO,672,251349,2,28400
+2020-07-08,ES,Spain,EURO,704,252053,2,28402
+2020-07-09,ES,Spain,EURO,800,252853,0,28402
+2020-07-10,ES,Spain,EURO,1055,253908,2,28404
+2020-07-11,ES,Spain,EURO,480,254388,1,28405
+2020-07-12,ES,Spain,EURO,323,254711,1,28406
+2020-07-13,ES,Spain,EURO,263,254974,0,28406
+2020-07-14,ES,Spain,EURO,979,255953,0,28406
+2020-07-15,ES,Spain,EURO,666,256619,3,28409
+2020-07-16,ES,Spain,EURO,875,257494,4,28413
+2020-07-17,ES,Spain,EURO,1361,258855,3,28416
+2020-07-18,ES,Spain,EURO,1400,260255,4,28420
 2020-01-27,LK,Sri Lanka,SEARO,1,1,0,0
 2020-01-28,LK,Sri Lanka,SEARO,0,1,0,0
 2020-01-29,LK,Sri Lanka,SEARO,0,1,0,0
@@ -23900,6 +25404,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,LK,Sri Lanka,SEARO,3,2081,0,11
 2020-07-09,LK,Sri Lanka,SEARO,13,2094,0,11
 2020-07-10,LK,Sri Lanka,SEARO,256,2350,0,11
+2020-07-11,LK,Sri Lanka,SEARO,104,2454,0,11
+2020-07-12,LK,Sri Lanka,SEARO,57,2511,0,11
+2020-07-13,LK,Sri Lanka,SEARO,106,2617,0,11
+2020-07-14,LK,Sri Lanka,SEARO,29,2646,0,11
+2020-07-15,LK,Sri Lanka,SEARO,19,2665,0,11
+2020-07-16,LK,Sri Lanka,SEARO,9,2674,0,11
+2020-07-17,LK,Sri Lanka,SEARO,13,2687,0,11
+2020-07-18,LK,Sri Lanka,SEARO,10,2697,0,11
 2020-03-14,SD,Sudan,EMRO,1,1,0,0
 2020-03-15,SD,Sudan,EMRO,0,1,1,1
 2020-03-16,SD,Sudan,EMRO,0,1,0,1
@@ -24019,6 +25531,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,SD,Sudan,EMRO,103,9997,6,622
 2020-07-09,SD,Sudan,EMRO,87,10084,14,636
 2020-07-10,SD,Sudan,EMRO,120,10204,13,649
+2020-07-11,SD,Sudan,EMRO,0,10204,0,649
+2020-07-12,SD,Sudan,EMRO,46,10250,1,650
+2020-07-13,SD,Sudan,EMRO,0,10250,0,650
+2020-07-14,SD,Sudan,EMRO,66,10316,7,657
+2020-07-15,SD,Sudan,EMRO,101,10417,2,659
+2020-07-16,SD,Sudan,EMRO,110,10527,9,668
+2020-07-17,SD,Sudan,EMRO,0,10527,0,668
+2020-07-18,SD,Sudan,EMRO,0,10527,0,668
 2020-03-15,SR,Suriname,AMRO,1,1,0,0
 2020-03-16,SR,Suriname,AMRO,0,1,0,0
 2020-03-17,SR,Suriname,AMRO,0,1,0,0
@@ -24137,6 +25657,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,SR,Suriname,AMRO,10,614,1,15
 2020-07-09,SR,Suriname,AMRO,21,635,2,17
 2020-07-10,SR,Suriname,AMRO,36,671,0,17
+2020-07-11,SR,Suriname,AMRO,55,726,0,17
+2020-07-12,SR,Suriname,AMRO,3,729,1,18
+2020-07-13,SR,Suriname,AMRO,12,741,0,18
+2020-07-14,SR,Suriname,AMRO,21,762,0,18
+2020-07-15,SR,Suriname,AMRO,18,780,0,18
+2020-07-16,SR,Suriname,AMRO,21,801,0,18
+2020-07-17,SR,Suriname,AMRO,48,849,0,18
+2020-07-18,SR,Suriname,AMRO,70,919,1,19
 2020-01-31,SE,Sweden,EURO,1,1,0,0
 2020-02-01,SE,Sweden,EURO,0,1,0,0
 2020-02-02,SE,Sweden,EURO,0,1,0,0
@@ -24299,6 +25827,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,SE,Sweden,EURO,283,73344,14,5447
 2020-07-09,SE,Sweden,EURO,514,73858,35,5482
 2020-07-10,SE,Sweden,EURO,475,74333,18,5500
+2020-07-11,SE,Sweden,EURO,565,74898,26,5526
+2020-07-12,SE,Sweden,EURO,0,74898,0,5526
+2020-07-13,SE,Sweden,EURO,0,74898,0,5526
+2020-07-14,SE,Sweden,EURO,928,75826,10,5536
+2020-07-15,SE,Sweden,EURO,175,76001,9,5545
+2020-07-16,SE,Sweden,EURO,491,76492,27,5572
+2020-07-17,SE,Sweden,EURO,385,76877,21,5593
+2020-07-18,SE,Sweden,EURO,404,77281,26,5619
 2020-02-24,CH,Switzerland,EURO,1,1,0,0
 2020-02-25,CH,Switzerland,EURO,2,3,0,0
 2020-02-26,CH,Switzerland,EURO,6,9,0,0
@@ -24437,6 +25973,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,CH,Switzerland,EURO,54,32284,0,1685
 2020-07-09,CH,Switzerland,EURO,129,32413,0,1685
 2020-07-10,CH,Switzerland,EURO,88,32501,0,1685
+2020-07-11,CH,Switzerland,EURO,104,32605,0,1685
+2020-07-12,CH,Switzerland,EURO,108,32713,0,1685
+2020-07-13,CH,Switzerland,EURO,0,32713,0,1685
+2020-07-14,CH,Switzerland,EURO,148,32861,0,1685
+2020-07-15,CH,Switzerland,EURO,70,32931,2,1687
+2020-07-16,CH,Switzerland,EURO,132,33063,0,1687
+2020-07-17,CH,Switzerland,EURO,142,33205,0,1687
+2020-07-18,CH,Switzerland,EURO,91,33296,0,1687
 2020-03-23,SY,Syrian Arab Republic,EMRO,1,1,0,0
 2020-03-24,SY,Syrian Arab Republic,EMRO,0,1,0,0
 2020-03-25,SY,Syrian Arab Republic,EMRO,0,1,0,0
@@ -24547,6 +26091,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,SY,Syrian Arab Republic,EMRO,0,372,0,14
 2020-07-09,SY,Syrian Arab Republic,EMRO,0,372,0,14
 2020-07-10,SY,Syrian Arab Republic,EMRO,0,372,0,14
+2020-07-11,SY,Syrian Arab Republic,EMRO,22,394,2,16
+2020-07-12,SY,Syrian Arab Republic,EMRO,0,394,0,16
+2020-07-13,SY,Syrian Arab Republic,EMRO,0,394,0,16
+2020-07-14,SY,Syrian Arab Republic,EMRO,23,417,3,19
+2020-07-15,SY,Syrian Arab Republic,EMRO,22,439,2,21
+2020-07-16,SY,Syrian Arab Republic,EMRO,19,458,1,22
+2020-07-17,SY,Syrian Arab Republic,EMRO,19,477,0,22
+2020-07-18,SY,Syrian Arab Republic,EMRO,19,496,3,25
 2020-05-01,TJ,Tajikistan,EURO,15,15,0,0
 2020-05-02,TJ,Tajikistan,EURO,17,32,0,0
 2020-05-03,TJ,Tajikistan,EURO,44,76,2,2
@@ -24618,6 +26170,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,TJ,Tajikistan,EURO,53,6315,0,53
 2020-07-09,TJ,Tajikistan,EURO,48,6363,1,54
 2020-07-10,TJ,Tajikistan,EURO,46,6409,0,54
+2020-07-11,TJ,Tajikistan,EURO,47,6456,1,55
+2020-07-12,TJ,Tajikistan,EURO,49,6505,0,55
+2020-07-13,TJ,Tajikistan,EURO,46,6551,0,55
+2020-07-14,TJ,Tajikistan,EURO,44,6595,0,55
+2020-07-15,TJ,Tajikistan,EURO,48,6643,1,56
+2020-07-16,TJ,Tajikistan,EURO,52,6695,0,56
+2020-07-17,TJ,Tajikistan,EURO,46,6741,0,56
+2020-07-18,TJ,Tajikistan,EURO,45,6786,0,56
 2020-01-13,TH,Thailand,SEARO,1,1,0,0
 2020-01-14,TH,Thailand,SEARO,0,1,0,0
 2020-01-15,TH,Thailand,SEARO,0,1,0,0
@@ -24798,6 +26358,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,TH,Thailand,SEARO,2,3197,0,58
 2020-07-09,TH,Thailand,SEARO,5,3202,0,58
 2020-07-10,TH,Thailand,SEARO,0,3202,0,58
+2020-07-11,TH,Thailand,SEARO,14,3216,0,58
+2020-07-12,TH,Thailand,SEARO,1,3217,0,58
+2020-07-13,TH,Thailand,SEARO,3,3220,0,58
+2020-07-14,TH,Thailand,SEARO,7,3227,0,58
+2020-07-15,TH,Thailand,SEARO,5,3232,0,58
+2020-07-16,TH,Thailand,SEARO,4,3236,0,58
+2020-07-17,TH,Thailand,SEARO,3,3239,0,58
+2020-07-18,TH,Thailand,SEARO,7,3246,0,58
 2020-01-31,GB,The United Kingdom,EURO,2,2,0,0
 2020-02-01,GB,The United Kingdom,EURO,0,2,0,0
 2020-02-02,GB,The United Kingdom,EURO,0,2,0,0
@@ -24960,6 +26528,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,GB,The United Kingdom,EURO,581,286353,155,44391
 2020-07-09,GB,The United Kingdom,EURO,630,286983,126,44517
 2020-07-10,GB,The United Kingdom,EURO,642,287625,85,44602
+2020-07-11,GB,The United Kingdom,EURO,512,288137,48,44650
+2020-07-12,GB,The United Kingdom,EURO,820,288957,148,44798
+2020-07-13,GB,The United Kingdom,EURO,650,289607,21,44819
+2020-07-14,GB,The United Kingdom,EURO,530,290137,11,44830
+2020-07-15,GB,The United Kingdom,EURO,1240,291377,138,44968
+2020-07-16,GB,The United Kingdom,EURO,538,291915,85,45053
+2020-07-17,GB,The United Kingdom,EURO,641,292556,66,45119
+2020-07-18,GB,The United Kingdom,EURO,687,293243,114,45233
 2020-03-20,TL,Timor-Leste,SEARO,1,1,0,0
 2020-03-21,TL,Timor-Leste,SEARO,0,1,0,0
 2020-03-22,TL,Timor-Leste,SEARO,0,1,0,0
@@ -25073,6 +26649,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,TL,Timor-Leste,SEARO,0,24,0,0
 2020-07-09,TL,Timor-Leste,SEARO,0,24,0,0
 2020-07-10,TL,Timor-Leste,SEARO,0,24,0,0
+2020-07-11,TL,Timor-Leste,SEARO,0,24,0,0
+2020-07-12,TL,Timor-Leste,SEARO,0,24,0,0
+2020-07-13,TL,Timor-Leste,SEARO,0,24,0,0
+2020-07-14,TL,Timor-Leste,SEARO,0,24,0,0
+2020-07-15,TL,Timor-Leste,SEARO,0,24,0,0
+2020-07-16,TL,Timor-Leste,SEARO,0,24,0,0
+2020-07-17,TL,Timor-Leste,SEARO,0,24,0,0
+2020-07-18,TL,Timor-Leste,SEARO,0,24,0,0
 2020-03-07,TG,Togo,AFRO,1,1,0,0
 2020-03-08,TG,Togo,AFRO,0,1,0,0
 2020-03-09,TG,Togo,AFRO,0,1,0,0
@@ -25199,6 +26783,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,TG,Togo,AFRO,9,689,0,15
 2020-07-09,TG,Togo,AFRO,6,695,0,15
 2020-07-10,TG,Togo,AFRO,9,704,0,15
+2020-07-11,TG,Togo,AFRO,6,710,0,15
+2020-07-12,TG,Togo,AFRO,0,710,0,15
+2020-07-13,TG,Togo,AFRO,10,720,0,15
+2020-07-14,TG,Togo,AFRO,0,720,0,15
+2020-07-15,TG,Togo,AFRO,11,731,0,15
+2020-07-16,TG,Togo,AFRO,9,740,0,15
+2020-07-17,TG,Togo,AFRO,9,749,0,15
+2020-07-18,TG,Togo,AFRO,17,766,0,15
 2020-03-13,TT,Trinidad and Tobago,AMRO,1,1,0,0
 2020-03-14,TT,Trinidad and Tobago,AMRO,0,1,0,0
 2020-03-15,TT,Trinidad and Tobago,AMRO,1,2,0,0
@@ -25319,6 +26911,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,TT,Trinidad and Tobago,AMRO,0,133,0,8
 2020-07-09,TT,Trinidad and Tobago,AMRO,0,133,0,8
 2020-07-10,TT,Trinidad and Tobago,AMRO,0,133,0,8
+2020-07-11,TT,Trinidad and Tobago,AMRO,0,133,0,8
+2020-07-12,TT,Trinidad and Tobago,AMRO,0,133,0,8
+2020-07-13,TT,Trinidad and Tobago,AMRO,0,133,0,8
+2020-07-14,TT,Trinidad and Tobago,AMRO,0,133,0,8
+2020-07-15,TT,Trinidad and Tobago,AMRO,0,133,0,8
+2020-07-16,TT,Trinidad and Tobago,AMRO,0,133,0,8
+2020-07-17,TT,Trinidad and Tobago,AMRO,0,133,0,8
+2020-07-18,TT,Trinidad and Tobago,AMRO,3,136,0,8
 2020-03-02,TN,Tunisia,EMRO,1,1,0,0
 2020-03-03,TN,Tunisia,EMRO,0,1,0,0
 2020-03-04,TN,Tunisia,EMRO,0,1,0,0
@@ -25450,6 +27050,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,TN,Tunisia,EMRO,6,1205,0,50
 2020-07-09,TN,Tunisia,EMRO,16,1221,0,50
 2020-07-10,TN,Tunisia,EMRO,10,1231,0,50
+2020-07-11,TN,Tunisia,EMRO,9,1240,0,50
+2020-07-12,TN,Tunisia,EMRO,5,1245,0,50
+2020-07-13,TN,Tunisia,EMRO,18,1263,0,50
+2020-07-14,TN,Tunisia,EMRO,39,1302,0,50
+2020-07-15,TN,Tunisia,EMRO,4,1306,0,50
+2020-07-16,TN,Tunisia,EMRO,13,1319,0,50
+2020-07-17,TN,Tunisia,EMRO,8,1327,0,50
+2020-07-18,TN,Tunisia,EMRO,9,1336,0,50
 2020-03-11,TR,Turkey,EURO,1,1,0,0
 2020-03-12,TR,Turkey,EURO,0,1,0,0
 2020-03-13,TR,Turkey,EURO,4,5,0,0
@@ -25572,6 +27180,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,TR,Turkey,EURO,1053,207897,19,5260
 2020-07-09,TR,Turkey,EURO,1041,208938,22,5282
 2020-07-10,TR,Turkey,EURO,1024,209962,18,5300
+2020-07-11,TR,Turkey,EURO,1003,210965,23,5323
+2020-07-12,TR,Turkey,EURO,1016,211981,21,5344
+2020-07-13,TR,Turkey,EURO,1012,212993,19,5363
+2020-07-14,TR,Turkey,EURO,1008,214001,19,5382
+2020-07-15,TR,Turkey,EURO,992,214993,20,5402
+2020-07-16,TR,Turkey,EURO,947,215940,17,5419
+2020-07-17,TR,Turkey,EURO,933,216873,21,5440
+2020-07-18,TR,Turkey,EURO,926,217799,18,5458
 2020-03-24,TC,Turks and Caicos Islands,AMRO,1,1,0,0
 2020-03-25,TC,Turks and Caicos Islands,AMRO,0,1,0,0
 2020-03-26,TC,Turks and Caicos Islands,AMRO,1,2,0,0
@@ -25681,6 +27297,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,TC,Turks and Caicos Islands,AMRO,1,49,0,2
 2020-07-09,TC,Turks and Caicos Islands,AMRO,6,55,0,2
 2020-07-10,TC,Turks and Caicos Islands,AMRO,0,55,0,2
+2020-07-11,TC,Turks and Caicos Islands,AMRO,11,66,0,2
+2020-07-12,TC,Turks and Caicos Islands,AMRO,0,66,0,2
+2020-07-13,TC,Turks and Caicos Islands,AMRO,5,71,0,2
+2020-07-14,TC,Turks and Caicos Islands,AMRO,1,72,0,2
+2020-07-15,TC,Turks and Caicos Islands,AMRO,0,72,0,2
+2020-07-16,TC,Turks and Caicos Islands,AMRO,0,72,0,2
+2020-07-17,TC,Turks and Caicos Islands,AMRO,0,72,0,2
+2020-07-18,TC,Turks and Caicos Islands,AMRO,2,74,0,2
 2020-03-21,UG,Uganda,AFRO,1,1,0,0
 2020-03-22,UG,Uganda,AFRO,0,1,0,0
 2020-03-23,UG,Uganda,AFRO,0,1,0,0
@@ -25793,6 +27417,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,UG,Uganda,AFRO,18,971,0,0
 2020-07-09,UG,Uganda,AFRO,6,977,0,0
 2020-07-10,UG,Uganda,AFRO,23,1000,0,0
+2020-07-11,UG,Uganda,AFRO,6,1006,0,0
+2020-07-12,UG,Uganda,AFRO,7,1013,0,0
+2020-07-13,UG,Uganda,AFRO,12,1025,0,0
+2020-07-14,UG,Uganda,AFRO,4,1029,0,0
+2020-07-15,UG,Uganda,AFRO,11,1040,0,0
+2020-07-16,UG,Uganda,AFRO,3,1043,0,0
+2020-07-17,UG,Uganda,AFRO,8,1051,0,0
+2020-07-18,UG,Uganda,AFRO,5,1056,0,0
 2020-03-03,UA,Ukraine,EURO,1,1,0,0
 2020-03-04,UA,Ukraine,EURO,0,1,0,0
 2020-03-05,UA,Ukraine,EURO,0,1,0,0
@@ -25923,6 +27555,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,UA,Ukraine,EURO,807,50414,24,1307
 2020-07-09,UA,Ukraine,EURO,810,51224,20,1327
 2020-07-10,UA,Ukraine,EURO,819,52043,18,1345
+2020-07-11,UA,Ukraine,EURO,800,52843,27,1372
+2020-07-12,UA,Ukraine,EURO,678,53521,11,1383
+2020-07-13,UA,Ukraine,EURO,612,54133,15,1398
+2020-07-14,UA,Ukraine,EURO,638,54771,14,1412
+2020-07-15,UA,Ukraine,EURO,836,55607,15,1427
+2020-07-16,UA,Ukraine,EURO,848,56455,18,1445
+2020-07-17,UA,Ukraine,EURO,809,57264,11,1456
+2020-07-18,UA,Ukraine,EURO,847,58111,21,1477
 2020-01-29,AE,United Arab Emirates,EMRO,4,4,0,0
 2020-01-30,AE,United Arab Emirates,EMRO,0,4,0,0
 2020-01-31,AE,United Arab Emirates,EMRO,0,4,0,0
@@ -26087,6 +27727,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,AE,United Arab Emirates,EMRO,532,52600,2,326
 2020-07-09,AE,United Arab Emirates,EMRO,445,53045,1,327
 2020-07-10,AE,United Arab Emirates,EMRO,532,53577,1,328
+2020-07-11,AE,United Arab Emirates,EMRO,473,54050,1,329
+2020-07-12,AE,United Arab Emirates,EMRO,403,54453,2,331
+2020-07-13,AE,United Arab Emirates,EMRO,401,54854,2,333
+2020-07-14,AE,United Arab Emirates,EMRO,344,55198,1,334
+2020-07-15,AE,United Arab Emirates,EMRO,375,55573,1,335
+2020-07-16,AE,United Arab Emirates,EMRO,275,55848,0,335
+2020-07-17,AE,United Arab Emirates,EMRO,281,56129,0,335
+2020-07-18,AE,United Arab Emirates,EMRO,293,56422,2,337
 2020-03-17,TZ,United Republic of Tanzania,AFRO,1,1,0,0
 2020-03-18,TZ,United Republic of Tanzania,AFRO,2,3,0,0
 2020-03-19,TZ,United Republic of Tanzania,AFRO,3,6,0,0
@@ -26203,6 +27851,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,TZ,United Republic of Tanzania,AFRO,0,509,0,21
 2020-07-09,TZ,United Republic of Tanzania,AFRO,0,509,0,21
 2020-07-10,TZ,United Republic of Tanzania,AFRO,0,509,0,21
+2020-07-11,TZ,United Republic of Tanzania,AFRO,0,509,0,21
+2020-07-12,TZ,United Republic of Tanzania,AFRO,0,509,0,21
+2020-07-13,TZ,United Republic of Tanzania,AFRO,0,509,0,21
+2020-07-14,TZ,United Republic of Tanzania,AFRO,0,509,0,21
+2020-07-15,TZ,United Republic of Tanzania,AFRO,0,509,0,21
+2020-07-16,TZ,United Republic of Tanzania,AFRO,0,509,0,21
+2020-07-17,TZ,United Republic of Tanzania,AFRO,0,509,0,21
+2020-07-18,TZ,United Republic of Tanzania,AFRO,0,509,0,21
 2020-01-20,US,United States of America,AMRO,1,1,0,0
 2020-01-21,US,United States of America,AMRO,0,1,0,0
 2020-01-22,US,United States of America,AMRO,0,1,0,0
@@ -26376,6 +28032,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,US,United States of America,AMRO,46194,2923432,320,129963
 2020-07-09,US,United States of America,AMRO,50263,2973695,930,130893
 2020-07-10,US,United States of America,AMRO,64630,3038325,991,131884
+2020-07-11,US,United States of America,AMRO,58975,3097300,799,132683
+2020-07-12,US,United States of America,AMRO,66281,3163581,803,133486
+2020-07-13,US,United States of America,AMRO,62369,3225950,906,134392
+2020-07-14,US,United States of America,AMRO,60113,3286063,312,134704
+2020-07-15,US,United States of America,AMRO,58720,3344783,349,135053
+2020-07-16,US,United States of America,AMRO,60711,3405494,754,135807
+2020-07-17,US,United States of America,AMRO,67165,3472659,946,136753
+2020-07-18,US,United States of America,AMRO,71484,3544143,921,137674
 2020-03-13,VI,United States Virgin Islands,AMRO,1,1,0,0
 2020-03-14,VI,United States Virgin Islands,AMRO,0,1,0,0
 2020-03-15,VI,United States Virgin Islands,AMRO,0,1,0,0
@@ -26496,6 +28160,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,VI,United States Virgin Islands,AMRO,4,116,0,6
 2020-07-09,VI,United States Virgin Islands,AMRO,6,122,0,6
 2020-07-10,VI,United States Virgin Islands,AMRO,22,144,0,6
+2020-07-11,VI,United States Virgin Islands,AMRO,9,153,0,6
+2020-07-12,VI,United States Virgin Islands,AMRO,14,167,0,6
+2020-07-13,VI,United States Virgin Islands,AMRO,14,181,0,6
+2020-07-14,VI,United States Virgin Islands,AMRO,25,206,0,6
+2020-07-15,VI,United States Virgin Islands,AMRO,0,206,0,6
+2020-07-16,VI,United States Virgin Islands,AMRO,37,243,0,6
+2020-07-17,VI,United States Virgin Islands,AMRO,6,249,0,6
+2020-07-18,VI,United States Virgin Islands,AMRO,14,263,0,6
 2020-03-15,UY,Uruguay,AMRO,4,4,0,0
 2020-03-16,UY,Uruguay,AMRO,0,4,0,0
 2020-03-17,UY,Uruguay,AMRO,2,6,0,0
@@ -26614,6 +28286,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,UY,Uruguay,AMRO,4,960,1,29
 2020-07-09,UY,Uruguay,AMRO,5,965,0,29
 2020-07-10,UY,Uruguay,AMRO,9,974,0,29
+2020-07-11,UY,Uruguay,AMRO,3,977,0,29
+2020-07-12,UY,Uruguay,AMRO,8,985,0,29
+2020-07-13,UY,Uruguay,AMRO,1,986,1,30
+2020-07-14,UY,Uruguay,AMRO,1,987,1,31
+2020-07-15,UY,Uruguay,AMRO,2,989,0,31
+2020-07-16,UY,Uruguay,AMRO,8,997,0,31
+2020-07-17,UY,Uruguay,AMRO,12,1009,0,31
+2020-07-18,UY,Uruguay,AMRO,17,1026,1,32
 2020-03-16,UZ,Uzbekistan,EURO,4,4,0,0
 2020-03-17,UZ,Uzbekistan,EURO,12,16,0,0
 2020-03-18,UZ,Uzbekistan,EURO,0,16,0,0
@@ -26731,6 +28411,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,UZ,Uzbekistan,EURO,379,10838,3,41
 2020-07-09,UZ,Uzbekistan,EURO,421,11259,6,47
 2020-07-10,UZ,Uzbekistan,EURO,464,11723,5,52
+2020-07-11,UZ,Uzbekistan,EURO,483,12206,3,55
+2020-07-12,UZ,Uzbekistan,EURO,500,12706,3,58
+2020-07-13,UZ,Uzbekistan,EURO,487,13193,3,61
+2020-07-14,UZ,Uzbekistan,EURO,679,13872,3,64
+2020-07-15,UZ,Uzbekistan,EURO,421,14293,4,68
+2020-07-16,UZ,Uzbekistan,EURO,494,14787,4,72
+2020-07-17,UZ,Uzbekistan,EURO,562,15349,4,76
+2020-07-18,UZ,Uzbekistan,EURO,547,15896,4,80
 2020-03-14,VE,Venezuela (Bolivarian Republic of),AMRO,2,2,0,0
 2020-03-15,VE,Venezuela (Bolivarian Republic of),AMRO,15,17,0,0
 2020-03-16,VE,Venezuela (Bolivarian Republic of),AMRO,0,17,0,0
@@ -26850,6 +28538,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,VE,Venezuela (Bolivarian Republic of),AMRO,242,7411,4,68
 2020-07-09,VE,Venezuela (Bolivarian Republic of),AMRO,282,7693,3,71
 2020-07-10,VE,Venezuela (Bolivarian Republic of),AMRO,317,8010,4,75
+2020-07-11,VE,Venezuela (Bolivarian Republic of),AMRO,362,8372,5,80
+2020-07-12,VE,Venezuela (Bolivarian Republic of),AMRO,431,8803,3,83
+2020-07-13,VE,Venezuela (Bolivarian Republic of),AMRO,375,9178,2,85
+2020-07-14,VE,Venezuela (Bolivarian Republic of),AMRO,287,9465,4,89
+2020-07-15,VE,Venezuela (Bolivarian Republic of),AMRO,242,9707,4,93
+2020-07-16,VE,Venezuela (Bolivarian Republic of),AMRO,303,10010,3,96
+2020-07-17,VE,Venezuela (Bolivarian Republic of),AMRO,418,10428,4,100
+2020-07-18,VE,Venezuela (Bolivarian Republic of),AMRO,426,10854,4,104
 2020-01-24,VN,Viet Nam,WPRO,2,2,0,0
 2020-01-25,VN,Viet Nam,WPRO,0,2,0,0
 2020-01-26,VN,Viet Nam,WPRO,0,2,0,0
@@ -27019,6 +28715,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,VN,Viet Nam,WPRO,0,369,0,0
 2020-07-09,VN,Viet Nam,WPRO,0,369,0,0
 2020-07-10,VN,Viet Nam,WPRO,0,369,0,0
+2020-07-11,VN,Viet Nam,WPRO,1,370,0,0
+2020-07-12,VN,Viet Nam,WPRO,0,370,0,0
+2020-07-13,VN,Viet Nam,WPRO,2,372,0,0
+2020-07-14,VN,Viet Nam,WPRO,0,372,0,0
+2020-07-15,VN,Viet Nam,WPRO,1,373,0,0
+2020-07-16,VN,Viet Nam,WPRO,8,381,0,0
+2020-07-17,VN,Viet Nam,WPRO,0,381,0,0
+2020-07-18,VN,Viet Nam,WPRO,1,382,0,0
 2020-04-10,YE,Yemen,EMRO,1,1,0,0
 2020-04-11,YE,Yemen,EMRO,0,1,0,0
 2020-04-12,YE,Yemen,EMRO,0,1,0,0
@@ -27111,6 +28815,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,YE,Yemen,EMRO,13,1307,3,349
 2020-07-09,YE,Yemen,EMRO,21,1328,3,352
 2020-07-10,YE,Yemen,EMRO,0,1328,0,352
+2020-07-11,YE,Yemen,EMRO,24,1352,3,355
+2020-07-12,YE,Yemen,EMRO,37,1389,10,365
+2020-07-13,YE,Yemen,EMRO,80,1469,53,418
+2020-07-14,YE,Yemen,EMRO,33,1502,7,425
+2020-07-15,YE,Yemen,EMRO,18,1520,5,430
+2020-07-16,YE,Yemen,EMRO,10,1530,4,434
+2020-07-17,YE,Yemen,EMRO,26,1556,5,439
+2020-07-18,YE,Yemen,EMRO,24,1580,2,441
 2020-03-18,ZM,Zambia,AFRO,2,2,0,0
 2020-03-19,ZM,Zambia,AFRO,0,2,0,0
 2020-03-20,ZM,Zambia,AFRO,0,2,0,0
@@ -27226,6 +28938,14 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,ZM,Zambia,AFRO,263,1895,12,42
 2020-07-09,ZM,Zambia,AFRO,0,1895,0,42
 2020-07-10,ZM,Zambia,AFRO,0,1895,0,42
+2020-07-11,ZM,Zambia,AFRO,0,1895,0,42
+2020-07-12,ZM,Zambia,AFRO,0,1895,0,42
+2020-07-13,ZM,Zambia,AFRO,0,1895,0,42
+2020-07-14,ZM,Zambia,AFRO,388,2283,40,82
+2020-07-15,ZM,Zambia,AFRO,0,2283,0,82
+2020-07-16,ZM,Zambia,AFRO,0,2283,0,82
+2020-07-17,ZM,Zambia,AFRO,0,2283,0,82
+2020-07-18,ZM,Zambia,AFRO,527,2810,27,109
 2020-03-20,ZW,Zimbabwe,AFRO,1,1,0,0
 2020-03-21,ZW,Zimbabwe,AFRO,1,2,0,0
 2020-03-22,ZW,Zimbabwe,AFRO,0,2,0,0
@@ -27339,3 +29059,11 @@ Date_reported, Country_code, Country, WHO_region, New_cases, Cumulative_cases, N
 2020-07-08,ZW,Zimbabwe,AFRO,53,787,0,9
 2020-07-09,ZW,Zimbabwe,AFRO,98,885,0,9
 2020-07-10,ZW,Zimbabwe,AFRO,41,926,3,12
+2020-07-11,ZW,Zimbabwe,AFRO,16,942,1,13
+2020-07-12,ZW,Zimbabwe,AFRO,40,982,5,18
+2020-07-13,ZW,Zimbabwe,AFRO,3,985,0,18
+2020-07-14,ZW,Zimbabwe,AFRO,49,1034,1,19
+2020-07-15,ZW,Zimbabwe,AFRO,30,1064,1,20
+2020-07-16,ZW,Zimbabwe,AFRO,25,1089,0,20
+2020-07-17,ZW,Zimbabwe,AFRO,273,1362,3,23
+2020-07-18,ZW,Zimbabwe,AFRO,58,1420,1,24
