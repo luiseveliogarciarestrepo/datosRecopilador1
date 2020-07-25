@@ -2,20 +2,32 @@ import subprocess
 import os
 import csv
 import pyinputplus as pyip
+from datetime import date
 
+
+today = date.today()
+hoy = today.strftime("%d/%m/%Y")
+
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 '''Uncomment regions para establecer el Path'''
 direccion_local = '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'     # En mi Compaq
 # direccion_local = '/Users/Dr.LuisEvelioRestrepoGarcia/datosRecopilador/CovidColombia.csv'    # En mi Apple
 =======
+=======
+
+>>>>>>> calculos
 #Dirección web del archivo
 ##direccion_url = 'https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD&bom=true&format=true'
 
 # 'Uncomment regions para trabajar si ya tiene definido el 'Path'.
 ##direccion_local = '/home/luise/Documents/programas/datosRecopilador/CovidColombia.csv'     # En mi Compaq
 direccion_local = '/Users/Dr.LuisEvelioRestrepoGarcia/datosRecopilador/CovidColombia.csv'    # En mi Apple
+<<<<<<< HEAD
 >>>>>>> def19cea9326682f992bb7b9537676557968da81
+=======
+>>>>>>> calculos
 
 # Parámetros formato de impresión
 
@@ -25,8 +37,13 @@ s = 6
 j = '.'
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Funciones
 =======
+=======
+
+# Funciones
+>>>>>>> calculos
 '''Quitar ## 'Uncomment region' para obtener la base de datos actualizada y guardarla en disco local.
   Para trabajar con el archivo en disco local, volver a ## 'Comment out region'
 '''
@@ -42,7 +59,10 @@ j = '.'
 ##playFile.close()
 
 ## Funciones
+<<<<<<< HEAD
 >>>>>>> def19cea9326682f992bb7b9537676557968da81
+=======
+>>>>>>> calculos
 
 
 def ajusteFechas(row):  # Toma formato de fechas del archivo, hace la partición en 'T' y devuelve el primer índice => 2020-06-05T00:00:00:00 => 2020-06-05
@@ -61,8 +81,8 @@ def archivo():  # Importa el archivo local y crea el objeto para hacerle el Dict
 
 def escribirArchivos(row, file, count):
     if count == 0:
-        primeraLinea = ['Ciudad de ubicación', 'Departamento o Distrito ', 'atención', 'Edad', 'Sexo', 'Tipo', 'Estado', 'País de procedencia',
-                        'Fecha de notificación', 'Fecha diagnostico', 'Fecha recuperado', 'Fecha de muerte']
+        primeraLinea = ['Ciudad de ubicación', 'Departamento o Distrito ', 'atención', 'Edad', 'Sexo', 'Tipo', 'Estado', 
+                        'País de procedencia','Fecha de notificación', 'Fecha diagnostico', 'Fecha recuperado', 'Fecha de muerte']
         file.writerow(primeraLinea)
         linea = [row['Ciudad de ubicación'], row['Departamento o Distrito '], row['atención'], row['Edad'],
                  row['Sexo'], row['Tipo'], row['Estado'],  row['País de procedencia'], fechas[0], fechas[1], fechas[2], fechas[3]]
@@ -70,7 +90,8 @@ def escribirArchivos(row, file, count):
 
     else:
         linea = [row['Ciudad de ubicación'], row['Departamento o Distrito '], row['atención'], row['Edad'],
-                 row['Sexo'], row['Tipo'], row['Estado'],  row['País de procedencia'], fechas[0], fechas[1], fechas[2], fechas[3]]
+                 row['Sexo'], row['Tipo'], row['Estado'],  row['País de procedencia'],
+                 fechas[0], fechas[1], fechas[2], fechas[3]]
         file.writerow(linea)
 
     print('Archivo guardado')
@@ -127,7 +148,7 @@ for row in archivo():
     else:
         ciudades.append(row['Ciudad de ubicación'])
 ciudades.sort()
-print(ciudades)
+#print(ciudades)
 
  #Construye listado de Departamentos que están en la base de datos
 departamento = []
@@ -137,7 +158,7 @@ for row in archivo():
     else:
         departamento.append(row['Departamento o Distrito '])
 departamento.sort()
-print(departamento)
+#print(departamento)
 
 # Construye listado de Países de procedencia que están en la base datos
 paises = []
@@ -147,7 +168,7 @@ for row in archivo():
     else:
         paises.append(row['País de procedencia'])
 paises.sort()
-print(paises)
+#print(paises)
 
 
 # Construye listado de los Estados que están en la base datos:  Asintomático, leve, moderado, grave o fallecido.
@@ -158,7 +179,7 @@ for row in archivo():
     else:
         estados.append(row['Estado'])
 estados.sort()
-print(estados)
+#print(estados)
 
 # Construye listado de los Tipos que están en la base datos:  En estudio, importado o relacionado.
 tipos = []
@@ -168,7 +189,7 @@ for row in archivo():
     else:
         tipos.append(row['Tipo'])
 tipos.sort()
-print(tipos)
+#print(tipos)
 
 # Construye listado de la atención recibida que está en la base datos:  Casa, hospital, hospital UCI, recuperado o fallecido.
 atenciones = []
@@ -178,13 +199,14 @@ for row in archivo():
     else:
         atenciones.append(row['atención'])
 tipos.sort()
-print(atenciones)
+#print(atenciones)
 
 # Programa principal
 
-print('''Información actualizada desde la base de datos del Instituto Nacional de Salud Colombiano.
-
- Elaborado por LUIS EVELIO GARCÍA RESTREPO, MD., MAS., EF.
+print('Información base de datos del Instituto Nacional de Salud Colombiano al',hoy)
+print('Información proyecciones de población Dane 2018-2023. CNPV 2018. Difusión: Febrero de 2020')
+print()
+print(''' Elaborado por LUIS EVELIO GARCÍA RESTREPO, MD., MAS., EF.
                DANIEL GARCÍA VÁSQUEZ  Ingenieurwesen Studierende
 
  Variables agrupadas:
@@ -247,3 +269,8 @@ if a == 'SI':
     subprocess.run(['libreoffice', variable + '.ods'])
 else:
     print ('Ha sido un placer.  Chiao')
+    
+    
+
+
+
