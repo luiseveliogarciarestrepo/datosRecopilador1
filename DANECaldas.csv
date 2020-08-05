@@ -1,0 +1,512 @@
+Municipio,Causas de defunción,Total,Total Hombres,Total Mujeres,Total Indeterminado,Menor 1 año Hombres,Menor 1 año Mujeres,Menor 1 año Indeterminado,De 1-4 años Hombres,De 1-4 años Mujeres,De 1-4 años Indeterminado,De 5-14 años Hombres,De 5-14 años Mujeres,De 5-14 años Indeterminado,De 15-44 años Hombres,De 15-44 años Mujeres,De 15-44 años Indeterminado,De 45-64 añosHombres,De 45-64 años Mujeres,De 45-64 años Indeterminado,De 65-84 años Hombres,De 65-84 años Mujeres,De 65-84 años Indeterminado,De 85-99 años Hombres,De 85-99 años Mujeres,De 85-99 años Indeterminado,De 100 y más Hombres,De 100 y más Mujeres,De 100 y más Indeterminado,Edad desconocida Hombres,Edad desconocida Mujeres,Edad desconocida Indeterminado
+CALDAS,TOTAL,1.465,806,659,0,16,7,0,1,6,0,4,1,0,95,37,0,150,105,0,359,298,0,173,200,0,8,5,0,0,0,0
+CALDAS,"000 Signos, síntomas y afecciones mal definidas",5,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0
+CALDAS,101 Enfermedades infecciosas intestinales,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,1,1,0,0,0,0,0,0,0
+CALDAS,102 Tuberculosis,9,8,1,0,0,0,0,0,1,0,0,0,0,3,0,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+CALDAS,105 Meningitis,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CALDAS,"106 Septicemia, excepto neonatal",3,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+CALDAS,107 Enfermedad por el VIH (SIDA),7,4,3,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+CALDAS,108 Infecciones respiratorias agudas,57,24,33,0,0,1,0,0,0,0,0,0,0,1,0,0,3,4,0,13,10,0,5,16,0,2,2,0,0,0,0
+CALDAS,109 Resto de ciertas enfermedades infecciosas y parasitarias,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CALDAS,201 Tumor maligno del estómago,45,35,10,0,0,0,0,0,0,0,0,0,0,5,1,0,11,2,0,17,7,0,2,0,0,0,0,0,0,0,0
+CALDAS,202 Tumor maligno del colon y de la unión rectosigmoidea,28,11,17,0,0,0,0,0,0,0,0,0,0,1,1,0,1,8,0,7,6,0,2,2,0,0,0,0,0,0,0
+CALDAS,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,61,26,35,0,0,0,0,0,0,0,0,0,0,0,3,0,6,12,0,15,17,0,5,3,0,0,0,0,0,0,0
+CALDAS,"204 Tumor maligno de la tráquea, los bronquios y el pulmón",35,26,9,0,0,0,0,0,0,0,0,0,0,0,1,0,4,2,0,18,5,0,4,1,0,0,0,0,0,0,0
+CALDAS,"205 Tumor maligno de los órganos respiratorios e intratorácicos, excepto tráquea, bronquios y pulmón",2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CALDAS,206 Tumor maligno de la mama de la mujer,25,0,25,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9,0,0,12,0,0,3,0,0,0,0,0,0,0
+CALDAS,207 Tumor maligno del cuello del útero,10,0,10,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6,0,0,2,0,0,1,0,0,0,0,0,0,0
+CALDAS,208 Tumor maligno del cuerpo del útero,4,0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0
+CALDAS,"209 Tumor maligno del útero, parte no especificada",3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+CALDAS,210 Tumor maligno de la próstata,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,12,0,0,4,0,0,0,0,0,0,0,0
+CALDAS,211 Tumor maligno de otros órganos genitourinarios,23,8,15,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,0,3,10,0,3,1,0,0,0,0,0,0,0
+CALDAS,212 Leucemia,12,10,2,0,0,0,0,0,0,0,0,1,0,5,0,0,3,0,0,2,1,0,0,0,0,0,0,0,0,0,0
+CALDAS,"213 Tumor maligno del tejido linfático, de otros órganos hematopoyéticos y de tejidos afines",16,8,8,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,6,6,0,0,0,0,0,0,0,0,0,0
+CALDAS,214 Tumores malignos de otras localizaciones y de las no especificadas,46,22,24,0,0,0,0,0,0,0,1,0,0,2,5,0,9,5,0,8,11,0,2,3,0,0,0,0,0,0,0
+CALDAS,"215 Tumores in situ, beningnos y los de comportamiento incierto o desconocido",14,7,7,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,5,3,0,0,2,0,0,0,0,0,0,0
+CALDAS,302 Enfermedades hipertensivas,40,19,21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,11,10,0,6,11,0,1,0,0,0,0,0
+CALDAS,303 Enfermedades isquémicas del corazón,278,158,120,0,0,0,0,0,0,0,0,0,0,4,0,0,29,9,0,78,64,0,44,46,0,3,1,0,0,0,0
+CALDAS,"304 Enfermedad cardiopulmonar, enfermedades de la circulación pulmonar y otras formas de enfermedad del corazón",40,21,19,0,0,0,0,0,0,0,1,0,0,2,3,0,2,1,0,12,8,0,4,7,0,0,0,0,0,0,0
+CALDAS,306 Insuficiencia cardíaca,13,10,3,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,4,2,0,2,1,0,0,0,0,0,0,0
+CALDAS,307 Enfermedades cerebrovasculares,87,38,49,0,1,0,0,0,0,0,0,0,0,2,1,0,8,3,0,21,22,0,6,23,0,0,0,0,0,0,0
+CALDAS,309 Las demás enfermedades del sistema circulatorio,8,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,2,0,1,1,0,0,0,0,0,0,0
+CALDAS,402 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CALDAS,"403 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CALDAS,404 Trastornos respiratorios específicos del período perinatal,6,5,1,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CALDAS,405 Sepsis bacteriana del recién nacido,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CALDAS,406 Resto de ciertas afecciones originadas en el período perinatal,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CALDAS,501 Accidentes de transporte terrestre,28,26,2,0,0,0,0,0,0,0,0,0,0,14,1,0,8,0,0,2,1,0,2,0,0,0,0,0,0,0,0
+CALDAS,503 Caídas,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+CALDAS,505 Ahogamiento y sumersión accidentales,3,3,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CALDAS,506 Accidentes que obstruyen la respiración,2,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CALDAS,507 Exposición a la corriente eléctrica,3,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CALDAS,"510 Otros accidentes, inclusive secuelas",12,9,3,0,0,0,0,0,0,0,0,0,0,4,0,0,2,1,0,2,1,0,1,1,0,0,0,0,0,0,0
+CALDAS,511 Lesiones autoinfligidas intencionalmente (suicidios),14,11,3,0,0,0,0,0,0,0,1,0,0,8,3,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CALDAS,512 Agresiones (homicidios),32,27,5,0,0,0,0,0,0,0,0,0,0,22,5,0,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+CALDAS,513 Eventos de intención no determinada,6,5,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0
+CALDAS,601 Diabetes mellitus,30,12,18,0,0,0,0,0,0,0,0,0,0,1,1,0,1,6,0,6,7,0,4,4,0,0,0,0,0,0,0
+CALDAS,602 Deficiencias nutricionales y anemias nutricionales,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,3,1,0,0,0,0,0,0,0
+CALDAS,603 Trastornos mentales y del comportamiento,15,9,6,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,3,1,0,5,4,0,0,0,0,0,0,0
+CALDAS,"604 Enfermedades del sistema nervioso, excepto meningitis",38,24,14,0,0,0,0,0,0,0,1,0,0,3,1,0,7,1,0,5,8,0,8,4,0,0,0,0,0,0,0
+CALDAS,605 Enfermedades crónicas de las vías respiratorias inferiores,149,84,65,0,0,0,0,0,0,0,0,0,0,1,0,0,11,2,0,42,31,0,30,31,0,0,1,0,0,0,0
+CALDAS,606 Resto de enfermedades del sistema respiratorio,22,13,9,0,1,0,0,0,1,0,0,0,0,0,0,0,3,2,0,5,3,0,4,3,0,0,0,0,0,0,0
+CALDAS,"607 Apendicitis, hernia de la cavidad abdominal y obstrucción intestinal",8,3,5,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,2,0,2,0,0,0,0,0,0,0,0
+CALDAS,608 Cirrosis y ciertas otras enfermedades cróncas del hígado,13,6,7,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,3,5,0,1,1,0,0,0,0,0,0,0
+CALDAS,609 Resto de enfermedades del sistema digestivo,46,25,21,0,0,1,0,0,0,0,0,0,0,2,0,0,6,4,0,10,10,0,7,6,0,0,0,0,0,0,0
+CALDAS,610 Enfermedades del sistema urinario,51,21,30,0,0,0,0,0,0,0,0,0,0,2,0,0,2,3,0,10,15,0,7,12,0,0,0,0,0,0,0
+CALDAS,"613 Malformaciones congénitas, deformidades y anomalías cromosómicas",11,4,7,0,4,1,0,0,3,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0
+CALDAS,614 Resto de las enfermedades,60,29,31,0,0,0,0,0,1,0,0,0,0,1,3,0,5,6,0,15,10,0,7,10,0,1,1,0,0,0,0
+Manizales,TOTAL,649,338,311,0,9,2,0,0,1,0,3,1,0,40,20,0,50,50,0,157,133,0,76,100,0,3,4,0,0,0,0
+Manizales,"000 Signos, síntomas y afecciones mal definidas",2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Manizales,101 Enfermedades infecciosas intestinales,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0
+Manizales,102 Tuberculosis,3,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Manizales,105 Meningitis,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Manizales,"106 Septicemia, excepto neonatal",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Manizales,107 Enfermedad por el VIH (SIDA),5,2,3,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Manizales,108 Infecciones respiratorias agudas,21,8,13,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,4,3,0,2,7,0,1,2,0,0,0,0
+Manizales,201 Tumor maligno del estómago,18,15,3,0,0,0,0,0,0,0,0,0,0,4,0,0,3,0,0,7,3,0,1,0,0,0,0,0,0,0,0
+Manizales,202 Tumor maligno del colon y de la unión rectosigmoidea,17,5,12,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,0,2,4,0,2,2,0,0,0,0,0,0,0
+Manizales,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,31,10,21,0,0,0,0,0,0,0,0,0,0,0,2,0,0,8,0,7,9,0,3,2,0,0,0,0,0,0,0
+Manizales,"204 Tumor maligno de la tráquea, los bronquios y el pulmón",23,15,8,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,12,4,0,2,1,0,0,0,0,0,0,0
+Manizales,"205 Tumor maligno de los órganos respiratorios e intratorácicos, excepto tráquea, bronquios y pulmón",2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Manizales,206 Tumor maligno de la mama de la mujer,13,0,13,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,6,0,0,2,0,0,0,0,0,0,0
+Manizales,207 Tumor maligno del cuello del útero,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,0,0,0,0,0,0,0,0
+Manizales,208 Tumor maligno del cuerpo del útero,3,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Manizales,"209 Tumor maligno del útero, parte no especificada",2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manizales,210 Tumor maligno de la próstata,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,0,0,0,0,0,0,0,0
+Manizales,211 Tumor maligno de otros órganos genitourinarios,13,4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,2,5,0,1,1,0,0,0,0,0,0,0
+Manizales,212 Leucemia,7,5,2,0,0,0,0,0,0,0,0,1,0,3,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Manizales,"213 Tumor maligno del tejido linfático, de otros órganos hematopoyéticos y de tejidos afines",11,6,5,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,4,4,0,0,0,0,0,0,0,0,0,0
+Manizales,214 Tumores malignos de otras localizaciones y de las no especificadas,20,9,11,0,0,0,0,0,0,0,1,0,0,1,2,0,2,3,0,5,5,0,0,1,0,0,0,0,0,0,0
+Manizales,"215 Tumores in situ, beningnos y los de comportamiento incierto o desconocido",7,4,3,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,3,1,0,0,1,0,0,0,0,0,0,0
+Manizales,302 Enfermedades hipertensivas,8,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,3,0,1,0,0,0,0,0
+Manizales,303 Enfermedades isquémicas del corazón,100,58,42,0,0,0,0,0,0,0,0,0,0,2,0,0,9,1,0,31,22,0,15,18,0,1,1,0,0,0,0
+Manizales,"304 Enfermedad cardiopulmonar, enfermedades de la circulación pulmonar y otras formas de enfermedad del corazón",22,10,12,0,0,0,0,0,0,0,1,0,0,0,3,0,2,0,0,5,4,0,2,5,0,0,0,0,0,0,0
+Manizales,306 Insuficiencia cardíaca,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,1,0,0,0,0,0,0,0
+Manizales,307 Enfermedades cerebrovasculares,39,18,21,0,1,0,0,0,0,0,0,0,0,1,0,0,3,1,0,12,10,0,1,10,0,0,0,0,0,0,0
+Manizales,309 Las demás enfermedades del sistema circulatorio,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,1,1,0,0,0,0,0,0,0
+Manizales,"403 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manizales,404 Trastornos respiratorios específicos del período perinatal,4,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manizales,406 Resto de ciertas afecciones originadas en el período perinatal,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manizales,501 Accidentes de transporte terrestre,10,8,2,0,0,0,0,0,0,0,0,0,0,5,1,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Manizales,503 Caídas,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+Manizales,"510 Otros accidentes, inclusive secuelas",4,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Manizales,511 Lesiones autoinfligidas intencionalmente (suicidios),6,5,1,0,0,0,0,0,0,0,1,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manizales,512 Agresiones (homicidios),16,12,4,0,0,0,0,0,0,0,0,0,0,10,4,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Manizales,513 Eventos de intención no determinada,4,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0
+Manizales,601 Diabetes mellitus,7,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,2,0,0,0,0,0,0,0
+Manizales,602 Deficiencias nutricionales y anemias nutricionales,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manizales,603 Trastornos mentales y del comportamiento,11,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4,4,0,0,0,0,0,0,0
+Manizales,"604 Enfermedades del sistema nervioso, excepto meningitis",24,17,7,0,0,0,0,0,0,0,0,0,0,1,0,0,6,0,0,5,4,0,5,3,0,0,0,0,0,0,0
+Manizales,605 Enfermedades crónicas de las vías respiratorias inferiores,72,41,31,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,19,13,0,19,17,0,0,0,0,0,0,0
+Manizales,606 Resto de enfermedades del sistema respiratorio,9,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,2,0,1,2,0,0,0,0,0,0,0
+Manizales,"607 Apendicitis, hernia de la cavidad abdominal y obstrucción intestinal",5,3,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0
+Manizales,608 Cirrosis y ciertas otras enfermedades cróncas del hígado,9,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,3,0,1,1,0,0,0,0,0,0,0
+Manizales,609 Resto de enfermedades del sistema digestivo,16,10,6,0,0,0,0,0,0,0,0,0,0,2,0,0,4,0,0,3,4,0,1,2,0,0,0,0,0,0,0
+Manizales,610 Enfermedades del sistema urinario,20,5,15,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,7,0,3,6,0,0,0,0,0,0,0
+Manizales,"613 Malformaciones congénitas, deformidades y anomalías cromosómicas",5,2,3,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Manizales,614 Resto de las enfermedades,25,11,14,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,6,3,0,3,6,0,0,1,0,0,0,0
+Aguadas,TOTAL,31,19,12,0,0,0,0,0,0,0,0,0,0,4,1,0,3,1,0,8,9,0,4,1,0,0,0,0,0,0,0
+Aguadas,108 Infecciones respiratorias agudas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Aguadas,202 Tumor maligno del colon y de la unión rectosigmoidea,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Aguadas,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Aguadas,206 Tumor maligno de la mama de la mujer,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Aguadas,214 Tumores malignos de otras localizaciones y de las no especificadas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Aguadas,"215 Tumores in situ, beningnos y los de comportamiento incierto o desconocido",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Aguadas,302 Enfermedades hipertensivas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Aguadas,303 Enfermedades isquémicas del corazón,9,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,0,2,0,0,0,0,0,0,0,0
+Aguadas,307 Enfermedades cerebrovasculares,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Aguadas,501 Accidentes de transporte terrestre,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aguadas,503 Caídas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aguadas,505 Ahogamiento y sumersión accidentales,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aguadas,507 Exposición a la corriente eléctrica,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aguadas,511 Lesiones autoinfligidas intencionalmente (suicidios),2,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aguadas,512 Agresiones (homicidios),1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aguadas,605 Enfermedades crónicas de las vías respiratorias inferiores,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0
+Aguadas,609 Resto de enfermedades del sistema digestivo,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aguadas,610 Enfermedades del sistema urinario,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Anserma,TOTAL,48,28,20,0,1,0,0,0,0,0,0,0,0,3,1,0,4,3,0,15,12,0,5,4,0,0,0,0,0,0,0
+Anserma,108 Infecciones respiratorias agudas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Anserma,201 Tumor maligno del estómago,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Anserma,202 Tumor maligno del colon y de la unión rectosigmoidea,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Anserma,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Anserma,"204 Tumor maligno de la tráquea, los bronquios y el pulmón",2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Anserma,206 Tumor maligno de la mama de la mujer,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Anserma,211 Tumor maligno de otros órganos genitourinarios,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Anserma,"213 Tumor maligno del tejido linfático, de otros órganos hematopoyéticos y de tejidos afines",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Anserma,214 Tumores malignos de otras localizaciones y de las no especificadas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Anserma,302 Enfermedades hipertensivas,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+Anserma,303 Enfermedades isquémicas del corazón,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,3,0,2,0,0,0,0,0,0,0,0
+Anserma,"304 Enfermedad cardiopulmonar, enfermedades de la circulación pulmonar y otras formas de enfermedad del corazón",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Anserma,307 Enfermedades cerebrovasculares,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,2,0,0,0,0,0,0,0
+Anserma,"403 Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anserma,"510 Otros accidentes, inclusive secuelas",1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anserma,511 Lesiones autoinfligidas intencionalmente (suicidios),2,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anserma,513 Eventos de intención no determinada,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anserma,601 Diabetes mellitus,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Anserma,605 Enfermedades crónicas de las vías respiratorias inferiores,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+Anserma,606 Resto de enfermedades del sistema respiratorio,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Anserma,609 Resto de enfermedades del sistema digestivo,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Anserma,610 Enfermedades del sistema urinario,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anserma,614 Resto de las enfermedades,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Aranzazu,TOTAL,18,11,7,0,0,0,0,0,0,0,0,0,0,3,0,0,2,3,0,2,3,0,4,1,0,0,0,0,0,0,0
+Aranzazu,201 Tumor maligno del estómago,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Aranzazu,206 Tumor maligno de la mama de la mujer,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aranzazu,208 Tumor maligno del cuerpo del útero,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Aranzazu,214 Tumores malignos de otras localizaciones y de las no especificadas,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aranzazu,303 Enfermedades isquémicas del corazón,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Aranzazu,306 Insuficiencia cardíaca,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aranzazu,601 Diabetes mellitus,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Aranzazu,605 Enfermedades crónicas de las vías respiratorias inferiores,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0
+Aranzazu,608 Cirrosis y ciertas otras enfermedades cróncas del hígado,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aranzazu,609 Resto de enfermedades del sistema digestivo,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aranzazu,610 Enfermedades del sistema urinario,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Aranzazu,614 Resto de las enfermedades,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Belalcázar,TOTAL,19,8,11,0,1,0,0,0,0,0,0,0,0,0,1,0,3,0,0,3,4,0,1,5,0,0,1,0,0,0,0
+Belalcázar,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Belalcázar,212 Leucemia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Belalcázar,214 Tumores malignos de otras localizaciones y de las no especificadas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Belalcázar,302 Enfermedades hipertensivas,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Belalcázar,303 Enfermedades isquémicas del corazón,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0
+Belalcázar,307 Enfermedades cerebrovasculares,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Belalcázar,602 Deficiencias nutricionales y anemias nutricionales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Belalcázar,"604 Enfermedades del sistema nervioso, excepto meningitis",1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Belalcázar,605 Enfermedades crónicas de las vías respiratorias inferiores,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Belalcázar,"613 Malformaciones congénitas, deformidades y anomalías cromosómicas",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinchiná,TOTAL,99,64,35,0,0,0,0,0,1,0,0,0,0,6,2,0,15,11,0,30,9,0,13,12,0,0,0,0,0,0,0
+Chinchiná,101 Enfermedades infecciosas intestinales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinchiná,102 Tuberculosis,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinchiná,107 Enfermedad por el VIH (SIDA),1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Chinchiná,108 Infecciones respiratorias agudas,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0
+Chinchiná,201 Tumor maligno del estómago,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Chinchiná,202 Tumor maligno del colon y de la unión rectosigmoidea,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0
+Chinchiná,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,1,0,0,0,0,0,0,0,0
+Chinchiná,"204 Tumor maligno de la tráquea, los bronquios y el pulmón",3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Chinchiná,206 Tumor maligno de la mama de la mujer,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinchiná,210 Tumor maligno de la próstata,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Chinchiná,211 Tumor maligno de otros órganos genitourinarios,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinchiná,212 Leucemia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Chinchiná,214 Tumores malignos de otras localizaciones y de las no especificadas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinchiná,"215 Tumores in situ, beningnos y los de comportamiento incierto o desconocido",2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Chinchiná,302 Enfermedades hipertensivas,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+Chinchiná,303 Enfermedades isquémicas del corazón,20,12,8,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,5,3,0,4,4,0,0,0,0,0,0,0
+Chinchiná,"304 Enfermedad cardiopulmonar, enfermedades de la circulación pulmonar y otras formas de enfermedad del corazón",2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Chinchiná,307 Enfermedades cerebrovasculares,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0
+Chinchiná,309 Las demás enfermedades del sistema circulatorio,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinchiná,501 Accidentes de transporte terrestre,3,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Chinchiná,"510 Otros accidentes, inclusive secuelas",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinchiná,512 Agresiones (homicidios),3,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinchiná,"604 Enfermedades del sistema nervioso, excepto meningitis",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Chinchiná,605 Enfermedades crónicas de las vías respiratorias inferiores,12,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,6,1,0,2,0,0,0,0,0,0,0,0
+Chinchiná,606 Resto de enfermedades del sistema respiratorio,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+Chinchiná,"607 Apendicitis, hernia de la cavidad abdominal y obstrucción intestinal",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinchiná,608 Cirrosis y ciertas otras enfermedades cróncas del hígado,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Chinchiná,609 Resto de enfermedades del sistema digestivo,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0
+Chinchiná,610 Enfermedades del sistema urinario,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0
+Chinchiná,"613 Malformaciones congénitas, deformidades y anomalías cromosómicas",2,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinchiná,614 Resto de las enfermedades,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Filadelfia,TOTAL,22,13,9,0,1,0,0,0,0,0,0,0,0,1,1,0,3,2,0,7,3,0,1,3,0,0,0,0,0,0,0
+Filadelfia,"106 Septicemia, excepto neonatal",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Filadelfia,107 Enfermedad por el VIH (SIDA),1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Filadelfia,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Filadelfia,207 Tumor maligno del cuello del útero,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Filadelfia,210 Tumor maligno de la próstata,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Filadelfia,302 Enfermedades hipertensivas,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Filadelfia,303 Enfermedades isquémicas del corazón,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,0,0,0
+Filadelfia,"304 Enfermedad cardiopulmonar, enfermedades de la circulación pulmonar y otras formas de enfermedad del corazón",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Filadelfia,307 Enfermedades cerebrovasculares,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Filadelfia,501 Accidentes de transporte terrestre,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Filadelfia,603 Trastornos mentales y del comportamiento,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Filadelfia,"604 Enfermedades del sistema nervioso, excepto meningitis",1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Filadelfia,605 Enfermedades crónicas de las vías respiratorias inferiores,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Filadelfia,609 Resto de enfermedades del sistema digestivo,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Filadelfia,610 Enfermedades del sistema urinario,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0
+La Dorada,TOTAL,100,55,45,0,0,1,0,0,3,0,0,0,0,7,1,0,12,4,0,25,26,0,11,10,0,0,0,0,0,0,0
+La Dorada,108 Infecciones respiratorias agudas,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,2,2,0,0,0,0,0,0,0
+La Dorada,201 Tumor maligno del estómago,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+La Dorada,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+La Dorada,"204 Tumor maligno de la tráquea, los bronquios y el pulmón",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+La Dorada,206 Tumor maligno de la mama de la mujer,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+La Dorada,210 Tumor maligno de la próstata,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+La Dorada,211 Tumor maligno de otros órganos genitourinarios,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+La Dorada,212 Leucemia,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+La Dorada,"213 Tumor maligno del tejido linfático, de otros órganos hematopoyéticos y de tejidos afines",2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+La Dorada,214 Tumores malignos de otras localizaciones y de las no especificadas,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+La Dorada,"215 Tumores in situ, beningnos y los de comportamiento incierto o desconocido",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+La Dorada,302 Enfermedades hipertensivas,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0
+La Dorada,303 Enfermedades isquémicas del corazón,26,12,14,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,6,7,0,3,6,0,0,0,0,0,0,0
+La Dorada,"304 Enfermedad cardiopulmonar, enfermedades de la circulación pulmonar y otras formas de enfermedad del corazón",2,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+La Dorada,306 Insuficiencia cardíaca,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+La Dorada,307 Enfermedades cerebrovasculares,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+La Dorada,309 Las demás enfermedades del sistema circulatorio,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+La Dorada,501 Accidentes de transporte terrestre,3,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+La Dorada,506 Accidentes que obstruyen la respiración,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+La Dorada,512 Agresiones (homicidios),2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+La Dorada,601 Diabetes mellitus,3,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+La Dorada,602 Deficiencias nutricionales y anemias nutricionales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+La Dorada,"604 Enfermedades del sistema nervioso, excepto meningitis",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+La Dorada,605 Enfermedades crónicas de las vías respiratorias inferiores,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,2,0,1,1,0,0,0,0,0,0,0
+La Dorada,606 Resto de enfermedades del sistema respiratorio,3,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+La Dorada,"607 Apendicitis, hernia de la cavidad abdominal y obstrucción intestinal",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+La Dorada,608 Cirrosis y ciertas otras enfermedades cróncas del hígado,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+La Dorada,609 Resto de enfermedades del sistema digestivo,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+La Dorada,610 Enfermedades del sistema urinario,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+La Dorada,"613 Malformaciones congénitas, deformidades y anomalías cromosómicas",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+La Dorada,614 Resto de las enfermedades,9,7,2,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,3,1,0,2,0,0,0,0,0,0,0,0
+La Merced,TOTAL,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,3,0,0,0,0,0,0,0,0
+La Merced,303 Enfermedades isquémicas del corazón,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+La Merced,"304 Enfermedad cardiopulmonar, enfermedades de la circulación pulmonar y otras formas de enfermedad del corazón",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+La Merced,609 Resto de enfermedades del sistema digestivo,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Manzanares,TOTAL,25,12,13,0,0,0,0,0,0,0,0,0,0,2,0,0,2,4,0,6,8,0,2,1,0,0,0,0,0,0,0
+Manzanares,"000 Signos, síntomas y afecciones mal definidas",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Manzanares,101 Enfermedades infecciosas intestinales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Manzanares,"215 Tumores in situ, beningnos y los de comportamiento incierto o desconocido",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manzanares,302 Enfermedades hipertensivas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Manzanares,303 Enfermedades isquémicas del corazón,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Manzanares,306 Insuficiencia cardíaca,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Manzanares,309 Las demás enfermedades del sistema circulatorio,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Manzanares,501 Accidentes de transporte terrestre,3,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manzanares,"510 Otros accidentes, inclusive secuelas",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Manzanares,601 Diabetes mellitus,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0
+Manzanares,"604 Enfermedades del sistema nervioso, excepto meningitis",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Manzanares,605 Enfermedades crónicas de las vías respiratorias inferiores,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0
+Manzanares,606 Resto de enfermedades del sistema respiratorio,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Manzanares,610 Enfermedades del sistema urinario,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Manzanares,614 Resto de las enfermedades,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marmato,TOTAL,10,7,3,0,0,0,0,0,0,0,0,0,0,4,0,0,1,1,0,2,1,0,0,1,0,0,0,0,0,0,0
+Marmato,108 Infecciones respiratorias agudas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Marmato,303 Enfermedades isquémicas del corazón,3,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Marmato,307 Enfermedades cerebrovasculares,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Marmato,501 Accidentes de transporte terrestre,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marmato,507 Exposición a la corriente eléctrica,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marmato,512 Agresiones (homicidios),1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marmato,601 Diabetes mellitus,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Marmato,610 Enfermedades del sistema urinario,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marquetalia,TOTAL,18,12,6,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,8,3,0,1,2,0,0,0,0,0,0,0
+Marquetalia,102 Tuberculosis,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Marquetalia,108 Infecciones respiratorias agudas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Marquetalia,201 Tumor maligno del estómago,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Marquetalia,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Marquetalia,"204 Tumor maligno de la tráquea, los bronquios y el pulmón",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Marquetalia,211 Tumor maligno de otros órganos genitourinarios,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Marquetalia,214 Tumores malignos de otras localizaciones y de las no especificadas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marquetalia,303 Enfermedades isquémicas del corazón,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Marquetalia,307 Enfermedades cerebrovasculares,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Marquetalia,404 Trastornos respiratorios específicos del período perinatal,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marquetalia,512 Agresiones (homicidios),1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marquetalia,605 Enfermedades crónicas de las vías respiratorias inferiores,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Marquetalia,609 Resto de enfermedades del sistema digestivo,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Marquetalia,614 Resto de las enfermedades,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Marulanda,TOTAL,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Marulanda,605 Enfermedades crónicas de las vías respiratorias inferiores,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Neira,TOTAL,39,26,13,0,0,0,0,0,0,0,0,0,0,4,0,0,9,2,0,10,5,0,3,6,0,0,0,0,0,0,0
+Neira,102 Tuberculosis,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neira,108 Infecciones respiratorias agudas,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Neira,201 Tumor maligno del estómago,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neira,202 Tumor maligno del colon y de la unión rectosigmoidea,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Neira,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neira,"204 Tumor maligno de la tráquea, los bronquios y el pulmón",2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Neira,207 Tumor maligno del cuello del útero,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neira,214 Tumores malignos de otras localizaciones y de las no especificadas,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neira,302 Enfermedades hipertensivas,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0
+Neira,303 Enfermedades isquémicas del corazón,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,2,0,0,0,0,0,0,0
+Neira,"304 Enfermedad cardiopulmonar, enfermedades de la circulación pulmonar y otras formas de enfermedad del corazón",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Neira,307 Enfermedades cerebrovasculares,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Neira,501 Accidentes de transporte terrestre,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neira,505 Ahogamiento y sumersión accidentales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neira,512 Agresiones (homicidios),2,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neira,603 Trastornos mentales y del comportamiento,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Neira,605 Enfermedades crónicas de las vías respiratorias inferiores,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Neira,608 Cirrosis y ciertas otras enfermedades cróncas del hígado,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Neira,614 Resto de las enfermedades,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0
+Norcasia,TOTAL,11,6,5,0,0,0,0,0,0,0,0,0,0,1,0,0,3,1,0,2,3,0,0,1,0,0,0,0,0,0,0
+Norcasia,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Norcasia,"209 Tumor maligno del útero, parte no especificada",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Norcasia,214 Tumores malignos de otras localizaciones y de las no especificadas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Norcasia,302 Enfermedades hipertensivas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Norcasia,303 Enfermedades isquémicas del corazón,3,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Norcasia,601 Diabetes mellitus,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Norcasia,605 Enfermedades crónicas de las vías respiratorias inferiores,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Norcasia,"607 Apendicitis, hernia de la cavidad abdominal y obstrucción intestinal",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Norcasia,610 Enfermedades del sistema urinario,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pácora,TOTAL,17,10,7,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,5,3,0,3,4,0,0,0,0,0,0,0
+Pácora,302 Enfermedades hipertensivas,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Pácora,303 Enfermedades isquémicas del corazón,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0
+Pácora,"304 Enfermedad cardiopulmonar, enfermedades de la circulación pulmonar y otras formas de enfermedad del corazón",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Pácora,307 Enfermedades cerebrovasculares,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pácora,"604 Enfermedades del sistema nervioso, excepto meningitis",2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Pácora,605 Enfermedades crónicas de las vías respiratorias inferiores,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0
+Pácora,609 Resto de enfermedades del sistema digestivo,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Pácora,614 Resto de las enfermedades,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Palestina,TOTAL,22,14,8,0,1,0,0,0,0,0,0,0,0,1,0,0,3,3,0,6,4,0,3,1,0,0,0,0,0,0,0
+Palestina,108 Infecciones respiratorias agudas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Palestina,201 Tumor maligno del estómago,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Palestina,202 Tumor maligno del colon y de la unión rectosigmoidea,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Palestina,"204 Tumor maligno de la tráquea, los bronquios y el pulmón",2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Palestina,206 Tumor maligno de la mama de la mujer,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Palestina,214 Tumores malignos de otras localizaciones y de las no especificadas,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Palestina,302 Enfermedades hipertensivas,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Palestina,303 Enfermedades isquémicas del corazón,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Palestina,307 Enfermedades cerebrovasculares,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Palestina,601 Diabetes mellitus,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Palestina,"604 Enfermedades del sistema nervioso, excepto meningitis",2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Palestina,605 Enfermedades crónicas de las vías respiratorias inferiores,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Palestina,606 Resto de enfermedades del sistema respiratorio,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Palestina,609 Resto de enfermedades del sistema digestivo,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Palestina,614 Resto de las enfermedades,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Pensilvania,TOTAL,28,14,14,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,0,6,7,0,6,4,0,0,0,0,0,0,0
+Pensilvania,101 Enfermedades infecciosas intestinales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Pensilvania,108 Infecciones respiratorias agudas,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0
+Pensilvania,201 Tumor maligno del estómago,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0
+Pensilvania,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Pensilvania,"204 Tumor maligno de la tráquea, los bronquios y el pulmón",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pensilvania,214 Tumores malignos de otras localizaciones y de las no especificadas,2,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Pensilvania,303 Enfermedades isquémicas del corazón,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,2,0,0,0,0,0,0,0
+Pensilvania,"304 Enfermedad cardiopulmonar, enfermedades de la circulación pulmonar y otras formas de enfermedad del corazón",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Pensilvania,306 Insuficiencia cardíaca,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Pensilvania,307 Enfermedades cerebrovasculares,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Pensilvania,512 Agresiones (homicidios),1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pensilvania,605 Enfermedades crónicas de las vías respiratorias inferiores,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+Pensilvania,610 Enfermedades del sistema urinario,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Pensilvania,614 Resto de las enfermedades,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Riosucio,TOTAL,88,51,37,0,1,1,0,1,0,0,1,0,0,2,0,0,9,3,0,22,18,0,12,15,0,3,0,0,0,0,0
+Riosucio,"000 Signos, síntomas y afecciones mal definidas",2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Riosucio,108 Infecciones respiratorias agudas,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Riosucio,109 Resto de ciertas enfermedades infecciosas y parasitarias,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Riosucio,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Riosucio,206 Tumor maligno de la mama de la mujer,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Riosucio,210 Tumor maligno de la próstata,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+Riosucio,211 Tumor maligno de otros órganos genitourinarios,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Riosucio,212 Leucemia,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riosucio,214 Tumores malignos de otras localizaciones y de las no especificadas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riosucio,302 Enfermedades hipertensivas,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,1,0,0,0,0,0,0,0
+Riosucio,303 Enfermedades isquémicas del corazón,14,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,4,0,2,2,0,2,0,0,0,0,0
+Riosucio,"304 Enfermedad cardiopulmonar, enfermedades de la circulación pulmonar y otras formas de enfermedad del corazón",3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0
+Riosucio,307 Enfermedades cerebrovasculares,11,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,0,2,3,0,0,0,0,0,0,0
+Riosucio,402 Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riosucio,505 Ahogamiento y sumersión accidentales,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riosucio,506 Accidentes que obstruyen la respiración,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riosucio,"510 Otros accidentes, inclusive secuelas",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Riosucio,511 Lesiones autoinfligidas intencionalmente (suicidios),1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Riosucio,513 Eventos de intención no determinada,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riosucio,601 Diabetes mellitus,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0
+Riosucio,603 Trastornos mentales y del comportamiento,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Riosucio,"604 Enfermedades del sistema nervioso, excepto meningitis",3,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Riosucio,605 Enfermedades crónicas de las vías respiratorias inferiores,13,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,1,0,3,5,0,0,0,0,0,0,0
+Riosucio,609 Resto de enfermedades del sistema digestivo,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0
+Riosucio,610 Enfermedades del sistema urinario,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Riosucio,614 Resto de las enfermedades,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+Risaralda,TOTAL,12,10,2,0,1,0,0,0,0,0,0,0,0,1,1,0,3,0,0,3,0,0,1,1,0,1,0,0,0,0,0
+Risaralda,102 Tuberculosis,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Risaralda,108 Infecciones respiratorias agudas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Risaralda,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Risaralda,"304 Enfermedad cardiopulmonar, enfermedades de la circulación pulmonar y otras formas de enfermedad del corazón",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Risaralda,501 Accidentes de transporte terrestre,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Risaralda,507 Exposición a la corriente eléctrica,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Risaralda,601 Diabetes mellitus,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Risaralda,605 Enfermedades crónicas de las vías respiratorias inferiores,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Risaralda,609 Resto de enfermedades del sistema digestivo,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Risaralda,"613 Malformaciones congénitas, deformidades y anomalías cromosómicas",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Risaralda,614 Resto de las enfermedades,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Salamina,TOTAL,30,15,15,0,0,0,0,0,0,0,0,0,0,1,3,0,2,1,0,8,7,0,4,4,0,0,0,0,0,0,0
+Salamina,108 Infecciones respiratorias agudas,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0
+Salamina,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Salamina,210 Tumor maligno de la próstata,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Salamina,211 Tumor maligno de otros órganos genitourinarios,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Salamina,214 Tumores malignos de otras localizaciones y de las no especificadas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Salamina,"215 Tumores in situ, beningnos y los de comportamiento incierto o desconocido",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Salamina,302 Enfermedades hipertensivas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Salamina,303 Enfermedades isquémicas del corazón,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,1,0,0,0,0,0,0,0,0
+Salamina,307 Enfermedades cerebrovasculares,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Salamina,503 Caídas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Salamina,"510 Otros accidentes, inclusive secuelas",1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Salamina,511 Lesiones autoinfligidas intencionalmente (suicidios),1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Salamina,512 Agresiones (homicidios),1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Salamina,601 Diabetes mellitus,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Salamina,602 Deficiencias nutricionales y anemias nutricionales,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0
+Salamina,605 Enfermedades crónicas de las vías respiratorias inferiores,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Salamina,609 Resto de enfermedades del sistema digestivo,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Salamina,610 Enfermedades del sistema urinario,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Salamina,614 Resto de las enfermedades,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Samaná,TOTAL,18,14,4,0,0,0,0,0,0,0,0,0,0,3,1,0,3,0,0,7,2,0,1,1,0,0,0,0,0,0,0
+Samaná,102 Tuberculosis,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Samaná,"106 Septicemia, excepto neonatal",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Samaná,201 Tumor maligno del estómago,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Samaná,210 Tumor maligno de la próstata,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Samaná,"213 Tumor maligno del tejido linfático, de otros órganos hematopoyéticos y de tejidos afines",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Samaná,214 Tumores malignos de otras localizaciones y de las no especificadas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Samaná,"215 Tumores in situ, beningnos y los de comportamiento incierto o desconocido",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Samaná,303 Enfermedades isquémicas del corazón,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,0,0,0,0,0
+Samaná,307 Enfermedades cerebrovasculares,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Samaná,601 Diabetes mellitus,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Samaná,610 Enfermedades del sistema urinario,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Samaná,614 Resto de las enfermedades,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+San José,TOTAL,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0
+San José,108 Infecciones respiratorias agudas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+San José,303 Enfermedades isquémicas del corazón,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+San José,307 Enfermedades cerebrovasculares,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+San José,606 Resto de enfermedades del sistema respiratorio,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Supía,TOTAL,31,15,16,0,0,1,0,0,0,0,0,0,0,3,1,0,5,5,0,5,6,0,2,3,0,0,0,0,0,0,0
+Supía,108 Infecciones respiratorias agudas,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Supía,201 Tumor maligno del estómago,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Supía,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Supía,206 Tumor maligno de la mama de la mujer,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Supía,214 Tumores malignos de otras localizaciones y de las no especificadas,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Supía,303 Enfermedades isquémicas del corazón,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0
+Supía,307 Enfermedades cerebrovasculares,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Supía,404 Trastornos respiratorios específicos del período perinatal,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Supía,501 Accidentes de transporte terrestre,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Supía,"510 Otros accidentes, inclusive secuelas",3,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Supía,512 Agresiones (homicidios),1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Supía,601 Diabetes mellitus,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Supía,602 Deficiencias nutricionales y anemias nutricionales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Supía,"604 Enfermedades del sistema nervioso, excepto meningitis",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Supía,605 Enfermedades crónicas de las vías respiratorias inferiores,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Supía,606 Resto de enfermedades del sistema respiratorio,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Supía,609 Resto de enfermedades del sistema digestivo,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Supía,610 Enfermedades del sistema urinario,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Victoria,TOTAL,8,3,5,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,4,0,0,1,0,0,0,0,0,0,0
+Victoria,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Victoria,206 Tumor maligno de la mama de la mujer,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Victoria,303 Enfermedades isquémicas del corazón,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Victoria,"304 Enfermedad cardiopulmonar, enfermedades de la circulación pulmonar y otras formas de enfermedad del corazón",1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Victoria,605 Enfermedades crónicas de las vías respiratorias inferiores,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Victoria,610 Enfermedades del sistema urinario,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Villamaría,TOTAL,83,41,42,0,0,2,0,0,0,0,0,0,0,6,2,0,10,6,0,14,21,0,10,11,0,1,0,0,0,0,0
+Villamaría,101 Enfermedades infecciosas intestinales,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villamaría,102 Tuberculosis,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villamaría,108 Infecciones respiratorias agudas,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,2,0,0,0,0,0,0,0
+Villamaría,201 Tumor maligno del estómago,4,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0
+Villamaría,202 Tumor maligno del colon y de la unión rectosigmoidea,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Villamaría,203 Tumor maligno de los órganos digestivos y del peritoneo excepto estómago y colon,5,1,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0
+Villamaría,206 Tumor maligno de la mama de la mujer,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Villamaría,207 Tumor maligno del cuello del útero,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villamaría,210 Tumor maligno de la próstata,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0
+Villamaría,211 Tumor maligno de otros órganos genitourinarios,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Villamaría,214 Tumores malignos de otras localizaciones y de las no especificadas,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0
+Villamaría,303 Enfermedades isquémicas del corazón,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2,0,0,3,3,0,0,0,0,0,0,0
+Villamaría,"304 Enfermedad cardiopulmonar, enfermedades de la circulación pulmonar y otras formas de enfermedad del corazón",3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+Villamaría,306 Insuficiencia cardíaca,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Villamaría,307 Enfermedades cerebrovasculares,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,1,2,0,0,0,0,0,0,0
+Villamaría,405 Sepsis bacteriana del recién nacido,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villamaría,501 Accidentes de transporte terrestre,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Villamaría,511 Lesiones autoinfligidas intencionalmente (suicidios),2,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villamaría,512 Agresiones (homicidios),3,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Villamaría,601 Diabetes mellitus,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Villamaría,"604 Enfermedades del sistema nervioso, excepto meningitis",1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villamaría,605 Enfermedades crónicas de las vías respiratorias inferiores,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,0,0,0,0,0,0,0
+Villamaría,606 Resto de enfermedades del sistema respiratorio,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Villamaría,609 Resto de enfermedades del sistema digestivo,3,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Villamaría,610 Enfermedades del sistema urinario,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+Villamaría,614 Resto de las enfermedades,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0
+Viterbo,TOTAL,27,14,13,0,0,0,0,0,1,0,0,0,0,0,1,0,3,2,0,5,2,0,6,7,0,0,0,0,0,0,0
+Viterbo,201 Tumor maligno del estómago,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Viterbo,202 Tumor maligno del colon y de la unión rectosigmoidea,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Viterbo,207 Tumor maligno del cuello del útero,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Viterbo,212 Leucemia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Viterbo,"213 Tumor maligno del tejido linfático, de otros órganos hematopoyéticos y de tejidos afines",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Viterbo,214 Tumores malignos de otras localizaciones y de las no especificadas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Viterbo,303 Enfermedades isquémicas del corazón,15,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,0,5,5,0,0,0,0,0,0,0
+Viterbo,307 Enfermedades cerebrovasculares,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Viterbo,601 Diabetes mellitus,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Viterbo,605 Enfermedades crónicas de las vías respiratorias inferiores,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Viterbo,"613 Malformaciones congénitas, deformidades y anomalías cromosómicas",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
